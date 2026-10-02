@@ -12,6 +12,7 @@ export default function Motion() {
   useEffect(() => {
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
       document.documentElement.classList.add("motion-off");
+      document.querySelectorAll("video").forEach((v) => { v.removeAttribute("autoplay"); v.pause(); });
       return;
     }
     const lenis = new Lenis({ lerp: 0.1, smoothWheel: true });

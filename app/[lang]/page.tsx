@@ -94,10 +94,16 @@ export default function Home({ params }: { params: { lang: string } }) {
 
         {/* theatre photographs */}
         <div className="wrap grid gap-4 pt-24 sm:grid-cols-3 md:gap-8 md:pt-36">
-          {["or-1", "or-2", "or-3"].map((f, i) => (
+          {(["or-2", "video", "or-3"] as const).map((f, i) => (
             <div key={f} className={`relative aspect-[4/5] overflow-hidden bg-mist ${i === 1 ? "sm:mt-16" : ""}`} data-clip={i}>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={`/img/${f}.jpg`} alt={t.photos[i]} loading="lazy" className="h-full w-full object-cover" />
+              {f === "video" ? (
+                <video className="h-full w-full object-cover" autoPlay muted loop playsInline preload="metadata" poster="/video/ameliyathane.jpg" aria-label={t.photos[i]}>
+                  <source src="/video/ameliyathane.mp4" type="video/mp4" />
+                </video>
+              ) : (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img src={`/img/${f}.jpg`} alt={t.photos[i]} loading="lazy" className="h-full w-full object-cover" />
+              )}
             </div>
           ))}
         </div>
