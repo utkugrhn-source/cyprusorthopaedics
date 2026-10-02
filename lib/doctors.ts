@@ -102,6 +102,7 @@ export const doctors: Doctor[] = [
     title: { tr: "Doç. Dr.", en: "Assoc. Prof. Dr." },
     role: { tr: "Ortopedi ve Travmatoloji Uzmanı", en: "Orthopaedic and Trauma Surgeon" },
     line: { tr: "Uzmanlık: GATA Haydarpaşa, 2015", en: "Specialist training: GATA Haydarpaşa, 2015" },
+    photo: "/img/sari.jpg",
     summary: {
       tr: [
         "Doç. Dr. Enes Sarı, 2007 yılında Gülhane Askeri Tıp Akademisi Askeri Tıp Fakültesi’nden mezun oldu ve 2008–2010 yıllarında Deniz Kuvvetleri’nde tabip subay olarak görev yaptı. Ortopedi ve Travmatoloji uzmanlık eğitimini GATA Haydarpaşa Eğitim Hastanesi’nde 2015 yılında tamamladı. Türk Ortopedi ve Travmatoloji Eğitim Konseyi (TOTEK) yeterlik belgesine sahiptir.",
@@ -162,7 +163,7 @@ export const doctors: Doctor[] = [
     title: { tr: "Yrd. Doç. Dr.", en: "Asst. Prof. Dr." },
     role: { tr: "Ortopedi ve Travmatoloji Uzmanı", en: "Orthopaedic and Trauma Surgeon" },
     line: { tr: "Uzmanlık: Ankara Şehir Hastanesi, 2020", en: "Specialist training: Ankara City Hospital, 2020" },
-    photo: "/img/portrait.jpg",
+    photo: "/img/gurhan.jpg",
     summary: {
       tr: [
         "Yrd. Doç. Dr. Utku Gürhan, 2013 yılında Ankara Üniversitesi Tıp Fakültesi’nden mezun oldu. Ortopedi ve Travmatoloji uzmanlık eğitimini Ankara Numune Eğitim ve Araştırma Hastanesi ile Ankara Şehir Hastanesi’nde tamamlayarak 2020 yılında uzman oldu; ardından Silopi Devlet Hastanesi’nde çalıştı. Türk Ortopedi ve Travmatoloji Eğitim Konseyi (TOTEK) yeterlik belgesine sahiptir.",
