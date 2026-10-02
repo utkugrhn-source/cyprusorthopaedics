@@ -35,6 +35,7 @@ export const doctors: Doctor[] = [
     title: { tr: "Doç. Dr.", en: "Assoc. Prof. Dr." },
     role: { tr: "Ortopedi ve Travmatoloji Uzmanı", en: "Orthopaedic and Trauma Surgeon" },
     line: { tr: "Uzmanlık: GATA Haydarpaşa, 2015", en: "Specialist training: GATA Haydarpaşa, 2015" },
+    photo: "/img/umur.jpg", // interim: frame from an operating-theatre clip, until a portrait is supplied
     summary: {
       tr: [
         "Doç. Dr. Fazlı Levent Umur, 2002 yılında Gülhane Askeri Tıp Akademisi Askeri Tıp Fakültesi’nden mezun oldu. 2003–2010 yılları arasında Deniz Kuvvetleri’nde gemi tabibi ve dalış tabibi olarak görev yaptı; 2007’de ABD Deniz Kuvvetleri’nin dalış tıbbı ve hiperbarik tıp kursunu tamamladı. Ortopedi ve Travmatoloji uzmanlık eğitimini GATA Haydarpaşa Eğitim Hastanesi’nde 2015 yılında tamamladı.",
