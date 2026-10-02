@@ -10,7 +10,7 @@ export default function Footer({ lang, t }: { lang: Lang; t: Ui }) {
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/brand/seal-white.svg" alt="University of Kyrenia — Excellentia per Orthopaedics, 2013" width={132} height={132} loading="lazy" className="h-[132px] w-[132px]" />
           <p className="mt-6 font-seal text-3xl font-semibold">Cyprus Orthopaedics</p>
-          <p className="small mt-2 text-white/75">{t.brandSub}</p>
+          <p className="small mt-2 text-white/75">{t.brandSub[0]}<br />{t.brandSub[1]}</p>
         </div>
         <div className="flex flex-col gap-3 text-[0.98rem]">
           {doctors.map((d) => (<Link key={d.id} href={`/${lang}/${DOCTORS_SEGMENT[lang]}/${d.slug}`} className="hover:text-turq">{d.title[lang]} {d.name}</Link>))}

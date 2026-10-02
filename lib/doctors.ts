@@ -25,7 +25,7 @@ export type Doctor = {
   sameAs: string[];
 };
 
-// Order: seniority (year of graduation; both associate professors before the assistant professor). Sources: each doctor's own CV (YÖKSİS export, Sept–Oct 2026), checked against PubMed.
+// Order: seniority by year of graduation from medical school (decided by Dr. Gürhan, 3 Oct 2026). Sources: each doctor's own CV (YÖKSİS export, Sept–Oct 2026), checked against PubMed.
 export const doctors: Doctor[] = [
   {
     id: "umur",

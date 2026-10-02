@@ -22,20 +22,20 @@ export default function Nav({ lang, t, alt, tone }: { lang: Lang; t: Ui; alt: Re
           <img src="/brand/mark-160.png" alt="" width={44} height={44} className="mark-b h-11 w-11" />
           <span className="leading-none">
             <span className="block font-seal text-[1.55rem] font-semibold tracking-[0.01em]">Cyprus Orthopaedics</span>
-            <span className="mt-1 hidden text-[0.72rem] sm:block" style={{ fontWeight: 400 }}>{t.brandSub}</span>
+            <span className="mt-1 hidden text-[0.7rem] leading-[1.25] whitespace-nowrap sm:block" style={{ fontWeight: 400 }}>{t.brandSub[0]}<br />{t.brandSub[1]}</span>
           </span>
         </Link>
-        <nav className="hidden items-center gap-8 lg:flex" aria-label={t.nav.menu}>
+        <nav className="hidden items-center gap-8 whitespace-nowrap xl:flex" aria-label={t.nav.menu}>
           {links.map((x) => (<Link key={x.h} href={x.h} className="text-[0.95rem] hover:underline decoration-2 underline-offset-8" style={{ fontWeight: 400 }}>{x.l}</Link>))}
           <span className="flex items-center gap-1 text-[0.9rem]" style={{ fontWeight: 400 }}>
             {LANGS.map((l, i) => (<span key={l} className="flex items-center gap-1">{i > 0 && <span aria-hidden="true">/</span>}<Link href={alt[l]} lang={l} aria-current={l === lang ? "true" : undefined} className={l === lang ? "underline decoration-2 underline-offset-8" : "opacity-70 hover:opacity-100"}>{l.toUpperCase()}</Link></span>))}
           </span>
           <Link href={`${home}#iletisim`} className="btn-deep !py-3">{t.nav.book}</Link>
         </nav>
-        <button className="lg:hidden rounded-full border border-current px-4 py-2 text-sm" onClick={() => setOpen(!open)} aria-expanded={open}>{open ? "✕" : t.nav.menu}</button>
+        <button className="xl:hidden rounded-full border border-current px-4 py-2 text-sm" onClick={() => setOpen(!open)} aria-expanded={open}>{open ? "✕" : t.nav.menu}</button>
       </div>
       {open && (
-        <div className="lg:hidden border-t border-line bg-white px-5 py-6">
+        <div className="xl:hidden border-t border-line bg-white px-5 py-6">
           <div className="flex flex-col gap-4">
             {links.map((x) => (<Link key={x.h} href={x.h} onClick={() => setOpen(false)} className="h3">{x.l}</Link>))}
           </div>

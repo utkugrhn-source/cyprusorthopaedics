@@ -22,7 +22,7 @@ export default function JsonLd({ lang, doctor }: { lang: Lang; doctor?: Doctor }
     "@type": "MedicalClinic",
     "@id": `${SITE}/#clinic`,
     name: "Cyprus Orthopaedics",
-    alternateName: ["Kyrenia University Orthopaedics", "Girne Üniversitesi Ortopedi ve Travmatoloji Kliniği"],
+    alternateName: ["Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı", "University of Kyrenia Faculty of Medicine, Department of Orthopaedics and Traumatology", "Kyrenia University Orthopaedics"],
     medicalSpecialty: "Orthopedic",
     url: SITE,
     logo: `${SITE}/brand/seal-512.png`,

@@ -16,7 +16,7 @@ type Region = { t: string; d: string };
 type Step = { t: string; d: string };
 
 export type Ui = {
-  brandSub: string;
+  brandSub: [string, string];
   nav: { areas: string; doctors: string; process: string; contact: string; book: string; menu: string };
   hero: { h1a: string; h1b: string; place: string; lead: string; cta1: string; cta2: string; photoAlt: string };
   photos: string[];
@@ -33,7 +33,7 @@ export type Ui = {
 
 export const ui: Record<Lang, Ui> = {
   tr: {
-    brandSub: "Girne Üniversitesi Ortopedi ve Travmatoloji",
+    brandSub: ["Girne Üniversitesi Tıp Fakültesi", "Ortopedi ve Travmatoloji Anabilim Dalı"],
     nav: { areas: "Tedavi alanları", doctors: "Hekimler", process: "Randevu süreci", contact: "İletişim", book: "Randevu al", menu: "Menü" },
     hero: {
       h1a: "Ortopedi ve",
@@ -108,12 +108,12 @@ export const ui: Record<Lang, Ui> = {
     },
     profile: { back: "Hekimler", summary: "Özgeçmiş", focus: "Klinik ilgi alanları", focusPending: "Klinik ilgi alanları hekimden alınacak.", path: "Eğitim ve görevler", academic: "Akademik çalışmalar", selected: "Seçilmiş yayınlar", books: "Kitap bölümleri", courses: "Kurslar ve ek eğitim", memberships: "Yeterlik ve üyelikler", langs: "Muayene dilleri", links: "Akademik profiller", others: "Diğer hekimler", book: "Randevu al", site: "Kişisel site" },
     meta: {
-      title: "Cyprus Orthopaedics · Girne Üniversitesi Ortopedi ve Travmatoloji Kliniği",
-      desc: "Dr. Suat Günsel Girne Üniversitesi Hastanesi Ortopedi ve Travmatoloji Kliniği: üç öğretim üyesi; kırık ve travma, eklem protezi, artroskopi, el cerrahisi, ayak ve ayak bileği. Randevu: +90 392 444 99 39.",
+      title: "Cyprus Orthopaedics · Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı",
+      desc: "Cyprus Orthopaedics: Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı, Dr. Suat Günsel Girne Üniversitesi Hastanesi. Üç öğretim üyesi; kırık ve travma, eklem protezi, artroskopi, el cerrahisi, ayak ve ayak bileği. Randevu: +90 392 444 99 39.",
     },
   },
   en: {
-    brandSub: "University of Kyrenia Orthopaedics and Traumatology",
+    brandSub: ["University of Kyrenia Faculty of Medicine", "Department of Orthopaedics and Traumatology"],
     nav: { areas: "What we treat", doctors: "Doctors", process: "Your visit", contact: "Contact", book: "Book an appointment", menu: "Menu" },
     hero: {
       h1a: "Orthopaedics &",
@@ -188,8 +188,8 @@ export const ui: Record<Lang, Ui> = {
     },
     profile: { back: "Doctors", summary: "Biography", focus: "Clinical interests", focusPending: "Clinical interests to be supplied by the doctor.", path: "Training and posts", academic: "Academic work", selected: "Selected publications", books: "Book chapters", courses: "Courses and further training", memberships: "Certification and memberships", langs: "Consultation languages", links: "Academic profiles", others: "Other doctors", book: "Book an appointment", site: "Personal site" },
     meta: {
-      title: "Cyprus Orthopaedics · University of Kyrenia Orthopaedics and Traumatology Clinic",
-      desc: "Orthopaedics and Traumatology Clinic at Dr. Suat Günsel University of Kyrenia Hospital, North Cyprus: three faculty surgeons; fractures and trauma, joint replacement, arthroscopy, hand surgery, foot and ankle. Appointments: +90 392 444 99 39.",
+      title: "Cyprus Orthopaedics · University of Kyrenia Faculty of Medicine, Department of Orthopaedics and Traumatology",
+      desc: "Cyprus Orthopaedics: the Department of Orthopaedics and Traumatology of the University of Kyrenia Faculty of Medicine, at Dr. Suat Günsel University of Kyrenia Hospital, North Cyprus. Three faculty surgeons; fractures and trauma, joint replacement, arthroscopy, hand surgery, foot and ankle. Appointments: +90 392 444 99 39.",
     },
   },
 };
