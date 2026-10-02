@@ -44,7 +44,7 @@ export const ui: Record<Lang, Ui> = {
       cta2: "Hekimleri tanıyın",
       photoAlt: "Ortopedi ekibi artroskopi ameliyatında",
     },
-    photos: ["İki cerrah ameliyat sırasında", "Kısa video: hastane girişi, muayene odası, ameliyathane, alet takımları, artroskopi görüntüsü ve ekip", "Ekip ameliyat masasında"],
+    photos: ["İki cerrah ameliyat sırasında", "Kısa video: hastane girişi, muayene odası, MR görüntüsünün incelenmesi, ameliyathane, alet takımları, artroskopi görüntüsü ve ekip", "Ekip ameliyat masasında"],
     areas: {
       h: "Tedavi alanları",
       p: "Hastalar şikâyetin olduğu bölgeye göre değerlendirilir. Çoğu şikâyette tedavi ameliyatsız yöntemlerle başlar; cerrahi gerektiğinde ameliyat aynı hastanede yapılır.",
@@ -124,7 +124,7 @@ export const ui: Record<Lang, Ui> = {
       cta2: "Meet the doctors",
       photoAlt: "The orthopaedic team during an arthroscopy",
     },
-    photos: ["Two surgeons operating", "Short video: hospital entrance, examination room, operating theatre, instrument sets, arthroscopy view and the team", "The team at the operating table"],
+    photos: ["Two surgeons operating", "Short video: hospital entrance, examination room, reviewing an MRI scan, operating theatre, instrument sets, arthroscopy view and the team", "The team at the operating table"],
     areas: {
       h: "What we treat",
       p: "Patients are assessed by the part of the body that is causing trouble. Most problems are first treated without surgery; when an operation is needed, it is done in the same hospital.",
