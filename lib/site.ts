@@ -57,7 +57,7 @@ export const ui: Record<Lang, Ui> = {
         { t: "Kırık ve travma", d: "Acil kırık tedavisi, çoklu yaralanmalar, kaynamayan ve yanlış kaynayan kırıklar" },
         { t: "Çocuk ortopedisi", d: "Çocukluk çağı kırıkları ve büyüme dönemine özgü ortopedik sorunlar" },
       ],
-      note: "Her bölge için ayrı bilgi sayfaları hazırlanmaktadır.",
+      note: "Bölge sayfaları genel bilgilendirme amaçlıdır; tanı ve tedavi kararı muayeneyle verilir.",
     },
     doctors: {
       h: "Hekimler",
@@ -137,7 +137,7 @@ export const ui: Record<Lang, Ui> = {
         { t: "Fractures and trauma", d: "Emergency fracture care, multiple injuries, non-union and malunion" },
         { t: "Children’s orthopaedics", d: "Childhood fractures and orthopaedic problems of the growing skeleton" },
       ],
-      note: "A separate information page is being prepared for each area.",
+      note: "The area pages are general information; diagnosis and treatment are decided at examination.",
     },
     doctors: {
       h: "Doctors",

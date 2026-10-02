@@ -7,10 +7,15 @@ import JsonLd from "@/components/JsonLd";
 import Portrait from "@/components/Portrait";
 import { ui, LANGS, type Lang, DOCTORS_SEGMENT, SITE, PHONE, PHONE_HREF } from "@/lib/site";
 import { doctors, getDoctor } from "@/lib/doctors";
+import AreaPage from "@/components/AreaPage";
+import { areas, getArea, areaUrl, areaUi, AREAS_SEGMENT } from "@/lib/areas";
 
 type P = { lang: string; section: string; slug: string };
 export function generateStaticParams() {
-  return LANGS.flatMap((lang) => doctors.map((d) => ({ lang, section: DOCTORS_SEGMENT[lang], slug: d.slug })));
+  return LANGS.flatMap((lang) => [
+    ...doctors.map((d) => ({ lang, section: DOCTORS_SEGMENT[lang], slug: d.slug })),
+    ...areas.map((a) => ({ lang, section: AREAS_SEGMENT[lang], slug: a.slug[lang] })),
+  ]);
 }
 export const dynamicParams = false;
 
@@ -18,8 +23,17 @@ const url = (lang: Lang, slug: string) => `/${lang}/${DOCTORS_SEGMENT[lang]}/${s
 
 export function generateMetadata({ params }: { params: P }): Metadata {
   const lang = params.lang as Lang;
+  if (params.section === AREAS_SEGMENT[lang]) {
+    const a = getArea(lang, params.slug);
+    if (!a) return {};
+    return {
+      title: `${a.title[lang]} · ${areaUi[lang].metaSuffix}`,
+      description: a.lead[lang].slice(0, 300),
+      alternates: { canonical: SITE + areaUrl(lang, a), languages: { tr: SITE + areaUrl("tr", a), en: SITE + areaUrl("en", a), "x-default": SITE + areaUrl("tr", a) } },
+    };
+  }
   const d = getDoctor(params.slug);
-  if (!d) return {};
+  if (!d || params.section !== DOCTORS_SEGMENT[lang]) return {};
   const title = `${d.title[lang]} ${d.name} · ${d.role[lang]} · Cyprus Orthopaedics`;
   return {
     title,
@@ -37,8 +51,13 @@ function Block({ h, children }: { h: string; children: React.ReactNode }) {
   );
 }
 
-export default function DoctorPage({ params }: { params: P }) {
+export default function Page({ params }: { params: P }) {
   const lang = params.lang as Lang;
+  if (params.section === AREAS_SEGMENT[lang]) {
+    const a = getArea(lang, params.slug);
+    if (!a) notFound();
+    return <AreaPage lang={lang} a={a} />;
+  }
   const d = getDoctor(params.slug);
   if (!d || params.section !== DOCTORS_SEGMENT[lang]) notFound();
   const t = ui[lang];

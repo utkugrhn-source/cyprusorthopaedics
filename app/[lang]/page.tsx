@@ -5,6 +5,7 @@ import JsonLd from "@/components/JsonLd";
 import Portrait from "@/components/Portrait";
 import { ui, type Lang, PHONE, PHONE_HREF, APPT, MAPS, DOCTORS_SEGMENT, SITE } from "@/lib/site";
 import { doctors } from "@/lib/doctors";
+import { areas, areaUrl } from "@/lib/areas";
 import type { Metadata } from "next";
 
 export function generateMetadata({ params }: { params: { lang: string } }): Metadata {
@@ -61,10 +62,12 @@ export default function Home({ params }: { params: { lang: string } }) {
             <p className="lead">{t.areas.p}</p>
           </div>
           <ul className="mt-14 border-b border-line md:mt-20">
-            {t.areas.items.map((r) => (
-              <li key={r.t} className="row grid gap-2 border-t border-line py-7 md:grid-cols-[1fr_1.4fr] md:gap-16 md:py-9">
-                <h3 className="h3">{r.t}</h3>
-                <p className="body text-slate" style={{ fontWeight: 400 }}>{r.d}</p>
+            {t.areas.items.map((r, i) => (
+              <li key={r.t} className="row border-t border-line">
+                <Link href={areaUrl(lang, areas[i])} className="group grid gap-2 py-7 md:grid-cols-[1fr_1.4fr] md:gap-16 md:py-9">
+                  <h3 className="h3 flex items-baseline gap-3">{r.t}<span aria-hidden className="text-turq transition-transform duration-300 group-hover:translate-x-1.5">→</span></h3>
+                  <p className="body text-slate" style={{ fontWeight: 400 }}>{r.d}</p>
+                </Link>
               </li>
             ))}
           </ul>
