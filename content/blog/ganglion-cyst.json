@@ -1,0 +1,232 @@
+{
+ "id": "ganglion-cyst",
+ "area": "el-bilek",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "sources": [
+  {
+   "title": "Ganglion Cyst of the Wrist and Hand",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/ganglion-cyst-of-the-wrist-and-hand",
+   "year": "n.d."
+  },
+  {
+   "title": "Ganglion cyst",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/ganglion-cyst/",
+   "year": "2025"
+  },
+  {
+   "title": "Ganglion Cysts",
+   "publisher": "British Society for Surgery of the Hand (BSSH)",
+   "url": "https://www.bssh.ac.uk/patients/conditions/20/ganglion_cysts",
+   "year": "n.d."
+  },
+  {
+   "title": "Wrist ganglion treatment: systematic review and meta-analysis",
+   "publisher": "The Journal of Hand Surgery (Head L, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25708437/",
+   "year": "2015"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "ganglion-kisti",
+   "title": "Ganglion kisti: el bileğindeki şişlik ne zaman tedavi gerektirir?",
+   "description": "El bileğinde ya da parmakta yumuşak bir şişlik varsa: ganglion kisti kendiliğinden geçer mi, iğneyle boşaltma işe yarar mı, ameliyat ne zaman düşünülür?",
+   "summary": "Ganglion kisti, bir eklemden ya da tendon kılıfından çıkan, içi koyu kıvamlı sıvıyla dolu iyi huylu bir şişliktir ve elin en sık görülen kitlesidir [1][3]. Ağrısız bir kisti izlemek güvenlidir; birçoğu aylar içinde küçülür ya da kaybolur [1][2]. Ağrı, uyuşma ya da günlük işlerde kısıtlama varsa iğneyle boşaltma veya ameliyat konuşulur; ameliyatla tekrarlama oranı iğneyle boşaltmaya göre belirgin biçimde düşüktür [4].",
+   "sections": [
+    {
+     "h": "Ganglion kisti nedir?",
+     "p": [
+      "Sapı olan bir balona benzeyen, eklem sıvısına benzer jöle kıvamında sıvı taşıyan bir keseciktir. El ve el bileğindeki şişliklerin en sık nedenidir ve kanser değildir [1][3].",
+      "En sık el bileğinin sırtında, bileğin avuç tarafında başparmak köküne yakın bölgede, parmak kökünün avuç yüzünde ve parmak ucundaki son eklemin sırtında görülür [1][3]."
+     ]
+    },
+    {
+     "h": "Hangi yakınmalara yol açar?",
+     "p": [
+      "Boyutu bezelyeden küçük olandan birkaç santimetreye kadar değişir, zamanla büyüyüp küçülebilir [1][2]."
+     ],
+     "list": [
+      "Deri altında düzgün yüzeyli, yumuşak ya da gergin bir şişlik",
+      "Çoğu zaman ağrısız; eklemi kullandıktan sonra sızı olabilir",
+      "Sinire bastırıyorsa karıncalanma, uyuşma veya güçsüzlük",
+      "Deri altında görünmeyen çok küçük kistlerde bile ağrı olabilmesi",
+      "Görünüşten duyulan rahatsızlık"
+     ]
+    },
+    {
+     "h": "Neden olur, kimlerde daha sık görülür?",
+     "p": [
+      "Kesin neden bilinmiyor. Bazen bir yaralanmadan sonra eklemden sıvı sızmasıyla ortaya çıkar [1][2].",
+      "15–40 yaş arasında ve kadınlarda daha sık görülür. Bileği tekrar tekrar zorlayan jimnastikçiler gibi sporcularda ve eklem kireçlenmesi olanlarda da sıklık artar; parmak ucundaki kistler çoğunlukla orta ve ileri yaşta, o eklemin kireçlenmesiyle birlikte gelir [1][2]."
+     ]
+    },
+    {
+     "h": "Tanı nasıl konur?",
+     "p": [
+      "Çoğu hastada muayene yeterlidir: şişliğin yeri, kıvamı ve hassasiyeti değerlendirilir, gerekirse ışık tutularak içinin sıvı dolu olup olmadığına bakılır [1].",
+      "Kemik ya da eklem sorunlarını dışlamak için röntgen istenebilir. Ultrason veya MR, deri altında görünmeyen küçük kistleri göstermek ve şişliğin gerçekten kist olduğunu doğrulamak için kullanılır [1]. Sert, hareketsiz ya da hızlı büyüyen bir şişlik kist varsayılmadan mutlaka incelenmelidir [2]."
+     ]
+    },
+    {
+     "h": "Ameliyatsız seçenekler: izlem ve iğneyle boşaltma",
+     "p": [
+      "Ağrısız bir kistte izlem makul bir yoldur. Birçok kist birkaç aydan bir yıla kadar süren bir sürede kendiliğinden küçülür ya da kaybolur [1][2][3]. Bileği destekleyen bir atel ve kısa süreli ağrı kesiciler yakınmayı hafifletebilir [1][2].",
+      "Kisti evde bastırarak ya da sert bir cisimle vurarak patlatmaya çalışmayın; enfeksiyona ve doku hasarına yol açabilir [2].",
+      "İğneyle boşaltma kisti küçültür, ancak kistin kökü yerinde kaldığı için sık tekrarlar [1][3]. Bir meta-analizde iğneyle boşaltmanın yalnızca izlemeye kıyasla tekrarı belirgin biçimde azaltmadığı bildirilmiştir [4]."
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman düşünülür?",
+     "p": [
+      "Kist ağrı yapıyorsa, sinire bastırarak uyuşma veya güçsüzlük oluşturuyorsa, günlük işleri engelliyorsa ya da diğer yöntemlere rağmen tekrarlıyorsa ameliyat konuşulur [1][3].",
+      "Ameliyatta kist, eklem ya da tendon kılıfıyla bağlantısını sağlayan sapıyla birlikte çıkarılır; işlem genellikle günübirlik yapılır [1]. Meta-analiz, cerrahi çıkarmanın iğneyle boşaltmaya göre tekrarlama riskini belirgin biçimde azalttığını, buna karşılık komplikasyonların cerrahide daha sık olduğunu göstermiştir [4].",
+      "Ameliyattan sonra da kist tekrar edebilir. Bileğin avuç tarafındaki kistlerde tekrar daha sık görülür ve bu bölge önemli bir atardamara yakındır; bu yüzden karar kistin yerine göre bireysel verilir [3]."
+     ]
+    },
+    {
+     "h": "Ameliyat sonrası süreç",
+     "p": [
+      "Bir süre hassasiyet, şişlik ve rahatsızlık olabilir. Günlük işlere dönüş çoğu hastada iki ile altı hafta arasındadır [1].",
+      "Olası sorunlar arasında kalıcı ağrı, çevredeki ince sinir dallarının etkilenmesi; parmak kistlerinde enfeksiyon ve eklemde sertlik sayılır [3]."
+     ]
+    },
+    {
+     "h": "Ne zaman gecikmeden başvurmalısınız?",
+     "p": [
+      "Şunlardan biri varsa beklemeyin [1][2]:"
+     ],
+     "list": [
+      "Şişlik çok ağrılı, sıcak ya da kızarık hale geldiyse",
+      "Şişlik sert, hareketsiz ya da hızla büyüyorsa",
+      "Elde ya da parmaklarda uyuşma, karıncalanma veya güç kaybı varsa"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "El bileğinde şişlik neden olur?",
+     "a": "Bilek sırtında çıkan yumuşak ve düzgün yüzeyli şişliğin en sık nedeni ganglion kistidir. Sert, hareketsiz ya da hızla büyüyen şişlikler muayene edilmelidir [1][2]."
+    },
+    {
+     "q": "Ganglion kisti kendiliğinden geçer mi?",
+     "a": "Birçok kist birkaç aydan bir yıla kadar süren bir sürede küçülür ya da kaybolur. Ağrısız kistlerde izlem güvenli bir seçenektir [1][2][3]."
+    },
+    {
+     "q": "Ganglion kisti patlatılır mı?",
+     "a": "Hayır. Evde bastırarak ya da vurarak patlatmak enfeksiyona ve doku hasarına yol açabilir. Boşaltma gerekiyorsa hekim iğneyle yapar [2]."
+    },
+    {
+     "q": "Ameliyattan sonra kist tekrar eder mi?",
+     "a": "Edebilir, ancak ameliyatla tekrarlama riski iğneyle boşaltmaya göre belirgin biçimde düşüktür. Risk kistin yerine göre değişir [3][4]."
+    },
+    {
+     "q": "Ganglion kisti kansere dönüşür mü?",
+     "a": "Hayır, iyi huyludur. Yine de yeni çıkan, sert ya da büyüyen bir şişlik tanıyı doğrulamak için muayene edilmelidir [1][2]."
+    }
+   ],
+   "note": "Kliniğimizde önce ağrınızı, görünümden duyduğunuz rahatsızlığı ve beklentinizi soruyoruz; tedavi kararı bu yanıtlara göre şekillenir."
+  },
+  "en": {
+   "slug": "ganglion-cyst",
+   "title": "Ganglion cyst: when does a lump on the wrist need treatment?",
+   "description": "A soft lump on the wrist or finger: does a ganglion cyst go away, does draining it work, and when is surgery worth considering?",
+   "summary": "A ganglion cyst is a benign lump filled with thick fluid that grows from a joint or tendon sheath, and it is the most common lump in the hand [1][3]. Watching a painless cyst is safe, and many shrink or disappear within months [1][2]. If it causes pain, numbness or trouble with daily tasks, needle drainage or surgery can be discussed; surgery brings the cyst back less often than needle drainage [4].",
+   "sections": [
+    {
+     "h": "What is a ganglion cyst?",
+     "p": [
+      "It is a small sac on a stalk, like a balloon, holding jelly-like fluid similar to joint fluid. It is the most common cause of a lump in the hand and wrist and it is not cancer [1][3].",
+      "The usual sites are the back of the wrist, the palm side of the wrist near the base of the thumb, the palm side of the base of a finger, and the back of the end joint of a finger [1][3]."
+     ]
+    },
+    {
+     "h": "What symptoms does it cause?",
+     "p": [
+      "Size ranges from smaller than a pea to a few centimetres, and it may grow and shrink over time [1][2]."
+     ],
+     "list": [
+      "A smooth, soft or firm lump under the skin",
+      "Often painless; an ache after using the joint is possible",
+      "Tingling, numbness or weakness if it presses on a nerve",
+      "Pain even from very small cysts that cannot be seen",
+      "Concern about appearance"
+     ]
+    },
+    {
+     "h": "What causes it, and who gets it?",
+     "p": [
+      "The exact cause is unknown. Sometimes it appears after an injury lets fluid leak from a joint [1][2].",
+      "It is more common between the ages of 15 and 40 and in women. It is also more frequent in athletes who repeatedly stress the wrist, such as gymnasts, and in people with joint arthritis; cysts at the end joint of a finger usually appear in middle or older age with arthritis of that joint [1][2]."
+     ]
+    },
+    {
+     "h": "How is it diagnosed?",
+     "p": [
+      "Examination is enough for most patients: we check the position, firmness and tenderness of the lump and, when useful, shine a light through it to see whether it contains fluid [1].",
+      "An X-ray may be taken to rule out bone or joint problems. Ultrasound or MRI can show small hidden cysts and confirm that a lump really is a cyst [1]. A lump that is hard, fixed or growing quickly should never be assumed to be a cyst without being examined [2]."
+     ]
+    },
+    {
+     "h": "Non-surgical options: watching and aspiration",
+     "p": [
+      "For a painless cyst, watching is a reasonable path. Many shrink or disappear over several months to a year [1][2][3]. A wrist support and short-term painkillers can ease symptoms [1][2].",
+      "Please do not try to burst the cyst at home or hit it with a heavy object; it can cause infection and tissue damage [2].",
+      "Draining with a needle makes the cyst smaller, but the root stays in place so it often returns [1][3]. A meta-analysis found that aspiration did not clearly reduce recurrence compared with simply watching [4]."
+     ]
+    },
+    {
+     "h": "When is surgery considered?",
+     "p": [
+      "Surgery is discussed if the cyst is painful, presses on a nerve and causes numbness or weakness, interferes with daily tasks, or keeps returning despite other treatment [1][3].",
+      "The cyst is removed together with the stalk that connects it to the joint or tendon sheath; it is usually a day-case operation [1]. A meta-analysis showed that surgical removal clearly lowers the risk of recurrence compared with needle drainage, although complications are more frequent with surgery [4].",
+      "The cyst can come back after surgery too. Recurrence is more common on the palm side of the wrist, which lies close to an important artery, so the decision depends on where the cyst is [3]."
+     ]
+    },
+    {
+     "h": "Recovery after surgery",
+     "p": [
+      "Tenderness, swelling and discomfort can last for a while. Most patients are back to usual activities within two to six weeks [1].",
+      "Possible problems include ongoing pain and irritation of small nearby nerve branches, and, for finger cysts, infection and joint stiffness [3]."
+     ]
+    },
+    {
+     "h": "When should you not wait?",
+     "p": [
+      "Seek assessment promptly if [1][2]:"
+     ],
+     "list": [
+      "The lump becomes very painful, hot or red",
+      "The lump is hard, does not move, or grows quickly",
+      "You have numbness, tingling or weakness in the hand or fingers"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "What causes a lump on the wrist?",
+     "a": "The most common cause of a soft, smooth lump on the back of the wrist is a ganglion cyst. A lump that is hard, fixed or growing quickly needs to be examined [1][2]."
+    },
+    {
+     "q": "Does a ganglion cyst go away on its own?",
+     "a": "Many shrink or disappear over several months to a year. For a painless cyst, watching is a safe option [1][2][3]."
+    },
+    {
+     "q": "Should I pop a ganglion cyst?",
+     "a": "No. Squeezing or hitting it at home can cause infection and tissue damage. If it needs draining, a doctor does it with a needle [2]."
+    },
+    {
+     "q": "Does the cyst come back after surgery?",
+     "a": "It can, but the risk is clearly lower than after needle drainage, and it depends on where the cyst is [3][4]."
+    },
+    {
+     "q": "Can a ganglion cyst turn into cancer?",
+     "a": "No, it is benign. Any new, hard or growing lump should still be examined to confirm the diagnosis [1][2]."
+    }
+   ],
+   "note": "At our clinic we first ask about your pain, how much the appearance bothers you and what you expect; the treatment decision follows from your answers."
+  }
+ }
+}
