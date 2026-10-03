@@ -257,6 +257,42 @@ export const areas: Area[] = [
 export const getArea = (lang: Lang, slug: string) => areas.find((a) => a.slug[lang] === slug);
 export const areaUrl = (lang: Lang, a: Area) => `/${lang}/${AREAS_SEGMENT[lang]}/${a.slug[lang]}`;
 
+/** Search titles and descriptions: the page's own conditions, named the way patients search for them. */
+export const areaSeo: Record<string, { title: L; desc: L }> = {
+  "omuz-dirsek": {
+    title: { tr: "Omuz ve dirsek ağrısı, yırtık ve çıkık tedavisi", en: "Shoulder and elbow pain, tears and dislocation" },
+    desc: { tr: "Girne’de omuz ve dirsek tedavisi: rotator manşet yırtığı, omuz çıkığı, donuk omuz, tenisçi dirseği ve kırıklar. Çoğu şikâyet ameliyatsız düzelir.", en: "Shoulder and elbow care in Kyrenia: rotator cuff tears, shoulder dislocation, frozen shoulder, tennis elbow and fractures. Most improve without surgery." },
+  },
+  "el-bilek": {
+    title: { tr: "El ve el bileği cerrahisi", en: "Hand and wrist surgery" },
+    desc: { tr: "Girne’de el cerrahisi: karpal tünel, tetik parmak, ganglion kisti, el bileği kırığı, tendon ve sinir kesileri, parmak ucu yaralanmaları. Mikrocerrahi onarım.", en: "Hand surgery in Kyrenia: carpal tunnel, trigger finger, ganglion cyst, wrist fracture, tendon and nerve lacerations, fingertip injuries. Microsurgical repair." },
+  },
+  kalca: {
+    title: { tr: "Kalça ağrısı, kalça kırığı ve kalça protezi", en: "Hip pain, hip fracture and hip replacement" },
+    desc: { tr: "Girne’de kalça tedavisi: kalça kireçlenmesi, kalça protezi ve yaşlılarda kalça kırığı. Kasık ağrısı ve yürüme mesafesinin kısalması değerlendirme gerektirir.", en: "Hip care in Kyrenia: hip arthritis, hip replacement and hip fracture in older adults. Groin pain and a shorter walking distance call for an assessment." },
+  },
+  diz: {
+    title: { tr: "Diz ağrısı, menisküs ve bağ yaralanmaları", en: "Knee pain, meniscus and ligament injuries" },
+    desc: { tr: "Girne’de diz tedavisi: menisküs yırtığı, ön çapraz bağ yaralanması, diz kireçlenmesi, diz protezi ve kırıklar. Muayene, röntgen ve MR ile değerlendirme.", en: "Knee care in Kyrenia: meniscal tears, anterior cruciate ligament injury, knee arthritis, knee replacement and fractures. Assessed by examination, X-ray and MRI." },
+  },
+  "ayak-bilek": {
+    title: { tr: "Ayak ve ayak bileği: burkulma, kırık, halluks valgus", en: "Foot and ankle: sprains, fractures and bunions" },
+    desc: { tr: "Girne’de ayak ve ayak bileği tedavisi: ayak bileği burkulması ve kırığı, halluks valgus (başparmak çıkıntısı) ve Aşil tendonu sorunları.", en: "Foot and ankle care in Kyrenia: ankle sprains and fractures, hallux valgus (bunion) and Achilles tendon problems." },
+  },
+  "kirik-travma": {
+    title: { tr: "Kırık ve travma tedavisi", en: "Fracture and trauma care" },
+    desc: { tr: "Girne’de kırık tedavisi: alçı ve atel, ameliyatla tespit, açık kırıklar, çoklu yaralanmalar ve kaynamayan kırıklar. Başvuru hastanenin acil servisi üzerinden.", en: "Fracture care in Kyrenia: casts and splints, surgical fixation, open fractures, multiple injuries and non-union. Seen via the emergency department." },
+  },
+  cocuk: {
+    title: { tr: "Çocuk ortopedisi ve çocuk kırıkları", en: "Children’s orthopaedics and fractures" },
+    desc: { tr: "Girne’de çocuk ortopedisi: çocukluk çağı kırıkları, dirsek çevresi kırıkları, büyüme kıkırdağı yaralanmaları, yürüme ve dizilim şikâyetleri.", en: "Children’s orthopaedics in Kyrenia: childhood fractures, fractures around the elbow, growth plate injuries, and walking and alignment concerns." },
+  },
+  tumor: {
+    title: { tr: "Kemik ve yumuşak doku tümörleri", en: "Bone and soft tissue tumours" },
+    desc: { tr: "Girne’de kemik ve yumuşak doku tümörleri: iyi huylu tümör ve kistler, yumuşak doku kitleleri, sarkomlar, kemik metastazları. Muayene, görüntüleme ve biyopsi.", en: "Bone and soft tissue tumours in Kyrenia: benign tumours and cysts, soft tissue lumps, sarcomas and bone metastases. Examination, imaging and biopsy." },
+  },
+};
+
 export const areaUi: Record<Lang, { back: string; conditions: string; more: string; urgent: string; urgentNote: string; doctors: string; doctorsP: string; others: string; disclaimer: string; updated: string; book: string; metaSuffix: string }> = {
   tr: {
     back: "← Tedavi alanları",

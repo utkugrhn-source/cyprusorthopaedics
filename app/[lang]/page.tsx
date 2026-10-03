@@ -4,13 +4,17 @@ import Footer from "@/components/Footer";
 import JsonLd from "@/components/JsonLd";
 import Portrait from "@/components/Portrait";
 import Reel from "@/components/Reel";
+import LazyVideo from "@/components/LazyVideo";
 import { ui, type Lang, PHONE, PHONE_HREF, APPT, MAPS, DOCTORS_SEGMENT, SITE } from "@/lib/site";
 import { doctors } from "@/lib/doctors";
 import { areas, areaUrl } from "@/lib/areas";
 import type { Metadata } from "next";
+import { share } from "@/lib/seo";
 
 export function generateMetadata({ params }: { params: { lang: string } }): Metadata {
-  return { alternates: { canonical: `${SITE}/${params.lang}`, languages: { tr: `${SITE}/tr`, en: `${SITE}/en`, "x-default": `${SITE}/tr` } } };
+  const lang = params.lang as Lang; const m = ui[lang]?.meta;
+  if (!m) return {};
+  return { alternates: { canonical: `${SITE}/${lang}`, languages: { tr: `${SITE}/tr`, en: `${SITE}/en`, "x-default": `${SITE}/tr` } }, ...share(lang, `/${lang}`, m.title, m.desc) };
 }
 
 export default function Home({ params }: { params: { lang: string } }) {
@@ -48,7 +52,7 @@ export default function Home({ params }: { params: { lang: string } }) {
               <div className="seal-stage">
                 <div className="seal-emboss-wrap" aria-hidden="true">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src="/brand/seal.svg" alt="" />
+                  <img src="/brand/seal.svg" alt="" width={480} height={480} />
                 </div>
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img className="seal-ink" src="/brand/seal-white.svg" alt="University of Kyrenia — Excellentia per Orthopaedics, 2013" width={480} height={480} />
@@ -60,6 +64,7 @@ export default function Home({ params }: { params: { lang: string } }) {
         <div className="wrap -mt-28 md:-mt-44">
           <div className="r-media relative aspect-[16/10] overflow-hidden bg-deep md:aspect-[21/9]" data-clip="0">
             <video className="absolute inset-0 h-full w-full object-cover" autoPlay muted loop playsInline preload="metadata" poster="/video/hastane.jpg" aria-label={t.media.film}>
+              <source src="/video/hastane-m.mp4" type="video/mp4" media="(max-width: 767px)" />
               <source src="/video/hastane.mp4" type="video/mp4" />
             </video>
           </div>
@@ -144,9 +149,7 @@ export default function Home({ params }: { params: { lang: string } }) {
           {(["or-2", "video", "or-3"] as const).map((f, i) => (
             <div key={f} className={`zoom r-media relative aspect-[4/5] overflow-hidden bg-mist ${i === 1 ? "sm:mt-16" : ""}`} data-clip={i}>
               {f === "video" ? (
-                <video className="h-full w-full object-cover" autoPlay muted loop playsInline preload="metadata" poster="/video/ameliyathane.jpg" aria-label={t.photos[i]}>
-                  <source src="/video/ameliyathane.mp4" type="video/mp4" />
-                </video>
+                <LazyVideo className="h-full w-full object-cover" src="/video/ameliyathane.mp4" poster="/video/ameliyathane.jpg" label={t.photos[i]} />
               ) : (
                 // eslint-disable-next-line @next/next/no-img-element
                 <img src={`/img/${f}.jpg`} alt={t.photos[i]} loading="lazy" className="h-full w-full object-cover" />

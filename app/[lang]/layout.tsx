@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Motion from "@/components/Motion";
-import { LANGS, SITE, PREVIEW, ui, type Lang } from "@/lib/site";
+import { LANGS, SITE, PREVIEW, GOOGLE_VERIFY, BING_VERIFY, ui, type Lang } from "@/lib/site";
+import { share } from "@/lib/seo";
 
 export function generateStaticParams() { return LANGS.map((lang) => ({ lang })); }
 export const dynamicParams = false;
@@ -14,7 +15,8 @@ export function generateMetadata({ params }: { params: { lang: string } }): Meta
     title: t.meta.title,
     description: t.meta.desc,
     ...(PREVIEW ? { robots: { index: false, follow: false } } : {}),
-    openGraph: { title: t.meta.title, description: t.meta.desc, siteName: "Cyprus Orthopaedics", locale: params.lang === "tr" ? "tr_TR" : "en_GB", type: "website", images: ["/brand/seal-512.png"] },
+    ...share(params.lang as Lang, `/${params.lang}`, t.meta.title, t.meta.desc),
+    ...(GOOGLE_VERIFY || BING_VERIFY ? { verification: { ...(GOOGLE_VERIFY ? { google: GOOGLE_VERIFY } : {}), ...(BING_VERIFY ? { other: { "msvalidate.01": BING_VERIFY } } : {}) } } : {}),
   };
 }
 

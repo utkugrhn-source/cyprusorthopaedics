@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import { ui, LANGS, SITE, type Lang } from "@/lib/site";
+import { share } from "@/lib/seo";
 import { areas, areaUrl } from "@/lib/areas";
 import { allArticles, blogUi, blogUrl } from "@/lib/blog";
 
@@ -12,7 +13,7 @@ export function generateStaticParams() { return LANGS.map((lang) => ({ lang }));
 export function generateMetadata({ params }: { params: { lang: string } }): Metadata {
   const lang = params.lang as Lang; const b = blogUi[lang];
   if (!b) return {};
-  return { title: b.metaTitle, description: b.metaDesc, alternates: { canonical: `${SITE}/${lang}/blog`, languages: { tr: `${SITE}/tr/blog`, en: `${SITE}/en/blog`, "x-default": `${SITE}/tr/blog` } } };
+  return { title: b.metaTitle, description: b.metaDesc, alternates: { canonical: `${SITE}/${lang}/blog`, languages: { tr: `${SITE}/tr/blog`, en: `${SITE}/en/blog`, "x-default": `${SITE}/tr/blog` } }, ...share(lang, `/${lang}/blog`, b.metaTitle, b.metaDesc) };
 }
 
 export default function BlogIndex({ params }: { params: { lang: string } }) {
@@ -20,8 +21,16 @@ export default function BlogIndex({ params }: { params: { lang: string } }) {
   if (!LANGS.includes(lang)) notFound();
   const t = ui[lang], b = blogUi[lang];
   const list = allArticles();
+  const ld = { "@context": "https://schema.org", "@graph": [
+    { "@type": "CollectionPage", "@id": `${SITE}/${lang}/blog`, url: `${SITE}/${lang}/blog`, name: b.title, description: b.metaDesc, inLanguage: lang, isPartOf: { "@id": `${SITE}/#website` }, publisher: { "@id": `${SITE}/#clinic` },
+      mainEntity: { "@type": "ItemList", numberOfItems: list.length, itemListElement: list.map((a, i) => ({ "@type": "ListItem", position: i + 1, url: SITE + blogUrl(lang, a), name: a.i18n[lang].title })) } },
+    { "@type": "BreadcrumbList", itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Cyprus Orthopaedics", item: `${SITE}/${lang}` },
+      { "@type": "ListItem", position: 2, name: b.title, item: `${SITE}/${lang}/blog` } ] },
+  ] };
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
       <Nav lang={lang} t={t} alt={{ tr: "/tr/blog", en: "/en/blog" }} tone="white" />
       <main className="pt-[8.5rem] md:pt-[9.5rem]">
         <div className="bg-mist"><div className="wrap py-12 md:py-20">

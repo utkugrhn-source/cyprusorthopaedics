@@ -61,7 +61,10 @@ export default function Reel({ items, labels, tone = "light" }: { items: ReelIte
           return (
             <li key={it.id} className="reel-card">
               <div className={`r-media relative aspect-[9/16] overflow-hidden ${deep ? "bg-black/30" : "bg-deep"}`} data-clip={Math.min(i, 5)}>
-                <video id={`reel-${it.id}`} className="absolute inset-0 h-full w-full object-cover" muted loop playsInline preload="none" poster={`/video/reel/${it.id}.jpg`} aria-label={it.label}>
+                {/* the still sits under the clip and is fetched lazily; a poster attribute would load all of them up front */}
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={`/video/reel/${it.id}.jpg`} alt="" loading="lazy" decoding="async" width={540} height={960} className="absolute inset-0 h-full w-full object-cover" />
+                <video id={`reel-${it.id}`} className="absolute inset-0 h-full w-full object-cover" muted loop playsInline preload="none" aria-label={it.label}>
                   <source src={`/video/reel/${it.id}.mp4`} type="video/mp4" />
                 </video>
                 <button type="button" className="reel-toggle" aria-label={`${paused ? labels.play : labels.pause}: ${it.label}`} onClick={(e) => toggle(it.id, (e.currentTarget.previousElementSibling as HTMLVideoElement) ?? null)}>

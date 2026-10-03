@@ -3,6 +3,9 @@ export const LANGS: Lang[] = ["tr", "en"];
 export const SITE = "https://www.cyprusorthopaedics.com";
 /** Preview phase: keep search engines out until the team approves the content. Set to false at launch. */
 export const PREVIEW = true;
+/** Search Console and Bing Webmaster ownership codes (the content value of the meta tag each tool gives). Empty until supplied. */
+export const GOOGLE_VERIFY = "";
+export const BING_VERIFY = "";
 export const PHONE = "+90 392 444 99 39";
 export const PHONE_HREF = "tel:+903924449939";
 export const APPT: Record<Lang, string> = {
@@ -117,8 +120,8 @@ export const ui: Record<Lang, Ui> = {
     },
     profile: { back: "Hekimlerimiz", summary: "Özgeçmiş", focus: "Klinik ilgi alanları", focusPending: "Klinik ilgi alanları hekimden alınacak.", path: "Eğitim ve görevler", academic: "Akademik çalışmalar", selected: "Seçilmiş yayınlar", books: "Kitap bölümleri", courses: "Kurslar ve ek eğitim", memberships: "Yeterlik ve üyelikler", langs: "Muayene dilleri", links: "Akademik profiller", others: "Diğer hekimler", book: "Randevu al", site: "Kişisel site" },
     meta: {
-      title: "Cyprus Orthopaedics · Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı",
-      desc: "Cyprus Orthopaedics: Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı, Dr. Suat Günsel Girne Üniversitesi Hastanesi. Üç öğretim üyesi; kırık ve travma, eklem protezi, artroskopi, el cerrahisi, ayak ve ayak bileği, kemik ve yumuşak doku tümörleri. Randevu: +90 392 444 99 39.",
+      title: "Girne Ortopedi ve Travmatoloji · Cyprus Orthopaedics",
+      desc: "Girne Üniversitesi Hastanesi’nde üç öğretim üyesiyle ortopedi ve travmatoloji: kırık, protez, artroskopi, el cerrahisi, ayak, tümör. Randevu: +90 392 444 99 39.",
     },
   },
   en: {
@@ -202,8 +205,8 @@ export const ui: Record<Lang, Ui> = {
     },
     profile: { back: "Our doctors", summary: "Biography", focus: "Clinical interests", focusPending: "Clinical interests to be supplied by the doctor.", path: "Training and posts", academic: "Academic work", selected: "Selected publications", books: "Book chapters", courses: "Courses and further training", memberships: "Certification and memberships", langs: "Consultation languages", links: "Academic profiles", others: "Other doctors", book: "Book an appointment", site: "Personal site" },
     meta: {
-      title: "Cyprus Orthopaedics · University of Kyrenia Faculty of Medicine, Department of Orthopaedics and Traumatology",
-      desc: "Cyprus Orthopaedics: the Department of Orthopaedics and Traumatology of the University of Kyrenia Faculty of Medicine, at Dr. Suat Günsel University of Kyrenia Hospital, North Cyprus. Three faculty surgeons; fractures and trauma, joint replacement, arthroscopy, hand surgery, foot and ankle, bone and soft tissue tumours. Appointments: +90 392 444 99 39.",
+      title: "Orthopaedics in Kyrenia, North Cyprus · Cyprus Orthopaedics",
+      desc: "Three faculty orthopaedic surgeons at the University of Kyrenia Hospital, North Cyprus: fractures, joint replacement, arthroscopy, hand, foot and tumour surgery.",
     },
   },
 };

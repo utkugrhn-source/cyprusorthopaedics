@@ -1,4 +1,5 @@
-import { SITE, DOCTORS_SEGMENT, type Lang } from "@/lib/site";
+import { SITE, DOCTORS_SEGMENT, MAPS, ui, type Lang } from "@/lib/site";
+import { OG_IMAGE } from "@/lib/seo";
 import { doctors, type Doctor } from "@/lib/doctors";
 
 const hospital = { "@type": "Hospital", name: "Dr. Suat Günsel Kyrenia University Hospital", telephone: "+903924449939", address: { "@type": "PostalAddress", streetAddress: "Şehit Yahya Bakır Sokak, Karakum", addressLocality: "Kyrenia", addressRegion: "North Cyprus", addressCountry: "CY" } };
@@ -25,13 +26,23 @@ export default function JsonLd({ lang, doctor }: { lang: Lang; doctor?: Doctor }
     alternateName: ["Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı", "University of Kyrenia Faculty of Medicine, Department of Orthopaedics and Traumatology", "Kyrenia University Orthopaedics"],
     medicalSpecialty: "Orthopedic",
     url: SITE,
+    description: ui[lang].meta.desc,
     logo: `${SITE}/brand/seal-512.png`,
+    image: SITE + OG_IMAGE[lang],
     telephone: "+903924449939",
     address: hospital.address,
+    hasMap: MAPS,
+    areaServed: { "@type": "AdministrativeArea", name: "Northern Cyprus" },
+    availableLanguage: ["Turkish", "English"],
+    contactPoint: { "@type": "ContactPoint", telephone: "+903924449939", contactType: "appointments", availableLanguage: ["Turkish", "English"] },
     parentOrganization: hospital,
     sameAs: ["https://www.instagram.com/cyprusorthopaedics/"],
     employee: doctors.map((d) => ({ "@id": `${SITE}/#${d.id}` })),
   };
-  const graph = doctor ? [physician(doctor, lang), clinic] : [clinic, ...doctors.map((d) => physician(d, lang))];
+  const website = { "@type": "WebSite", "@id": `${SITE}/#website`, url: SITE, name: "Cyprus Orthopaedics", inLanguage: ["tr", "en"], publisher: { "@id": `${SITE}/#clinic` } };
+  const crumbs = doctor && { "@type": "BreadcrumbList", itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Cyprus Orthopaedics", item: `${SITE}/${lang}` },
+    { "@type": "ListItem", position: 2, name: `${doctor.title[lang]} ${doctor.name}`, item: `${SITE}/${lang}/${DOCTORS_SEGMENT[lang]}/${doctor.slug}` } ] };
+  const graph = doctor ? [physician(doctor, lang), clinic, website, crumbs] : [clinic, website, ...doctors.map((d) => physician(d, lang))];
   return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@graph": graph }) }} />;
 }

@@ -8,7 +8,8 @@ import Portrait from "@/components/Portrait";
 import { ui, LANGS, type Lang, DOCTORS_SEGMENT, SITE, PHONE, PHONE_HREF } from "@/lib/site";
 import { doctors, getDoctor } from "@/lib/doctors";
 import AreaPage from "@/components/AreaPage";
-import { areas, getArea, areaUrl, areaUi, AREAS_SEGMENT } from "@/lib/areas";
+import { areas, getArea, areaUrl, areaUi, areaSeo, AREAS_SEGMENT } from "@/lib/areas";
+import { pageTitle, clip, share } from "@/lib/seo";
 
 type P = { lang: string; section: string; slug: string };
 export function generateStaticParams() {
@@ -26,19 +27,27 @@ export function generateMetadata({ params }: { params: P }): Metadata {
   if (params.section === AREAS_SEGMENT[lang]) {
     const a = getArea(lang, params.slug);
     if (!a) return {};
+    const seo = areaSeo[a.id];
+    const title = pageTitle(lang, seo?.title[lang] ?? a.title[lang]);
+    const description = seo?.desc[lang] ?? clip(a.lead[lang]);
     return {
-      title: `${a.title[lang]} · ${areaUi[lang].metaSuffix}`,
-      description: a.lead[lang].slice(0, 300),
+      title, description,
       alternates: { canonical: SITE + areaUrl(lang, a), languages: { tr: SITE + areaUrl("tr", a), en: SITE + areaUrl("en", a), "x-default": SITE + areaUrl("tr", a) } },
+      ...share(lang, areaUrl(lang, a), title, description),
     };
   }
   const d = getDoctor(params.slug);
   if (!d || params.section !== DOCTORS_SEGMENT[lang]) return {};
-  const title = `${d.title[lang]} ${d.name} · ${d.role[lang]} · Cyprus Orthopaedics`;
+  const who = `${d.title[lang]} ${d.name}`;
+  const title = lang === "tr" ? `${who} · Ortopedi ve Travmatoloji, Girne` : `${who} · Orthopaedic Surgeon, Kyrenia`;
+  const description = lang === "tr"
+    ? `${who}, Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı öğretim üyesi. Özgeçmiş, yayınlar ve randevu bilgisi.`
+    : `${who}, orthopaedic surgeon and faculty member at the University of Kyrenia Faculty of Medicine. Biography, publications, appointments.`;
+  const path = `/${lang}/${DOCTORS_SEGMENT[lang]}/${d.slug}`;
   return {
-    title,
-    description: d.summary[lang][0].slice(0, 300),
+    title, description,
     alternates: { canonical: SITE + url(lang, d.slug), languages: { tr: SITE + url("tr", d.slug), en: SITE + url("en", d.slug), "x-default": SITE + url("tr", d.slug) } },
+    ...share(lang, path, title, description),
   };
 }
 

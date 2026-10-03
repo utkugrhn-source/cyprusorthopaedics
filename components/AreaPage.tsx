@@ -13,18 +13,23 @@ export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
   const u = areaUi[lang];
   const guide = articlesOfArea(a.id);
   const others = areas.filter((x) => x.id !== a.id);
-  const ld = {
-    "@context": "https://schema.org",
-    "@type": "MedicalWebPage",
-    "@id": SITE + areaUrl(lang, a),
-    url: SITE + areaUrl(lang, a),
-    name: a.title[lang],
-    description: a.lead[lang],
-    inLanguage: lang,
-    dateModified: AREAS_UPDATED,
-    about: a.conditions[lang].map((c) => ({ "@type": "MedicalCondition", name: c.n })),
-    publisher: { "@id": `${SITE}/#clinic` },
-  };
+  const ld = { "@context": "https://schema.org", "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": SITE + areaUrl(lang, a),
+      url: SITE + areaUrl(lang, a),
+      name: a.title[lang],
+      description: a.lead[lang],
+      inLanguage: lang,
+      dateModified: AREAS_UPDATED,
+      about: a.conditions[lang].map((c) => ({ "@type": "MedicalCondition", name: c.n })),
+      isPartOf: { "@id": `${SITE}/#website` },
+      publisher: { "@id": `${SITE}/#clinic` },
+    },
+    { "@type": "BreadcrumbList", itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Cyprus Orthopaedics", item: `${SITE}/${lang}` },
+      { "@type": "ListItem", position: 2, name: a.title[lang], item: SITE + areaUrl(lang, a) } ] },
+  ] };
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
