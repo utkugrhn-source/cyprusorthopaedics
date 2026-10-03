@@ -67,10 +67,10 @@ export default function Page({ params }: { params: P }) {
     <>
       <JsonLd lang={lang} doctor={d} />
       <Nav lang={lang} t={t} alt={{ tr: url("tr", d.slug), en: url("en", d.slug) }} tone="white" />
-      <main className="pt-24 md:pt-28">
+      <main className="pt-[8.5rem] md:pt-[9.5rem]">
         <div className="bg-mist">
           <div className="wrap grid gap-10 py-12 md:grid-cols-[0.8fr_1.6fr] md:gap-16 md:py-20">
-            <div className="max-w-sm bg-white md:max-w-none"><Portrait d={d} pending={t.doctors.photoPending} priority /></div>
+            <div className="max-w-sm md:max-w-none"><Portrait d={d} pending={t.doctors.photoPending} priority /></div>
             <div className="self-end">
               <Link href={`/${lang}#hekimler`} className="link small" style={{ fontWeight: 500 }}>{p.back}</Link>
               <p className="mt-8 text-[1.15rem] text-tide" style={{ fontWeight: 500 }}>{d.title[lang]}</p>
@@ -147,7 +147,7 @@ export default function Page({ params }: { params: P }) {
           <Block h={p.others}>
             <div className="grid gap-6 sm:grid-cols-2">
               {others.map((o) => (
-                <Link key={o.id} href={url(lang, o.slug)} className="group block bg-mist p-7 transition-colors hover:bg-turq">
+                <Link key={o.id} href={url(lang, o.slug)} className="group block rounded-2xl bg-mist p-7 transition-colors hover:bg-turq">
                   <span className="text-[0.95rem] text-tide group-hover:text-deep" style={{ fontWeight: 500 }}>{o.title[lang]}</span>
                   <span className="h3 mt-1 block">{o.name}</span>
                   <span className="small mt-2 block text-slate group-hover:text-deep" style={{ fontWeight: 400 }}>{o.role[lang]}</span>

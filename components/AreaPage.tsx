@@ -27,7 +27,7 @@ export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
       <Nav lang={lang} t={t} alt={{ tr: areaUrl("tr", a), en: areaUrl("en", a) }} tone="white" />
-      <main className="pt-24 md:pt-28">
+      <main className="pt-[8.5rem] md:pt-[9.5rem]">
         <div className="bg-mist">
           <div className="wrap py-12 md:py-20">
             <Link href={`/${lang}#tedavi`} className="link small" style={{ fontWeight: 500 }}>{u.back}</Link>
@@ -64,7 +64,7 @@ export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
             </ul>
           </section>
 
-          <section className="grid gap-6 bg-deep px-6 py-10 text-white md:grid-cols-[1fr_1.4fr] md:gap-16 md:px-12 md:py-14">
+          <section className="r-media grid gap-6 bg-deep px-6 py-10 text-white md:grid-cols-[1fr_1.4fr] md:gap-16 md:px-12 md:py-14">
             <h2 className="h3">{u.urgent}</h2>
             <div>
               <ul>
@@ -86,7 +86,7 @@ export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
             </div>
             <div className="grid gap-5 sm:grid-cols-3">
               {doctors.map((o) => (
-                <Link key={o.id} href={`/${lang}/${DOCTORS_SEGMENT[lang]}/${o.slug}`} className="group block bg-mist p-6 transition-colors hover:bg-turq">
+                <Link key={o.id} href={`/${lang}/${DOCTORS_SEGMENT[lang]}/${o.slug}`} className="group block rounded-2xl bg-mist p-6 transition-colors hover:bg-turq">
                   <span className="text-[0.9rem] text-tide group-hover:text-deep" style={{ fontWeight: 500 }}>{o.title[lang]}</span>
                   <span className="mt-1 block text-[1.25rem] leading-tight" style={{ fontWeight: 500 }}>{o.name}</span>
                 </Link>

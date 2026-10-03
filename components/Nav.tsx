@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import { LANGS, type Lang, type Ui } from "@/lib/site";
+import { areas, areaUrl, procedures } from "@/lib/areas";
 
 export default function Nav({ lang, t, alt, tone }: { lang: Lang; t: Ui; alt: Record<Lang, string>; tone: "turq" | "white" }) {
   const [open, setOpen] = useState(false);
@@ -14,6 +15,23 @@ export default function Nav({ lang, t, alt, tone }: { lang: Lang; t: Ui; alt: Re
   ];
   return (
     <header data-header data-tone={tone} className="site-header fixed inset-x-0 top-0 z-50 text-deep">
+      {/* operations band: runs across the top, folds away once the page scrolls */}
+      <div className="band on-deep bg-deep text-white" role="region" aria-label={t.media.band}>
+        <div className="band-track">
+          {[0, 1].map((k) => (
+            <ul key={k} className="band-list" aria-hidden={k === 1 ? true : undefined}>
+              {procedures.map((x) => {
+                const a = areas.find((y) => y.id === x.area)!;
+                return (
+                  <li key={x.t.tr} className="band-item">
+                    <Link href={areaUrl(lang, a)} tabIndex={k === 1 ? -1 : undefined} className="hover:text-turq">{x.t[lang]}</Link>
+                  </li>
+                );
+              })}
+            </ul>
+          ))}
+        </div>
+      </div>
       <div className="wrap flex items-center justify-between py-4">
         <Link href={home} className="flex items-center gap-3" aria-label="Cyprus Orthopaedics">
           {/* eslint-disable-next-line @next/next/no-img-element */}

@@ -54,8 +54,8 @@ export const areas: Area[] = [
     slug: { tr: "el-ve-el-bilegi", en: "hand-and-wrist" },
     title: { tr: "El ve el bileği", en: "Hand and wrist" },
     lead: {
-      tr: "El ve el bileğinde sinir sıkışmaları, tendon hastalıkları, kırıklar ve kesici alet yaralanmaları tedavi edilir. Tendon, sinir ve damar onarımları mikrocerrahi yöntemle yapılır.",
-      en: "In the hand and wrist the team treats nerve compression, tendon disorders, fractures and cut injuries. Tendon, nerve and vessel repairs are carried out with microsurgical technique.",
+      tr: "El ve el bileğinde sinir sıkışmalarını, tendon hastalıklarını, kırıkları ve kesici alet yaralanmalarını tedavi ediyoruz. Tendon, sinir ve damar onarımlarını mikrocerrahi yöntemle yapıyoruz.",
+      en: "In the hand and wrist we treat nerve compression, tendon disorders, fractures and cut injuries. We repair tendons, nerves and vessels with microsurgical technique.",
     },
     conditions: {
       tr: [
@@ -168,8 +168,8 @@ export const areas: Area[] = [
     slug: { tr: "kirik-ve-travma", en: "fractures-and-trauma" },
     title: { tr: "Kırık ve travma", en: "Fractures and trauma" },
     lead: {
-      tr: "Kırık ve çıkıklar hastanenin acil servisi üzerinden değerlendirilir. Tedavinin amacı kemiğin doğru dizilimde kaynaması ve eklemin en kısa sürede yeniden hareket ettirilebilmesidir.",
-      en: "Fractures and dislocations are assessed through the hospital’s emergency department. The aim of treatment is for the bone to heal in the correct alignment and for the joint to move again as soon as possible.",
+      tr: "Kırık ve çıkıklara hastanenin acil servisi üzerinden bakıyoruz. Tedavinin amacı kemiğin doğru dizilimde kaynaması ve eklemin en kısa sürede yeniden hareket ettirilebilmesidir.",
+      en: "We see fractures and dislocations through the hospital’s emergency department. The aim of treatment is for the bone to heal in the correct alignment and for the joint to move again as soon as possible.",
     },
     conditions: {
       tr: [
@@ -230,11 +230,11 @@ export const areaUi: Record<Lang, { back: string; conditions: string; more: stri
     conditions: "Sık görülen durumlar",
     more: "Ayrıntılı yazı",
     urgent: "Beklemeden başvurulması gereken durumlar",
-    urgentNote: "Bu durumlarda randevu beklenmez; en yakın acil servise başvurulur.",
-    doctors: "Hekimler",
-    doctorsP: "Klinikte üç ortopedi ve travmatoloji uzmanı çalışır. Ameliyatlar ve zor olgular ekip içinde birlikte değerlendirilir.",
+    urgentNote: "Bu durumlarda randevu beklemeyin; en yakın acil servise gidin.",
+    doctors: "Hekimlerimiz",
+    doctorsP: "Üç ortopedi ve travmatoloji uzmanıyız. Ameliyatları ve zor olguları birlikte değerlendiriyoruz.",
     others: "Diğer tedavi alanları",
-    disclaimer: "Bu sayfa genel bilgilendirme amaçlıdır; tanı ve tedavi kararı muayeneyle verilir.",
+    disclaimer: "Bu sayfa genel bilgi içindir; tanı ve tedavi muayenede belirlenir.",
     updated: "Son güncelleme",
     book: "Randevu al",
     metaSuffix: "Girne · Cyprus Orthopaedics",
@@ -245,8 +245,8 @@ export const areaUi: Record<Lang, { back: string; conditions: string; more: stri
     more: "Detailed article",
     urgent: "When to be seen without waiting",
     urgentNote: "In these situations do not wait for an appointment; go to the nearest emergency department.",
-    doctors: "Doctors",
-    doctorsP: "Three orthopaedic and trauma surgeons work in the clinic. Operations and difficult cases are discussed within the team.",
+    doctors: "Our doctors",
+    doctorsP: "We are three orthopaedic and trauma surgeons. We review operations and difficult cases together.",
     others: "Other areas",
     disclaimer: "This page is general information; diagnosis and treatment are decided at examination.",
     updated: "Last updated",
@@ -254,3 +254,27 @@ export const areaUi: Record<Lang, { back: string; conditions: string; more: stri
     metaSuffix: "Kyrenia, North Cyprus · Cyprus Orthopaedics",
   },
 };
+
+
+/** Operations named in the scrolling band; each links to its region page. Drawn from the region pages and the hospital's own department page; needs the doctors' confirmation. */
+export const procedures: { t: L; area: string }[] = [
+  { t: { tr: "Diz protezi", en: "Knee replacement" }, area: "diz" },
+  { t: { tr: "Kalça protezi", en: "Hip replacement" }, area: "kalca" },
+  { t: { tr: "Ön çapraz bağ ameliyatı", en: "ACL reconstruction" }, area: "diz" },
+  { t: { tr: "Menisküs ameliyatı", en: "Meniscus surgery" }, area: "diz" },
+  { t: { tr: "Diz artroskopisi", en: "Knee arthroscopy" }, area: "diz" },
+  { t: { tr: "Omuz artroskopisi", en: "Shoulder arthroscopy" }, area: "omuz-dirsek" },
+  { t: { tr: "Rotator manşet onarımı", en: "Rotator cuff repair" }, area: "omuz-dirsek" },
+  { t: { tr: "Omuz çıkığı ameliyatı", en: "Shoulder stabilisation" }, area: "omuz-dirsek" },
+  { t: { tr: "Kırık ameliyatları", en: "Fracture surgery" }, area: "kirik-travma" },
+  { t: { tr: "Kalça kırığı ameliyatı", en: "Hip fracture surgery" }, area: "kalca" },
+  { t: { tr: "El bileği kırığı ameliyatı", en: "Wrist fracture fixation" }, area: "el-bilek" },
+  { t: { tr: "Karpal tünel ameliyatı", en: "Carpal tunnel release" }, area: "el-bilek" },
+  { t: { tr: "Tetik parmak ameliyatı", en: "Trigger finger release" }, area: "el-bilek" },
+  { t: { tr: "Tendon ve sinir onarımı", en: "Tendon and nerve repair" }, area: "el-bilek" },
+  { t: { tr: "Parmak ucu onarımı", en: "Fingertip reconstruction" }, area: "el-bilek" },
+  { t: { tr: "Ayak bileği kırığı ameliyatı", en: "Ankle fracture fixation" }, area: "ayak-bilek" },
+  { t: { tr: "Halluks valgus ameliyatı", en: "Bunion surgery" }, area: "ayak-bilek" },
+  { t: { tr: "Aşil tendonu onarımı", en: "Achilles tendon repair" }, area: "ayak-bilek" },
+  { t: { tr: "Çocuk kırıkları", en: "Children’s fractures" }, area: "cocuk" },
+];

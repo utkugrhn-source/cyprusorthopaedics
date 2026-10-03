@@ -43,6 +43,22 @@ export default function Motion() {
       document.querySelectorAll<HTMLElement>("[data-drift]").forEach((el) => {
         gsap.fromTo(el, { yPercent: -7 }, { yPercent: 7, ease: "none", scrollTrigger: { trigger: el.parentElement, start: "top bottom", end: "bottom top", scrub: true } });
       });
+      // text blocks rise into place as they enter
+      document.querySelectorAll<HTMLElement>("[data-reveal]").forEach((el) => {
+        gsap.from(el, { y: 34, opacity: 0, duration: 0.95, ease: "power3.out", scrollTrigger: { trigger: el, start: "top 90%", once: true } });
+      });
+      // lists and grids arrive one after another
+      document.querySelectorAll<HTMLElement>("[data-stagger]").forEach((el) => {
+        gsap.from(el.children, { y: 30, opacity: 0, duration: 0.8, ease: "power3.out", stagger: 0.08, scrollTrigger: { trigger: el, start: "top 88%", once: true } });
+      });
+      // the steps' line draws from left to right
+      document.querySelectorAll<HTMLElement>("[data-lines]").forEach((el) => {
+        gsap.from(el.querySelectorAll(".step-line"), { scaleX: 0, duration: 0.9, ease: "power2.out", stagger: 0.18, scrollTrigger: { trigger: el, start: "top 85%", once: true } });
+      });
+      // the watermark seal turns slowly with the page
+      document.querySelectorAll<HTMLElement>("[data-turn]").forEach((el) => {
+        gsap.fromTo(el, { rotate: -14 }, { rotate: 14, ease: "none", scrollTrigger: { trigger: el.parentElement, start: "top bottom", end: "bottom top", scrub: true } });
+      });
       // the seal settles as the hero leaves
       const seal = document.querySelector("[data-seal]");
       if (seal) gsap.to(seal, { rotate: 8, yPercent: 10, ease: "none", scrollTrigger: { trigger: "[data-hero]", start: "top top", end: "bottom top", scrub: true } });
