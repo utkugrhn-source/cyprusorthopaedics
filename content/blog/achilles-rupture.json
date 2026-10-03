@@ -1,0 +1,193 @@
+{
+ "id": "achilles-rupture",
+ "area": "ayak-bilek",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Achilles Tendon Rupture (Tear)",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/achilles-tendon-rupture-tear",
+   "year": "n.d."
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "asil-tendonu-yirtigi",
+   "title": "Aşil tendonu yırtığı: ameliyat mı, atel mi?",
+   "description": "Ani 'çıt' sesi ve topuk arkasında ağrı: aşil tendonu yırtığı nasıl anlaşılır, ameliyatlı ve ameliyatsız tedavi nasıl seçilir, iyileşme ne kadar sürer?",
+   "summary": "Aşil tendonu, baldır kaslarını topuk kemiğine bağlar; tam kopmada hasta yaralı bacağın ucuna basıp kalkamaz [1]. Tedavi, ameliyatsız (en az 6 hafta atel/bot) ya da ameliyatlı olabilir; seçim yaşa, aktivite düzeyine ve mesleğe göre yapılır [1]. Tam iyileşme 12–24 ay sürebilir [1].",
+   "sections": [
+    {
+     "h": "Aşil tendonu yırtığı nedir?",
+     "p": [
+      "Aşil tendonu baldır kaslarını topuk kemiğine bağlar ve ayağı aşağı doğru itmeyi sağlar. Yırtık kısmi (lifler zedelenir, tendon bütünlüğünü korur) ya da tam (tendon topuktan ya da orta kısmında tamamen ayrılır) olabilir [1]."
+     ]
+    },
+    {
+     "h": "Neden olur?",
+     "p": [
+      "Zıplamadan inişte ya da yön değiştirme sırasında baldırın ani gerilmesi, ya da topuğa doğrudan darbe başlıca nedenlerdir. Tendonu zayıflatan durumlar da vardır: aşil tendiniti için yapılan kortikosteroid enjeksiyonları, romatoid artrit ve lupus gibi kronik iltihabi hastalıklar, diyabet, obezite, bazı antibiyotikler (siprofloksasin, levofloksasin) ve kortikozteroid ya da anabolik steroid kullanımı [1].",
+      "Tendonun topuktan yaklaşık 6 cm yukarıdaki orta bölümünün kan akımı diğer bölümlere göre zayıftır [1]."
+     ]
+    },
+    {
+     "h": "Nasıl anlaşılır?",
+     "p": [
+      ""
+     ],
+     "list": [
+      "Yırtıldığı anda duyulan 'pat' sesi",
+      "Topuk çevresinde şiddetli ağrı ve şişlik",
+      "Yaralı bacakla yürümekte güçlük",
+      "Yaralı ayağın ucuna basıp kalkamama"
+     ]
+    },
+    {
+     "h": "Tanı",
+     "p": [
+      "Muayenede ayak ucuna kalkma, ayak bileği esnekliği ve Thompson testi (baldır sıkıldığında ayağın hareket edip etmediğine bakılır) değerlendirilir [1]. Röntgen topuktan kopan kemik parçalarını, ultrason tendonun hareketini ve yırtığa verdiği yanıtı gösterir; MR yırtığın yerini ve yaygınlığını ortaya koyar [1]."
+     ]
+    },
+    {
+     "h": "Ameliyatsız tedavi",
+     "p": [
+      "Ayak parmakları aşağıyı gösterecek konumda atel, alçı ya da botla en az 6 hafta tespit edilir; başlangıçta koltuk değneği ya da tekerlekli sandalye gerekebilir. Kemik ve tendon iyileşince fizik tedaviyle hareket ve güç kazandırılır [1]."
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman önerilir?",
+     "p": [
+      "Yırtığın türü, hastanın aktivite düzeyi, yaşı ve mesleği tedavi seçimini belirler; ameliyat ile ameliyatsız tedavi arasındaki seçim konusunda bilimsel tartışma sürmektedir [1]. Rekabetçi sporcularda ya da işi zıplama ve ayak ucuyla itme gerektiren kişilerde ameliyat önerilir; potansiyel yararı itme gücünün daha iyi olması ve yeniden yırtılma oranının düşük olmasıdır, ancak veriler hâlâ gelişmektedir [1].",
+      "Topuktan kopmalarda tendon özel bir yöntemle kemiğe tutturulur; orta kısım yırtıklarında uçlar dikişle birleştirilir ve minimal invaziv yöntemler kullanılabilir. Çok geç kalınmışsa boşluk bağışlanmış doku ile köprülenebilir [1]. Erken yapılan onarımın sonucu daha iyidir; çünkü tendon zamanla kısalır ve yara dokusuyla dolar [1]."
+     ]
+    },
+    {
+     "h": "İyileşme süreci",
+     "p": [
+      "Ameliyat ya da tespit sonrası altı hafta boyunca bot/atel kullanılır; altıncı haftadan sonra bot kademeli olarak bırakılır, hareket ve güçlendirme egzersizleri başlar. Tam iyileşme çoğu hastada 12 ile 24 ay arasında sürer, bazı hastalarda 2 yıla yaklaşır [1].",
+      "Hangi tedavi seçilirse seçilsin bir miktar güç kaybı olabilir, ancak çoğu hasta önceki aktivite düzeyine döner. Spora dönüş, bir dizi testle birlikte karara bağlanır [1]."
+     ]
+    },
+    {
+     "h": "Olası sorunlar",
+     "p": [
+      "Ameliyatla ilgili sorunlar enfeksiyon, sinir yaralanması, yara iyileşme sorunu, anestezi ve pıhtı sorunları ile itme ve zıplamada süren ağrı ya da güçsüzlüktür; onarımdan sonra tendonun yeniden yırtılması da mümkündür [1]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Aşil tendonu yırtılınca yürünür mü?",
+     "a": "Yürümek zordur; tam yırtıkta hasta yaralı ayağın ucuna basıp kalkamaz [1]."
+    },
+    {
+     "q": "Aşil yırtığı kendiliğinden iyileşir mi?",
+     "a": "Ameliyatsız tedavi seçildiğinde tendon en az 6 hafta tespitle iyileşebilir; ancak seçim yırtığın türüne ve kişinin aktivitesine göre yapılır [1]."
+    },
+    {
+     "q": "Ameliyat şart mı?",
+     "a": "Hayır. Ameliyat özellikle sporcularda ve ayak ucuyla itme gerektiren işlerde önerilir; seçim kişiye göre yapılır [1]."
+    },
+    {
+     "q": "İyileşme ne kadar sürer?",
+     "a": "Çoğu hastada 12 ile 24 ay; ilk 6 hafta tespit gerekir [1]."
+    },
+    {
+     "q": "Sporu bırakmam gerekir mi?",
+     "a": "Çoğu hasta önceki aktivite düzeyine döner; bir miktar güç kaybı olabilir [1]."
+    }
+   ],
+   "note": "Kliniğimizde seçimi yırtığın türüne ve sizin yaşamınızda ayağın ne iş gördüğüne bakarak birlikte yaparız."
+  },
+  "en": {
+   "slug": "achilles-tendon-rupture",
+   "title": "Achilles tendon rupture: surgery or a boot?",
+   "description": "A sudden pop and pain behind the heel: how an Achilles rupture is recognised, how surgical and non-surgical treatment are chosen, and how long recovery takes.",
+   "summary": "The Achilles tendon joins the calf muscles to the heel bone; with a complete tear you cannot rise onto the toes of that foot [1]. Treatment is either non-surgical (a cast or boot for at least 6 weeks) or surgical, chosen according to age, activity level and occupation [1]. Full recovery can take 12 to 24 months [1].",
+   "sections": [
+    {
+     "h": "What is an Achilles rupture?",
+     "p": [
+      "The Achilles tendon connects the calf muscles to the heel bone and lets you push the foot downwards. A tear can be partial (some fibres are torn but the tendon stays in one piece) or complete (the tendon separates from the heel bone or in its middle) [1]."
+     ]
+    },
+    {
+     "h": "What causes it?",
+     "p": [
+      "Sudden stretching of the calf, for example on landing from a jump or changing direction, or a direct blow to the heel. Other factors weaken the tendon: corticosteroid injections for Achilles tendinitis, chronic inflammatory diseases such as rheumatoid arthritis and lupus, diabetes, obesity, certain antibiotics (ciprofloxacin, levofloxacin), and corticosteroid or anabolic steroid use [1].",
+      "The middle part of the tendon, roughly 6 cm above the heel, has a poorer blood supply than the rest [1]."
+     ]
+    },
+    {
+     "h": "How do you recognise it?",
+     "p": [
+      ""
+     ],
+     "list": [
+      "A pop at the moment of injury",
+      "Severe pain and swelling near the heel",
+      "Difficulty walking on the injured leg",
+      "Not being able to rise onto the toes of that foot"
+     ]
+    },
+    {
+     "h": "Diagnosis",
+     "p": [
+      "On examination we check whether you can rise onto your toes, the flexibility of the ankle, and perform the Thompson test (squeezing the calf to see whether the foot moves) [1]. An X-ray detects bone fragments pulled off the heel, ultrasound shows how the tendon moves, and MRI shows where the tear is and how extensive it is [1]."
+     ]
+    },
+    {
+     "h": "Non-surgical treatment",
+     "p": [
+      "The foot is held pointing downwards in a cast, boot or splint for at least 6 weeks, with crutches or a wheelchair at first. Once the tendon has healed, physiotherapy restores movement and strength [1]."
+     ]
+    },
+    {
+     "h": "When is surgery recommended?",
+     "p": [
+      "The type of tear, your activity level, age and occupation guide the choice, and the question of surgery versus non-surgical care remains debated [1]. Surgery is advised for competitive athletes and for people whose work needs jumping and pushing off with the toes; it may give better push-off strength and a lower re-rupture rate, though research is ongoing [1].",
+      "A tear at the heel is anchored back to the bone with a device; a tear in the middle is repaired with sutures, and minimally invasive surgery is possible. If much time has passed, donated tissue can bridge the gap [1]. Repair soon after injury gives better results, because the tendon shortens and scars with time [1]."
+     ]
+    },
+    {
+     "h": "Recovery",
+     "p": [
+      "A boot or splint is worn for about six weeks; after that the boot is gradually reduced and movement and strengthening exercises begin. Full recovery usually takes 12 to 24 months and in some patients close to two years [1].",
+      "Whichever treatment is chosen some loss of strength can remain, but most people return to their previous level of activity. Return to sport is decided with a set of tests [1]."
+     ]
+    },
+    {
+     "h": "What can go wrong?",
+     "p": [
+      "Surgical problems include infection, nerve injury, wound breakdown, anaesthetic and clot complications, and continuing pain or weakness on pushing off or jumping; the tendon can also tear again after repair [1]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can you walk with a ruptured Achilles?",
+     "a": "Walking is difficult; with a complete tear you cannot rise onto the toes of the injured foot [1]."
+    },
+    {
+     "q": "Does an Achilles rupture heal by itself?",
+     "a": "With non-surgical treatment the tendon can heal when held still for at least 6 weeks; the choice depends on the type of tear and your activity [1]."
+    },
+    {
+     "q": "Is surgery essential?",
+     "a": "No. Surgery is advised especially for athletes and for jobs that need pushing off with the toes; the choice is individual [1]."
+    },
+    {
+     "q": "How long does recovery take?",
+     "a": "Usually 12 to 24 months, with at least 6 weeks in a boot or cast [1]."
+    },
+    {
+     "q": "Will I be able to return to sport?",
+     "a": "Most people return to their previous level of activity, although some loss of strength can remain [1]."
+    }
+   ],
+   "note": "At our clinic we make the choice with you, from the type of tear and what your foot has to do in your life."
+  }
+ }
+}

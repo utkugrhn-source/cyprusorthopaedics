@@ -22,9 +22,9 @@ export default function ArticlePage({ lang, a }: { lang: Lang; a: Article }) {
   const ld = [
     {
       "@context": "https://schema.org", "@type": "MedicalWebPage", "@id": url, url, name: x.title, description: x.description, inLanguage: lang,
-      dateModified: a.updated, lastReviewed: a.updated, mainContentOfPage: x.summary,
+      dateModified: a.updated, ...(a.reviewed ? { lastReviewed: a.updated } : {}), mainContentOfPage: x.summary,
       about: { "@type": "MedicalCondition", name: x.title },
-      reviewedBy: { "@id": `${SITE}/#${doc.id}` }, publisher: { "@id": `${SITE}/#clinic` },
+      ...(a.reviewed ? { reviewedBy: { "@id": `${SITE}/#${doc.id}` } } : {}), publisher: { "@id": `${SITE}/#clinic` },
       citation: a.sources.map((s) => ({ "@type": "CreativeWork", name: s.title, publisher: s.publisher, url: s.url })),
       isPartOf: { "@type": "WebSite", name: "Cyprus Orthopaedics", url: SITE },
     },
@@ -46,7 +46,7 @@ export default function ArticlePage({ lang, a }: { lang: Lang; a: Article }) {
             <p className="mt-8 text-[1.05rem] text-tide" style={{ fontWeight: 500 }}><Link href={areaUrl(lang, area)}>{area.title[lang]}</Link></p>
             <h1 className="display mt-2 max-w-4xl" style={{ fontSize: "clamp(2.2rem, 5.2vw, 4.4rem)" }}>{x.title}</h1>
             <p className="small mt-6 text-slate" style={{ fontWeight: 400 }}>
-              {b.reviewed}: <Link className="link" href={`/${lang}/${DOCTORS_SEGMENT[lang]}/${doc.slug}`}>{doc.title[lang]} {doc.name}</Link> · {b.updated}: {fmt(a.updated, lang)}
+              {a.reviewed && <>{b.reviewed}: <Link className="link" href={`/${lang}/${DOCTORS_SEGMENT[lang]}/${doc.slug}`}>{doc.title[lang]} {doc.name}</Link> · </>}{b.updated}: {fmt(a.updated, lang)}
             </p>
           </div>
         </div>
@@ -56,7 +56,7 @@ export default function ArticlePage({ lang, a }: { lang: Lang; a: Article }) {
             {x.sections.map((s) => (
               <section key={s.h} className="mt-12">
                 <h2 className="h3">{s.h}</h2>
-                {s.p.map((p) => <p key={p.slice(0, 30)} className="body mt-4" style={{ fontWeight: 400 }}><Cited text={p} /></p>)}
+                {s.p.filter(Boolean).map((p) => <p key={p.slice(0, 30)} className="body mt-4" style={{ fontWeight: 400 }}><Cited text={p} /></p>)}
                 {s.list && <ul className="mt-4 list-disc space-y-2 pl-6" style={{ fontWeight: 400 }}>{s.list.map((l) => <li key={l}><Cited text={l} /></li>)}</ul>}
               </section>
             ))}

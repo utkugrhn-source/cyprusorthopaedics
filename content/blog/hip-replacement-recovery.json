@@ -1,0 +1,139 @@
+{
+ "id": "hip-replacement-recovery",
+ "area": "kalca",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Activities After Hip Replacement",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/recovery/activities-after-hip-replacement/",
+   "year": "n.d."
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "kalca-protezi-sonrasi-iyilesme",
+   "title": "Kalça protezi sonrası iyileşme: ilk haftalar ve günlük yaşama dönüş",
+   "description": "Kalça protezi ameliyatından sonra hastanede kalış, ilk 6–8 haftadaki önlemler, araba kullanma, çalışma, spor ve başvuru gerektiren belirtiler.",
+   "summary": "Kalça protezinden sonra hastanede kalış genellikle 1–2 gündür; tam iyileşme birkaç ay sürer ve hafif-orta şişlik 3–6 ay devam edebilir [1]. İlk 6–8 hafta bacağı çaprazlamak ve kalçayı 90 dereceden fazla bükmek gibi hareketlerden kaçınılır [1].",
+   "sections": [
+    {
+     "h": "Süreç nasıl işler?",
+     "p": [
+      "Hastanede kalış çoğu hastada 1–2 gündür. Düzelme kademelidir; tam iyileşme birkaç ay sürer ve hafif-orta şişlik ameliyattan sonra 3–6 ay devam edebilir [1]."
+     ]
+    },
+    {
+     "h": "İlk 6–8 haftada nelere dikkat edilir?",
+     "p": [
+      "Bu dönemde dizleri çaprazlamamak, kalçayı 90 dereceden fazla bükmemek ve otururken öne eğilmemek gerekir. Ameliyatlı bacak ileri bakacak şekilde tutulur; oturmak için yüksek sandalyeler tercih edilir [1]."
+     ]
+    },
+    {
+     "h": "Günlük yaşama dönüş",
+     "p": [
+      "Araba kullanma: ağrı kesici olarak opioid almayı bıraktıktan ve refleksleriniz normale döndükten sonra [1].",
+      "Cinsel yaşam: genellikle birkaç hafta içinde güvenlidir; cerrahınızla konuşun [1].",
+      "İşe dönüş: işin yüküne göre haftalar ya da aylar sürebilir [1].",
+      "Spor: yürüyüş ve yüzme çok uygundur; golf ve bisiklet gibi düşük etkili aktiviteler yüksek etkili sporlara tercih edilir. Yara iyileştikten sonra yüzme mükemmel bir düşük etkili aktivitedir [1]."
+     ]
+    },
+    {
+     "h": "Egzersiz",
+     "p": [
+      "Önerilen fizik tedavi egzersizlerini en az 2 ay sürdürün [1]."
+     ]
+    },
+    {
+     "h": "Hemen başvurmanız gereken belirtiler",
+     "p": [
+      "Enfeksiyon: 38 °C'nin (100 °F) üzerinde ateş, artan kızarıklık, yaradan akıntı ve artan ağrı [1].",
+      "Pıhtı: açıklanamayan bacak ya da baldır ağrısı, bacağı yükseltince geçmeyen şiddetli şişlik; nefes darlığı ve göğüs ağrısı olursa acil başvurun [1]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Hastanede kaç gün kalırım?",
+     "a": "Çoğu hastada 1–2 gün [1]."
+    },
+    {
+     "q": "Ne zaman araba kullanabilirim?",
+     "a": "Opioid ağrı kesicileri bıraktıktan ve refleksleriniz normale döndükten sonra [1]."
+    },
+    {
+     "q": "Hangi sporları yapabilirim?",
+     "a": "Yürüyüş ve yüzme çok uygundur; golf ve bisiklet gibi düşük etkili aktiviteler tercih edilir [1]."
+    },
+    {
+     "q": "Şişlik ne kadar sürer?",
+     "a": "Hafif-orta şişlik 3–6 ay sürebilir [1]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; kısıtlamaları ve zamanlamayı ameliyatı yapan cerrahın talimatları belirler."
+  },
+  "en": {
+   "slug": "hip-replacement-recovery",
+   "title": "Recovering from a hip replacement: the first weeks and returning to daily life",
+   "description": "After hip replacement: length of hospital stay, precautions in the first 6 to 8 weeks, driving, work, sport and symptoms that need attention.",
+   "summary": "After a hip replacement the hospital stay is usually 1 to 2 days; full recovery takes several months and mild to moderate swelling can last 3 to 6 months [1]. For the first 6 to 8 weeks you avoid crossing the legs and bending the hip beyond 90 degrees [1].",
+   "sections": [
+    {
+     "h": "How does recovery go?",
+     "p": [
+      "Most patients stay in hospital for 1 to 2 days. Improvement is gradual; full recovery takes several months and mild to moderate swelling can persist for 3 to 6 months after surgery [1]."
+     ]
+    },
+    {
+     "h": "What to watch for in the first 6 to 8 weeks",
+     "p": [
+      "During this period do not cross your knees, do not bend the hip beyond 90 degrees and do not lean forward when sitting. Keep the operated leg facing forward and use higher chairs [1]."
+     ]
+    },
+    {
+     "h": "Returning to daily life",
+     "p": [
+      "Driving: once you are off opioid painkillers and your reflexes are back to normal [1].",
+      "Sex: usually safe within several weeks; talk to your surgeon [1].",
+      "Work: weeks to months, depending on how demanding the job is [1].",
+      "Sport: walking and swimming are excellent; lower-impact activities such as golf and cycling are preferred to high-impact sport. Once the wound has healed, swimming is an excellent low-impact activity [1]."
+     ]
+    },
+    {
+     "h": "Exercise",
+     "p": [
+      "Continue the prescribed physiotherapy exercises for at least 2 months [1]."
+     ]
+    },
+    {
+     "h": "Symptoms that need prompt attention",
+     "p": [
+      "Infection: fever above 38 °C (100 °F), increasing redness, wound drainage and worsening pain [1].",
+      "Blood clot: unexplained leg or calf pain, severe swelling that does not settle with elevation; if you have shortness of breath or chest pain, seek emergency care [1]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "How long will I stay in hospital?",
+     "a": "Most patients stay 1 to 2 days [1]."
+    },
+    {
+     "q": "When can I drive?",
+     "a": "Once you are off opioid painkillers and your reflexes are normal [1]."
+    },
+    {
+     "q": "Which sports can I do?",
+     "a": "Walking and swimming are excellent; lower-impact activities such as golf and cycling are preferred [1]."
+    },
+    {
+     "q": "How long does swelling last?",
+     "a": "Mild to moderate swelling can last 3 to 6 months [1]."
+    }
+   ],
+   "note": "This is a general summary; the restrictions and timing are set by the instructions of the surgeon who operated."
+  }
+ }
+}

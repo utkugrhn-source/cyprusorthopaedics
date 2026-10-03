@@ -3,6 +3,7 @@ import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import { ui, type Lang, DOCTORS_SEGMENT, SITE, PHONE, PHONE_HREF } from "@/lib/site";
 import { doctors } from "@/lib/doctors";
+import { articlesOfArea, blogUrl, blogUi } from "@/lib/blog";
 import { areas, areaUi, areaUrl, AREAS_UPDATED, type Area } from "@/lib/areas";
 
 const fmt = (iso: string, lang: Lang) => new Date(iso + "T12:00:00Z").toLocaleDateString(lang === "tr" ? "tr-TR" : "en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
@@ -10,6 +11,7 @@ const fmt = (iso: string, lang: Lang) => new Date(iso + "T12:00:00Z").toLocaleDa
 export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
   const t = ui[lang];
   const u = areaUi[lang];
+  const guide = articlesOfArea(a.id);
   const others = areas.filter((x) => x.id !== a.id);
   const ld = {
     "@context": "https://schema.org",
@@ -93,6 +95,13 @@ export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
               ))}
             </div>
           </section>
+
+          {guide.length > 0 && (
+            <section className="grid gap-6 border-t border-line py-12 md:grid-cols-[1fr_2.1fr] md:gap-16 md:py-16">
+              <h2 className="h3">{blogUi[lang].title}</h2>
+              <ul>{guide.map((g) => (<li key={g.id} className="border-b border-line py-3 first:pt-0"><Link className="link" href={blogUrl(lang, g)}>{g.i18n[lang].title}</Link></li>))}</ul>
+            </section>
+          )}
 
           <section className="grid gap-6 py-12 md:grid-cols-[1fr_2.1fr] md:gap-16 md:py-16">
             <h2 className="h3">{u.others}</h2>

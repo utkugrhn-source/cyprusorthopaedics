@@ -1,0 +1,173 @@
+{
+ "id": "child-forearm-fracture",
+ "area": "cocuk",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Forearm Fractures in Children",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/forearm-fractures-in-children",
+   "year": "n.d."
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "cocuklarda-on-kol-kirigi",
+   "title": "Çocuklarda ön kol kırığı: alçı mı, ameliyat mı?",
+   "description": "Düşme sonrası çocuğun kolu ağrıyor ve şiş: kırık türleri, alçı ve yerine oturtma, ameliyatın gerektiği durumlar, iyileşme süresi ve büyüme kıkırdağı.",
+   "summary": "Çocuk kırıklarının çoğu alçıyla tedavi edilir; kemikler yetişkinlerden daha hızlı kaynar [1]. Hizası bozulmuş kırıklarda kemik ameliyatsız yerine oturtulabilir, açık ya da kararsız kırıklarda ise ameliyat gerekir [1]. Büyüme kıkırdağını ilgilendiren kırıklarda yaklaşık bir yıl takip önerilir [1].",
+   "sections": [
+    {
+     "h": "Hangi kırık türleri görülür?",
+     "p": [
+      "Çocuk ön kol kırıkları şu türlerden olabilir [1]:"
+     ],
+     "list": [
+      "Tohum (buckle, torus) kırığı: kemiğin bir yüzü bastırılır, kemik hizasını korur; kararlı bir yaralanmadır",
+      "Yeşil dal kırığı: kırık kemiğin bir kısmından geçer, öbür tarafı bükülür",
+      "Metafiz kırığı: büyüme kıkırdağına uzanmayan, şaft kısmını ilgilendiren kırık",
+      "Galeazzi: yer değiştirmiş radius kırığı ile bilekte ulna çıkığı",
+      "Monteggia: ulna kırığı ve radius başı çıkığı; ciddi bir yaralanmadır, acil müdahale gerektirir",
+      "Büyüme kıkırdağı kırığı: geleceğin kemik gelişimini etkilediği için hızla ele alınmalıdır"
+     ]
+    },
+    {
+     "h": "Belirtiler ve tanı",
+     "p": [
+      "Çocuk şiddetli ağrıdan yakınır; önkol ve elde uyuşma sinirin etkilendiğini düşündürebilir [1]. Muayenede şekil bozukluğu, hassasiyet, şişlik ve dönme kısıtlılığı değerlendirilir; sinir ve dolaşım kontrol edilir. Önkol, dirsek ve bileğin röntgeni yaralanmanın boyutunu gösterir [1]."
+     ]
+    },
+    {
+     "h": "Tedavi",
+     "p": [
+      "Kararlı kırıklar yalnızca alçı ya da atelle tedavi edilir; tohum kırığında 3–4 hafta yeterlidir [1].",
+      "Açılanma gösteren ama karmaşık olmayan kırıklarda kemikler ameliyatsız (kapalı redüksiyon) nazikçe yerine itilir ve alçıyla tutulur [1].",
+      "Açık kırıklarda, kararsız ya da yer değiştirmiş kırıklarda, hizası bozulmuş ya da yanlış kaynayan kırıklarda ameliyat gerekir; kemik parçaları yeniden konumlandırılır ve pimler, implantlar ya da alçıyla tutulur [1]."
+     ]
+    },
+    {
+     "h": "İyileşme süreci",
+     "p": [
+      "Süre kırığa göre değişir: tohum kırığında 3–4 hafta, Monteggia gibi ağır yaralanmalarda 6–10 hafta. Alçı çıktıktan sonra eklem sertliği 2–3 hafta sürebilir ve genellikle fizik tedavi gerekmeden düzelir [1].",
+      "Alçı çıktıktan sonra kemik geçici olarak zayıftır; çocuk maymun çubuğu gibi yüksek yüklü etkinliklerden 3–4 hafta uzak durmalıdır [1]."
+     ]
+    },
+    {
+     "h": "Büyüme kıkırdağı ve takip",
+     "p": [
+      "Büyüme kıkırdağı hasarı ileride kemik gelişimini etkileyebilir; bu nedenle normal büyümenin izlenmesi için yaklaşık bir yıl süreyle takip randevuları gerekir [1]."
+     ]
+    },
+    {
+     "h": "Ne zaman hemen başvurmalısınız?",
+     "p": [
+      "Düşmeden sonra çocuk kolunu kullanmıyorsa, kol şekil değiştirmişse ya da şiddetli ağrı veya uyuşma varsa hemen başvurun; çocukların kemikleri yetişkinlerden hızlı kaynar ve yanlış kaynama olmadan önce tedavi gereklidir [1]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Çocuk kırığı kendiliğinden kaynar mı?",
+     "a": "Kemikler hızlı kaynar, ancak hizası bozulan kırıklarda yanlış kaynamayı önlemek için erken tedavi gerekir [1]."
+    },
+    {
+     "q": "Alçı kaç hafta kalır?",
+     "a": "Tohum kırığında 3–4 hafta; ağır yaralanmalarda 6–10 hafta [1]."
+    },
+    {
+     "q": "Her kırık ameliyat mı gerektirir?",
+     "a": "Hayır; çoğu alçıyla ya da ameliyatsız yerine oturtularak tedavi edilir [1]."
+    },
+    {
+     "q": "Alçı çıktıktan sonra neye dikkat etmeliyim?",
+     "a": "Kemik geçici olarak zayıftır; yüksek yüklü etkinliklerden (maymun çubuğu gibi) 3–4 hafta kaçınılmalıdır [1]."
+    },
+    {
+     "q": "Büyüme kıkırdağı kırığında ne olur?",
+     "a": "Gelişimi etkileyebileceği için yaklaşık bir yıl izlem yapılır [1]."
+    }
+   ],
+   "note": "Kırık kuşkusu olan bir çocuk, muayene ve röntgen için bekletilmeden değerlendirilmelidir."
+  },
+  "en": {
+   "slug": "childrens-forearm-fracture",
+   "title": "Forearm fractures in children: cast or operation?",
+   "description": "A child falls and the arm hurts and swells: types of fracture, casts and manipulation, when surgery is needed, healing time and the growth plate.",
+   "summary": "Most children's fractures are treated in a cast, and a child's bones heal faster than an adult's [1]. A bent fracture can often be put back into position without an operation; open or unstable fractures need surgery [1]. When the growth plate is involved, follow-up for about a year is advised [1].",
+   "sections": [
+    {
+     "h": "Which types of fracture occur?",
+     "p": [
+      "Forearm fractures in children include [1]:"
+     ],
+     "list": [
+      "Torus (buckle) fracture: one side of the bone is compressed and the bone stays in line; a stable injury",
+      "Greenstick fracture: the break goes through part of the bone and the other side bends",
+      "Metaphyseal fracture: across the shaft, without reaching the growth plate",
+      "Galeazzi: a displaced radius fracture with dislocation of the ulna at the wrist",
+      "Monteggia: an ulna fracture with dislocation of the radial head; a serious injury needing urgent attention",
+      "Growth plate fracture: needs prompt attention because it affects future bone growth"
+     ]
+    },
+    {
+     "h": "Symptoms and diagnosis",
+     "p": [
+      "Children report severe pain; numbness in the forearm and hand may suggest the nerve is affected [1]. We check for deformity, tenderness, swelling and loss of rotation and test nerve and blood supply. X-rays of the forearm, elbow and wrist show the extent of the injury [1]."
+     ]
+    },
+    {
+     "h": "Treatment",
+     "p": [
+      "Stable fractures need only a cast or splint; a buckle fracture needs 3 to 4 weeks [1].",
+      "For fractures that are angled but not complex, the bones are gently pushed into place without surgery (closed reduction) and held in a cast [1].",
+      "Surgery is needed for open fractures, unstable or displaced fractures, misaligned bones and fractures that are healing badly; the fragments are repositioned and held with pins, implants or a cast [1]."
+     ]
+    },
+    {
+     "h": "Healing time",
+     "p": [
+      "It varies with the fracture: 3 to 4 weeks for a buckle fracture, 6 to 10 weeks for severe injuries such as a Monteggia fracture. After the cast comes off the joint can stay stiff for 2 to 3 weeks and this usually settles without physiotherapy [1].",
+      "The bone is temporarily weaker after the cast is removed, so a child should avoid high-stress activities such as monkey bars for 3 to 4 weeks [1]."
+     ]
+    },
+    {
+     "h": "The growth plate and follow-up",
+     "p": [
+      "Damage to the growth plate can affect later bone growth, so follow-up visits for about a year are needed to check that growth is normal [1]."
+     ]
+    },
+    {
+     "h": "When should you seek care straight away?",
+     "p": [
+      "Go straight away if after a fall your child will not use the arm, if the arm looks deformed, or if there is severe pain or numbness; a child's bones heal faster than an adult's, so treatment must come before the bone heals badly [1]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does a child's fracture heal by itself?",
+     "a": "Bones heal quickly, but a misaligned fracture needs early treatment to prevent it healing in the wrong position [1]."
+    },
+    {
+     "q": "How long does the cast stay on?",
+     "a": "3 to 4 weeks for a buckle fracture; 6 to 10 weeks for severe injuries [1]."
+    },
+    {
+     "q": "Does every fracture need an operation?",
+     "a": "No; most are treated in a cast or put back into position without surgery [1]."
+    },
+    {
+     "q": "What should I look out for after the cast comes off?",
+     "a": "The bone is temporarily weaker; avoid high-stress activities such as monkey bars for 3 to 4 weeks [1]."
+    },
+    {
+     "q": "What happens with a growth plate fracture?",
+     "a": "Because it can affect growth, the child is followed for about a year [1]."
+    }
+   ],
+   "note": "A child with a suspected fracture should be examined and X-rayed without delay."
+  }
+ }
+}

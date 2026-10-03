@@ -1,0 +1,145 @@
+{
+ "id": "ddh",
+ "area": "cocuk",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Developmental Dysplasia of the Hip in Children",
+   "publisher": "University Hospitals (UH Rainbow)",
+   "url": "https://www.uhhospitals.org/health-information/health-and-wellness-library/pediatric-diseases-and-conditions/article/diseases-and-conditions---pediatrics/developmental-dysplasia-of-the-hip",
+   "year": "n.d."
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "gelisimsel-kalca-displazisi",
+   "title": "Bebeklerde gelişimsel kalça displazisi: neden erken saptanmalı?",
+   "description": "Bebekte kalça yuvasının sığ olması: risk etkenleri, doğumda ve sonraki muayeneler, Pavlik bandajı ve ameliyatın gerektiği durumlar.",
+   "summary": "Gelişimsel kalça displazisi (DDH), kalça yuvasının sığ olması ve uyluk kemiği başının yuvadan kısmen ya da tamamen çıkabilmesidir [1]. Erken saptandığında sonuçlar iyidir; ilk tedavi 6 aya kadar bebeklerde Pavlik bandajıdır [1]. Tedavi edilmezse bacak boyu farkı, yürüyüş bozukluğu ve ileri yaşta kalça ağrısı ya da artrit gelişebilir [1].",
+   "sections": [
+    {
+     "h": "Gelişimsel kalça displazisi nedir?",
+     "p": [
+      "Kalça yuvasının sığ olduğu ve uyluk kemiği başının yuvada kayabildiği ya da yuvadan çıkabildiği doğumsal bir durumdur [1]."
+     ]
+    },
+    {
+     "h": "Kimlerde daha sık görülür?",
+     "p": [
+      "İlk doğan bebeklerde (rahimde yer dar olduğu için), makat gelişi doğumlarda, ailede DDH öyküsü olanlarda ve kız bebeklerde daha sık görülür; ayak çarpıklığı gibi başka ortopedik sorunlar da risktir [1]."
+     ]
+    },
+    {
+     "h": "Nasıl tanınır?",
+     "p": [
+      "Yenidoğanlar hastaneden çıkmadan önce taranır. Tanı muayene ve öyküyle konur; görüntüleme yaşa göre değişir: küçük bebeklerde ultrason, daha büyük çocuklarda kemik yapısını gösteren röntgen kullanılır [1]."
+     ]
+    },
+    {
+     "h": "Tedavi",
+     "p": [
+      "Altı aya kadar bebeklerde ilk tedavi Pavlik bandajıdır; kalçayı yerinde tutarken bacağa sınırlı hareket izni verir [1].",
+      "Bandaj yeterli olmazsa spika alçı uygulanır. Diğer yöntemler başarısız olursa ya da tanı 6 aydan sonra konursa ameliyat gerekir; ardından altı aya kadar alçı kullanılabilir [1]."
+     ]
+    },
+    {
+     "h": "Tedavi edilmezse ne olur?",
+     "p": [
+      "Erken saptama ve müdahale iyi sonuç verir. Tedavi edilmeyen DDH bacak boyu farkına, yürüyüş bozukluğuna, ileri yaşta kalça ağrısına ve artrite yol açabilir [1]."
+     ]
+    },
+    {
+     "h": "Ne zaman başvurmalısınız?",
+     "p": [
+      "Bebeğinizin bacaklarının biri kısa görünüyorsa, kalça çevresindeki kıvrımlar iki yanda farklıysa ya da bacak açılımı kısıtlıysa; ayrıca ilk doğan, makat gelişi ya da ailede DDH öyküsü gibi risk etkenleri varsa muayene isteyin [1]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "DDH doğumda anlaşılır mı?",
+     "a": "Yenidoğanlar hastaneden çıkmadan önce taranır; yine de risk varsa ya da kuşku doğarsa tekrar muayene gerekir [1]."
+    },
+    {
+     "q": "Pavlik bandajı nedir?",
+     "a": "6 aya kadar bebeklerde ilk tedavidir; kalçayı yerinde tutarken bacağa sınırlı hareket izni verir [1]."
+    },
+    {
+     "q": "Ameliyat ne zaman gerekir?",
+     "a": "Bandaj yeterli olmazsa ya da tanı 6 aydan sonra konursa [1]."
+    },
+    {
+     "q": "Tedavi edilmezse sorun çıkar mı?",
+     "a": "Bacak boyu farkı, yürüyüş bozukluğu ve ileri yaşta kalça ağrısı ya da artrit olabilir [1]."
+    }
+   ],
+   "note": "Bebeğinizde kalça konusunda herhangi bir kuşku varsa, beklemeden çocuk ortopedisi muayenesi isteyin."
+  },
+  "en": {
+   "slug": "developmental-dysplasia-of-the-hip",
+   "title": "Developmental dysplasia of the hip in babies: why early detection matters",
+   "description": "A shallow hip socket in a baby: risk factors, checks at birth and afterwards, the Pavlik harness and when surgery is needed.",
+   "summary": "Developmental dysplasia of the hip (DDH) means the hip socket is shallow and the head of the thighbone can slip partly or fully out of it [1]. When it is found early results are good; the first treatment for babies up to 6 months is a Pavlik harness [1]. Untreated, it can lead to leg length difference, an abnormal gait and later hip pain or arthritis [1].",
+   "sections": [
+    {
+     "h": "What is DDH?",
+     "p": [
+      "A condition present from birth in which the hip socket is shallow and the head of the thighbone may slip in and out, or out completely [1]."
+     ]
+    },
+    {
+     "h": "Who is more likely to have it?",
+     "p": [
+      "It is more common in first-born babies (less room in the womb), breech births, babies with a family history of DDH and girls; other orthopaedic problems such as clubfoot are also a risk [1]."
+     ]
+    },
+    {
+     "h": "How is it recognised?",
+     "p": [
+      "Newborns are screened before leaving hospital. Diagnosis relies on examination and history; imaging depends on age, with ultrasound for younger babies and X-rays showing the bones in older children [1]."
+     ]
+    },
+    {
+     "h": "Treatment",
+     "p": [
+      "For babies up to 6 months the first treatment is a Pavlik harness, which holds the hip in place while allowing limited leg movement [1].",
+      "If the harness is not enough a spica cast is applied. If other methods fail, or the diagnosis is made after 6 months, surgery is needed, followed by a cast for up to six months [1]."
+     ]
+    },
+    {
+     "h": "What if it is not treated?",
+     "p": [
+      "Early detection and treatment give good results. Untreated DDH can cause leg length difference, an abnormal gait, and hip pain or arthritis later in life [1]."
+     ]
+    },
+    {
+     "h": "When should you ask for an examination?",
+     "p": [
+      "If one of your baby's legs looks shorter, the skin folds around the hips differ between the two sides, or the legs do not spread as widely on one side; and if there are risk factors such as a first birth, breech position or a family history of DDH [1]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is DDH picked up at birth?",
+     "a": "Newborns are screened before leaving hospital; if there are risk factors or any doubt, a repeat examination is needed [1]."
+    },
+    {
+     "q": "What is a Pavlik harness?",
+     "a": "The first treatment for babies up to 6 months; it holds the hip in place while allowing limited leg movement [1]."
+    },
+    {
+     "q": "When is surgery needed?",
+     "a": "If the harness is not enough, or the diagnosis is made after 6 months [1]."
+    },
+    {
+     "q": "Is there a problem if it is not treated?",
+     "a": "Leg length difference, an abnormal gait and later hip pain or arthritis can result [1]."
+    }
+   ],
+   "note": "If you have any doubt about your baby's hips, ask for a paediatric orthopaedic examination without waiting."
+  }
+ }
+}

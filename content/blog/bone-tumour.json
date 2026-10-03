@@ -1,0 +1,155 @@
+{
+ "id": "bone-tumour",
+ "area": "tumor",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Bone Tumor",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/bone-tumor",
+   "year": "n.d."
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "kemik-tumorleri",
+   "title": "Kemik tümörleri: hangi belirtiler değerlendirme gerektirir?",
+   "description": "Kemikte ağrı ya da kitle: iyi huylu ve kötü huylu kemik tümörleri, hangi yakınmalarda başvurulmalı, tanı ve tedavi nasıl planlanır?",
+   "summary": "Kemik tümörlerinin birçoğu iyi huyludur ve vücudun başka yerlerine yayılmaz; yine de bazıları tedavi gerektirir. Kötü huylu olanlar kemikten başlayabilir ya da başka bir organdaki kanserden kemiğe yayılmış olabilir [1]. Bunların ayrımı muayene, görüntüleme ve gerektiğinde biyopsiyle yapılır; bu yüzden süren kemik ağrısı, özellikle gece ve dinlenirken olan ağrı, değerlendirilmelidir [1].",
+   "sections": [
+    {
+     "h": "İyi huylu ve kötü huylu ne demek?",
+     "p": [
+      "İyi huylu tümörler genellikle yaşamı tehdit etmez ve çoğu durumda vücudun başka bölgelerine yayılmaz; büyüme biçimine ve yerine göre yine de tedavi gerekebilir [1].",
+      "Kötü huylu tümörler yayılabilir (metastaz). Kemikte başlayanlara birincil, meme, akciğer, tiroit, böbrek ve prostat gibi başka bir organdaki kanserden kemiğe yayılanlara ikincil denir [1]."
+     ]
+    },
+    {
+     "h": "Hangi yakınmalar görülür?",
+     "p": [
+      "En sık yakınma tümör bölgesinde, genellikle künt ve sızlayıcı tarzda ağrıdır. Gece ya da dinlenirken olan ağrı değerlendirilmelidir. Ateş ve gece terlemesi de olabilir, ancak bunlar kemik enfeksiyonunda da görülür. Birçok iyi huylu tümör hiç yakınma yapmaz ve başka bir nedenle çekilen görüntülemede tesadüfen saptanır [1]."
+     ]
+    },
+    {
+     "h": "Nasıl tanı konur?",
+     "p": [
+      "Röntgen tümörün kemiği eritip eritmediğini, delik oluşturup oluşturmadığını ya da kemik yapımını uyarıp uyarmadığını gösterir. MR ve BT ayrıntılı kesitler verir; PET taraması yayılımı araştırır [1].",
+      "Görüntüleme yetersiz kaldığında biyopsi tanıyı kesinleştirir: radyolog eşliğinde iğne biyopsisi ya da genel anestezi altında açık biyopsi yapılabilir. Kan ve idrar tetkikleri enfeksiyonu dışlamaya yardımcıdır, ancak birincil kemik kanserlerini tek başına tanımlamaz [1]."
+     ]
+    },
+    {
+     "h": "Tedavi nasıl planlanır?",
+     "p": [
+      "Yakınması olmayan iyi huylu tümörler dönemsel görüntülemeyle izlenebilir; agresif büyüyen ya da işlevi tehdit edenlerde ameliyat gerekir, bazıları ilaca yanıt verir [1].",
+      "Kötü huylu tümörlerde tedavi birden fazla uzmanlığın birlikte çalıştığı bir ekiple planlanır: kemoterapi, radyoterapi (özellikle Ewing sarkomunda etkilidir) ve ameliyat bir arada kullanılabilir. Mümkün olduğunda uzvu koruyan ameliyat yapılır; sinir ve damarlar tutulmuşsa ampütasyon gerekebilir [1]. Bu ekip ortopedik onkolog, tıbbi onkolog, radyasyon onkoloğu, radyolog ve patologdan oluşur [1]."
+     ]
+    },
+    {
+     "h": "Ne zaman başvurmalısınız?",
+     "p": [
+      "Aşağıdaki durumlarda gecikmeden muayene olun [1]:"
+     ],
+     "list": [
+      "Geçmeyen kemik ağrısı, özellikle geceleri ya da dinlenirken",
+      "Kemikte ya da çevresinde şişlik ya da ele gelen kitle",
+      "Hafif bir travmadan sonra beklenmedik kırık"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kemikteki her kitle kanser midir?",
+     "a": "Hayır. Birçok kemik tümörü iyi huyludur ve yayılmaz; ayrım için muayene ve görüntüleme gerekir [1]."
+    },
+    {
+     "q": "Gece ağrısı neden önemlidir?",
+     "a": "Gece ya da dinlenirken olan ağrı değerlendirme gerektiren bir işarettir; nedeni her zaman tümör olmayabilir ama bakılmalıdır [1]."
+    },
+    {
+     "q": "Biyopsi her zaman gerekli midir?",
+     "a": "Görüntüleme bulguları yeterince açık değilse tanıyı kesinleştirmek için biyopsi yapılır [1]."
+    },
+    {
+     "q": "Ameliyatta kol ya da bacak alınır mı?",
+     "a": "Mümkün olduğunda uzvu koruyan ameliyat yapılır; ampütasyon yalnızca sinir ve damarlar tutulmuşsa gündeme gelir [1]."
+    },
+    {
+     "q": "Tedaviyi kim planlar?",
+     "a": "Ortopedik onkolog, tıbbi onkolog, radyasyon onkoloğu, radyolog ve patologdan oluşan bir ekip [1]."
+    }
+   ],
+   "note": "Bu konuda yalnızca genel bilgi veriyoruz; tek bir tetkikle ya da bu yazıdan tanı çıkarılmaz. Kemik ya da yumuşak doku kitlesi olan hastaları görüntüleriyle birlikte değerlendiririz."
+  },
+  "en": {
+   "slug": "bone-tumours",
+   "title": "Bone tumours: which symptoms need assessment?",
+   "description": "Bone pain or a lump: benign and malignant bone tumours, which symptoms to act on, and how diagnosis and treatment are planned.",
+   "summary": "Many bone tumours are benign and do not spread, although some still need treatment. Malignant ones can start in the bone or spread to it from a cancer elsewhere [1]. Examination, imaging and, where needed, a biopsy tell them apart, so persistent bone pain, especially at night or at rest, should be assessed [1].",
+   "sections": [
+    {
+     "h": "What do benign and malignant mean?",
+     "p": [
+      "Benign tumours are usually not life-threatening and in most cases do not spread to other parts of the body; depending on how they grow and where they are, they may still need treatment [1].",
+      "Malignant tumours can spread (metastasise). Those that start in the bone are called primary; those that reach the bone from cancer elsewhere, such as breast, lung, thyroid, kidney or prostate, are called secondary [1]."
+     ]
+    },
+    {
+     "h": "What symptoms occur?",
+     "p": [
+      "The commonest symptom is pain at the site of the tumour, typically dull and aching. Pain at night or at rest should be assessed. Fever and night sweats can occur but also happen with bone infection. Many benign tumours cause no symptoms at all and are found by chance on imaging done for another reason [1]."
+     ]
+    },
+    {
+     "h": "How is it diagnosed?",
+     "p": [
+      "X-rays show whether a tumour dissolves bone, makes holes in it or stimulates new bone formation. MRI and CT give detailed cross-sections, and PET scans look for spread [1].",
+      "When imaging is not conclusive a biopsy confirms the diagnosis: either a needle biopsy guided by a radiologist or an open biopsy under general anaesthetic. Blood and urine tests help exclude infection but do not on their own identify primary bone cancers [1]."
+     ]
+    },
+    {
+     "h": "How is treatment planned?",
+     "p": [
+      "Benign tumours without symptoms can be watched with periodic imaging; those that grow aggressively or threaten function need surgery, and some respond to medication [1].",
+      "Malignant tumours are treated by a team working together: chemotherapy, radiotherapy (particularly effective in Ewing sarcoma) and surgery may be combined. Limb-sparing surgery is used wherever possible; amputation may be needed if nerves and vessels are involved [1]. The team includes an orthopaedic oncologist, medical oncologist, radiation oncologist, radiologist and pathologist [1]."
+     ]
+    },
+    {
+     "h": "When should you see a doctor?",
+     "p": [
+      "Be assessed without delay if you have [1]:"
+     ],
+     "list": [
+      "Bone pain that does not go away, especially at night or at rest",
+      "Swelling or a palpable lump on or around a bone",
+      "A fracture after only a minor injury"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is every lump in a bone cancer?",
+     "a": "No. Many bone tumours are benign and do not spread; examination and imaging are needed to tell them apart [1]."
+    },
+    {
+     "q": "Why does night pain matter?",
+     "a": "Pain at night or at rest is a sign that needs assessment; it is not always a tumour, but it should be looked at [1]."
+    },
+    {
+     "q": "Is a biopsy always needed?",
+     "a": "When imaging findings are not clear enough, a biopsy is done to confirm the diagnosis [1]."
+    },
+    {
+     "q": "Does surgery mean losing the limb?",
+     "a": "Limb-sparing surgery is used wherever possible; amputation is considered only if nerves and vessels are involved [1]."
+    },
+    {
+     "q": "Who plans the treatment?",
+     "a": "A team of an orthopaedic oncologist, medical oncologist, radiation oncologist, radiologist and pathologist [1]."
+    }
+   ],
+   "note": "We give general information only; no diagnosis can be drawn from this article or from a single test. We assess patients with a bone or soft-tissue lump together with their imaging."
+  }
+ }
+}

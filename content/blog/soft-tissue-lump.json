@@ -1,0 +1,133 @@
+{
+ "id": "soft-tissue-lump",
+ "area": "tumor",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Soft tissue sarcoma: symptoms",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/soft-tissue-sarcoma/symptoms",
+   "year": "2024"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "yumusak-doku-kitlesi",
+   "title": "Kolda, bacakta ya da gövdede ele gelen kitle: ne zaman değerlendirilmeli?",
+   "description": "Deri altında ağrısız, sert ve oynamayan bir kitle fark ettiyseniz: yumuşak doku sarkomu belirtileri, hangi kitleler değerlendirme gerektirir ve süreç nasıl işler?",
+   "summary": "Şişlik ve kitlelerin çoğunun nedeni zararsızdır, ancak sarkomun erken tanınması tedavi sonucunu iyileştirir; bu yüzden fark edilen her kitlenin bir hekim tarafından değerlendirilmesi gerekir [1]. Yumuşak doku sarkomunun başlıca belirtisi derinde, ele sert gelen, ağrısız, oynamayan ve zamanla büyüyen, bir süre sonra ağrıyabilen bir kitledir [1].",
+   "sections": [
+    {
+     "h": "Ana belirti nedir?",
+     "p": [
+      "Yumuşak doku sarkomunun temel işareti vücudun bir yerinde fark edilen kitledir. Kitle genellikle derinin altında derinde yerleşir, ele sert gelir, ağrısızdır ve yerinden oynatılamaz; zamanla büyür ve bir süre sonra ağrıyabilir [1].",
+      "Kitlenin yerine göre başka yakınmalar da olabilir: mideye yakınsa karında rahatsızlık ve kabızlık, akciğere yakınsa geçmeyen öksürük [1]."
+     ]
+    },
+    {
+     "h": "Her kitle sarkom mudur?",
+     "p": [
+      "Hayır. Şişlik ve kitleler çok sık görülür ve çoğu zararsız nedenlerden kaynaklanır; yine de kanserin erken saptanması tedavi sonucunu iyileştirir, bu nedenle fark edilen her kitle değerlendirilmelidir [1]. Belirli bir boyut ya da büyüme hızı eşiği bu kaynakta verilmez; ancak büyümeye devam eden ve ağrı yapmaya başlayan kitle dikkat gerektirir [1]."
+     ]
+    },
+    {
+     "h": "Değerlendirme nasıl yapılır?",
+     "p": [
+      "Hekim kitleyi muayene eder; kan tetkikleri ve ultrason istenebilir. Kaygı uyandıran bir bulgu varsa daha ileri testler için uzmana yönlendirilirsiniz [1]. Acil yönlendirme yapılması kanser olduğunuz anlamına gelmez [1].",
+      "Kliniğimizde sürecin tipik sırası muayene, görüntüleme (ultrason, gerekirse MR) ve gerektiğinde biyopsidir; biyopsi, ameliyatı planlayan ekiple birlikte planlanmalıdır."
+     ]
+    },
+    {
+     "h": "Ne zaman başvurmalısınız?",
+     "p": [
+      "Aşağıdaki durumlarda bekleme [1]:"
+     ],
+     "list": [
+      "Deri altında yeni fark edilen herhangi bir kitle ya da şişlik",
+      "Zamanla büyüyen kitle",
+      "Ağrı yapmaya başlayan kitle"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ağrısız kitle zararsız mıdır?",
+     "a": "Hayır, ağrısız olması zararsız olduğunu göstermez; sarkomda kitle tipik olarak ağrısızdır [1]."
+    },
+    {
+     "q": "Kitle ne kadar büyükse endişelenmeliyim?",
+     "a": "Bu kaynakta belirli bir boyut eşiği verilmemiştir; büyüyen ve ağrılı hâle gelen kitle değerlendirilmelidir [1]."
+    },
+    {
+     "q": "Önce hangi tetkik yapılır?",
+     "a": "Muayene, kan tetkikleri ve ultrason; kaygı uyandıran bir bulgu varsa uzmana yönlendirme [1]."
+    },
+    {
+     "q": "Acil yönlendirme kanser demek midir?",
+     "a": "Hayır, kanser olduğunuz anlamına gelmez [1]."
+    }
+   ],
+   "note": "Bu yazı bir tanı koymaz. Kitleyi bir hekimin elle ve görüntülemeyle değerlendirmesi gerekir."
+  },
+  "en": {
+   "slug": "soft-tissue-lump",
+   "title": "A lump on the arm, leg or trunk: when should it be assessed?",
+   "description": "A hard, painless lump under the skin that does not move: the symptoms of soft tissue sarcoma, which lumps need assessment and what happens next.",
+   "summary": "Most swellings and lumps have harmless causes, but earlier detection of sarcoma improves treatment results, so any lump you notice should be checked by a doctor [1]. The main sign of soft tissue sarcoma is a lump deep under the skin that feels solid, is painless and hard to move, grows over time and may become painful [1].",
+   "sections": [
+    {
+     "h": "What is the main symptom?",
+     "p": [
+      "The main sign of soft tissue sarcoma is a lump somewhere on the body. It is typically deep under the skin, solid to the touch, painless and hard to move; it gets larger over time and may become painful [1].",
+      "Depending on where it grows there can be other symptoms: abdominal discomfort and constipation if it is near the stomach, or a persistent cough if it is near the lungs [1]."
+     ]
+    },
+    {
+     "h": "Is every lump a sarcoma?",
+     "p": [
+      "No. Lumps and swellings are very common and most have harmless causes, but earlier detection of cancer improves treatment outcomes, so every lump should be assessed [1]. The source does not give a particular size or growth-rate threshold; a lump that keeps growing and starts to hurt deserves attention [1]."
+     ]
+    },
+    {
+     "h": "How is it assessed?",
+     "p": [
+      "The doctor examines the lump and may order blood tests and an ultrasound. If anything worrying appears you are referred to a specialist for further tests; an urgent referral does not mean you definitely have cancer [1].",
+      "In our clinic the usual sequence is examination, imaging (ultrasound and, if needed, MRI) and, when necessary, a biopsy, which should be planned together with the team that would do any surgery."
+     ]
+    },
+    {
+     "h": "When should you see a doctor?",
+     "p": [
+      "Do not wait if you have [1]:"
+     ],
+     "list": [
+      "Any newly noticed lump or swelling under the skin",
+      "A lump that grows over time",
+      "A lump that starts to be painful"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is a painless lump harmless?",
+     "a": "No. Painlessness does not make a lump harmless; a sarcoma is typically painless [1]."
+    },
+    {
+     "q": "How big does a lump have to be before I worry?",
+     "a": "The source does not give a size threshold; a lump that grows and becomes painful should be assessed [1]."
+    },
+    {
+     "q": "Which tests come first?",
+     "a": "Examination, blood tests and an ultrasound; referral to a specialist if something worrying is found [1]."
+    },
+    {
+     "q": "Does an urgent referral mean cancer?",
+     "a": "No, it does not mean you definitely have cancer [1]."
+    }
+   ],
+   "note": "This article does not make a diagnosis. A lump must be assessed by a doctor with examination and imaging."
+  }
+ }
+}

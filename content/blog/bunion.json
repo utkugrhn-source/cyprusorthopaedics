@@ -1,0 +1,183 @@
+{
+ "id": "bunion",
+ "area": "ayak-bilek",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Bunions",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/en/diseases--conditions/bunions",
+   "year": "n.d."
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "halluks-valgus",
+   "title": "Halluks valgus (ayak başparmağında çıkıntı): ne zaman ameliyat gerekir?",
+   "description": "Başparmak kökündeki kemik çıkıntısı için ayakkabı seçimi, ped ve tabanlık, ağrı tedavisi ve ameliyatın ne zaman düşünüleceği.",
+   "summary": "Halluks valgus, başparmak kökündeki eklemin kayması sonucu içte ağrılı bir kemik çıkıntısı oluşmasıdır [1]. Ağrısı yoksa ya da ayakkabı ve tabanlık düzenlemesiyle yönetilebiliyorsa ameliyat gerekmez; ameliyat, bunlara rağmen sürmekte olan ve yürümeyi belirgin biçimde kısıtlayan ağrı için düşünülür [1].",
+   "sections": [
+    {
+     "h": "Halluks valgus nedir?",
+     "p": [
+      "Başparmak kökündeki eklemde ilk ayak tarağı kemiğinin içe, başparmağın ise ikinci parmağa doğru kaymasıdır. Eklem şişer ve kızarabilir; ileri olgularda başparmak ikinci parmağın altına ya da üstüne geçebilir ve komşu parmaklarda çekiç parmak deformitesi gelişebilir [1]."
+     ]
+    },
+    {
+     "h": "Neden olur?",
+     "p": [
+      "Dar ve sivri burunlu ayakkabılar, aile öyküsü (bunlu hastaların yaklaşık yüzde 70'ine varan kısmında akrabada da vardır) ve romatoid artrit ya da nöromüsküler hastalıklar gibi tıbbi durumlar başlıca nedenlerdir [1].",
+      "Kadınlarda daha sık görülür ve genellikle erişkinlikte gelişir; 10–15 yaş arası kızlarda ergenlik dönemi bunyonu da görülür [1]."
+     ]
+    },
+    {
+     "h": "Hangi yakınmalara yol açar?",
+     "p": [
+      "Yakınmalar çıkıntının üzerinde ağrı ve hassasiyet, kızarıklık, çıkıntıda nasır, ayak tabanında sertleşmiş deri ve eklem hareketinde sertlik biçiminde olabilir [1]."
+     ]
+    },
+    {
+     "h": "Tanı nasıl konur?",
+     "p": [
+      "Muayenede ayak ve eklem incelenir. Ayakta çekilen röntgen, parmak ve eklem hizalanmasını, eklemde hasar ya da eşlik eden artrit olup olmadığını ve deformitenin derecesini gösterir; tedavi seçimini yönlendirir [1]."
+     ]
+    },
+    {
+     "h": "Ameliyatsız tedavi",
+     "p": [
+      "İlk adım ayakkabıdır: geniş burun kısmı, yumuşak taban ve yeterli stabilite sağlayan ayakkabılar seçilir, birkaç santimden yüksek topuklardan kaçınılır. En uzun parmağın ucunda yaklaşık 1 cm boşluk bırakılması önerilir; ayakkabı günün sonunda, ayaklar en geniş hâldeyken denenmelidir [1].",
+      "Silikon pedler basıyı azaltır; hazır ya da kişiye özel tabanlıklar ve parmak ayırıcılar da yardımcı olabilir. Gece atelleri basıyı hafifletir ama çıkıntıyı kalıcı olarak düzeltmez. İbuprofen ve naproksen gibi anti-inflamatuvar ilaçlar ağrı ve şişliği azaltabilir [1]."
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman düşünülür?",
+     "p": [
+      "Ayakkabı değişikliği ve ameliyatsız yöntemlere rağmen ağrı sürüyor ve yürümeyi, günlük işleri belirgin biçimde etkiliyorsa ameliyat önerilir. Yalnızca görüntüsü hoşa gitmeyen, ağrısız bir çıkıntı ameliyat nedeni değildir [1].",
+      "Ameliyatta amaç kemik, bağ ve tendonları yeniden dizerek başparmağı doğru konuma getirmektir. Açık yöntemde kesiyle çıkıntı alınır, kemik düzeltilir (osteotomi) ve vida ya da plakla tutturulur; minimal invaziv yöntemde daha küçük kesilerle bir-iki vida kullanılır, erken dönemde daha az şişlik olabilir ancak uzun dönem sonuçlar benzerdir ve her bunyona uygun değildir [1].",
+      "Ergenlikte, iskelet gelişimi tamamlanmadan yapılan ameliyatta tekrarlama riski yüksek olduğu için ancak ağrı çok şiddetliyse ve diğer yöntemlere yanıt yoksa düşünülür [1]."
+     ]
+    },
+    {
+     "h": "Ameliyat sonrası",
+     "p": [
+      "Ameliyat genellikle hastanede yatış gerektirmez; ancak iyileşme süreci uzundur [1]. Olası sorunlar arasında bursit, ağrı ve eklemde kireçlenme, komşu parmak deformiteleri ve tekrarlama sayılır [1]."
+     ]
+    },
+    {
+     "h": "Ne zaman başvurmalısınız?",
+     "p": [
+      "Ağrı yürümenizi kısıtlıyorsa, çıkıntı üzerinde tekrarlayan yara ya da nasır oluşuyorsa, parmak başka bir parmağın üzerine geçiyorsa muayene olmanız yerinde olur [1]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Halluks valgus ayakkabıyla düzelir mi?",
+     "a": "Ayakkabı ve tabanlık ağrıyı ve basıyı azaltır ancak kemiğin kaymasını geri döndürmez; kalıcı düzeltme yalnızca ameliyatla mümkündür [1]."
+    },
+    {
+     "q": "Geceleri takılan atel bunyonu düzeltir mi?",
+     "a": "Hayır. Gece ateli basıyı hafifletir ama çıkıntıyı kalıcı olarak düzeltmez [1]."
+    },
+    {
+     "q": "Ağrım yoksa ameliyat olmalı mıyım?",
+     "a": "Hayır. Yalnızca ağrılı bunyonlar için ameliyat önerilir [1]."
+    },
+    {
+     "q": "Ameliyat sonrası yatmam gerekir mi?",
+     "a": "Bunyon ameliyatı genellikle aynı gün taburcu edilerek yapılır; iyileşme süreci ise uzundur [1]."
+    },
+    {
+     "q": "Çocuklarda ya da ergenlerde ameliyat yapılır mı?",
+     "a": "Yalnızca ağrı çok şiddetli ve diğer yöntemlere yanıtsızsa; çünkü iskelet olgunlaşmadan yapılan ameliyatta tekrarlama riski vardır [1]."
+    }
+   ],
+   "note": "Kliniğimizde önce yürüyüşünüzü, ayakkabı alışkanlıklarınızı ve ağrının sizi nerede kısıtladığını sorarız; röntgeni bu konuşmanın ışığında değerlendiririz."
+  },
+  "en": {
+   "slug": "bunion-hallux-valgus",
+   "title": "Bunion (hallux valgus): when is surgery needed?",
+   "description": "A bony bump at the base of the big toe: shoe choice, pads and insoles, pain relief and when surgery is worth considering.",
+   "summary": "A bunion (hallux valgus) is a painful bony bump on the inner side of the foot, where the big toe joint has drifted out of line [1]. If it is painless, or manageable with shoes and insoles, no operation is needed; surgery is for pain that continues despite these measures and clearly limits walking [1].",
+   "sections": [
+    {
+     "h": "What is a bunion?",
+     "p": [
+      "The first metatarsal bone shifts inwards and the big toe angles towards the second toe. The joint can become swollen and red; in severe cases the big toe can lie under or over the second toe and push neighbouring toes into hammer-toe deformities [1]."
+     ]
+    },
+    {
+     "h": "What causes it?",
+     "p": [
+      "The main causes are narrow, pointed shoes, heredity (up to about 70% of people with bunions have a family history) and medical conditions such as rheumatoid arthritis or neuromuscular disorders [1].",
+      "Bunions are more common in women and usually develop in adulthood, although adolescent bunions occur in girls aged 10 to 15 [1]."
+     ]
+    },
+    {
+     "h": "What symptoms does it cause?",
+     "p": [
+      "Pain and tenderness over the bump, redness, a corn or callus on it, hardened skin under the foot, and stiffness of the joint that can affect walking [1]."
+     ]
+    },
+    {
+     "h": "How is it diagnosed?",
+     "p": [
+      "We examine the foot and the joint. Standing X-rays show the alignment of the toe and joint, any joint damage or arthritis, and how severe the bunion is, which guides the choice of treatment [1]."
+     ]
+    },
+    {
+     "h": "Non-surgical treatment",
+     "p": [
+      "Shoes come first: a wide toe box, soft sole and good stability, and no heels higher than a couple of inches. Leave roughly 1 cm beyond the longest toe and try shoes on at the end of the day, when feet are widest [1].",
+      "Silicone pads reduce pressure; over-the-counter or custom insoles and toe spacers may help. Night splints ease pressure but do not correct the bunion permanently. Anti-inflammatory drugs such as ibuprofen or naproxen can reduce pain and swelling [1]."
+     ]
+    },
+    {
+     "h": "When is surgery considered?",
+     "p": [
+      "Surgery is recommended when pain persists despite changes to footwear and non-surgical treatment, and clearly affects walking and daily function. A painless bunion that only bothers you cosmetically is not a reason for an operation [1].",
+      "The aim is to realign bones, ligaments and tendons to bring the big toe back into position. In open surgery the bump is removed, the bone is realigned (osteotomy) and held with screws or a plate; in minimally invasive surgery smaller incisions and one or two screws are used, with possibly less early swelling but similar long-term results, and it does not suit every bunion [1].",
+      "In adolescents surgery is reserved for severe pain that does not respond to other measures, because operating before the skeleton has matured risks the bunion coming back [1]."
+     ]
+    },
+    {
+     "h": "After surgery",
+     "p": [
+      "Bunion surgery is usually a same-day procedure without a hospital stay, but recovery is long [1]. Possible problems include bursitis, ongoing pain and arthritis, deformities of neighbouring toes and recurrence [1]."
+     ]
+    },
+    {
+     "h": "When should you see a doctor?",
+     "p": [
+      "See a doctor if pain limits your walking, if sores or calluses keep forming over the bump, or if the big toe is crossing over another toe [1]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Will shoes correct a bunion?",
+     "a": "Shoes and insoles reduce pain and pressure but do not reverse the drift of the bone; lasting correction is only possible with surgery [1]."
+    },
+    {
+     "q": "Does a night splint correct a bunion?",
+     "a": "No. A night splint eases pressure but does not permanently correct the bunion [1]."
+    },
+    {
+     "q": "Do I need surgery if it does not hurt?",
+     "a": "No. Surgery is only recommended for painful bunions [1]."
+    },
+    {
+     "q": "Will I have to stay in hospital?",
+     "a": "Bunion surgery is usually done as a day case, but recovery takes a long time [1]."
+    },
+    {
+     "q": "Is surgery done in children or teenagers?",
+     "a": "Only if pain is severe and nothing else helps, because operating before the skeleton has matured risks recurrence [1]."
+    }
+   ],
+   "note": "At our clinic we first ask how you walk, what you wear and where the pain limits you; we read the X-ray in the light of that conversation."
+  }
+ }
+}
