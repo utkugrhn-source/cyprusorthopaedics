@@ -1,0 +1,181 @@
+{
+ "id": "clavicle-fracture",
+ "area": "omuz-dirsek",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Clavicle Fracture (Broken Collarbone)",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/clavicle-fracture-broken-collarbone/",
+   "year": "n.d."
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "koprucuk-kemigi-kirigi",
+   "title": "Köprücük kemiği kırığı: kolluk mu, ameliyat mı?",
+   "description": "Omuza darbe ya da düşme sonrası köprücük kemiğinde ağrı ve çıkıntı: belirtiler, kolluklu tedavi, ameliyatın gerektiği durumlar ve iyileşme süresi.",
+   "summary": "Köprücük kemiği (klavikula) kolu gövdeye bağlar; kırıkların çoğu omuza doğrudan darbe ya da düşme sonucu olur [1]. Yer değiştirmemiş kırıklar kolluk, ağrı kesici ve hafif egzersizle tedavi edilir; kemik uçları belirgin biçimde kaymışsa ameliyat önerilir [1]. Çoğu kişi yaralanmadan sonraki 3 ay içinde olağan etkinliklerine döner [1].",
+   "sections": [
+    {
+     "h": "Köprücük kemiği kırığı nedir?",
+     "p": [
+      "Köprücük kemiği, göğüs kemiği ile kürek kemiği arasında yer alır ve kolu gövdeye bağlar. Üzerinden bazı önemli sinir ve damarlar geçtiği için bunların zedelenmesi de değerlendirilir [1]."
+     ]
+    },
+    {
+     "h": "Neden olur?",
+     "p": [
+      "Çoğu kırık omuza doğrudan darbeyle olur: düşme, trafik kazası ya da spor yaralanması. Açık ele düşme de sık nedenlerdendir. Bebeklerde doğum sırasında da kırılabilir [1]."
+     ]
+    },
+    {
+     "h": "Belirtileri nelerdir?",
+     "p": [
+      ""
+     ],
+     "list": [
+      "Omzun aşağı ve öne düşmesi",
+      "Ağrı nedeniyle kolu kaldıramama",
+      "Kolu kaldırmaya çalışırken gıcırdama hissi",
+      "Kırık yerinde şekil bozukluğu ya da çıkıntı",
+      "Köprücük üzerinde morarma, şişlik ve hassasiyet"
+     ]
+    },
+    {
+     "h": "Tanı",
+     "p": [
+      "Muayenede şekil bozukluğu aranır ve sinir ile damar hasarı yönünden test edilir. Röntgen kırığın yerini ve ağırlığını gösterir; karmaşık kırıklarda BT istenebilir [1]."
+     ]
+    },
+    {
+     "h": "Ameliyatsız tedavi",
+     "p": [
+      "Yer değiştirmemiş kırıklarda kolluk rahatlık sağlar; parasetamol ya da anti-inflamatuvar ilaçlar ağrıyı yönetir, hafif egzersizler hareketi korur. Kemik iyileşmeye başlayınca ağrı azalır ve omuz sertliğini önlemek için egzersiz verilir [1]."
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman önerilir?",
+     "p": [
+      "Kırık uçları çok yer değiştirmişse (normal diziliminden uzaklaşmışsa) ameliyat önerilir. Açık redüksiyon ve internal fiksasyonda kırık parçalar yeniden konumlandırılır; plak ve vidalarla (rahatsızlık vermedikçe genellikle kalıcıdır) ya da pim ve vidalarla (genellikle iyileşince çıkarılır) tutturulur [1]."
+     ]
+    },
+    {
+     "h": "İyileşme süreci",
+     "p": [
+      "Çoğu kişi yaralanmadan sonraki 3 ay içinde olağan etkinliklerine döner. Tam iyileşme birkaç ay sürer; diyabetliler ve tütün kullananlarda iyileşme gecikir [1]. Kemik tamamen kaynadıktan sonra spora ve fiziksel etkinliklere güvenle dönülebilir [1]."
+     ]
+    },
+    {
+     "h": "Olası sorunlar",
+     "p": [
+      "Ameliyatsız tedavide kemiğin kaynamaması (nonunion), yer değiştirmiş kaynama (malunion) ve belirgin çıkıntı görülebilir. Ameliyatta enfeksiyon, kanama, yara iyileşme sorunları, köprücüğün altında uyuşma, implant tahrişi, sinir ve damar hasarı ve akciğer yaralanması nadir sorunlardır [1]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Köprücük kemiği kırığı kendiliğinden kaynar mı?",
+     "a": "Yer değiştirmemiş kırıklar kolluk ve hafif egzersizle iyileşir; kemik uçları çok kaymışsa ameliyat önerilir [1]."
+    },
+    {
+     "q": "Ne zaman işe ve spora dönebilirim?",
+     "a": "Çoğu kişi 3 ay içinde olağan etkinliklerine döner; spora, kemik tamamen kaynadıktan sonra dönülür [1]."
+    },
+    {
+     "q": "Ameliyatta konulan plak çıkarılır mı?",
+     "a": "Plak ve vidalar rahatsızlık vermedikçe genellikle kalıcıdır; pim ve vidalar çoğunlukla iyileşme sonrası çıkarılır [1]."
+    },
+    {
+     "q": "Sigara iyileşmeyi etkiler mi?",
+     "a": "Evet, tütün kullananlarda ve diyabetlilerde iyileşme gecikir [1]."
+    }
+   ],
+   "note": "Kliniğimizde kırığı kolunuzdan ne beklediğinize ve kemik uçlarının ne kadar kaydığına bakarak birlikte karar veririz."
+  },
+  "en": {
+   "slug": "clavicle-fracture",
+   "title": "Broken collarbone (clavicle fracture): sling or surgery?",
+   "description": "Pain and a bump over the collarbone after a blow to the shoulder or a fall: symptoms, treatment in a sling, when surgery is needed and how long healing takes.",
+   "summary": "The collarbone (clavicle) connects the arm to the body; most fractures come from a direct blow to the shoulder or a fall [1]. A fracture that has not moved is treated with a sling, painkillers and gentle exercise; surgery is advised if the broken ends are badly displaced [1]. Most people return to normal activities within 3 months of the injury [1].",
+   "sections": [
+    {
+     "h": "What is a collarbone fracture?",
+     "p": [
+      "The clavicle lies between the breastbone and the shoulder blade and connects the arm to the body. Important nerves and blood vessels run beneath it, so they are checked for injury as well [1]."
+     ]
+    },
+    {
+     "h": "What causes it?",
+     "p": [
+      "Most fractures follow a direct blow to the shoulder: a fall, a road traffic collision or a sports injury. Falling onto an outstretched arm is also a common cause. Babies can break it during birth [1]."
+     ]
+    },
+    {
+     "h": "What are the symptoms?",
+     "p": [
+      ""
+     ],
+     "list": [
+      "The shoulder sags downwards and forwards",
+      "Not being able to lift the arm because of pain",
+      "A grinding feeling when you try to raise the arm",
+      "A visible deformity or bump at the fracture",
+      "Bruising, swelling and tenderness over the collarbone"
+     ]
+    },
+    {
+     "h": "Diagnosis",
+     "p": [
+      "We look for deformity and test for nerve and blood vessel damage. X-rays show where the fracture is and how severe; a CT scan may be ordered for complex breaks [1]."
+     ]
+    },
+    {
+     "h": "Non-surgical treatment",
+     "p": [
+      "For a fracture that has not moved, a sling gives comfort, paracetamol or anti-inflammatory painkillers manage pain and gentle exercises keep the shoulder moving. Once the bone begins to heal the pain eases and shoulder exercises are given to prevent stiffness [1]."
+     ]
+    },
+    {
+     "h": "When is surgery recommended?",
+     "p": [
+      "Surgery is advised when the broken ends are very displaced (out of normal alignment). In open reduction and internal fixation the fragments are repositioned and held with plates and screws (usually permanent unless they cause discomfort) or with pins or screws (usually removed after healing) [1]."
+     ]
+    },
+    {
+     "h": "Recovery",
+     "p": [
+      "Most people return to their regular activities within 3 months of the injury. Complete healing takes several months, and healing is delayed in people with diabetes and in tobacco users [1]. Once the bone has fully healed it is safe to return to sport and other physical activities [1]."
+     ]
+    },
+    {
+     "h": "What can go wrong?",
+     "p": [
+      "With non-surgical treatment the bone may fail to heal (nonunion), heal out of position (malunion) or leave a prominent bump. With surgery there can be infection, bleeding, wound healing problems, numbness below the collarbone, irritation from the implant, nerve and vessel damage and, rarely, lung injury [1]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does a broken collarbone heal by itself?",
+     "a": "A fracture that has not moved heals with a sling and gentle exercise; if the broken ends are badly displaced surgery is advised [1]."
+    },
+    {
+     "q": "When can I return to work and sport?",
+     "a": "Most people are back to normal activities within 3 months; sport follows once the bone has fully healed [1]."
+    },
+    {
+     "q": "Is the plate removed afterwards?",
+     "a": "Plates and screws are usually permanent unless they cause discomfort; pins and screws are generally removed after healing [1]."
+    },
+    {
+     "q": "Does smoking affect healing?",
+     "a": "Yes, healing is delayed in tobacco users and in people with diabetes [1]."
+    }
+   ],
+   "note": "At our clinic we weigh the fracture against what you need your arm to do, looking at how far the broken ends have moved."
+  }
+ }
+}
