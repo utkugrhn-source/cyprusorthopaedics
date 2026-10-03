@@ -21,6 +21,9 @@ export type Ui = {
   hero: { h1a: string; h1b: string; place: string; lead: string; cta1: string; cta2: string; photoAlt: string };
   photos: string[];
   media: { film: string; team: string; hospital: string; band: string };
+  plan: { h: string; p: string; items: string[] };
+  route: { h: string; p: string; items: string[] };
+  reel: { prev: string; next: string; play: string; pause: string };
   areas: { h: string; p: string; items: Region[]; note: string };
   doctors: { h: string; p: string; profile: string; photoPending: string };
   process: { h: string; p: string; steps: Step[] };
@@ -47,6 +50,9 @@ export const ui: Record<Lang, Ui> = {
     },
     photos: ["İki cerrah ameliyat sırasında", "Kısa video: hastane binası ve çevresi, muayene odası, MR görüntüsünün incelenmesi, ameliyathane, alet takımları, artroskopi görüntüsü ve ekip", "Ekip ameliyat masasında"],
     media: { film: "Kısa video: Dr. Suat Günsel Girne Üniversitesi Hastanesi’nin havadan görünümü, ambulans ve hastane avlusu", team: "Ortopedi ekibi artroskopi ameliyatında", hospital: "Dr. Suat Günsel Girne Üniversitesi Hastanesi", band: "Yaptığımız ameliyatlar" },
+    plan: { h: "Ameliyattan önce kırığı üç boyutlu inceleriz", p: "Eklem yüzeyine uzanan ya da çok parçalı kırıklarda bilgisayarlı tomografiyi üç boyutlu görüntüye çevirir, parçaların yerini ve nasıl tespit edeceğimizi ameliyattan önce planlarız. Görüntüleri kendi ekranlarımızdan çektik; hiçbirinde hasta kimliğine ait bilgi yok.", items: ["Omuz", "Üst kol", "El ve bilek", "Uyluk", "Diz", "Ayak bileği", "Ameliyatta röntgen kontrolü"] },
+    route: { h: "Kapıdan ameliyathaneye", p: "Geldiğinizde göreceğiniz yerler: kampüs, acil servis, karşılama ve ameliyathane. Görüntüleri kendimiz, telefonla çektik.", items: ["Kampüs", "Hastane binası", "Acil servis", "Ambulans", "Karşılama", "Ameliyathane girişi", "Ameliyat ekibi", "Mikroskopla ameliyat"] },
+    reel: { prev: "Önceki görüntüler", next: "Sonraki görüntüler", play: "Oynat", pause: "Duraklat" },
     areas: {
       h: "Tedavi alanları",
       p: "Şikâyetinizin olduğu bölgeyi seçin. Çoğu sorunu ameliyatsız tedavi ediyoruz; ameliyat gerekirse aynı hastanede yapıyoruz.",
@@ -129,6 +135,9 @@ export const ui: Record<Lang, Ui> = {
     },
     photos: ["Two surgeons operating", "Short video: the hospital building and its surroundings, examination room, reviewing an MRI scan, operating theatre, instrument sets, arthroscopy view and the team", "The team at the operating table"],
     media: { film: "Short video: aerial views of Dr. Suat Günsel University of Kyrenia Hospital, an ambulance and the hospital courtyard", team: "The orthopaedic team during an arthroscopy", hospital: "Dr. Suat Günsel University of Kyrenia Hospital", band: "Operations we perform" },
+    plan: { h: "We study the fracture in three dimensions before we operate", p: "For fractures that reach a joint surface or break into several pieces, we turn the CT scan into a three-dimensional image and plan, before the operation, where each fragment goes and how we will fix it. We filmed these from our own screens; none of them shows any patient-identifying information.", items: ["Shoulder", "Upper arm", "Hand and wrist", "Thigh", "Knee", "Ankle", "X-ray check during surgery"] },
+    route: { h: "From the gate to the operating theatre", p: "What you will see when you arrive: the campus, the emergency department, reception and the theatre. We filmed these ourselves, on a phone.", items: ["Campus", "Hospital building", "Emergency department", "Ambulance", "Reception", "Theatre entrance", "The surgical team", "Surgery under the microscope"] },
+    reel: { prev: "Previous clips", next: "Next clips", play: "Play", pause: "Pause" },
     areas: {
       h: "What we treat",
       p: "Choose the part of the body that is troubling you. We treat most problems without surgery; when an operation is needed, we do it in the same hospital.",

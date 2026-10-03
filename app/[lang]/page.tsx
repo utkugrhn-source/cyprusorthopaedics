@@ -3,6 +3,7 @@ import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import JsonLd from "@/components/JsonLd";
 import Portrait from "@/components/Portrait";
+import Reel from "@/components/Reel";
 import { ui, type Lang, PHONE, PHONE_HREF, APPT, MAPS, DOCTORS_SEGMENT, SITE } from "@/lib/site";
 import { doctors } from "@/lib/doctors";
 import { areas, areaUrl } from "@/lib/areas";
@@ -16,6 +17,13 @@ export default function Home({ params }: { params: { lang: string } }) {
   const lang = params.lang as Lang;
   const t = ui[lang];
   const seg = DOCTORS_SEGMENT[lang];
+  const areaHref = (id: string) => areaUrl(lang, areas.find((a) => a.id === id)!);
+  // three-dimensional CT views filmed from the team's own screens, each pointing at its treatment area
+  const plan = ([["bt-omuz", "omuz-dirsek"], ["bt-kol", "omuz-dirsek"], ["bt-el", "el-bilek"], ["bt-uyluk", "kirik-travma"], ["bt-diz", "diz"], ["bt-ayak", "ayak-bilek"], ["skopi", "kirik-travma"]] as const)
+    .map(([id, area], i) => ({ id, label: t.plan.items[i], href: areaHref(area) }));
+  // the way in, filmed on a phone: campus, emergency, reception, theatre
+  const route = (["kampus", "hastane", "acil", "ambulans", "karsilama", "koridor", "ekip", "mikroskop"] as const)
+    .map((id, i) => ({ id, label: t.route.items[i] }));
   return (
     <>
       <JsonLd lang={lang} />
@@ -58,7 +66,8 @@ export default function Home({ params }: { params: { lang: string } }) {
         </div>
 
         {/* treatment areas */}
-        <section id="tedavi" className="wrap py-24 md:py-36">
+        <section id="tedavi" className="py-24 md:py-36">
+          <div className="wrap">
           <div className="grid gap-8 md:grid-cols-[1fr_1.4fr] md:gap-16" data-reveal>
             <h2 className="h2">{t.areas.h}</h2>
             <p className="lead">{t.areas.p}</p>
@@ -74,18 +83,17 @@ export default function Home({ params }: { params: { lang: string } }) {
             ))}
           </ul>
           <p className="small mt-6 text-slate">{t.areas.note}</p>
+          {/* planning: the fracture seen in three dimensions */}
+          <div className="mt-20 grid gap-6 md:mt-28 md:grid-cols-[1fr_1.4fr] md:gap-16" data-reveal>
+            <h3 className="h3">{t.plan.h}</h3>
+            <p className="body text-slate" style={{ fontWeight: 400 }}>{t.plan.p}</p>
+          </div>
+          </div>
+          <div className="mt-10 md:mt-14"><Reel items={plan} labels={t.reel} /></div>
         </section>
 
-        {/* the team at work */}
-        <div className="wrap">
-          <div className="r-media relative aspect-[16/10] overflow-hidden bg-mist md:aspect-[21/9]" data-clip="0">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/img/hero-team.jpg" alt={t.media.team} loading="lazy" className="absolute inset-x-0 -top-[10%] h-[120%] w-full object-cover" style={{ objectPosition: "50% 30%" }} data-drift />
-          </div>
-        </div>
-
         {/* doctors */}
-        <section id="hekimler" className="mt-24 bg-mist py-24 md:mt-36 md:py-36">
+        <section id="hekimler" className="bg-mist py-24 md:py-36">
           <div className="wrap">
             <div className="grid gap-8 md:grid-cols-[1fr_1.4fr] md:gap-16" data-reveal>
               <h2 className="h2">{t.doctors.h}</h2>
@@ -104,6 +112,14 @@ export default function Home({ params }: { params: { lang: string } }) {
             </div>
           </div>
         </section>
+
+        {/* the team at work */}
+        <div className="wrap pt-24 md:pt-36">
+          <div className="r-media relative aspect-[16/10] overflow-hidden bg-mist md:aspect-[21/9]" data-clip="0">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/img/hero-team.jpg" alt={t.media.team} loading="lazy" className="absolute inset-x-0 -top-[10%] h-[120%] w-full object-cover" style={{ objectPosition: "50% 30%" }} data-drift />
+          </div>
+        </div>
 
         {/* the visit, a real sequence */}
         <section id="surec" className="wrap py-24 md:py-36">
@@ -176,11 +192,14 @@ export default function Home({ params }: { params: { lang: string } }) {
           </div>
         </section>
 
-        {/* the hospital building, edge to edge */}
-        <figure className="relative aspect-[16/9] overflow-hidden bg-mist md:aspect-[1920/620]">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/img/hastane.jpg" alt={t.media.hospital} loading="lazy" className="absolute inset-x-0 -top-[8%] h-[116%] w-full object-cover" data-drift />
-        </figure>
+        {/* the way in, from the campus gate to the theatre */}
+        <section className="pb-24 md:pb-36">
+          <div className="wrap grid gap-8 border-t border-line pt-24 md:grid-cols-[1fr_1.4fr] md:gap-16 md:pt-36" data-reveal>
+            <h2 className="h2">{t.route.h}</h2>
+            <p className="lead">{t.route.p}</p>
+          </div>
+          <div className="mt-14 md:mt-20"><Reel items={route} labels={t.reel} /></div>
+        </section>
 
         {/* contact: the phone number is the page's last large element */}
         <section id="iletisim" className="bg-turq py-24 md:py-36">
