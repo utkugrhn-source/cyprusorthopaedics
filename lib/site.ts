@@ -1,6 +1,6 @@
 export type Lang = "tr" | "en";
 export const LANGS: Lang[] = ["tr", "en"];
-export const SITE = "https://cyprusorthopaedics.com";
+export const SITE = "https://www.cyprusorthopaedics.com";
 /** Preview phase: keep search engines out until the team approves the content. Set to false at launch. */
 export const PREVIEW = true;
 export const PHONE = "+90 392 444 99 39";
