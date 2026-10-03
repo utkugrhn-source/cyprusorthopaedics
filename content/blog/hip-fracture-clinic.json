@@ -1,0 +1,255 @@
+{
+ "id": "hip-fracture-clinic",
+ "area": "kalca",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Broken hip",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/broken-hip/",
+   "year": "2026"
+  },
+  {
+   "title": "Hip Fractures",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/hip-fractures",
+   "year": ""
+  },
+  {
+   "title": "Hip fracture: management (CG124)",
+   "publisher": "National Institute for Health and Care Excellence (NICE)",
+   "url": "https://www.nice.org.uk/guidance/cg124",
+   "year": "2023"
+  },
+  {
+   "title": "What is the association between time to surgery and patient outcome after hip fracture? A systematic review",
+   "publisher": "The Bone & Joint Journal (Mazarello Paes V, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41475363/",
+   "year": "2026"
+  },
+  {
+   "title": "Epidemiology, patient outcome and complications after non-operative management of hip fracture: a systematic review",
+   "publisher": "Anaesthesia (Winfield J, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40855691/",
+   "year": "2025"
+  },
+  {
+   "title": "Falls",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/falls/",
+   "year": "2025"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "kalca-kirigi-yaslilarda-ameliyat-ne-zaman",
+   "title": "Yaşlılarda kalça kırığı: ameliyat ne kadar çabuk yapılmalı?",
+   "description": "Düşme sonrası kasık ağrısı ve yürüyememe: kalça kırığında neden ameliyat gerekir, ne zaman yapılmalı, ameliyat türleri ve iyileşme süreci.",
+   "summary": "Kalça kırığı, uyluk kemiğinin (femur) kalça eklemine yakın üst ucunun kırılmasıdır; yaşlılarda çoğunlukla kemiği zayıflamış kişide ayakta durma yüksekliğinden basit bir düşmeyle olur [1][2]. Tedavi hemen her zaman ameliyattır; kılavuzlar ameliyatın hastaneye yatışın olduğu gün ya da ertesi gün yapılmasını ve hastanın ameliyatın ertesi günü ayağa kaldırılmasını önerir [3]. İyileşme haftalar ile aylar sürer; fizyoterapi, düşmelerin önlenmesi ve kemik sağlığının değerlendirilmesi tedavinin parçasıdır [1][3].",
+   "sections": [
+    {
+     "h": "Kalça kırığı nedir?",
+     "p": [
+      "Uyluk kemiğinin kalça eklemine yakın üst bölümünün kırılmasıdır. Kırığın yerine göre femur boynu, intertrokanterik ve subtrokanterik gibi türleri vardır; femur boynu ve intertrokanterik kırıklar en sık görülenlerdir [2].",
+      "Yaşlılarda kalça kırıklarının çoğu, kemikleri zayıflamış kişilerde ayakta durma yüksekliğinden basit düşmelerle oluşur [2]. Kalça kırığı ileri yaşta ve osteoporozu olanlarda daha sık görülür [1]."
+     ]
+    },
+    {
+     "h": "Düşmeden sonra hangi belirtiler kırığı düşündürür?",
+     "p": [
+      "Düşme sonrası şunlar kalça kırığını düşündürür [1][2]:"
+     ],
+     "list": [
+      "Kalçada, kasıkta ya da uyluğun üst kısmında ağrı",
+      "Ayağa kalkamama ya da bacağa basamama",
+      "Kalçayı ve bacağı hareket ettirmekte güçlük",
+      "Bacağın diğerinden kısa görünmesi ya da dışa dönük durması",
+      "Kalça çevresinde şişlik ve morarma"
+     ]
+    },
+    {
+     "h": "Düşmeye ne yol açar?",
+     "p": [
+      "Başlıca neden düşmedir; ileri yaş ve osteoporoz riski belirgin biçimde artırır [1][2]. Kemiğin yer değiştirmediği bazı kırıklarda ağrı başta hafif olabilir ve kişi bir süre yürüyebilir; bu yüzden düşmeden sonra geçmeyen kasık ağrısı ciddiye alınmalıdır [2].",
+      "Düşme riskini artıranlar arasında denge ve kas gücünde azalma, görme ve işitme sorunları, dengeyi etkileyebilen ilaçlar, uygun olmayan ayakkabılar ve evdeki takılma tehlikeleri sayılır [6]."
+     ]
+    },
+    {
+     "h": "Tanı",
+     "p": [
+      "Kalça kırığı çoğunlukla röntgenle doğrulanır; röntgen tedavi seçimine de yardımcı olur [1][2]. Ameliyat planı için BT ek ayrıntı verebilir [2].",
+      "Belirtiler kırığı düşündürüyor ama röntgen normal görünüyorsa MR önerilir; MR 24 saat içinde yapılamıyorsa BT düşünülür [3]."
+     ]
+    },
+    {
+     "h": "Neden ameliyat?",
+     "p": [
+      "Yaşlılarda kalça kırığının standart tedavisi ameliyattır [1]. Uzun süre yatakta kalmak kan pıhtısı, zatürre, bası yarası ve konfüzyon gibi ciddi sorunlara yol açabilir; ameliyat, hastanın erken hareket etmesini sağlayarak bu riskleri azaltmayı amaçlar [2]. Ameliyatsız izlenen hastalarda ölüm riskinin daha yüksek bulunduğu bildirilmiştir; bu nedenle ameliyatsız yaklaşım yalnızca seçilmiş durumlarda düşünülür [5]."
+     ]
+    },
+    {
+     "h": "Ameliyat ne kadar çabuk yapılmalı?",
+     "p": [
+      "Kılavuzlar ameliyatın hastaneye yatışın olduğu gün ya da ertesi gün yapılmasını önerir. Kansızlık, kan sulandırıcılar, sıvı-tuz dengesizliği ya da kontrolsüz şeker gibi düzeltilebilir sorunlar ameliyat gecikmesin diye hemen ele alınır [3]. Geniş bir sistematik derlemede 48 saat içindeki ameliyat, daha iyi hareketlilik, daha az komplikasyon, daha kısa hastane yatışı ve daha düşük ölüm oranıyla ilişkili bulunmuş; 24 saat içindeki ameliyatta ek yararlar bildirilmiştir [4]."
+     ]
+    },
+    {
+     "h": "Ameliyat türleri ve ameliyat öncesi bakım",
+     "p": [
+      "Ağrı kontrolü önemlidir; ilaçlar yetmezse eğitimli ekip sinir blokları uygulayabilir, ancak bunlar ameliyatı geciktirmemelidir [3]. Kılavuzlar, ortopedistlerle yaşlı hastalıkları uzmanlarının birlikte çalıştığı çok disiplinli bir kalça kırığı programını ve hastanın bacağına hemen tam yük verebileceği bir ameliyatı önerir [3].",
+      "Ameliyatın türü kırığın şekline ve kişinin durumuna göre seçilir [1][3]:"
+     ],
+     "list": [
+      "Yer değiştirmiş femur boynu kırıkları: kısmi (hemiartroplasti) ya da total kalça protezi",
+      "Yer değiştirmemiş femur boynu kırıkları: vida ya da plak-vida ile tespit",
+      "İntertrokanterik kırıklar: kayar kalça vidası ya da intramedüller çivi",
+      "Subtrokanterik kırıklar: intramedüller çivi"
+     ]
+    },
+    {
+     "h": "İyileşme ve rehabilitasyon",
+     "p": [
+      "Tıbbi bir engel yoksa fizyoterapi değerlendirmesi ve yataktan kalkma ameliyatın ertesi günü başlar ve her gün sürer [3]. Hastanede kalış süresi genellikle bir ile dört hafta arasındadır; taburculukta evde sürdürülecek egzersizler verilir [1].",
+      "Erken hareket, yatağa bağımlılığın komplikasyonlarını önlemeye ve kişinin bağımsızlığını korumasına yardımcı olur. Bazı hastalar rehabilitasyonu bakım ya da rehabilitasyon merkezinde sürdürür, bazıları evde fizyoterapi alır [2]. İyileşme haftalar ile aylar sürer ve bazı kişiler önceki güçlerine tam kavuşamayabilir [1].",
+      "Kalça kırığı geçiren kişilerde kemik sağlığı ve düşme riski değerlendirilmeli, yeni kırıkları önlemeye yönelik hizmetlere yönlendirilmelidir [1][3]. Yeni düşmeleri önlemek için evde takılma tehlikelerinin kaldırılması, banyoya tutunma barı takılması, iyi oturan ve tabanı kaymayan ayakkabı giyilmesi, düzenli göz muayenesi, dengeyi etkileyen ilaçların sorgulanması ve haftada en az iki kez güç ve denge egzersizi yapılması önerilir [6]."
+     ]
+    },
+    {
+     "h": "Beklemeden yardım çağırmanız gerekenler",
+     "p": [
+      "Yaşlı bir kişi kalça, kasık ya da uyluk ağrısı nedeniyle düşmeden sonra kalkamıyor, bacağına basamıyor ya da bacak kısa ve dışa dönük görünüyorsa gecikmeden acil yardım çağırın [1][2]. Ağrı hafif olsa bile düşmeden sonra süren yürüme güçlüğü değerlendirilmelidir; çünkü yer değiştirmemiş kırıklar başta gözden kaçabilir [2][3]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kalça kırığı ameliyatsız iyileşir mi?",
+     "a": "Yaşlılarda standart tedavi ameliyattır [1]. Ameliyatsız izlenenlerde ölüm riski daha yüksek bulunduğundan bu seçenek yalnızca dikkatle seçilmiş durumlarda düşünülür [5]."
+    },
+    {
+     "q": "Ameliyat ne kadar çabuk yapılmalı?",
+     "a": "Kılavuzlar yatışın olduğu gün ya da ertesi gün ameliyat önerir [3]. 48 saat içindeki ameliyat daha az komplikasyon ve daha düşük ölüm oranıyla ilişkilidir [4]."
+    },
+    {
+     "q": "Ameliyattan sonra ne zaman yürünür?",
+     "a": "Tıbbi bir engel yoksa hasta ameliyatın ertesi günü fizyoterapist eşliğinde yataktan kaldırılır; ameliyat, mümkünse bacağa hemen tam yük verilebilecek şekilde planlanır [3]."
+    },
+    {
+     "q": "Kalça kırığından iyileşme ne kadar sürer?",
+     "a": "Hastanede kalış genellikle bir ile dört hafta, toparlanma ise haftalar ile aylar sürer. Bazı kişiler önceki güçlerine tam kavuşamaz [1]."
+    },
+    {
+     "q": "Kırıktan sonra yeni bir kırık nasıl önlenir?",
+     "a": "Kemik sağlığının değerlendirilip gerekirse tedavi edilmesi, evdeki düşme tehlikelerinin azaltılması, uygun ayakkabı, göz kontrolü ve düzenli güç-denge egzersizleri yeni düşme ve kırık riskini azaltır [1][6]."
+    }
+   ],
+   "note": "Kliniğimizde kalça kırığı olan hastayı ve yakınlarını ameliyat seçenekleri ve sonraki süreç konusunda birlikte bilgilendiririz."
+  },
+  "en": {
+   "slug": "hip-fracture-older-adults-how-soon-surgery",
+   "title": "Hip fracture in older adults: how soon should surgery be done?",
+   "description": "Groin pain and inability to walk after a fall: why a broken hip needs surgery, how soon to operate, the types of operation and what recovery involves.",
+   "summary": "A hip fracture is a break in the upper end of the thigh bone (femur) near the hip joint; in older people it usually follows a simple fall from standing height on weakened bone [1][2]. Treatment is almost always surgery, and guidelines recommend operating on the day of, or the day after, admission and getting the patient out of bed the day after surgery [3]. Recovery takes weeks to months, and physiotherapy, fall prevention and a bone health check are part of care [1][3].",
+   "sections": [
+    {
+     "h": "What is a hip fracture?",
+     "p": [
+      "A hip fracture is a break in the upper part of the thigh bone close to the hip joint. Depending on the site there are femoral neck, intertrochanteric and subtrochanteric fractures; femoral neck and intertrochanteric fractures are the most common [2].",
+      "In older people most hip fractures result from simple falls from standing height onto weakened bone [2]. Hip fractures are more common in older people and in those with osteoporosis [1]."
+     ]
+    },
+    {
+     "h": "Which signs after a fall suggest a hip fracture?",
+     "p": [
+      "After a fall, these suggest a hip fracture [1][2]:"
+     ],
+     "list": [
+      "Pain in the hip, groin or upper thigh",
+      "Being unable to stand up or put weight on the leg",
+      "Difficulty moving the hip and leg",
+      "The leg looking shorter than the other or turned outwards",
+      "Swelling and bruising around the hip"
+     ]
+    },
+    {
+     "h": "What leads to falls?",
+     "p": [
+      "The main cause is a fall, and older age and osteoporosis clearly raise the risk [1][2]. In some fractures where the bone has not moved, pain may be mild at first and the person may still walk for a while, so groin pain that does not settle after a fall should be taken seriously [2].",
+      "Things that raise the risk of falling include reduced balance and muscle strength, eyesight and hearing problems, medicines that can affect balance, poorly fitting footwear and trip hazards at home [6]."
+     ]
+    },
+    {
+     "h": "Diagnosis",
+     "p": [
+      "A hip fracture is usually confirmed with an X-ray, which also helps decide on treatment [1][2]. A CT scan can add detail for planning surgery [2].",
+      "If symptoms point to a fracture but the X-ray looks normal, an MRI scan is recommended; if MRI cannot be done within 24 hours, a CT scan is considered [3]."
+     ]
+    },
+    {
+     "h": "Why surgery?",
+     "p": [
+      "Surgery is the standard treatment for a hip fracture in older people [1]. Long bed rest can lead to serious problems such as blood clots, pneumonia, pressure sores and confusion; surgery aims to reduce these risks by getting the patient moving early [2]. Patients managed without surgery have been found to have a higher risk of death, so non-surgical treatment is considered only in selected situations [5]."
+     ]
+    },
+    {
+     "h": "How soon should the operation be?",
+     "p": [
+      "Guidelines recommend surgery on the day of, or the day after, admission. Correctable problems such as anaemia, blood thinners, fluid and salt imbalance or uncontrolled diabetes are dealt with straight away so that surgery is not delayed [3]. In a large systematic review, surgery within 48 hours was linked with better mobility, fewer complications, shorter hospital stays and lower death rates, with further benefits reported for surgery within 24 hours [4]."
+     ]
+    },
+    {
+     "h": "Types of operation and care around surgery",
+     "p": [
+      "Good pain control matters; if medicines are not enough, trained staff can give nerve blocks, but these should not delay surgery [3]. Guidelines recommend a multidisciplinary hip fracture programme in which orthopaedic surgeons and older-person specialists work together, and an operation that allows the patient to put full weight on the leg straight away [3].",
+      "The type of operation depends on the fracture pattern and the person's condition [1][3]:"
+     ],
+     "list": [
+      "Displaced femoral neck fractures: partial (hemiarthroplasty) or total hip replacement",
+      "Undisplaced femoral neck fractures: fixation with screws or a plate and screws",
+      "Intertrochanteric fractures: a sliding hip screw or an intramedullary nail",
+      "Subtrochanteric fractures: an intramedullary nail"
+     ]
+    },
+    {
+     "h": "Recovery and rehabilitation",
+     "p": [
+      "A physiotherapy assessment and getting out of bed start the day after surgery unless there is a medical reason not to, and continue every day [3]. The hospital stay is usually between one and four weeks, and exercises to continue at home are given on discharge [1].",
+      "Early movement helps prevent the complications of being bed-bound and helps people keep their independence. Some patients continue rehabilitation in a care or rehabilitation facility, others have physiotherapy at home [2]. Recovery takes weeks to months, and some people may not fully regain their previous strength [1].",
+      "After a hip fracture, bone health and fall risk should be assessed and the person referred to services that help prevent further fractures [1][3]. To prevent new falls: remove trip hazards at home, fit grab rails in the bathroom, wear well-fitting shoes with good grip, have regular eye tests, ask whether any medicines affect balance, and do strength and balance exercises at least twice a week [6]."
+     ]
+    },
+    {
+     "h": "When not to wait: call for emergency help",
+     "p": [
+      "If an older person cannot get up after a fall because of pain in the hip, groin or thigh, cannot put weight on the leg, or the leg looks short and turned outwards, call for emergency help straight away [1][2]. Even if pain is mild, difficulty walking that continues after a fall needs assessment, because undisplaced fractures can be missed at first [2][3]."
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can a hip fracture heal without surgery?",
+     "a": "Surgery is the standard treatment for hip fracture in older people [1]. Patients managed without surgery have a higher risk of death, so this option is considered only in carefully selected situations [5]."
+    },
+    {
+     "q": "How soon should surgery be done?",
+     "a": "Guidelines recommend surgery on the day of, or the day after, admission [3]. Surgery within 48 hours is linked with fewer complications and lower death rates [4]."
+    },
+    {
+     "q": "When can you walk after surgery?",
+     "a": "Unless there is a medical reason not to, patients are helped out of bed by a physiotherapist the day after surgery, and the operation is planned so that full weight can be put on the leg straight away where possible [3]."
+    },
+    {
+     "q": "How long does recovery take?",
+     "a": "The hospital stay is usually one to four weeks and overall recovery takes weeks to months. Some people do not fully regain their previous strength [1]."
+    },
+    {
+     "q": "How can another fracture be prevented?",
+     "a": "Checking and treating bone health, reducing fall hazards at home, good footwear, eye checks and regular strength and balance exercises lower the risk of new falls and fractures [1][6]."
+    }
+   ],
+   "note": "At our clinic we go through the operation options and the recovery that follows with the patient and their family."
+  }
+ }
+}

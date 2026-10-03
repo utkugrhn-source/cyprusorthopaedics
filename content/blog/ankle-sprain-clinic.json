@@ -1,0 +1,255 @@
+{
+ "id": "ankle-sprain-clinic",
+ "area": "ayak-bilek",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Sprained Ankle",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/sprained-ankle",
+   "year": ""
+  },
+  {
+   "title": "Sprains and strains",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/sprains-and-strains/",
+   "year": "2024"
+  },
+  {
+   "title": "Diagnosis, treatment and prevention of ankle sprains: update of an evidence-based clinical guideline",
+   "publisher": "British Journal of Sports Medicine (Vuurberg G, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29514819/",
+   "year": "2018"
+  },
+  {
+   "title": "Treatment and prevention of acute and recurrent ankle sprain: an overview of systematic reviews with meta-analysis",
+   "publisher": "British Journal of Sports Medicine (Doherty C, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28053200/",
+   "year": "2016"
+  },
+  {
+   "title": "Accuracy of Ottawa ankle rules to exclude fractures of the ankle and mid-foot: systematic review",
+   "publisher": "BMJ (Bachmann LM, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12595378/",
+   "year": "2003"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "ayak-bilegi-burkulmasi-rontgen-ne-zaman",
+   "title": "Ayak bileği burkulması: ne zaman röntgen gerekir?",
+   "description": "Ayağı burktuktan sonra kırık olup olmadığı nasıl anlaşılır? Ottawa kuralları, atel ve egzersizle tedavi, iyileşme süresi ve ameliyatın gerektiği nadir durumlar.",
+   "summary": "Ayak bileği burkulması, bileği destekleyen bağların çoğunlukla ayak içe dönünce gerilmesi ya da yırtılmasıdır [1]. Hemen hepsi ameliyatsız iyileşir: ilk günlerde koruma ve soğuk uygulama, sonrasında erken hareket, bant ya da atel ve denge-güç egzersizleri uygulanır [1][3][4]. Çoğu kişi yaklaşık iki haftada belirgin rahatlar; koşu gibi zorlayıcı etkinliklere dönüş sekiz haftaya, ağır burkulmalarda aylara uzayabilir [2].",
+   "sections": [
+    {
+     "h": "Burkulmada ne olur?",
+     "p": [
+      "Bileği bir arada tutan sağlam bağlar normal sınırlarının ötesinde gerilir ve kısmen ya da tamamen yırtılır. Çoğu burkulmada ayak içe döner ve bileğin dış yanındaki bağlar zarar görür; iç yandaki bağlar daha seyrek etkilenir [1].",
+      "Şiddete göre üç derece ayrılır. Birinci derecede bağ yalnızca gerilmiştir ve yakınma hafiftir. İkinci derecede kısmi yırtık, orta şiddette şişlik ve hafif gevşeklik vardır. Üçüncü derecede bağ tamamen kopmuştur, ağrı belirgindir ve bilek dengesiz hissedilir [1]."
+     ]
+    },
+    {
+     "h": "Belirtiler",
+     "p": [
+      "Yakınmanın şiddeti bağdaki hasara göre değişir. Sık görülenler [1][2]:"
+     ],
+     "list": [
+      "Ayakta durunca ya da hareketle artan ağrı",
+      "Bileğin dış yanında şişlik ve morarma",
+      "Dokununca hassasiyet",
+      "Ayağa basmakta güçlük",
+      "Bileğin boşalacakmış gibi hissedilmesi"
+     ]
+    },
+    {
+     "h": "Neden olur, kimde tekrar eder?",
+     "p": [
+      "Burkulma çoğunlukla engebeli zeminde yürürken, düşerken ya da zıplama ve ani yön değiştirme içeren sporlarda ayağın bükülmesiyle olur [1]. Bazı sporlarla uğraşmak riski artırır [3].",
+      "Dengenin zayıf olması, doğuştan gevşek bağlar, uygun olmayan ayakkabı ve daha önce geçirilmiş burkulma, yeni bir burkulma için başlıca risk etkenleridir [1]."
+     ]
+    },
+    {
+     "h": "Röntgen her burkulmada gerekir mi?",
+     "p": [
+      "Tanı çoğunlukla muayeneyle konur: şişlik, hassas noktalar, bileğin hareketi ve bağların sağlamlığı değerlendirilir [1].",
+      "Her burkulmada röntgen gerekmez. Ottawa ayak bileği kuralları, belirli kemik noktalarındaki hassasiyete ve birkaç adım atılıp atılamadığına bakar; kırığı yüksek güvenilirlikle dışlar ve gereksiz röntgeni azaltır [5]. Kırık düşünülürse röntgen çekilir; bağ ya da kıkırdak hasarından kuşkulanılırsa stres grafisi veya MR istenebilir [1].",
+      "Bağ hasarının derecesi, ağrı ve şişlik yatıştıktan sonra, yaralanmanın dördüncü beşinci gününde yapılan muayenede daha doğru değerlendirilir [3]."
+     ]
+    },
+    {
+     "h": "İlk günlerde ne yapılır?",
+     "p": [
+      "İlk iki üç gün koruma, dinlenme, buz, elastik bandajla bası ve yükseltme önerilir. Buz bez ya da havluya sarılarak, kısa süreyle ve birkaç saatte bir uygulanır; bu dönemde sıcak uygulama, alkol ve masajdan kaçınılır [2].",
+      "Ağrı kesici olarak kullanılan iltihap giderici ilaçlar ağrı ve şişliği azaltabilir; ancak yan etkileri olabilir ve iyileşmeyi etkileyebileceği için hekim önerisiyle kullanılmalıdır [3][4]."
+     ]
+    },
+    {
+     "h": "Alçı mı, atel mi, egzersiz mi?",
+     "p": [
+      "Kısa süreli hareketsizlik ağrı ve şişliği rahatlatabilir. Kanıtlar ise uzun süre alçıda kalmaktan çok, erken hareketin bant ya da atel ile birlikte egzersiz programına eklenmesinin daha iyi sonuç verdiğini gösterir [3][4].",
+      "Rehabilitasyon genellikle üç evrede ilerler: önce korunarak yük vermeyle ağrı ve şişliğin denetimi, sonra hareket açıklığı, güç ve denge çalışması, en sonunda ileri güçlendirme, denge (propriyosepsiyon) eğitimi ve sporun kademeli olarak yeniden başlaması [1]. Gözetimli egzersiz programları pasif uygulamalara tercih edilir [3]."
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman gündeme gelir?",
+     "p": [
+      "Burkulmaların neredeyse tamamı ameliyatsız iyileşir [1]. Düzgün ve eksiksiz uygulanan egzersiz programına rağmen yakınması süren ve bileği tekrar tekrar boşalan kişilerde ameliyat düşünülür [3]. Bu durumda eklem içindeki sorunlar artroskopiyle ele alınabilir, hasarlı bağlar onarılabilir ya da yeniden yapılabilir [1]."
+     ]
+    },
+    {
+     "h": "İyileşme süresi ve tekrarı önlemek",
+     "p": [
+      "Çoğu kişi yaklaşık iki haftada belirgin biçimde düzelir; koşu gibi zorlayıcı etkinliklere dönüş sekiz haftaya kadar uzayabilir, ağır burkulmalarda ise aylar sürebilir [2].",
+      "Bileğin kronik olarak dengesiz kalmasının başlıca nedeni rehabilitasyonun erken bırakılmasıdır [1]. Atel kullanmak, denge ve koordinasyon egzersizleri yapmak yeni burkulmayı önlemeye yardımcı olur [3][4]; egzersize dayalı rehabilitasyon yeniden yaralanma riskini azaltır [4]. Daha önce burkulma geçirenlerde sporda ateli kullanmanın yeni burkulmayı önlediğine dair güçlü kanıt vardır [4].",
+      "Egzersiz ve spordan önce iyi ısınmak, ayak bileği çevresi kasları güçlendirmek, destekleyici ayakkabı giymek ve engebeli zeminde dikkatli olmak da önerilir [1]."
+     ]
+    },
+    {
+     "h": "Beklemeden acile gidilmesi gerekenler",
+     "p": [
+      "Aşağıdakiler kırık, çıkık ya da kan dolaşımı ve sinirle ilgili bir sorunu düşündürebilir; gecikmeden acil servise başvurun [2]:"
+     ],
+     "list": [
+      "Yaralanma anında çıtırtı ya da kopma sesi duyulduysa",
+      "Bilek şekil değiştirmiş ya da eğri görünüyorsa",
+      "Ayakta uyuşma, karıncalanma, soğukluk ya da mavi-gri renk varsa",
+      "Ayağa hiç basılamıyorsa",
+      "Ağrı ve şişlik evde bakıma rağmen artıyor ya da düzelmiyorsa"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Burkulan ayak bileği kaç haftada geçer?",
+     "a": "Hafif ve orta şiddetteki burkulmalarda çoğu kişi yaklaşık iki haftada rahatlar. Koşu gibi zorlayıcı etkinliklere dönüş sekiz haftayı bulabilir, ağır bağ yırtıkları aylar sürebilir [2]."
+    },
+    {
+     "q": "Burkulmada röntgen şart mı?",
+     "a": "Her zaman değil. Ottawa kuralları belirli kemik noktalarındaki hassasiyete ve yürüyebilmeye bakarak kırığı güvenilir biçimde dışlar; kurallardan biri olumluysa röntgen çekilir [5]."
+    },
+    {
+     "q": "Alçıya alınmak gerekir mi?",
+     "a": "Genellikle hayır. Kısa süreli koruma ağrıyı rahatlatabilir, ancak erken hareket, bant ya da atel ve egzersiz programı uzun süreli alçıdan daha iyi sonuç verir [3][4]."
+    },
+    {
+     "q": "Burkulan ayağa basılır mı?",
+     "a": "Ağrının elverdiği ölçüde kontrollü ve erken yük vermek iyileşmeyi destekler [1][4]. Ayağa hiç basılamıyorsa kırık açısından değerlendirilmelidir [2][5]."
+    },
+    {
+     "q": "Aynı bilek tekrar burkulmasın diye ne yapılmalı?",
+     "a": "Rehabilitasyon programını tamamlamak, denge ve güç egzersizlerini sürdürmek ve sporda atel kullanmak yeni burkulma riskini azaltır [1][3][4]."
+    }
+   ],
+   "note": "Kliniğimizde burkulma sonrası önce ayağınızı muayene eder, röntgen gerekip gerekmediğine birlikte karar veririz."
+  },
+  "en": {
+   "slug": "ankle-sprain-when-is-an-xray-needed",
+   "title": "Ankle sprain: when is an X-ray needed?",
+   "description": "How do you tell a sprain from a fracture after rolling your ankle? The Ottawa rules, treatment with early movement and exercise, recovery time and the rare cases that need surgery.",
+   "summary": "An ankle sprain is a stretch or tear of the ligaments that support the ankle, most often when the foot rolls inwards [1]. Almost all sprains heal without surgery: protection and cold in the first days, then early movement, tape or a brace, and balance and strength exercises [1][3][4]. Most people feel clearly better in about two weeks; getting back to demanding activity such as running can take up to eight weeks, and severe sprains can take months [2].",
+   "sections": [
+    {
+     "h": "What happens in a sprain?",
+     "p": [
+      "The strong ligaments that hold the ankle together are stretched past their normal limit and partly or completely torn. In most sprains the foot rolls inwards and the ligaments on the outer side of the ankle are hurt; the inner ligaments are affected less often [1].",
+      "Sprains are graded in three degrees. In grade 1 the ligament is only stretched and symptoms are mild. Grade 2 is a partial tear with moderate swelling and some looseness. In grade 3 the ligament is torn through, pain is marked and the ankle feels unstable [1]."
+     ]
+    },
+    {
+     "h": "Symptoms",
+     "p": [
+      "How strong the symptoms are depends on the damage to the ligaments. Common ones are [1][2]:"
+     ],
+     "list": [
+      "Pain that increases when standing or moving",
+      "Swelling and bruising on the outer side of the ankle",
+      "Tenderness when touched",
+      "Difficulty putting weight on the foot",
+      "A feeling that the ankle may give way"
+     ]
+    },
+    {
+     "h": "Causes and who is at risk of another sprain",
+     "p": [
+      "A sprain usually happens when the foot twists on uneven ground, in a fall, or in sports with jumping and sudden changes of direction [1]. Taking part in some sports raises the risk [3].",
+      "Poor balance, naturally loose ligaments, unsuitable footwear and an earlier sprain are the main risk factors for a new sprain [1]."
+     ]
+    },
+    {
+     "h": "Is an X-ray needed for every sprain?",
+     "p": [
+      "The diagnosis is usually made by examination: swelling, tender spots, movement and stability of the ligaments are checked [1].",
+      "Not every sprain needs an X-ray. The Ottawa ankle rules look at tenderness over certain bony points and whether you can take a few steps; they rule out a fracture reliably and cut down unnecessary X-rays [5]. If a fracture is suspected an X-ray is taken, and stress views or an MRI scan may be used when ligament or cartilage damage is suspected [1].",
+      "The degree of ligament injury is judged more accurately at an examination four to five days after the injury, once pain and swelling have settled [3]."
+     ]
+    },
+    {
+     "h": "The first days",
+     "p": [
+      "For the first two to three days protection, rest, ice, compression with an elastic bandage and elevation are recommended. Ice is wrapped in a cloth, used for short periods every few hours; heat, alcohol and massage are best avoided at this stage [2].",
+      "Anti-inflammatory painkillers can ease pain and swelling, but they may have side effects and could affect healing, so they should be used on medical advice [3][4]."
+     ]
+    },
+    {
+     "h": "Cast, brace or exercise?",
+     "p": [
+      "A short period of immobilisation can ease pain and swelling. The evidence, however, favours early movement with tape or a brace together with an exercise programme over a long time in a cast [3][4].",
+      "Rehabilitation usually has three phases: controlling pain and swelling with protected weight-bearing; then range of movement, strength and balance work; and finally advanced strengthening, balance (proprioception) training and a gradual return to sport [1]. Supervised exercise programmes are preferred over passive treatments [3]."
+     ]
+    },
+    {
+     "h": "When is surgery considered?",
+     "p": [
+      "Almost all ankle sprains heal without an operation [1]. Surgery is considered for people whose symptoms continue and whose ankle keeps giving way despite a thorough, well-followed exercise programme [3]. Problems inside the joint can then be treated by arthroscopy, or the damaged ligaments can be repaired or reconstructed [1]."
+     ]
+    },
+    {
+     "h": "Recovery time and preventing another sprain",
+     "p": [
+      "Most people feel clearly better within about two weeks. Return to demanding activities such as running can take up to eight weeks, and severe sprains may take months [2].",
+      "Stopping rehabilitation too early is the main reason an ankle stays chronically unstable [1]. A brace and balance and coordination exercises help prevent another sprain [3][4], and exercise-based rehabilitation lowers the risk of re-injury [4]. For people who have sprained an ankle before, there is strong evidence that wearing a brace during sport helps prevent another one [4].",
+      "Warming up well before exercise, strengthening the muscles around the ankle, wearing supportive shoes and taking care on uneven ground are also advised [1]."
+     ]
+    },
+    {
+     "h": "When not to wait: go to the emergency department",
+     "p": [
+      "These can point to a fracture, a dislocation or a problem with blood supply or nerves, so go without delay if [2]:"
+     ],
+     "list": [
+      "You heard a crack or snap at the time of injury",
+      "The ankle looks deformed or out of shape",
+      "The foot is numb, tingling, cold, or blue or grey in colour",
+      "You cannot put any weight on the foot",
+      "Pain and swelling keep getting worse or do not improve with home care"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "How long does a sprained ankle take to heal?",
+     "a": "With mild and moderate sprains most people feel better in about two weeks. Return to demanding sports such as running can take up to eight weeks, and severe ligament tears may take months [2]."
+    },
+    {
+     "q": "Do I always need an X-ray?",
+     "a": "No. The Ottawa ankle rules check tenderness over specific bony points and the ability to walk and reliably rule out a fracture; if a rule is positive, an X-ray is taken [5]."
+    },
+    {
+     "q": "Will I need a cast?",
+     "a": "Usually not. Brief protection can ease pain, but early movement with tape or a brace plus an exercise programme gives better results than a long spell in a cast [3][4]."
+    },
+    {
+     "q": "Can I walk on a sprained ankle?",
+     "a": "Controlled, early weight-bearing as far as pain allows supports healing [1][4]. If you cannot put any weight on the foot it should be checked for a fracture [2][5]."
+    },
+    {
+     "q": "How can I stop it happening again?",
+     "a": "Completing the full rehabilitation programme, continuing balance and strength exercises and wearing a brace during sport all lower the risk of another sprain [1][3][4]."
+    }
+   ],
+   "note": "At our clinic we first examine the ankle after a sprain and decide with you whether an X-ray is needed."
+  }
+ }
+}

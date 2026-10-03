@@ -1,0 +1,259 @@
+{
+ "id": "ankle-fracture-clinic",
+ "area": "kirik-travma",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Ankle Fractures (Broken Ankle)",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/ankle-fractures-broken-ankle",
+   "year": ""
+  },
+  {
+   "title": "Broken ankle",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/broken-ankle/",
+   "year": "2025"
+  },
+  {
+   "title": "BOAST – The Management of Ankle Fractures",
+   "publisher": "British Orthopaedic Association",
+   "url": "https://www.boa.ac.uk/resource/boast-12-pdf.html",
+   "year": "2016"
+  },
+  {
+   "title": "Fractures (non-complex): assessment and management (NG38)",
+   "publisher": "National Institute for Health and Care Excellence (NICE)",
+   "url": "https://www.nice.org.uk/guidance/ng38",
+   "year": "2016"
+  },
+  {
+   "title": "Close Contact Casting vs Surgery for Initial Treatment of Unstable Ankle Fractures in Older Adults: A Randomized Clinical Trial",
+   "publisher": "JAMA (Willett K, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27727383/",
+   "year": "2016"
+  },
+  {
+   "title": "Rehabilitation for ankle fractures in adults (Cochrane Review)",
+   "publisher": "Cochrane Database of Systematic Reviews (Lewis SR, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39312389/",
+   "year": "2024"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "ayak-bilegi-kirigi-alci-mi-ameliyat-mi",
+   "title": "Ayak bileği kırığı: alçı mı, ameliyat mı, ne zaman basılır?",
+   "description": "Ayak bileği kırığı burkulmadan nasıl ayrılır? Alçı ya da bot ile ameliyat arasındaki seçim, ne zaman yük verilir, iyileşme süresi ve ileri yaşta karar.",
+   "summary": "Ayak bileği kırığı, eklemi oluşturan kaval kemiği (tibia) ve incik dışındaki ince kemiğin (fibula) alt uçlarından birinin ya da birkaçının kırılmasıdır; çoğunlukla bileğin bükülmesi ya da düşme sonucu olur [1]. Yerinden oynamamış, stabil kırıklar alçı ya da yürüme botuyla izlenir; yer değiştirmiş ya da dengesiz kırıklarda genellikle plak ve vidalarla ameliyat gerekir [1]. Kemiğin ilk iyileşmesi en az 6 hafta, tam kaynaması 10-12 hafta sürer; tam toparlanma daha uzun olabilir [1].",
+   "sections": [
+    {
+     "h": "Bilek eklemi ve kırık türleri",
+     "p": [
+      "Bilek eklemi üç kemikten oluşur: kaval kemiği (tibia), baldırın dışındaki ince kemik (fibula) ve topuk kemiğinin üstünde duran talus. Bileğin iç yanındaki çıkıntı medial malleol, dış yanındaki lateral malleol, kaval kemiğinin arka kısmı ise posterior malleoldür [1].",
+      "Kırık bu bölgelerden yalnızca birini ya da ikisini, üçünü birden tutabilir. Tibia ile fibulayı bir arada tutan bağlar (sindesmoz) da zarar görebilir. Kaç kemiğin kırıldığı ve eklemin dengeli kalıp kalmadığı tedaviyi belirler [1]."
+     ]
+    },
+    {
+     "h": "Burkulmadan nasıl ayrılır?",
+     "p": [
+      "Ayrımı muayene ve röntgen yapar: Ottawa ayak bileği kuralları röntgen gerekip gerekmediğine karar vermeye yardımcı olur, kesin yanıtı röntgen verir [1][4].",
+      "Ayak bileği kırığı burkulmaya benzer yakınmalar verebilir. En sık görülenler [1][2]:"
+     ],
+     "list": [
+      "Ani ve şiddetli ağrı",
+      "Belirgin şişlik ve morarma",
+      "Dokununca hassasiyet",
+      "Ayağa basamama",
+      "Eklem de çıktıysa bileğin şekil bozukluğu",
+      "Bazen ayakta uyuşma ya da soğukluk"
+     ]
+    },
+    {
+     "h": "Neden olur?",
+     "p": [
+      "Çoğu kırık yürürken ya da koşarken ayağın bükülmesi ya da yan dönmesiyle olur. Yüksekten düşme ve trafik kazaları da bileği kırabilir [1].",
+      "Şeker hastalığı ve yol açabildiği sinir hasarı (periferik nöropati) gibi durumlar iyileşmeyi ve tedavi seçimini etkileyebildiği için hekim planlama sırasında bunları sorar [3]."
+     ]
+    },
+    {
+     "h": "Tanı nasıl konur?",
+     "p": [
+      "Önce bilek ve ayak muayene edilir; cilt, kan dolaşımı ve his kontrol edilir [3]. Tanı çoğunlukla röntgenle konur. Eklemin yük altında dengeli kalıp kalmadığını görmek için stres grafileri çekilebilir; ameliyat planı için BT, bağ yaralanmasından kuşkulanılırsa MR kullanılabilir [1].",
+      "Bilek gözle görülür biçimde şekil değiştirmişse, cildi ve dolaşımı korumak için gecikmeden yerine oturtulur ve atellenir [3]."
+     ]
+    },
+    {
+     "h": "Ameliyatsız tedavi",
+     "p": [
+      "Yerinden oynamamış, stabil kırıklar alçı ya da yürüme botuyla tedavi edilebilir [1]. Yalnızca tek malleolu tutan stabil kırıklarda kılavuzlar, rahatlık elverdiğince hemen tam yük vermeye izin verilmesini, stabilite belirsizse iki hafta içinde ortopedi kontrolünü önerir [4]. Çoğu kişi atel ya da alçıdayken toleransı ölçüsünde yük verebilir [3]."
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman gerekir?",
+     "p": [
+      "Kemik parçaları yer değiştirmişse ya da eklem dengesizse genellikle ameliyat gerekir; kırık, kırığın türüne ve yerine göre plak, vida, çubuk ya da çivilerle tespit edilir [1].",
+      "Dengesiz kırıklarda kılavuzlar, 60 yaşın altındaki çoğu kişide erken ameliyatı, yani yaralanma gününde ya da ertesi gün yapılmasını önerir [3][4]."
+     ]
+    },
+    {
+     "h": "İleri yaşta karar",
+     "p": [
+      "Yaşlılarda ameliyat sonrası enfeksiyon ve yara iyileşmesi sorunları önemli bir kaygıdır; bu yüzden ameliyatın yararı ve riski daha dikkatle tartılır [5].",
+      "60 yaşın üzerinde, dengesiz ayak bileği kırığı olan 620 kişide yapılan bir çalışmada, ameliyathanede uygulanan, bileğe iyice oturtulmuş (close-contact) alçı, 6. ayda ameliyatla benzer bilek işlevi sağlamıştır. Ameliyat sonrası enfeksiyon ve yara sorunları daha sık, alçıda ise kemiğin yanlış yerde kaynaması daha sık görülmüş; alçı grubundan bazı kişilerin sonradan ameliyata ihtiyacı olmuştur [5]. Bu nedenle ileri yaşta ve ek hastalığı olanlarda karar, yarar ve riskler konuşularak verilir."
+     ]
+    },
+    {
+     "h": "İyileşme ve ne zaman basılır?",
+     "p": [
+      "Erken iyileşme en az 6 hafta, kemiğin tam kaynaması 10-12 hafta sürer. Tam toparlanma daha uzun olabilir, bazı kırıklarda iki yıla kadar uzar [1]. Hafif kırıklar sıklıkla 6-8 haftada iyileşir [2].",
+      "Ameliyattan sonra erken yük vermek ve çıkarılabilir bilek desteği kullanmak ilk aylarda biraz daha iyi sonuç verebilir; fark küçüktür ve her zaman hissedilmez. Belirli bir fizyoterapi yönteminin diğerinden üstün olup olmadığı belirsizdir [6]. Yine de bilek hareketini ve gücü geri kazanmak için düzenli egzersiz önemlidir [1].",
+      "Ameliyattan sonraki 6 hafta içinde kırığın tuttuğunu ve komplikasyon olmadığını kontrol etmek için poliklinik muayenesi önerilir; kan pıhtısı riski de kişiye göre değerlendirilir [3].",
+      "Olası sorunlar arasında sertlik, uzun süren şişlik, kemiğin yanlış yerde kaynaması ya da kaynamaması, enfeksiyon, sinir hasarı ve ilerleyen yıllarda artrit sayılır [1]. Sağ bileği kırılıp ameliyat olanlar genellikle 9-12 hafta sonra yeniden araba kullanabilir [1]; alçı ya da botla izlenenlerde bu, alçı ya da botun çıkarılmasına ve güvenle fren yapabilmeye bağlıdır, hekiminize danışın."
+     ]
+    },
+    {
+     "h": "Beklemeden acile gidilmesi gerekenler",
+     "p": [
+      "Şunlardan biri varsa gecikmeden acil servise gidin [2]:"
+     ],
+     "list": [
+      "Bilekte belirgin şekil bozukluğu ya da garip bir açı",
+      "Kemiğin deriden çıkması ya da derin bir yara",
+      "Çok şiddetli ağrı",
+      "Ayak parmaklarının mavi ya da beyaz görünmesi ya da uyuşması",
+      "Alçı ya da atelliyken: giderek artan ağrı, ayakta uyuşma ya da yanma veya parmaklarda şişlik ve mavi-beyaz renkle birlikte alçının fazla sıkması",
+      "Hastaneye varana kadar: bacağı yüksekte tutun, bezle sarılı buzu 15-20 dakika uygulayın, bileği gevşekçe sarın, takıları çıkarın ve ameliyat gerekebileceği için yiyip içmeyin"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kırık ile burkulmayı nasıl ayırırım?",
+     "a": "Yakınmalar benzer olabilir. Hekim röntgen gerekip gerekmediğine Ottawa kurallarıyla karar verir, kesin yanıtı röntgen verir [1][4]."
+    },
+    {
+     "q": "Kırık bileğe ne zaman basabilirim?",
+     "a": "Stabil kırıklarda rahatlık elverdiğince erken yük vermeye genellikle izin verilir [3][4]. Ameliyattan sonra erken yük vermek de genel olarak güvenlidir; ancak karar kırığa ve tespite göre hekim tarafından verilir [6]."
+    },
+    {
+     "q": "İleri yaşta ayak bileği kırığı her zaman ameliyat mı gerektirir?",
+     "a": "Hayır. 60 yaş üstünde iyi oturtulmuş close-contact alçı 6. ayda ameliyatla benzer işlev sağlamıştır; buna karşılık kemiğin yanlış yerde kaynama riski daha yüksektir [5]."
+    },
+    {
+     "q": "Kırık bilek kaç haftada kaynar?",
+     "a": "Kemik genellikle 6-12 haftada kaynar. Bileğin gücünü tam geri kazanmak birkaç ay sürebilir [1][2]."
+    }
+   ],
+   "note": "Kliniğimizde kararı kırığın kaç kemiği tuttuğuna, bileğin dengeli olup olmadığına, cildin durumuna ve sizin diğer hastalıklarınıza bakarak sizinle konuşarak veririz."
+  },
+  "en": {
+   "slug": "ankle-fracture-cast-or-surgery",
+   "title": "Ankle fracture: cast or surgery, and when can you put weight on it?",
+   "description": "How is a broken ankle told apart from a sprain? Choosing between a cast or boot and surgery, when to bear weight, recovery time and decisions in older age.",
+   "summary": "An ankle fracture is a break in one or more of the lower ends of the shinbone (tibia) and the thinner leg bone (fibula) that form the ankle joint, usually after a twist or a fall [1]. Stable fractures that have not shifted are treated in a cast or walking boot; displaced or unstable fractures usually need surgery with plates and screws [1]. Early bone healing takes at least 6 weeks and full healing 10-12 weeks, and complete recovery can take longer [1].",
+   "sections": [
+    {
+     "h": "The ankle joint and types of fracture",
+     "p": [
+      "The ankle joint is made of three bones: the shinbone (tibia), the thinner bone beside it (fibula) and the talus, which sits above the heel bone. The bump on the inner side is the medial malleolus, the one on the outer side the lateral malleolus, and the back of the tibia the posterior malleolus [1].",
+      "A fracture can involve one of these areas, or two or three at once. The ligaments holding the tibia and fibula together (the syndesmosis) can be injured as well. How many bones are broken and whether the joint stays stable decide the treatment [1]."
+     ]
+    },
+    {
+     "h": "How is it told apart from a sprain?",
+     "p": [
+      "To tell them apart the doctor examines you and uses the Ottawa ankle rules to decide whether an X-ray is needed; the X-ray gives the definite answer [1][4].",
+      "An ankle fracture can feel like a sprain. The most common symptoms are [1][2]:"
+     ],
+     "list": [
+      "Sudden, severe pain",
+      "Marked swelling and bruising",
+      "Tenderness when touched",
+      "Being unable to put weight on the foot",
+      "A deformed ankle if the joint is also dislocated",
+      "Sometimes numbness or coldness in the foot"
+     ]
+    },
+    {
+     "h": "Causes",
+     "p": [
+      "Most fractures happen when the foot twists or rolls while walking or running. Falls from a height and road accidents can also break the ankle [1].",
+      "Diabetes and the nerve damage it can cause (peripheral neuropathy) can affect healing and the choice of treatment, so the doctor asks about them when planning care [3]."
+     ]
+    },
+    {
+     "h": "How is it diagnosed?",
+     "p": [
+      "The ankle and foot are examined first, checking the skin, blood supply and feeling [3]. Diagnosis is usually made with X-rays. Stress views may be taken to see whether the joint stays stable under load; a CT scan may be used to plan surgery and an MRI scan if a ligament injury is suspected [1].",
+      "If the ankle is visibly deformed it is put back into position and splinted without delay to protect the skin and circulation [3]."
+     ]
+    },
+    {
+     "h": "Treatment without surgery",
+     "p": [
+      "Stable fractures that have not shifted can be treated in a cast or walking boot [1]. For stable fractures involving only one malleolus, guidelines recommend allowing full weight-bearing as comfort allows straight away, with an orthopaedic review within two weeks if stability is uncertain [4]. Most people can bear weight as tolerated in a splint or cast [3]."
+     ]
+    },
+    {
+     "h": "When is surgery needed?",
+     "p": [
+      "If the bone fragments have shifted or the joint is unstable, surgery is usually needed. The fracture is fixed with plates, screws, rods or nails, chosen according to the type and location of the break [1].",
+      "For unstable fractures, guidelines recommend early surgery for most people under 60, on the day of injury or the next day [3][4]."
+     ]
+    },
+    {
+     "h": "Deciding in older age",
+     "p": [
+      "In older people infection and wound-healing problems after surgery are an important concern, so the benefits and risks are weighed more carefully [5].",
+      "In a trial of 620 people over 60 with unstable ankle fractures, a carefully moulded close-contact cast applied in the operating theatre gave similar ankle function to surgery at 6 months. Infection and wound problems were more common after surgery, while the bone healing out of position was more common with casting, and some people in the cast group later needed surgery [5]. For older people and those with other health problems the decision is therefore made after discussing benefits and risks."
+     ]
+    },
+    {
+     "h": "Recovery and weight-bearing",
+     "p": [
+      "Early healing takes at least 6 weeks and full bone healing 10-12 weeks. Complete recovery can take longer, up to two years for some fractures [1]. Minor breaks often heal in 6-8 weeks [2].",
+      "After surgery, bearing weight early and using a removable ankle support may give slightly better results in the first months, but the difference is small and not always noticeable. It is unclear whether any particular physiotherapy method is better than another [6]. Regular exercise is still important for regaining movement and strength [1].",
+      "A clinic review within 6 weeks of surgery is recommended to check that the fracture is holding and there are no complications; the risk of blood clots is also assessed for each person [3].",
+      "Possible problems include stiffness, long-lasting swelling, the bone healing in the wrong position or not healing, infection, nerve damage and arthritis in later years [1]. People whose broken right ankle was treated with surgery can usually drive again after 9-12 weeks [1]. After a cast or boot, driving depends on being out of it and able to brake safely, so ask your doctor."
+     ]
+    },
+    {
+     "h": "When not to wait: urgent care",
+     "p": [
+      "Go to an emergency department straight away if you notice [2]:"
+     ],
+     "list": [
+      "An obvious deformity or odd angle of the ankle",
+      "Bone showing through the skin or a deep wound",
+      "Very severe pain",
+      "Toes that look blue or white or feel numb",
+      "In a cast or splint: pain that keeps getting worse, numbness or burning in the foot or toes, or a cast that feels too tight with swollen, blue or white toes",
+      "Until you reach hospital: keep the leg raised, apply ice wrapped in a cloth for 15-20 minutes, wrap the ankle loosely, remove jewellery, and do not eat or drink in case surgery is needed"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "How can I tell a broken ankle from a sprain?",
+     "a": "The symptoms can be similar. A doctor uses the Ottawa ankle rules to decide whether an X-ray is needed, and the X-ray gives the definite answer [1][4]."
+    },
+    {
+     "q": "When can I put weight on a broken ankle?",
+     "a": "With stable fractures, early weight-bearing as comfort allows is usually permitted [3][4]. Early weight-bearing after surgery is also generally safe, but the decision depends on the fracture and the fixation and is made by your doctor [6]."
+    },
+    {
+     "q": "Does a broken ankle in an older person always need surgery?",
+     "a": "No. In people over 60 a carefully applied close-contact cast gave similar function to surgery at 6 months, although the risk of the bone healing out of position was higher [5]."
+    },
+    {
+     "q": "How long does a broken ankle take to heal?",
+     "a": "The bone usually heals in 6-12 weeks. Regaining full strength of the ankle can take several months [1][2]."
+    }
+   ],
+   "note": "At our clinic we decide with you after looking at how many bones are broken, whether the ankle is stable, the state of the skin and your other health conditions."
+  }
+ }
+}

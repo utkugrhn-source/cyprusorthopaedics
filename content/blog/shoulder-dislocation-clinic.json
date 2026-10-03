@@ -1,0 +1,247 @@
+{
+ "id": "shoulder-dislocation-clinic",
+ "area": "omuz-dirsek",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Dislocated shoulder",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/dislocated-shoulder/",
+   "year": "2026"
+  },
+  {
+   "title": "Shoulder Dislocation",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/dislocated-shoulder",
+   "year": ""
+  },
+  {
+   "title": "Chronic Shoulder Instability",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/chronic-shoulder-instability",
+   "year": ""
+  },
+  {
+   "title": "BESS/BOA Patient Care Pathways: Traumatic anterior shoulder instability (Brownson P, et al.)",
+   "publisher": "British Elbow & Shoulder Society / British Orthopaedic Association, Shoulder & Elbow",
+   "url": "https://journals.sagepub.com/doi/10.1177/1758573215585656",
+   "year": "2015"
+  },
+  {
+   "title": "Shoulder Stabilization Versus Immobilization for First-Time Anterior Shoulder Dislocation: A Systematic Review and Meta-analysis of Level 1 Randomized Controlled Trials (Belk JW, et al.)",
+   "publisher": "The American Journal of Sports Medicine",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35148222/",
+   "year": "2022"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "omuz-cikigi-sonrasi-tedavi-ameliyat-gerekir-mi",
+   "title": "Omuz çıkığı: yerine takıldıktan sonra ne olur, ameliyat gerekir mi?",
+   "description": "Omuz çıkığında ilk yardım, hastanede yerine takılması, askı ve fizyoterapi süreci; tekrar çıkma riski ve ilk çıkıktan sonra ameliyatın ne zaman konuşulduğu.",
+   "summary": "Omuz çıkığı, kol kemiğinin yuvarlak başının omuz yuvasından çıkmasıdır ve çoğu olguda omuz öne doğru çıkar [1][2]. Omuz hastanede, ağrı kesici ya da sedasyon altında hekim tarafından yerine takılır; ardından kısa süre askı ve fizyoterapi uygulanır, iyileşme genellikle 6 ile 12 hafta sürer [1][2][4]. Tekrar çıkma riski özellikle temas sporları yapan genç erkeklerde yüksektir ve bu grupta ilk çıkıktan sonra ameliyat konuşulabilir [1][4][5].",
+   "sections": [
+    {
+     "h": "Omuz çıkığında ne olur?",
+     "p": [
+      "Omuz top ve yuva biçiminde bir eklemdir: üst kol kemiğinin (humerus) yuvarlak başı kürek kemiğindeki sığ bir yuvaya oturur. Yuvanın kenarındaki kıkırdak halka (labrum), bağlar ve rotator manşet kasları eklemi yerinde tutar [2].",
+      "Çıkıkta kemik başı yuvadan tamamen ayrılır; büyük çoğunluğu öne doğrudur (ön omuz çıkığı). Bazen kemik yuvadan yalnızca kısmen çıkıp kendiliğinden yerine dönebilir [2]."
+     ]
+    },
+    {
+     "h": "Nasıl anlaşılır?",
+     "p": [
+      "Çıkık genellikle ani ve şiddetli ağrıyla fark edilir [1][2]:"
+     ],
+     "list": [
+      "Kolun hareket ettirilememesi",
+      "Omuzda gözle görülür şekil bozukluğu, omuz yuvarlaklığının kaybolması",
+      "Şiddetli ağrı, şişlik ve morarma",
+      "Kolda uyuşma ya da güçsüzlük"
+     ]
+    },
+    {
+     "h": "Neden olur, tekrar çıkar mı?",
+     "p": [
+      "Çıkık çoğunlukla güçlü bir darbeyle oluşur: spor sırasında düşme ya da çarpışma, yüksekten düşme ve trafik kazaları en sık nedenlerdir. Nöbet ve elektrik çarpması da omzun çıkmasına yol açabilir [2].",
+      "İlk çıkıkta yuvanın kenarındaki labrum yırtılabilir (Bankart lezyonu); bu yırtık ve gevşeyen bağlar omzun sonradan tekrar çıkmasına zemin hazırlayabilir [3]. Tekrar çıkma riski yaşla yakından ilişkilidir ve temas ya da baş üstü sporlar yapan genç erkeklerde en yüksektir [1][4]."
+     ]
+    },
+    {
+     "h": "Tanı nasıl konur?",
+     "p": [
+      "Omuz yerine takılmadan önce hekim koldaki sinir ve dolaşımı kontrol eder; bu kontrol yerine takıldıktan sonra tekrarlanır [4].",
+      "Çıkığı doğrulamak ve eşlik eden kırığı görmek için iki farklı açıdan röntgen çekilir, yerine takıldıktan sonra yinelenir [2][4]. Bağ ve kıkırdak hasarı için sonradan MR ya da BT istenebilir. 40 ila 60 yaş arasında çıkığa rotator manşet yırtığı eşlik etme olasılığı arttığı için ultrason ya da MR ile değerlendirme önerilir [2][4]."
+     ]
+    },
+    {
+     "h": "İlk yardım ve yerine takılması",
+     "p": [
+      "Çıkık omzu kendiniz ya da çevrenizdekilerin yerine takmaya çalışması önerilmez; bu işlem hastanede hekim tarafından yapılmalıdır. Hastaneye giderken kol hareket ettirilmeden desteklenir, soğuk uygulama yapılabilir [1].",
+      "Hastanede omuz, ağrı kesici ya da sedasyon altında yuvasına yerleştirilir (kapalı redüksiyon); bu çoğu zaman ağrıyı hemen belirgin biçimde azaltır [1][2]."
+     ]
+    },
+    {
+     "h": "Askı ve fizyoterapi",
+     "p": [
+      "Yerine takıldıktan sonra kol bir askıyla desteklenir. Uzun süre hareketsiz bırakmanın tekrar çıkma riskini azaltmadığı gösterilmiştir; bu nedenle ağrı izin verdikçe erken harekete başlanması önerilir [4].",
+      "Fizyoterapi hafif hareket egzersizleriyle başlar, ardından omuzu çevreleyen kasların güçlendirilmesiyle sürer ve genellikle birkaç hafta ile üç ay arasında devam eder [2][4]."
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman konuşulur?",
+     "p": [
+      "Tekrarlayan çıkıklarda ya da bağ veya kemik hasarı olanlarda ameliyat önerilebilir: gevşeyen bağlar sıkılaştırılır, yırtılan labrum yuvaya dikilir, kemik kaybı varsa o da giderilir [2][3]. İşlem çoğunlukla artroskopik (kapalı) yapılır; karmaşık durumlarda açık cerrahi gerekebilir [3].",
+      "İlk çıkıktan sonra ameliyat, özellikle temas sporu yapan genç ve aktif hastalar için konuşulabilir [2][4]. Randomize çalışmaların bir meta-analizinde ilk çıkıktan sonra ameliyat olanlarda tekrar çıkma oranı yaklaşık %6, yalnızca askıyla izlenenlerde yaklaşık %47 bulunmuştur [5]. Karar yaşa, spor ve iş beklentilerine, muayene ve görüntüleme bulgularına göre hastayla birlikte verilir."
+     ]
+    },
+    {
+     "h": "İyileşme ne kadar sürer?",
+     "p": [
+      "İyileşme genellikle 6 ile 12 hafta sürer; spora dönüş daha uzun olabilir ve 16 haftayı ya da daha fazlasını bulabilir [1]. Omuz çevresindeki kasları güçlü tutmak omzun yeniden gevşemesini ve çıkmasını önlemeye yardımcı olur; günlük işlere ve spora dönüş zamanına hekim ve fizyoterapist birlikte karar verir [1][2]."
+     ]
+    },
+    {
+     "h": "Beklememeniz gereken durumlar",
+     "p": [
+      "Hemen acil servise başvurun; kendiniz araç kullanmayın, gerekirse acil yardım çağırın (Kuzey Kıbrıs ve Türkiye'de 112) [1]:"
+     ],
+     "list": [
+      "Yaralanmadan sonra kol hareket ettirilemiyorsa",
+      "Omuzda şekil bozukluğu ya da yerinden çıkmış görünüm varsa",
+      "Kolda ya da elde uyuşma veya güçsüzlük varsa: ağır çıkıklarda sinir ya da damar hasarı görülebilir [2]",
+      "Daha önce çıkmış omuz yeniden çıktıysa ya da sürekli kayıyormuş gibi hissediliyorsa [3]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Çıkan omuz kendiliğinden yerine girebilir mi?",
+     "a": "Kısmi çıkıklar bazen kendiliğinden yerine dönebilir [2]. Yine de omzu kendiniz yerine takmaya çalışmayın; bu işlem hastanede hekim tarafından yapılmalıdır [1]."
+    },
+    {
+     "q": "Askı ne kadar süre kullanılır?",
+     "a": "Kısa süre. Bir haftadan uzun hareketsizliğin tekrar çıkma riskini azaltmadığı bildirilmiştir; ağrı izin verdikçe erken hareket önerilir [4]."
+    },
+    {
+     "q": "Omuz çıkığı ne kadar sürede iyileşir?",
+     "a": "Genellikle 6 ile 12 hafta; spora dönüş 16 haftayı ya da daha fazlasını bulabilir [1]."
+    },
+    {
+     "q": "İlk çıkıktan sonra ameliyat olmalı mıyım?",
+     "a": "Temas sporu yapan genç ve aktif hastalarda tekrar çıkma riski yüksektir ve ilk çıkıktan sonra ameliyat bu riski belirgin biçimde azaltmıştır (yaklaşık %6 ve %47). Diğer hastalarda genellikle fizyoterapiyle başlanır; karar hekimle birlikte verilir [4][5]."
+    },
+    {
+     "q": "Omuz tekrar çıkar mı?",
+     "a": "Risk yaşa ve iyileşmenin kalitesine bağlıdır; en yüksek risk temas sporu yapan genç erkeklerdedir. Düzenli egzersizle kasları güçlü tutmak riski azaltmaya yardımcı olur [1][2][4]."
+    }
+   ],
+   "note": "Kliniğimizde çıkık yerine takıldıktan sonra yaşınıza, sporunuza ve görüntüleme bulgularına bakarak fizyoterapiyle mi başlayacağımızı yoksa ameliyatı mı konuşacağımızı sizinle birlikte belirleriz."
+  },
+  "en": {
+   "slug": "shoulder-dislocation-treatment-and-surgery",
+   "title": "Dislocated shoulder: what happens after it is put back, and is surgery needed?",
+   "description": "First aid for a dislocated shoulder, putting it back in hospital, sling and physiotherapy; the risk of it coming out again and when surgery is discussed after a first dislocation.",
+   "summary": "A shoulder dislocation is when the rounded head of the upper arm bone comes out of the shoulder socket, and in most cases the shoulder comes out towards the front [1][2]. A doctor puts the shoulder back in hospital under pain relief or sedation, followed by a short time in a sling and physiotherapy; recovery usually takes 6 to 12 weeks [1][2][4]. The risk of it coming out again is highest in young men who play contact sports, and surgery can be discussed after a first dislocation in this group [1][4][5].",
+   "sections": [
+    {
+     "h": "What happens in a dislocation?",
+     "p": [
+      "The shoulder is a ball-and-socket joint: the rounded head of the upper arm bone (humerus) sits in a shallow socket in the shoulder blade. The ring of cartilage around the socket rim (the labrum), the ligaments and the rotator cuff muscles hold the joint in place [2].",
+      "In a dislocation the head of the bone separates fully from the socket, most often towards the front (anterior dislocation). Sometimes the bone comes only partly out and may slip back by itself [2]."
+     ]
+    },
+    {
+     "h": "How do you recognise it?",
+     "p": [
+      "A dislocation usually announces itself with sudden, severe pain [1][2]:"
+     ],
+     "list": [
+      "Being unable to move the arm",
+      "A visible change in shape, with the normal roundness of the shoulder lost",
+      "Severe pain, swelling and bruising",
+      "Numbness or weakness in the arm"
+     ]
+    },
+    {
+     "h": "Why does it happen, and can it come out again?",
+     "p": [
+      "A dislocation usually follows a forceful blow: a fall or collision in sport, a fall from height and road accidents are the commonest causes. Seizures and electric shock can also make the shoulder come out [2].",
+      "In the first dislocation the labrum on the rim of the socket can tear (a Bankart lesion); this tear and stretched ligaments can set the stage for the shoulder coming out again later [3]. The risk of recurrence is closely tied to age and is highest in young men who play contact or overhead sports [1][4]."
+     ]
+    },
+    {
+     "h": "How is it diagnosed?",
+     "p": [
+      "Before the shoulder is put back, the doctor checks nerve and circulation in the arm and repeats the check afterwards [4].",
+      "X-rays from two different angles confirm the dislocation and show any accompanying fracture, and are repeated after the shoulder is back in place [2][4]. MRI or CT may be requested later for ligament and cartilage damage. Between ages 40 and 60 a rotator cuff tear is more likely to accompany a dislocation, so an ultrasound or MRI assessment is advised [2][4]."
+     ]
+    },
+    {
+     "h": "First aid and putting the shoulder back",
+     "p": [
+      "Neither you nor bystanders should try to put a dislocated shoulder back; this should be done in hospital by a doctor. On the way to hospital the arm is supported without moving it and a cold pack can be used [1].",
+      "In hospital the shoulder is guided back into its socket under pain relief or sedation (closed reduction), which often eases the pain markedly straight away [1][2]."
+     ]
+    },
+    {
+     "h": "Sling and physiotherapy",
+     "p": [
+      "Afterwards the arm is supported in a sling. Keeping the arm still for a long time has not been shown to lower the risk of it coming out again, so early movement, as pain allows, is advised [4].",
+      "Physiotherapy starts with gentle movement exercises and moves on to strengthening the muscles around the shoulder, usually continuing for a few weeks up to three months [2][4]."
+     ]
+    },
+    {
+     "h": "When is surgery discussed?",
+     "p": [
+      "Surgery may be suggested for repeated dislocations or when there is ligament or bone damage: loose ligaments are tightened, the torn labrum is stitched back to the socket and any bone loss is addressed [2][3]. It is mostly done arthroscopically (keyhole); open surgery may be needed in complex cases [3].",
+      "After a first dislocation, surgery can be discussed especially for young, active patients who play contact sports [2][4]. In a meta-analysis of randomised trials, about 6% of patients operated on after a first dislocation had it come out again, compared with about 47% of those treated with a sling alone [5]. The decision is shared and rests on age, sporting and work expectations and the examination and imaging findings."
+     ]
+    },
+    {
+     "h": "How long does recovery take?",
+     "p": [
+      "Recovery usually takes 6 to 12 weeks; return to sport can take longer, 16 weeks or more [1]. Keeping the muscles around the shoulder strong helps prevent it from becoming loose and coming out again; the physiotherapist and doctor decide together when you return to daily tasks and sport [1][2]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Go to the emergency department straight away; do not drive yourself and call emergency services if needed (112 in Northern Cyprus and Türkiye) [1]:"
+     ],
+     "list": [
+      "You cannot move the arm after the injury",
+      "The shoulder looks deformed or out of place",
+      "There is numbness or weakness in the arm or hand: nerve or blood vessel damage can occur in severe dislocations [2]",
+      "A shoulder that has dislocated before comes out again or keeps feeling as if it is slipping [3]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can a dislocated shoulder go back in by itself?",
+     "a": "Partial dislocations can sometimes slip back by themselves [2]. Still, do not try to put the shoulder back yourself; this should be done by a doctor in hospital [1]."
+    },
+    {
+     "q": "How long do I wear a sling?",
+     "a": "For a short time. Keeping the arm still for longer than a week has not been shown to lower the risk of re-dislocation, and early movement as pain allows is advised [4]."
+    },
+    {
+     "q": "How long does a dislocated shoulder take to heal?",
+     "a": "Usually 6 to 12 weeks; return to sport can take 16 weeks or more [1]."
+    },
+    {
+     "q": "Should I have surgery after a first dislocation?",
+     "a": "In young, active patients who play contact sports the risk of it coming out again is high, and surgery after a first dislocation markedly lowered that risk (about 6% versus 47%). Other patients usually start with physiotherapy; the decision is made with your doctor [4][5]."
+    },
+    {
+     "q": "Will it come out again?",
+     "a": "The risk depends on age and on how well it recovers; it is highest in young men who play contact sports. Keeping the muscles strong with regular exercise helps reduce it [1][2][4]."
+    }
+   ],
+   "note": "At our clinic, once the shoulder is back in place, we look at your age, sport and imaging findings and decide with you whether to start with physiotherapy or to discuss surgery."
+  }
+ }
+}

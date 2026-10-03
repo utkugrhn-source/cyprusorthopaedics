@@ -1,0 +1,241 @@
+{
+ "id": "trigger-finger-clinic",
+ "area": "el-bilek",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Trigger Finger",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/trigger-finger",
+   "year": "n.d."
+  },
+  {
+   "title": "Trigger finger",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/trigger-finger/",
+   "year": "2025"
+  },
+  {
+   "title": "Trigger Finger/Thumb",
+   "publisher": "British Society for Surgery of the Hand (BSSH)",
+   "url": "https://www.bssh.ac.uk/patients/conditions/18/trigger_fingerthumb",
+   "year": "n.d."
+  },
+  {
+   "title": "Surgery for trigger finger (Cochrane Review)",
+   "publisher": "Cochrane Database of Systematic Reviews (Fiorini HJ, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29460276/",
+   "year": "2018"
+  },
+  {
+   "title": "Open Surgery Versus Ultrasound-Guided Corticosteroid Injection for Trigger Finger: A Randomized Controlled Trial With 1-Year Follow-up",
+   "publisher": "The Journal of Hand Surgery (Hansen RL, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28341069/",
+   "year": "2017"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "tetik-parmak-igne-mi-ameliyat-mi",
+   "title": "Tetik parmak: iğne mi, ameliyat mı?",
+   "description": "Parmağın takılması, çıtlaması ya da kilitlenmesi: tetik parmakta atel, steroid iğnesi ve ameliyat arasındaki seçim ve ameliyat sonrası süreç.",
+   "summary": "Tetik parmak, parmağı büken tendonun avuç içindeki dar bir tünelin girişinde takılmasıdır; parmak çıtlar, ağrır ya da bükülü konumda kilitlenir [1][3]. Hafif olgularda aktivite düzenlemesi ve atel işe yarayabilir, tendon kılıfına yapılan steroid iğnesi birçok hastada yakınmayı azaltır [1][2][3]. İğneler yetmezse ya da yakınma tekrarlıyorsa tüneli genişleten kısa bir günübirlik ameliyat seçenektir [1][2].",
+   "sections": [
+    {
+     "h": "Parmak neden takılır?",
+     "p": [
+      "Parmakları büken tendonlar, avuçtan parmak ucuna kadar onları kemiğe yakın tutan bir tünelin içinde kayar. Bu tünelin avuçtaki girişi A1 pulley denen sıkı bir banttır [1].",
+      "Bu giriş kalınlaşıp daraldığında tendon düzgün kayamaz; parmak takılır, çıtlar ya da bükülü kalır. Başparmakta da görülebilir [1][3]. Kalınlaşma tendonun yüzeyini de pürüzlendirebilir; tendon dar bölgeden her geçmeye çalıştığında sürtünme artar ve takılma daha belirgin hale gelir [3]."
+     ]
+    },
+    {
+     "h": "Belirtiler",
+     "p": [
+      "Yakınma hafif bir takılmadan tam kilitlenmeye kadar değişir [1][2][3]:"
+     ],
+     "list": [
+      "Parmağı bükerken ve açarken takılma, çıtlama ya da şaklama hissi",
+      "Bükülü kalan ve düzeltmek için diğer elin gerektiği parmak",
+      "Parmağın avuç içindeki dibinde hassasiyet, bazen küçük bir şişlik",
+      "Sabahları sıklıkla daha belirgin olan sertlik ve ağrı",
+      "Elin yoğun kullanımıyla artan yakınma"
+     ]
+    },
+    {
+     "h": "Kimlerde görülür?",
+     "p": [
+      "Çoğu kişide belirgin bir neden bulunmaz; bazen ele darbeden sonra başlar. İş etkinlikleri tek başına nadiren neden olur, ancak ağrıyı artırabilir [2][3].",
+      "40 yaş üstünde, özellikle 40-60 yaş arası kadınlarda, diyabet ya da romatoid artriti olanlarda ve işinde sık ve güçlü kavrama gerektirenlerde daha sık görülür [1][2][3]."
+     ]
+    },
+    {
+     "h": "Tanı",
+     "p": [
+      "Tanı genellikle öykü ve muayeneyle konur: avuçta hassasiyet ve şişlik ile parmak hareket ederken takılma aranır. Çoğu olguda röntgen ya da başka tetkik gerekmez [1].",
+      "Yakınmanın ne zamandır var olduğu, hangi parmakların etkilendiği ve diyabet ya da romatoid artrit gibi eşlik eden hastalıkların olup olmadığı da tedaviyi yönlendirdiği için sorulur [1][3]."
+     ]
+    },
+    {
+     "h": "Ameliyatsız seçenekler",
+     "p": [
+      "Hafif olgularda yakınmayı tetikleyen hareketlerden kaçınmak, parmağı düz tutan gece ateli, kısa süreli ağrı kesiciler ve hafif germe egzersizleri yeterli olabilir; bazı kişilerde yakınma kendiliğinden de geçer [1][2][3]. Atel genellikle geceleri takılır; parmağı düz tutarak sabah kilitlenmesini ve tendondaki tekrarlayan sürtünmeyi azaltmaya yardım eder [1][3].",
+      "Tendon kılıfına yapılan steroid iğnesi ilk basamak tedavilerden biridir ve birçok hastada ağrı ile takılmayı giderir [1][3]. İlk iğne işe yaramışsa gerektiğinde tekrarlanabilir [1].",
+      "Bazı hastalarda iğnenin etkisi zamanla azalır. Randomize bir çalışmada iğne, bir yıl sonunda ameliyattan daha az başarılı bulunmuştur. Aynı çalışmada iğne sonrası birkaç gün süren ağrı artışı ve iğne yerinde deri altı yağ dokusunda incelme gibi yan etkiler de bildirilmiştir [5]."
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman konuşulur?",
+     "p": [
+      "Atel ve iğnelere rağmen yakınma sürüyorsa, tekrarlıyorsa ya da parmak kilitleniyorsa ameliyat önerilir [1][2].",
+      "Avuçta küçük bir kesiden A1 pulley açılarak tendona daha fazla yer sağlanır. İşlem genellikle lokal anestezi altında günübirlik yapılır [1][3]. Açık ameliyatın yanı sıra pulleyin iğneyle deriden serbestlendiği perkütan bir yöntem de kullanılabilir; hangi yöntemin size uygun olduğu hekiminizle konuşulmalıdır [4].",
+      "Bir Cochrane derlemesi, açık ameliyatın iğneye göre yakınmaların geri dönme olasılığını azalttığını, ancak ilk hafta daha fazla ağrıya yol açtığını bulmuştur; bu kanıtın güvenilirliği düşüktür [4]. Randomize bir çalışmada ameliyatın daha kalıcı sonuç verdiği, ancak nadir komplikasyonlarının daha ciddi olabileceği belirtilmiştir [5]."
+     ]
+    },
+    {
+     "h": "Ameliyattan sonra",
+     "p": [
+      "El genellikle ameliyat günü hafif işlerde kullanılabilir ve ağrı çoğunlukla çabuk geçer. Yara izi birkaç hafta kırmızı ve hassas kalabilir [3].",
+      "Parmaktaki şişlik ve sertliğin tamamen geçmesi birkaç ayı bulabilir. Ameliyattan sonra tekrarlama sık değildir [1][3]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gereken durumlar",
+     "p": [
+      "Şunlardan biri varsa gecikmeden değerlendirme isteyin [1][2][5]:"
+     ],
+     "list": [
+      "Bükülü kalan ve düzeltemediğiniz kilitli parmak",
+      "Günlük işleri engelleyen sürekli ağrı ve takılma",
+      "İğne ya da ameliyattan sonra artan kızarıklık, sıcaklık, şişlik veya akıntı",
+      "Ameliyattan sonra parmakta yeni başlayan uyuşma"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Parmağım neden kilitleniyor?",
+     "a": "Çıtlayan, sıçrayan ya da bükülü kalan, çoğunlukla sabahları daha belirgin bir parmağın en sık nedeni tetik parmaktır; parmağı büken tendon avuçtaki dar tünelin girişinde takılır [1][2]."
+    },
+    {
+     "q": "Tetik parmak kendiliğinden geçer mi?",
+     "a": "Hafif olgular yakınmayı artıran hareketlerden kaçınmak ve atelle düzelebilir, bazıları tedavisiz de geçer. Geçmezse steroid iğnesi ya da ameliyat düşünülür [1][2]."
+    },
+    {
+     "q": "Kaç kez steroid iğnesi yapılabilir?",
+     "a": "İlk iğne işe yaramışsa gerektiğinde tekrarlanabilir; sayıyı hekiminizle birlikte belirlersiniz. İğne işe yaramazsa ya da yakınma tekrarlarsa ameliyat daha kalıcı bir seçenektir [1][4][5]."
+    },
+    {
+     "q": "Ameliyattan sonra el ne zaman kullanılır?",
+     "a": "Genellikle ameliyat günü hafif işlerde kullanılabilir. İz birkaç hafta hassas kalabilir, şişlik ve sertliğin tamamen geçmesi birkaç ay sürebilir [1][3]."
+    },
+    {
+     "q": "Diyabette tetik parmak daha mı sık?",
+     "a": "Evet, diyabet bilinen bir risk etkenidir; yine de tetik parmaklı çoğu kişide diyabet yoktur [1][3]."
+    }
+   ],
+   "note": "Kliniğimizde tedaviyi, yakınmanızın günlük işlerinizi ne kadar etkilediğini ve sizin beklentilerinizi konuşarak birlikte belirleriz."
+  },
+  "en": {
+   "slug": "trigger-finger-injection-or-surgery",
+   "title": "Trigger finger: injection or surgery?",
+   "description": "A finger that catches, clicks or locks: how to choose between a splint, a steroid injection and surgery for trigger finger, and what recovery looks like.",
+   "summary": "Trigger finger happens when the tendon that bends a finger catches at the entrance of a narrow tunnel in the palm, so the finger clicks, hurts or locks in a bent position [1][3]. Mild cases may respond to activity changes and a splint, and a steroid injection into the tendon sheath relieves symptoms in many patients [1][2][3]. If injections do not help or symptoms return, a short day-case operation that widens the tunnel is an option [1][2].",
+   "sections": [
+    {
+     "h": "Why does the finger catch?",
+     "p": [
+      "The tendons that bend the fingers glide inside a tunnel that holds them close to the bone from the palm to the fingertip. The entrance of this tunnel in the palm is a tight band called the A1 pulley [1].",
+      "When the entrance thickens and narrows the tendon cannot glide smoothly, so the finger catches, clicks or stays bent. The thumb can be affected too [1][3]. The thickening can also roughen the tendon surface; each time the tendon passes through the narrow section friction increases and the catching becomes more noticeable [3]."
+     ]
+    },
+    {
+     "h": "Symptoms",
+     "p": [
+      "Symptoms range from mild catching to a finger that locks completely [1][2][3]:"
+     ],
+     "list": [
+      "Catching, clicking or a popping feeling when bending and straightening the finger",
+      "A finger that stays bent and needs the other hand to straighten it",
+      "Tenderness and sometimes a small lump at the base of the finger in the palm",
+      "Stiffness and pain that are often worse in the morning",
+      "Symptoms that increase with heavy use of the hand"
+     ]
+    },
+    {
+     "h": "Who gets it?",
+     "p": [
+      "In most people there is no clear cause. It sometimes starts after a knock to the hand. Work activities rarely cause it alone, although they may make the pain worse [2][3].",
+      "It is more common over the age of 40, especially in women aged 40 to 60, in people with diabetes or rheumatoid arthritis, and in those whose work involves frequent, forceful gripping [1][2][3]."
+     ]
+    },
+    {
+     "h": "Diagnosis",
+     "p": [
+      "Diagnosis is usually made from the history and examination: we look for tenderness and swelling in the palm and for catching as the finger moves. X-rays or other tests are not needed in most cases [1].",
+      "We also ask how long the symptoms have been present, which fingers are affected and whether there are related conditions such as diabetes or rheumatoid arthritis, as this helps guide treatment [1][3]."
+     ]
+    },
+    {
+     "h": "Non-surgical options",
+     "p": [
+      "In mild cases, avoiding the movements that trigger symptoms, a night splint that keeps the finger straight, short-term painkillers and gentle stretching may be enough, and in some people it settles without treatment [1][2][3]. A night splint helps reduce morning locking and repeated friction on the tendon by keeping the finger straight [1][3].",
+      "A steroid injection into the tendon sheath is a first-line treatment and relieves pain and catching in many patients [1][3]. If the first injection helped, it can be repeated when needed [1].",
+      "In some patients the effect of an injection wears off over time. In a randomised trial, injection was less successful than surgery at one year, and the trial also reported side effects after injection such as a flare of pain for a few days and thinning of the fatty tissue under the skin at the injection site [5]."
+     ]
+    },
+    {
+     "h": "When is surgery discussed?",
+     "p": [
+      "Surgery is recommended when symptoms persist despite splinting and injections, keep coming back, or the finger locks [1][2].",
+      "Through a small cut in the palm the A1 pulley is opened to give the tendon more room, usually under local anaesthetic as a day case [1][3]. Besides open surgery, a percutaneous technique, in which the pulley is released with a needle through the skin, may also be used; which method suits you is something to discuss with your surgeon [4].",
+      "A Cochrane review found that open surgery reduced the chance of symptoms returning compared with injection, although it caused more pain in the first week; the certainty of this evidence is low [4]. A randomised trial found surgery gave more lasting results, while noting that its rare complications can be more serious [5]."
+     ]
+    },
+    {
+     "h": "After surgery",
+     "p": [
+      "The hand can usually be used for light tasks on the day of surgery, and pain often settles quickly. The scar may stay red and tender for a few weeks [3].",
+      "It can take several months for swelling and stiffness in the finger to settle completely. Recurrence after surgery is uncommon [1][3]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Seek assessment without delay if you notice [1][2][5]:"
+     ],
+     "list": [
+      "A finger locked in a bent position that you cannot straighten",
+      "Persistent pain and catching that stop you doing daily tasks",
+      "Increasing redness, warmth, swelling or discharge after an injection or operation",
+      "New numbness in the finger after surgery"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Why does my finger lock?",
+     "a": "The most common cause of a finger that clicks, jumps or stays bent, often worse in the morning, is trigger finger: the tendon that bends the finger catches at the entrance of a narrow tunnel in the palm [1][2]."
+    },
+    {
+     "q": "Does trigger finger go away on its own?",
+     "a": "Mild cases may improve with rest from aggravating activities and a splint, and some settle without treatment. If symptoms persist, a steroid injection or surgery is considered [1][2]."
+    },
+    {
+     "q": "How many steroid injections can I have?",
+     "a": "If the first injection helped, it can be repeated when needed, and the number is agreed with your doctor. If injections do not work or symptoms keep returning, surgery is a more lasting option [1][4][5]."
+    },
+    {
+     "q": "When can I use my hand after surgery?",
+     "a": "For light tasks usually on the day of surgery. The scar may be tender for a few weeks, and swelling and stiffness can take several months to settle fully [1][3]."
+    },
+    {
+     "q": "Is trigger finger more common with diabetes?",
+     "a": "Yes. Diabetes is a known risk factor, although most people with trigger finger do not have diabetes [1][3]."
+    }
+   ],
+   "note": "At our clinic we decide on treatment together with you, after talking through how much the finger affects your daily tasks and what you expect."
+  }
+ }
+}

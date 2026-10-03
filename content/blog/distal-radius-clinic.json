@@ -1,0 +1,249 @@
+{
+ "id": "distal-radius-clinic",
+ "area": "el-bilek",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Distal Radius Fractures (Broken Wrist)",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/distal-radius-fractures-broken-wrist",
+   "year": ""
+  },
+  {
+   "title": "Broken arm or wrist",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/broken-arm-or-wrist/",
+   "year": "2023"
+  },
+  {
+   "title": "BOAST – The Management of Distal Radial Fractures",
+   "publisher": "British Orthopaedic Association",
+   "url": "https://www.boa.ac.uk/resource/boast-16-pdf.html",
+   "year": "2017"
+  },
+  {
+   "title": "Fractures (non-complex): assessment and management (NG38)",
+   "publisher": "National Institute for Health and Care Excellence (NICE)",
+   "url": "https://www.nice.org.uk/guidance/ng38",
+   "year": "2016"
+  },
+  {
+   "title": "Operative vs Nonoperative Treatment of Distal Radius Fractures in Adults: A Systematic Review and Meta-analysis",
+   "publisher": "JAMA Network Open (Ochen Y, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32324239/",
+   "year": "2020"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "el-bilegi-kirigi-alci-mi-ameliyat-mi",
+   "title": "El bileği kırığı: alçı mı, ameliyat mı?",
+   "description": "Düşme sonrası bilek kırığında tedavi nasıl seçilir? Alçı süresi, ameliyatın gerektiği durumlar, yaşın rolü ve iyileşme süreci.",
+   "summary": "El bileği kırığı çoğunlukla öne uzatılan ele düşmeyle oluşan, önkolda başparmak tarafındaki kemiğin (radius) bilek ucundaki kırığıdır [1]. Yerinden oynamamış ya da yerine oturtulup tutulabilen kırıklar atel ve alçıyla izlenir; kararsız kırıklarda plak ve vida gibi yöntemlerle ameliyat gerekebilir [1][3]. Kemik genellikle 6-8 haftada kaynar, tam toparlanma ise bir yıla kadar uzayabilir [1][2].",
+   "sections": [
+    {
+     "h": "Kırık nerede olur?",
+     "p": [
+      "Önkolun iki kemiğinden başparmak tarafındaki radiusun bileğe yakın ucu, bilek kırıklarının en sık görüldüğü yerdir [1].",
+      "Kırık düz ve yerinde kalabilir; bazen kemik parçaları kayar ya da kırık çizgisi eklem yüzeyine uzanır. Kırığın şekli ve kararlılığı, alçı ile ameliyat arasındaki seçimi belirleyen başlıca etkenlerdendir [1][3]."
+     ]
+    },
+    {
+     "h": "Hangi belirtiler görülür?",
+     "p": [
+      "Belirtiler genellikle düşmenin hemen ardından başlar [1][2]:"
+     ],
+     "list": [
+      "Bilekte ani ve belirgin ağrı",
+      "Şişlik ve morarma",
+      "Dokununca hassasiyet",
+      "Bilek ve elin hareket ettirilememesi",
+      "Kemik kaymışsa bilekte eğrilik",
+      "Parmaklarda uyuşma ya da karıncalanma"
+     ]
+    },
+    {
+     "h": "Neden olur, kimlerde daha olasıdır?",
+     "p": [
+      "En sık neden, düşerken ele yaslanmaktır. Gençlerde bu kırıklar daha çok yüksekten düşme, trafik kazası ya da spor yaralanması gibi yüksek enerjili travmalardan sonra görülür [1].",
+      "Yaşlılarda, özellikle kemik erimesi (osteoporoz) olanlarda, ayakta düşme gibi basit bir olay bile bileği kırabilir. Bu nedenle yaşlı birinde bilek kırığı zayıf kemiğin önemli bir işareti olabilir ve kemik sağlığı ile düşme riskinin değerlendirilmesi önerilir [1][3].",
+      "Burkulma ile kırık görünüşten her zaman ayırt edilemez; düşmeden sonra bilek ağrısı geçmiyorsa muayene ve röntgen gerekir [2]."
+     ]
+    },
+    {
+     "h": "Tanı nasıl konur?",
+     "p": [
+      "Önce yaralanmanın nasıl olduğu sorulur, ardından bilekte cilt, kan dolaşımı ve parmaklardaki his muayene edilir [3]. Tanı önden ve yandan çekilen röntgenle doğrulanır [3]. Kırık eklem içine uzanıyorsa ya da ameliyat planlanıyorsa kemiği daha ayrıntılı görmek için bilgisayarlı tomografi kullanılabilir [1].",
+      "Kılavuzlar, hastalara görüntülerini görme ve yaralanmalarını anlama olanağının, ayrıca tedavi ve iyileşme hakkında sözlü ve yazılı bilginin sunulmasını önerir [4]."
+     ]
+    },
+    {
+     "h": "Ameliyatsız tedavi",
+     "p": [
+      "Kırık yerinden oynamamışsa ya da kabul edilebilir konumdaysa atel veya alçı yeterli olabilir. İlk günlerde şişliğe izin veren bir atel sık kullanılır, gerekirse ardından alçıya geçilir. Bu destek genellikle 4-6 hafta kalır [1].",
+      "Kemik parçaları kaymışsa çoğu zaman kesi yapmadan dışarıdan yerine oturtulabilir (kapalı redüksiyon). Bu işlem yeterli ağrı kesiciyle yapılır ve ardından bilek alçıyla korunur [1][3][4]."
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman ve hangi yaşta düşünülür?",
+     "p": [
+      "Alçı kırığı yerinde tutamıyorsa, eklem yüzeyi bozulmuşsa ya da kırık takip sırasında yeniden kayıyorsa ameliyat düşünülür. Parçalar metal plak ve vidalarla, tellerle ya da deri dışından yerleştirilen bir çerçeveyle (eksternal fiksatör) tutturulur [1][4].",
+      "Ameliyat gerekiyorsa zamanlama önemlidir: kılavuzlar eklem içine uzanan kırıklarda 72 saat, eklem dışı kırıklarda bir hafta içinde ameliyatı önerir [3][4].",
+      "Yaş kararı etkiler. 65 yaş ve üzerinde belirgin deformitesi olmayanlarda, kayma olsa bile çoğu zaman ameliyatsız izlem yeterli olur [3]. Pek çok çalışmayı birleştiren bir meta-analizde ameliyat genel olarak el fonksiyonunda ve kavrama gücünde hafif üstünlük sağlamış, ancak yalnızca 60 yaş üstü hastaları içeren çalışmalarda işlevsel fark anlamlı bulunmamıştır [5]. Bu yüzden karar; kırık tipi, yaş, elin ne kadar yoğun kullanıldığı ve genel sağlık durumu birlikte tartılarak verilir."
+     ]
+    },
+    {
+     "h": "İyileşme süreci",
+     "p": [
+      "Kemik genellikle 6-8 haftada kaynar; ağır kırıklarda bu süre uzayabilir [2]. Günlük işlerin hepsinde bileği rahatça kullanmak yaklaşık 3 ayı, tam toparlanma ise bir yıla kadar zamanı bulabilir [1].",
+      "Atel ya da alçı çıktıktan sonra fizyoterapi ve ev egzersizleri hareket ve gücün geri kazanılmasına yardım eder. Uygun olgularda ağrı elverdiğinde çıkarılabilir bir destek içinde erken harekete başlanabilir [1][3].",
+      "Bazı kişilerde hafif sertlik ya da uzun süren bir ağrı kalabilir. Nadiren, yaralanmayla orantısız ve uzun süren ağrıya yol açan kompleks bölgesel ağrı sendromu gelişebilir; geçmeyen ağrı mutlaka hekime bildirilmelidir [1]. Kılavuzlar, iyileşme beklendiği gibi gitmezse kolay bir kontrol olanağı sağlanmasını ve yaşlılarda kemik sağlığı ile düşme riskinin değerlendirilmesini önerir [3]."
+     ]
+    },
+    {
+     "h": "Beklemeden acile gitmeniz gereken durumlar",
+     "p": [
+      "Aşağıdakilerden biri varsa gecikmeden acil servise başvurun [1][2]:"
+     ],
+     "list": [
+      "Parmaklarda uyuşma ya da karıncalanma",
+      "Bilekte ya da kolda belirgin şekil bozukluğu",
+      "Kemiğin deriden dışarı çıkması ya da şiddetli kanama",
+      "Dinlenmeye rağmen giderek artan şiddetli ağrı",
+      "Parmaklar hafifçe düzeltilirken aşırı ağrı ya da başparmak ve işaret parmağında güçsüzlük",
+      "Hastaneye ulaşana kadar: kolu havlu ya da askıyla destekleyin, kısa süreli ve bez sarılı buz uygulayın, yüzük ve bilezikleri hemen çıkarın, ameliyat gerekebileceği için yiyip içmeyin [2]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Bilek kırığında alçı ne kadar kalır?",
+     "a": "Ameliyatsız tedavide atel ve alçı genellikle 4-6 hafta kullanılır. Kesin süre kırığın tipine ve kontrol röntgenlerine göre belirlenir [1]."
+    },
+    {
+     "q": "Her bilek kırığı ameliyat gerektirir mi?",
+     "a": "Hayır. Yerinden oynamamış ya da yerine oturtulup tutulabilen kırıklar alçıyla tedavi edilebilir. Kararsız kırıklarda, eklem yüzeyini tutan kırıklarda ya da alçı içinde kayanlarda ameliyat düşünülür [1][3]."
+    },
+    {
+     "q": "Yaşlılarda ameliyat daha mı iyi?",
+     "a": "Mevcut kanıtlar, 60 yaş üstünde ameliyatın alçıya göre el fonksiyonunda belirgin üstünlük sağlamadığını gösteriyor [5]. Karar yine de kırık tipine ve kişinin gereksinimlerine göre bireysel verilir [3]."
+    },
+    {
+     "q": "Bilek kırığından sonra kemik sağlığıma baktırmalı mıyım?",
+     "a": "Yaşlı birinde basit bir düşmeyle oluşan bilek kırığı zayıf kemiğin işareti olabilir; bu nedenle kemik sağlığı ve düşme riskinin değerlendirilmesi önerilir [1][3]."
+    },
+    {
+     "q": "Bilek ne zaman tam olarak kullanılır?",
+     "a": "Günlük işlerin hepsi için yaklaşık 3 ay, tam toparlanma için bir yıla kadar zaman gerekebilir [1]."
+    }
+   ],
+   "note": "Kliniğimizde kırığın tipine, yaşınıza, elinizi nasıl kullandığınıza ve genel sağlığınıza bakarak tedaviyi sizinle birlikte planlarız; aynı kırık iki kişide farklı tedavi gerektirebilir."
+  },
+  "en": {
+   "slug": "broken-wrist-cast-or-surgery",
+   "title": "Broken wrist: cast or surgery?",
+   "description": "How treatment is chosen after a fall onto the wrist: cast time, when surgery is needed, the role of age and what recovery looks like.",
+   "summary": "A broken wrist is usually a fracture at the wrist end of the radius, the forearm bone on the thumb side, most often after a fall onto an outstretched hand [1]. Fractures that have not shifted, or that can be set and held in position, are treated with a splint and cast; unstable fractures may need surgery with a plate and screws or other fixation [1][3]. The bone usually heals in 6-8 weeks, while full recovery can take up to a year [1][2].",
+   "sections": [
+    {
+     "h": "Where does the bone break?",
+     "p": [
+      "Of the two forearm bones, the radius on the thumb side is the one that most often breaks, close to the wrist [1].",
+      "The break can be straight and stay in place; sometimes the pieces shift or the fracture line runs into the joint surface. The shape and stability of the fracture are among the main factors that decide between a cast and surgery [1][3]."
+     ]
+    },
+    {
+     "h": "What symptoms do people notice?",
+     "p": [
+      "Symptoms usually begin right after the fall [1][2]:"
+     ],
+     "list": [
+      "Sudden, marked pain in the wrist",
+      "Swelling and bruising",
+      "Tenderness when the area is touched",
+      "Difficulty moving the wrist and hand",
+      "A bent or deformed-looking wrist if the bone has shifted",
+      "Numbness or tingling in the fingers"
+     ]
+    },
+    {
+     "h": "Why does it happen and who is more likely?",
+     "p": [
+      "The most common cause is putting a hand out to break a fall. In younger people the fracture more often follows a high-energy injury such as a fall from a height, a road accident or a sports injury [1].",
+      "In older people, especially those with osteoporosis (thinning bones), even a simple fall from standing can break the wrist. A wrist fracture can therefore be an important sign of weak bones, and an assessment of bone health and falls risk is recommended [1][3].",
+      "A sprain cannot always be told from a fracture by looking. If wrist pain does not settle after a fall, an examination and X-ray are needed [2]."
+     ]
+    },
+    {
+     "h": "How is it diagnosed?",
+     "p": [
+      "We first ask how the injury happened, then examine the skin, the blood supply and the feeling in the fingers [3]. X-rays from the front and the side confirm the diagnosis [3]. If the fracture reaches the joint or surgery is planned, a CT scan may show the bone in more detail [1].",
+      "Guidelines recommend that people can see their images and understand their injury, and that they receive spoken and written information about treatment and recovery [4]."
+     ]
+    },
+    {
+     "h": "Treatment without surgery",
+     "p": [
+      "If the fracture is not displaced or sits in an acceptable position, a splint or cast may be enough. A splint that allows for swelling is often used for the first days, followed by a cast if needed. The support usually stays on for 4-6 weeks [1].",
+      "If the pieces have shifted they can often be moved back into place from the outside without an incision (closed reduction), with adequate pain relief. The wrist is then protected in a cast [1][3][4]."
+     ]
+    },
+    {
+     "h": "When is surgery considered, and does age matter?",
+     "p": [
+      "Surgery is considered if the cast cannot hold the fracture in place, if the joint surface is disrupted or if the fracture slips again during follow-up. The pieces are held with a metal plate and screws, wires, or a frame fixed outside the skin (external fixator) [1][4].",
+      "When surgery is needed, timing matters: guidelines recommend operating within 72 hours for fractures that enter the joint and within one week for fractures outside the joint [3][4].",
+      "Age plays a part. In people aged 65 and over without major deformity, even displaced fractures can often be treated without surgery [3]. A meta-analysis pooling many studies found slightly better hand function and grip strength with surgery overall, but studies including only patients over 60 showed no meaningful difference in function [5]. The choice therefore weighs the fracture type, age, how demanding the person's hand use is and their general health."
+     ]
+    },
+    {
+     "h": "Recovery",
+     "p": [
+      "The bone usually heals in 6-8 weeks, although severe fractures can take longer [2]. Using the wrist comfortably for all daily tasks may take around 3 months, and full recovery can take up to a year [1].",
+      "Once the splint or cast is off, physiotherapy and home exercises help restore movement and strength. In suitable cases, early movement in a removable support can begin once pain allows [1][3].",
+      "Some people are left with mild stiffness or a long-lasting ache. Rarely, complex regional pain syndrome develops, causing prolonged pain that is out of proportion to the injury; pain that does not settle should always be reported to a doctor [1]. Guidelines recommend an easy way back for review if recovery is not going as expected, and an assessment of bone health and falls risk in older people [3]."
+     ]
+    },
+    {
+     "h": "Urgent signs: do not wait",
+     "p": [
+      "Go to an emergency department without delay if you notice any of the following [1][2]:"
+     ],
+     "list": [
+      "Numbness or tingling in the fingers",
+      "An obvious deformity of the wrist or arm",
+      "Bone showing through the skin or heavy bleeding",
+      "Severe pain that keeps getting worse despite rest",
+      "Extreme pain when the fingers are gently straightened, or weakness of the thumb and index finger",
+      "Until you reach hospital: support the arm with a towel or sling, apply ice wrapped in a cloth for short periods, remove rings and bracelets straight away and do not eat or drink in case surgery is needed [2]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "How long is a cast worn for a broken wrist?",
+     "a": "With non-surgical treatment a splint and cast are usually worn for 4-6 weeks. The exact time depends on the fracture type and follow-up X-rays [1]."
+    },
+    {
+     "q": "Does every broken wrist need an operation?",
+     "a": "No. Fractures that have not shifted, or that can be set and held in place, can be treated in a cast. Surgery is considered for unstable fractures, those involving the joint surface or those that slip in the cast [1][3]."
+    },
+    {
+     "q": "Is surgery better for older people?",
+     "a": "Current evidence suggests that in patients over 60, surgery does not give clearly better hand function than a cast [5]. The decision is still individual, based on the fracture pattern and the person's needs [3]."
+    },
+    {
+     "q": "Should my bones be checked after a wrist fracture?",
+     "a": "A wrist fracture from a simple fall in an older person can be a sign of weak bones, so an assessment of bone health and falls risk is recommended [1][3]."
+    },
+    {
+     "q": "When can I use the wrist fully?",
+     "a": "Around 3 months for all daily tasks, and up to a year for full recovery [1]."
+    }
+   ],
+   "note": "At our clinic we plan treatment with you, looking at the fracture type, your age, how you use your hand and your general health; the same fracture can call for different treatment in two people."
+  }
+ }
+}

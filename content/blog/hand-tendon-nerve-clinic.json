@@ -1,0 +1,257 @@
+{
+ "id": "hand-tendon-nerve-clinic",
+ "area": "el-bilek",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Flexor Tendon Injuries",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/flexor-tendon-injuries",
+   "year": "n.d."
+  },
+  {
+   "title": "Flexor Tendon Injury",
+   "publisher": "British Society for Surgery of the Hand (BSSH)",
+   "url": "https://www.bssh.ac.uk/patients/conditions/26/flexor_tendon_injury",
+   "year": "n.d."
+  },
+  {
+   "title": "Extensor Tendon Injury",
+   "publisher": "British Society for Surgery of the Hand (BSSH)",
+   "url": "https://www.bssh.ac.uk/patients/conditions/27/extensor_tendon_injury",
+   "year": "n.d."
+  },
+  {
+   "title": "Nerve Injury",
+   "publisher": "British Society for Surgery of the Hand (BSSH)",
+   "url": "https://www.bssh.ac.uk/patients/conditions/35/nerve_injury",
+   "year": "n.d."
+  },
+  {
+   "title": "Hand Wounds",
+   "publisher": "British Society for Surgery of the Hand (BSSH)",
+   "url": "https://www.bssh.ac.uk/patients/conditions/1019/hand_wounds",
+   "year": "n.d."
+  },
+  {
+   "title": "Flexor tendon repair rehabilitation protocols: a systematic review",
+   "publisher": "The Journal of Hand Surgery (Starr HM, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23981421/",
+   "year": "2013"
+  },
+  {
+   "title": "Outcome of surgical repair of adult digital nerve injury: a systematic review",
+   "publisher": "BMJ Open (Dunlop RLE, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30872549/",
+   "year": "2019"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "elde-kesik-tendon-sinir-yaralanmasi-acil-mi",
+   "title": "Elde kesik: tendon ve sinir yaralanması ne zaman acildir?",
+   "description": "Avuç, parmak ya da el sırtındaki kesiklerde tendon ve sinir hasarı: hangi belirtiler acil değerlendirme gerektirir, onarım nasıl yapılır, el terapisi neden önemlidir.",
+   "summary": "Küçük görünen bir kesik bile parmakları büken ya da düzelten tendonları ve parmak ucuna his veren sinirleri kesmiş olabilir [1][3][4]. Kesilen tendon, uçları gerginlikle birbirinden uzaklaştığı için kendiliğinden iyileşemez; bu belirtilerle gelen bir kesik aynı gün değerlendirilmelidir ve fleksör tendonlarda onarım genellikle yaralanmadan sonraki yaklaşık yedi-on gün içinde önerilir [1][2]. Ameliyattan sonra atel ve el terapisi programına uymak, ameliyat kadar önemlidir [6].",
+   "sections": [
+    {
+     "h": "Hangi yapılar zarar görebilir?",
+     "p": [
+      "Parmakları büken fleksör tendonlar önkol kaslarından bilek ve avuçtan geçip parmaklara uzanır; parmakları düzelten ekstansör tendonlar el sırtında ilerler. Parmak sinirleri fleksör tendonların yanında yer alır, bu nedenle avuç tarafındaki bir kesik hem tendona hem sinire zarar verebilir [1][3][4].",
+      "Tendonlar lastik gibi gergin tutulur. Kesildiğinde uçları birbirinden uzaklaşır ve aradaki boşluk doğal iyileşmeyi engeller. Bu nedenle tamamen kesilmiş bir tendon ya da sinir genellikle ameliyatla onarım gerektirir [1][2][4]."
+     ]
+    },
+    {
+     "h": "Kesikten hemen sonra hangi belirtiler dikkat çeker?",
+     "p": [
+      "Yaralanmanın hemen ardından fark edilebilecek başlıca belirtiler [1][2][3][4]:"
+     ],
+     "list": [
+      "Parmağın bir ya da birkaç eklemini bükememe ya da bükmeye çalışırken ağrı",
+      "Parmağı tam düzeltememe ya da parmak ucunun sarkması",
+      "Parmak ucunda ya da parmağın bir yanında uyuşma veya his azalması",
+      "Kavrama zayıflığı ya da beceriksizlik",
+      "Soluk ya da soğuk parmak; bu damar yaralanmasını düşündürür"
+     ]
+    },
+    {
+     "h": "Nasıl olur?",
+     "p": [
+      "Fleksör tendon yaralanmaları çoğunlukla parmakların, elin, bileğin ya da önkolun avuç tarafındaki bir kesikle oluşur. Bir şeye tutunurken parmak ani ve güçlü biçimde geriye çekildiğinde de tendon kopabilir; futbolda, güreşte ya da ragbide rakibin formasını kavrarken olduğu gibi [1].",
+      "Yüzeydeki yara küçük olsa bile derinin tüm kalınlığı kesilmişse altındaki yapılar zarar görmüş olabilir. Parmaklara giden sinir ve damarlar tendonlara çok yakın olduğundan aynı kesik bunları da yaralayabilir; damarlar kesilmişse parmağın kan akımı tehlikeye girebilir [1][5]."
+     ]
+    },
+    {
+     "h": "Değerlendirme neden acildir?",
+     "p": [
+      "Muayenede her parmağın kendi başına bükülüp düzelip düzelmediği, kavrama, parmak ucu hissi ve dolaşım kontrol edilir. Kemik yaralanması ya da yabancı cisimden kuşkulanılırsa röntgen çekilir [1].",
+      "Zaman geçtikçe kesilen tendon uçları daha fazla çekilir ve onarım zorlaşır. Fleksör tendonlarda onarım genellikle yaralanmadan sonraki yaklaşık yedi-on gün içinde önerilir [1][2]. Derin yaralar ve deri kaybı olan yaralar genellikle ameliyat gerektirir [5]."
+     ]
+    },
+    {
+     "h": "İlk yardım ve ameliyatsız yaklaşım",
+     "p": [
+      "Elindeki her yarayı mümkün olan en kısa sürede musluk suyuyla yıkayarak kirden arındırın ve enfeksiyon riskini azaltın. Temiz bir pansumanla kapatın, eli yukarıda tutun ve gecikmeden tıbbi yardım alın [5].",
+      "Ameliyatsız tedavi yalnızca seçilmiş olgularda mümkündür. El sırtındaki bazı küçük ya da kısmi ekstansör tendon yaralanmaları yalnızca atelle iyileşebilir, ancak tamamen kesilmiş tendonların çoğu onarım gerektirir [3]."
+     ]
+    },
+    {
+     "h": "Cerrahi onarım",
+     "p": [
+      "Ameliyat genel ya da bölgesel anestezi altında, ekstansör tendonlarda bazen lokal anestezi ile yapılır. Tendon uçlarını bulmak için yara biraz uzatılır ve uçlar özel dikiş teknikleriyle birleştirilir [1][2][3].",
+      "Tamamen kesilmiş sinir de ince dikişlerle uçları birleştirilerek onarılır. Aralık fazlaysa vücudun başka bir yerinden alınan bir sinir parçası (sinir grefti) kullanılabilir; bu, alındığı yerde küçük bir his azlığı bırakabilir [4].",
+      "Parmak siniri onarımına ilişkin bir sistematik derleme, onarımın onarım yapılmamasına göre daha iyi duyu ayırt etme sağladığını, ancak normal hissin tam geri dönmesinin sık olmadığını bildirmiştir. Bu alandaki kanıt kalitesi sınırlıdır [7]."
+     ]
+    },
+    {
+     "h": "İyileşme ve el terapisi",
+     "p": [
+      "Ameliyattan sonra atel, onarımı korumak için bilek ve parmakları hafif bükülü tutar; el terapisine genellikle birkaç gün içinde başlanır. Fleksör tendonlarda atel genellikle beş-sekiz hafta, ekstansör tendonlarda üç-altı hafta kullanılır [1][2][3].",
+      "El terapisi ameliyat kadar önemlidir. Bir sistematik derleme, erken aktif hareket programlarının parmak hareketini daha iyi koruduğunu, pasif programların ise kopma riskinin biraz daha düşük olduğunu göstermiştir; modern dikiş teknikleri erken aktif harekete düşük kopma oranıyla izin verir [6].",
+      "Tendonun tam güce ulaşması yaklaşık üç ay alır, hareket altı aya kadar gelişmeyi sürdürebilir. Sinirler günde yaklaşık bir milimetre büyür; nihai sonuç iki yıl ya da daha uzun sürede görülebilir ve yaşlılarda iyileşme daha yavaştır [1][2][4]. Soğuğa duyarlılık iki kış boyunca sürebilir [5].",
+      "Olası sorunlar arasında onarımın kopması, hareketi kısıtlayan tendon yapışıklıkları, eklem sertliği ve ağrılı sinir ucu yumrusu (nöroma) bulunur. Yapışıklıklar ikinci bir ameliyatla (tenoliz) serbestlenebilir [1][2][4]."
+     ]
+    },
+    {
+     "h": "Aynı gün acile gitmeniz gereken durumlar",
+     "p": [
+      "Şunlardan biri varsa aynı gün acil değerlendirme isteyin [1][2][5]:"
+     ],
+     "list": [
+      "Elde ya da parmakta kesikten sonra parmak bükülemiyor veya düzelmiyorsa",
+      "Kesikten sonra parmak ucu ya da parmağın bir yanı uyuşmuşsa",
+      "Parmak soluk ya da soğuksa veya kanama durmuyorsa",
+      "Yara derin, kirli ya da deri kaybı olan bir yaraysa",
+      "Onarımdan sonra parmak hareketini birden kaybettiyseniz ya da bir şeyin koptuğunu hissettiyseniz"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kesikten sonra parmağım bükülmüyor, ne yapmalıyım?",
+     "a": "Kesikten sonra bükülmeyen bir parmak fleksör tendonun kesildiğini düşündürür. Yarayı musluk suyuyla yıkayın, kapatın, eli yukarıda tutun ve aynı gün bir el cerrahı ya da acil serviste değerlendirilin [1][2][5]."
+    },
+    {
+     "q": "Kesilen tendon kendiliğinden iyileşir mi?",
+     "a": "Hayır. Gerginlik kesik uçları birbirinden uzaklaştırır, bu yüzden doğal olarak birleşemezler. Tamamen kesilmiş tendonlar genellikle ameliyatla onarım gerektirir [1][2]."
+    },
+    {
+     "q": "Parmak kesiğinden sonraki uyuşma geçer mi?",
+     "a": "Uyuşma bir parmak sinirinin kesildiğini gösterebilir ve değerlendirilmelidir. Onarılan sinirler günde yaklaşık bir milimetre büyür; his aylar içinde geri gelir, ancak çoğu zaman tam olarak normale dönmez [4][7]."
+    },
+    {
+     "q": "Tendon onarımından sonra iyileşme ne kadar sürer?",
+     "a": "Atel genellikle birkaç hafta kullanılır; tendon yaklaşık üç ayda tam güce ulaşır, hareket altı aya kadar gelişebilir. Elin kısıtsız kullanımı çoğunlukla üç-dört ayı bulur [1][2][3]."
+    },
+    {
+     "q": "Ameliyattan sonra fizyoterapi gerekir mi?",
+     "a": "Evet. El terapisi onarımı korumak ve parmak hareketini geri kazanmak için ameliyat kadar önemlidir ve genellikle ameliyattan birkaç gün sonra başlar [2][3][6]."
+    }
+   ],
+   "note": "Elde kesik, tendon ya da sinir yaralanmasından kuşkulanıyorsanız gecikmeden başvurun; tedavi ve sonrasındaki el terapisi planını sizinle birlikte yaparız."
+  },
+  "en": {
+   "slug": "cut-tendons-and-nerves-in-the-hand-when-urgent",
+   "title": "Cut tendons and nerves in the hand: when is it urgent?",
+   "description": "Cuts to the palm, fingers or back of the hand can damage tendons and nerves: which signs need same-day assessment, how repair is done and why hand therapy matters.",
+   "summary": "Even a small-looking cut to the palm, fingers or back of the hand can divide the tendons that bend or straighten the fingers and the nerves that give feeling to the fingertips [1][3][4]. A cut tendon cannot heal on its own because tension pulls its ends apart, so a cut with these signs should be assessed the same day, and for flexor tendons repair is generally recommended within about seven to ten days [1][2]. Following the splint and hand therapy programme after surgery matters as much as the operation [6].",
+   "sections": [
+    {
+     "h": "Which structures can be damaged?",
+     "p": [
+      "Flexor tendons, which bend the fingers, run from forearm muscles through the wrist and palm into the fingers; extensor tendons, which straighten them, run along the back of the hand. The finger nerves lie alongside the flexor tendons, so a cut on the palm side can injure both a tendon and a nerve [1][3][4].",
+      "Tendons are held under tension like a rubber band. When cut, the ends pull apart and the gap prevents natural healing, which is why a completely divided tendon or nerve usually needs surgical repair [1][2][4]."
+     ]
+    },
+    {
+     "h": "Which signs appear straight after a cut?",
+     "p": [
+      "The main signs that may be noticed right after the injury [1][2][3][4]:"
+     ],
+     "list": [
+      "Inability to bend one or more joints of a finger, or pain when trying",
+      "Inability to fully straighten a finger, or a drooping fingertip",
+      "Numbness or reduced feeling at the fingertip or along one side of the finger",
+      "Weak grip or clumsiness",
+      "A pale or cold finger, which suggests a blood vessel injury"
+     ]
+    },
+    {
+     "h": "How do these injuries happen?",
+     "p": [
+      "Flexor tendon injuries usually result from a cut on the palm side of the fingers, hand, wrist or forearm. A tendon can also tear when a finger is suddenly and forcefully pulled back while gripping something, for example when grabbing an opponent's shirt in football, wrestling or rugby [1].",
+      "Even if the surface wound is small, when the full thickness of the skin is cut the structures underneath may be damaged. Because the nerves and blood vessels to the fingers lie very close to the tendons, the same cut can injure them too, and if the vessels are cut the blood supply to the finger may be at risk [1][5]."
+     ]
+    },
+    {
+     "h": "Why is assessment urgent?",
+     "p": [
+      "We check whether each finger bends and straightens on its own and test grip, fingertip feeling and circulation. X-rays are taken if a bone injury or foreign body is suspected [1].",
+      "Urgent assessment matters because, as time passes, the cut tendon ends retract further and repair becomes harder. For flexor tendons, repair is generally recommended within about seven to ten days of injury [1][2]. Deep wounds and wounds with skin loss usually need surgery [5]."
+     ]
+    },
+    {
+     "h": "First aid and non-surgical care",
+     "p": [
+      "Wash any hand wound under tap water as soon as possible to remove dirt and lower the risk of infection. Cover it with a clean dressing, keep the hand raised and get medical help without delay [5].",
+      "Non-surgical treatment is possible only in selected cases. Some small or partial extensor tendon injuries on the back of the hand can heal with a splint alone, but most completely cut tendons need repair [3]."
+     ]
+    },
+    {
+     "h": "Surgical repair",
+     "p": [
+      "The operation is done under general or regional anaesthesia, and sometimes under local anaesthesia for extensor tendons. The wound is extended slightly to find the tendon ends, which are stitched together with special suture techniques [1][2][3].",
+      "A completely divided nerve is also repaired surgically by joining the ends with fine stitches. If the gap is large, a piece of nerve taken from elsewhere in the body (a nerve graft) may be used, which can leave a small area of reduced feeling where it was taken [4].",
+      "A systematic review of finger nerve repair found that repair gave better sensory discrimination than no repair, but a full return to normal feeling was uncommon; the quality of evidence in this area is limited [7]."
+     ]
+    },
+    {
+     "h": "Recovery and hand therapy",
+     "p": [
+      "After surgery a splint holds the wrist and fingers slightly bent to protect the repair, and hand therapy usually starts within a few days. For flexor tendons the splint is generally worn for five to eight weeks, and for extensor tendons for three to six weeks [1][2][3].",
+      "Hand therapy is as important as the operation. A systematic review found that early active motion programmes preserved finger movement better, while passive programmes had a slightly lower rupture risk; modern suture techniques allow early active motion with low rupture rates [6].",
+      "A tendon takes about three months to reach full strength, and movement can keep improving for up to six months. Nerves regrow at about one millimetre a day; the final result may take two years or more to be seen, and recovery is slower in older people [1][2][4]. Sensitivity to cold may last for two winters [5].",
+      "Possible problems include rupture of the repair, tendon adhesions that limit movement, joint stiffness and a painful nerve-end knot (neuroma). Adhesions can be freed with a second operation (tenolysis) [1][2][4]."
+     ]
+    },
+    {
+     "h": "Urgent signs: same-day assessment",
+     "p": [
+      "Seek same-day emergency assessment if [1][2][5]:"
+     ],
+     "list": [
+      "After a cut to the hand or finger, the finger cannot bend or straighten",
+      "After a cut, the fingertip or one side of the finger feels numb",
+      "The finger is pale or cold, or bleeding does not stop",
+      "The wound is deep, dirty or has skin loss",
+      "After repair, you suddenly lose finger movement or feel something snap"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "My finger won't bend after a cut. What should I do?",
+     "a": "A finger that cannot bend after a cut suggests a divided flexor tendon. Wash the wound under tap water, cover it, keep the hand raised and get it assessed the same day by a hand surgeon or emergency department [1][2][5]."
+    },
+    {
+     "q": "Can a cut tendon heal on its own?",
+     "a": "No. Tension pulls the cut ends apart, so they cannot heal together naturally. Completely divided tendons usually need surgical repair [1][2]."
+    },
+    {
+     "q": "Will numbness go away after a finger cut?",
+     "a": "Numbness can mean a finger nerve has been cut and should be assessed. Repaired nerves regrow at about a millimetre a day; feeling returns over months but often does not become completely normal [4][7]."
+    },
+    {
+     "q": "How long is recovery after tendon repair?",
+     "a": "A splint is usually worn for several weeks; a tendon takes about three months to reach full strength, and movement can improve for up to six months. Unrestricted use of the hand often takes three to four months [1][2][3]."
+    },
+    {
+     "q": "Is physiotherapy needed after tendon surgery?",
+     "a": "Yes. Hand therapy is as important as the operation for protecting the repair and regaining finger movement, and it usually starts a few days after surgery [2][3][6]."
+    }
+   ],
+   "note": "If you suspect a cut tendon or nerve in the hand, come without delay; we plan treatment and the hand therapy afterwards together with you."
+  }
+ }
+}

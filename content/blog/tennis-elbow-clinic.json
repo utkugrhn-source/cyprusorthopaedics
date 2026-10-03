@@ -1,0 +1,255 @@
+{
+ "id": "tennis-elbow-clinic",
+ "area": "omuz-dirsek",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Tennis elbow",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/tennis-elbow/",
+   "year": "2024"
+  },
+  {
+   "title": "Tennis Elbow (Lateral Epicondylitis)",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/tennis-elbow-lateral-epicondylitis",
+   "year": ""
+  },
+  {
+   "title": "Effect of corticosteroid injection, physiotherapy, or both on clinical outcomes in patients with unilateral lateral epicondylalgia: a randomized controlled trial (Coombes BK, et al.)",
+   "publisher": "JAMA",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23385272/",
+   "year": "2013"
+  },
+  {
+   "title": "Manual therapy and exercise for lateral elbow pain (Wallis JA, et al.)",
+   "publisher": "Cochrane Database of Systematic Reviews",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38802121/",
+   "year": "2024"
+  },
+  {
+   "title": "Autologous blood and platelet-rich plasma injection therapy for lateral elbow pain (Karjalainen TV, et al.)",
+   "publisher": "Cochrane Database of Systematic Reviews",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34590307/",
+   "year": "2021"
+  },
+  {
+   "title": "Elbow and arm pain",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/arm-pain/",
+   "year": "2024"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "tenisci-dirsegi-kortizon-prp-ve-ameliyat",
+   "title": "Tenisçi dirseği: kortizon, PRP ve ameliyat ne işe yarar?",
+   "description": "Dirseğin dış yanındaki ağrı tenis oynamayanlarda da sık görülür: istirahat, bant, egzersiz, kortizon ve PRP iğnesi ile ameliyatın yeri ne, ne kadar sürede geçer?",
+   "summary": "Tenisçi dirseği (lateral epikondilit), bileği geriye kaldıran kasların dirseğin dış çıkıntısına yapıştığı tendonun aşırı kullanıma bağlı zorlanmasıyla oluşan dirsek dış yan ağrısıdır ve tenis oynamayanlarda da sık görülür [1][2]. Çoğu hasta istirahat, aktivite düzenlemesi, egzersiz ve bantlama gibi ameliyatsız yöntemlerle iyileşir, ancak yakınmalar bazen bir yıldan uzun sürebilir; ameliyat 6 ila 12 ay uygun tedaviye rağmen düzelmeyen az sayıda hasta için düşünülür [1][2].",
+   "sections": [
+    {
+     "h": "Tenisçi dirseği nedir?",
+     "p": [
+      "Bileği ve parmakları geriye kaldıran ön kol kasları, dirseğin dış tarafındaki kemik çıkıntıya (lateral epikondil) bir tendonla tutunur. En sık etkilenen yapı bu kaslardan birinin (ekstansör karpi radialis brevis) tendonudur [2].",
+      "Tekrarlayan zorlanma tendonun kemiğe yapıştığı yerde çok küçük yırtıklara yol açar ve ağrı ile hassasiyet doğar. Adı tenisten gelse de hastaların çoğu tenis oynamaz [1][2]."
+     ]
+    },
+    {
+     "h": "Hangi yakınmalar görülür?",
+     "p": [
+      "Ağrı genellikle yavaş başlar, haftalar ve aylar içinde artar; hafif bir rahatsızlıktan uykuyu bozan sürekli ağrıya kadar değişebilir [1][2]:"
+     ],
+     "list": [
+      "Dirseğin dış yanında ağrı ya da yanma",
+      "Bir şey kaldırırken, kavrarken ya da bileği çevirirken artan ağrı",
+      "Dirseğin dış yanına dokununca hassasiyet",
+      "Ön kola yayılan ağrı ve kavrama gücünde azalma",
+      "Kolu tam düzleştirmekte zorlanma"
+     ]
+    },
+    {
+     "h": "Kimlerde ve neden olur?",
+     "p": [
+      "Neden, bileği tekrar tekrar kavrama ve çevirme gerektiren işlerdir: uzun süre bilgisayar faresi kullanmak, dikiş dikmek, tornavida ya da fırça kullanmak ve raket sporları örnektir [1][2]. Boyacı, tesisatçı ve marangoz gibi elini yoğun kullanan meslekler daha sık etkilenir; hastalık en sık 30'lu ve 50'li yaşlarda görülür [1][2]."
+     ]
+    },
+    {
+     "h": "Tanı nasıl konur?",
+     "p": [
+      "Tanı çoğunlukla öykü ve muayeneyle konur: dirsek dış yanındaki hassasiyete ve bileği dirence karşı kaldırırken ağrı olup olmadığına bakılır [2].",
+      "Görüntüleme her zaman gerekmez. Röntgen kireçlenme gibi başka nedenleri dışlamak, MR tendondaki hasarın boyutunu görmek, sinir iletim testi (EMG) ise sinir sıkışmasını dışlamak için istenebilir [2]."
+     ]
+    },
+    {
+     "h": "Önce evde ve fizyoterapide neler yapılır?",
+     "p": [
+      "İlk adım ağrıyı artıran hareketlerden bir süre kaçınmaktır. Parasetamol ya da iltihap giderici jel, günde birkaç kez en çok 20 dakika sıcak veya soğuk uygulama ve eczanelerde bulunan ön kol bandı yardımcı olabilir [1][2].",
+      "Evde uygulanan önlemlerle 6 haftada düzelme olmazsa fizyoterapi önerilir: masaj, bilek ve ön kol için germe ve güçlendirme egzersizleri uygulanabilir [1]. Bir Cochrane derlemesine göre manuel terapi ve egzersiz tedavi sonunda ağrıyı ve kısıtlılığı hafifçe azaltabilir; etkinin kalıcılığına dair kanıt zayıftır [4]."
+     ]
+    },
+    {
+     "h": "Kortizon iğnesi",
+     "p": [
+      "Kortizon iğnesi kısa dönemde ağrıyı hızla azaltabilir. Ancak randomize bir çalışmada kortizon yapılan hastaların bir yıllık sonuçları plasebo iğnesi yapılanlardan daha kötü bulunmuş ve yakınmalar daha sık geri dönmüştür [3]. Bu yüzden artıları ve eksileri hekimle ayrıntılı konuşulmalıdır."
+     ]
+    },
+    {
+     "h": "PRP ve kendi kanıyla yapılan iğneler",
+     "p": [
+      "Trombositten zengin plazma (PRP) ve kişinin kendi kanından hazırlanan iğneler de uygulanmaktadır [2]. Bir Cochrane derlemesi bu iğnelerin plaseboya göre ağrı ve işlevde anlamlı bir fayda sağlamadığını bildirmiştir [5]. Hastaların büyük bölümünde ameliyatsız tedavilerle sonuç alınır [2]."
+     ]
+    },
+    {
+     "h": "Ameliyat ve iyileşme",
+     "p": [
+      "Uygun ameliyatsız tedaviye rağmen 6 ila 12 ay düzelmeyen yakınmalarda ameliyat değerlendirilebilir [1][2]. Ameliyatta hasarlı tendon dokusu temizlenir ve sağlıklı doku kemiğe yeniden tutturulur; işlem açık ya da artroskopik (kapalı) yapılabilir [2].",
+      "Ameliyattan sonra kol kısa süre atelle korunur, ardından hareket egzersizleri başlar; güçlendirme yaklaşık iki ay sonra eklenir ve spora dönüş genellikle ameliyattan 4 ila 6 ay sonra mümkün olur [2].",
+      "Ameliyat olmayanlarda da tenisçi dirseği çoğu zaman birkaç haftalık istirahatle geçer; ancak bazı kişilerde yakınmalar bir yıldan uzun sürebilir, bu yüzden sabırlı olmak ve programı düzenli sürdürmek önemlidir [1]."
+     ]
+    },
+    {
+     "h": "Beklememeniz gereken durumlar",
+     "p": [
+      "Tenisçi dirseği acil bir durum değildir; evde uygulanan önlemlere rağmen ağrı 2 haftadan uzun sürerse hekime başvurun [1]. Şu durumlarda ise hemen acil servise gidin [6]:"
+     ],
+     "list": [
+      "Kolda şiddetli ağrı ve hareket ettirmede zorlanma",
+      "Yaralanma sırasında kopma sesi duyulması ya da kolun şeklinin değişmesi",
+      "Kolda karıncalanma ya da uyuşma",
+      "Kolda şişlikle birlikte yüksek ateş ya da titreme",
+      "Kol ağrısı aniden başlayıp göğüste baskı, ağırlık ya da sıkışma hissiyle birlikteyse: bu kalp krizi belirtisi olabilir, hemen acil yardım çağırın (Kuzey Kıbrıs ve Türkiye'de 112)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Tenisçi dirseği ne kadar sürede geçer?",
+     "a": "Çoğu kişide birkaç haftalık istirahat ve aktivite düzenlemesiyle düzelir; bazı hastalarda yakınmalar bir yıldan uzun sürebilir [1]."
+    },
+    {
+     "q": "Kortizon iğnesi yaptırmalı mıyım?",
+     "a": "Kısa sürede rahatlama sağlayabilir, ancak bir yıllık sonuçlar plaseboya göre daha kötü bulunmuş ve yakınmalar daha sık tekrarlamıştır. Karar artı ve eksiler hekimle konuşularak verilmelidir [3]."
+    },
+    {
+     "q": "PRP işe yarar mı?",
+     "a": "Bir Cochrane derlemesi PRP ve kişinin kendi kanıyla yapılan iğnelerin plaseboya göre ağrı ve işlevde anlamlı bir fayda sağlamadığını bildirmiştir [5]."
+    },
+    {
+     "q": "Tenis oynamıyorum, neden bende oldu?",
+     "a": "Hastaların çoğu tenis oynamaz; bilgisayar kullanımı, tadilat işleri ya da el aletleri gibi bileği tekrar tekrar kavrama ve çevirme gerektiren işler aynı zorlanmaya yol açar [1][2]."
+    },
+    {
+     "q": "Tenisçi dirseği bandı işe yarar mı?",
+     "a": "Ön kola takılan bant ya da destek günlük işlerde ağrıyı azaltmaya yardımcı olabilir ve ameliyatsız tedavinin bir parçası olarak önerilir [1][2]."
+    }
+   ],
+   "note": "Kliniğimizde önce yakınmanın gerçekten dirsek dışı tendondan kaynaklandığını muayeneyle doğrular, gerekirse görüntüleme ister ve iğne ile ameliyat seçeneklerinin artı ve eksilerini sizinle açıkça konuşarak planı birlikte yaparız."
+  },
+  "en": {
+   "slug": "tennis-elbow-steroid-injection-prp-surgery",
+   "title": "Tennis elbow: what do steroid injections, PRP and surgery add?",
+   "description": "Pain on the outer side of the elbow is common even in people who never play tennis: the place of rest, a strap, exercise, steroid and PRP injections and surgery, and how long it lasts.",
+   "summary": "Tennis elbow (lateral epicondylitis) is pain on the outer side of the elbow caused by overuse strain of the tendon where the muscles that lift the wrist backwards attach to the bony bump at the outside of the elbow; it is common even in people who do not play tennis [1][2]. Most people recover with non-surgical measures such as rest, activity changes, exercise and strapping, although symptoms can sometimes last over a year; surgery is considered for the small number whose symptoms do not settle after 6 to 12 months of appropriate treatment [1][2].",
+   "sections": [
+    {
+     "h": "What is tennis elbow?",
+     "p": [
+      "The forearm muscles that lift the wrist and fingers backwards attach by a tendon to the bony bump on the outer side of the elbow (the lateral epicondyle). The tendon of one of these muscles (extensor carpi radialis brevis) is the structure most often affected [2].",
+      "Repeated strain causes tiny tears where the tendon joins the bone, leading to pain and tenderness. Despite the name, most people who get it do not play tennis [1][2]."
+     ]
+    },
+    {
+     "h": "Which symptoms are typical?",
+     "p": [
+      "Pain usually starts slowly and builds over weeks and months, from mild discomfort to constant pain that disturbs sleep [1][2]:"
+     ],
+     "list": [
+      "Pain or a burning feeling on the outer side of the elbow",
+      "Pain that increases when lifting, gripping or turning the wrist",
+      "Tenderness when the outer side of the elbow is touched",
+      "Pain spreading into the forearm and weaker grip",
+      "Difficulty fully straightening the arm"
+     ]
+    },
+    {
+     "h": "Who gets it, and why?",
+     "p": [
+      "The cause is work that needs repeated gripping and turning of the wrist: long periods of using a computer mouse, sewing, using a screwdriver or brush, and racket sports are examples [1][2]. People in hand-intensive jobs such as painters, plumbers and carpenters are affected more often, and it is commonest in the 30s and 50s [1][2]."
+     ]
+    },
+    {
+     "h": "How is it diagnosed?",
+     "p": [
+      "Diagnosis is mostly from your story and examination: the doctor checks for tenderness on the outer side of the elbow and for pain when the wrist is lifted against resistance [2].",
+      "Imaging is not always needed. An X-ray may be requested to exclude other causes such as arthritis, an MRI to see how much the tendon is damaged and a nerve conduction test (EMG) to exclude nerve entrapment [2]."
+     ]
+    },
+    {
+     "h": "What to try first at home and in physiotherapy",
+     "p": [
+      "The first step is to avoid for a while the movements that provoke the pain. Paracetamol or an anti-inflammatory gel, hot or cold packs for up to 20 minutes several times a day and a forearm strap from the pharmacy can help [1][2].",
+      "If home measures have not helped after 6 weeks, physiotherapy is advised: massage and stretching and strengthening exercises for the wrist and forearm can be used [1]. According to a Cochrane review, manual therapy and exercise may slightly reduce pain and disability at the end of treatment, but the evidence that this lasts is weak [4]."
+     ]
+    },
+    {
+     "h": "Steroid injection",
+     "p": [
+      "A steroid injection can reduce pain quickly in the short term. In a randomised trial, however, patients given a steroid injection had worse one-year outcomes than those given a placebo injection and their symptoms came back more often [3]. The pros and cons should therefore be discussed in detail with the doctor."
+     ]
+    },
+    {
+     "h": "PRP and injections of your own blood",
+     "p": [
+      "Platelet-rich plasma (PRP) and injections made from a person's own blood are also used [2]. A Cochrane review reported no meaningful benefit over placebo for pain and function with these injections [5]. Most people get a result with non-surgical treatment [2]."
+     ]
+    },
+    {
+     "h": "Surgery and recovery",
+     "p": [
+      "If symptoms have not settled after 6 to 12 months of appropriate non-surgical treatment, surgery can be considered [1][2]. In the operation the damaged tendon tissue is cleared and healthy tissue is reattached to the bone, using either an open or an arthroscopic (keyhole) approach [2].",
+      "After surgery the arm is protected in a splint for a short time, then movement exercises begin; strengthening is added at about two months and return to sport is usually possible 4 to 6 months after the operation [2].",
+      "Without surgery too, tennis elbow often settles with a few weeks of rest, but in some people symptoms last more than a year, so patience and keeping up the treatment programme matter [1]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Tennis elbow is not an emergency; see a doctor if pain lasts more than 2 weeks despite home measures [1]. Go to the emergency department straight away if [6]:"
+     ],
+     "list": [
+      "There is severe arm pain with difficulty moving it",
+      "A tearing sound was heard at the time of injury or the arm changed shape",
+      "There is tingling or numbness in the arm",
+      "Swelling of the arm comes with a high temperature or shivering",
+      "Arm pain starts suddenly together with pressure, heaviness or tightness in the chest: this may be a sign of a heart attack, so call emergency services at once (112 in Northern Cyprus and Türkiye)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "How long does tennis elbow take to go?",
+     "a": "In most people it settles with a few weeks of rest and activity changes; in some, symptoms last more than a year [1]."
+    },
+    {
+     "q": "Should I have a steroid injection?",
+     "a": "It can bring relief in the short term, but one-year results were worse than with placebo and symptoms returned more often. The decision should be made after discussing the pros and cons with your doctor [3]."
+    },
+    {
+     "q": "Does PRP work?",
+     "a": "A Cochrane review reported that PRP and own-blood injections gave no meaningful benefit over placebo for pain and function [5]."
+    },
+    {
+     "q": "I do not play tennis, so why did I get it?",
+     "a": "Most people with it do not play tennis; jobs that need repeated gripping and turning of the wrist, such as computer use, renovation work or hand tools, cause the same strain [1][2]."
+    },
+    {
+     "q": "Does a tennis elbow strap help?",
+     "a": "A strap or support on the forearm can help reduce pain during daily tasks and is advised as part of non-surgical treatment [1][2]."
+    }
+   ],
+   "note": "At our clinic we first confirm by examination that the pain comes from the tendon on the outer side of the elbow, request imaging if it is needed, and then plan treatment together with you, talking openly about the pros and cons of injections and surgery."
+  }
+ }
+}

@@ -1,0 +1,255 @@
+{
+ "id": "acl-tear-clinic",
+ "area": "diz",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Anterior Cruciate Ligament (ACL) Injuries",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/anterior-cruciate-ligament-acl-injuries",
+   "year": "n.d."
+  },
+  {
+   "title": "ACL Injury: Does It Require Surgery?",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/treatment/acl-injury-does-it-require-surgery",
+   "year": "n.d."
+  },
+  {
+   "title": "Knee pain",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/knee-pain/",
+   "year": "2023"
+  },
+  {
+   "title": "Surgical versus conservative interventions for treating anterior cruciate ligament injuries (Monk AP et al.)",
+   "publisher": "Cochrane Database of Systematic Reviews",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27039329/",
+   "year": "2016"
+  },
+  {
+   "title": "Primary surgery versus primary rehabilitation for treating anterior cruciate ligament injuries: a living systematic review and meta-analysis (Saueressig T et al.)",
+   "publisher": "British Journal of Sports Medicine",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36038357/",
+   "year": "2022"
+  },
+  {
+   "title": "Knee Dislocations",
+   "publisher": "MSD Manual Consumer Version",
+   "url": "https://www.msdmanuals.com/home/injuries-and-poisoning/dislocations/knee-dislocations",
+   "year": "2025"
+  },
+  {
+   "title": "Dislocation",
+   "publisher": "MedlinePlus Medical Encyclopedia (U.S. National Library of Medicine)",
+   "url": "https://medlineplus.gov/ency/article/000014.htm",
+   "year": "2026"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "on-capraz-bag-yirtigi-ameliyat-sart-mi",
+   "title": "Ön çapraz bağ yırtığı: ameliyat şart mı?",
+   "description": "Dizde 'pat' sesi ve boşalma hissi: ön çapraz bağ yırtığında egzersizle takip ile bağ rekonstrüksiyonu arasında nasıl karar verilir, spora ne zaman dönülür?",
+   "summary": "Ön çapraz bağ yırtığı, dizin ortasındaki ana dengeleyici bağın çoğunlukla ani durma, dönme ya da sıçrayıp yere inme sırasında kopmasıdır [1]. Her yırtık ameliyat gerektirmez: karar yaşa, spor hedefine, dizde boşalma olup olmamasına ve eşlik eden yaralanmalara göre verilir; ameliyat sonrası spora dönüş çoğunlukla 6 ile 12 ay sürer [1][2][5].",
+   "sections": [
+    {
+     "h": "Bu bağ ne işe yarar?",
+     "p": [
+      "Ön çapraz bağ, uyluk kemiğini kaval kemiğine bağlayan güçlü bir bağdır. Kaval kemiğinin öne kaymasını ve dizin kendi etrafında aşırı dönmesini sınırlar; yırtılınca diz özellikle dönme ve ani yön değiştirmede güvensiz hale gelebilir [1].",
+      "Yırtık kısmi ya da tam olabilir. Daha çok genç ve sportif kişilerde görülür; diz güvensizliğine, aktivitenin azalmasına ve zamanla dizle ilgili yaşam kalitesinin düşmesine yol açabilir [4]."
+     ]
+    },
+    {
+     "h": "Yaralanma nasıl olur, nasıl belli eder?",
+     "p": [
+      "Çoğu yırtık rakiple temas olmadan oluşur: koşarken aniden durmak, ayak yere basılıyken gövdeyi döndürmek, hızlı yön değiştirmek ya da sıçradıktan sonra dizin içe bükülerek yere inmek tipik mekanizmalardır. Futbol, basketbol ve voleybol gibi sporlarda risk yüksektir; dize doğrudan darbe daha seyrek bir nedendir [1].",
+      "Belirtiler genellikle yaralanma anında başlar [1][3]:"
+     ],
+     "list": [
+      "Dizin içinde kopma hissi ya da 'pat' sesi ve ani ağrı",
+      "Birkaç saat içinde gelişen şişlik",
+      "Dizin boşalması, 'kayıyor' ya da 'çıkıyor' gibi hissedilmesi",
+      "Dizi tam bükememe ya da tam düzleştirememe",
+      "Eklem çizgisi boyunca hassasiyet ve yürürken rahatsızlık"
+     ]
+    },
+    {
+     "h": "Tek başına mı, başka hasarla mı?",
+     "p": [
+      "Ön çapraz bağ yırtığına çoğu zaman menisküs yırtığı, eklem kıkırdağı hasarı ya da yan bağ yaralanması eşlik edebilir. Bu eşlik eden hasarlar tedavi planını doğrudan etkiler [1]."
+     ]
+    },
+    {
+     "h": "Tanı nasıl konur?",
+     "p": [
+      "İlk ve en önemli adım muayenedir: yaralı diz sağlam dizle karşılaştırılarak bağın gevşekliği özel testlerle değerlendirilir ve deneyimli bir muayeneyle çoğu zaman tanı konabilir [1].",
+      "Röntgen bağı göstermez; bağın kemikten kopardığı küçük bir parçayı ya da eşlik eden kırığı görmek için çekilir. MR ise bağın yanında menisküs ve kıkırdak gibi yumuşak dokuları da en iyi gösteren yöntemdir [1]."
+     ]
+    },
+    {
+     "h": "Ameliyatsız yol kime uygun olabilir?",
+     "p": [
+      "Kısmi yırtığı olup dizi boşalmayanlar, tam yırtığa rağmen günlük yaşamda yakınması olmayanlar ve daha az hareketli yaşayanlar için ameliyatsız izlem uygun olabilir; bu yaklaşımda ilk aşamada yaklaşık 12 haftalık bir tedavi dönemi önerilir [2].",
+      "Tedavinin temeli fizyoterapist eşliğinde yapılan yapılandırılmış egzersizdir: ön ve arka uyluk kaslarını güçlendirmek, hareket açıklığını geri kazanmak, denge ve kas kontrolünü geliştirmek hedeflenir [1].",
+      "Randomize çalışmaların sistematik derlemeleri, önce rehabilitasyonla başlayıp gerekirse sonra ameliyat yapmanın diz fonksiyon skorlarında erken ameliyatla benzer sonuçlara ulaşabildiğini gösterir; ancak bu kanıtın kesinliği düşük ya da çok düşüktür [4][5]. Rehabilitasyonla başlayanların önemli bir kısmı dizdeki boşalma yakınması sürdüğü için sonradan ameliyatı seçmiştir; bu yüzden ameliyatsız yolda da düzenli kontrol önemlidir [4]."
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman öne çıkar?",
+     "p": [
+      "En sık uygulanan yöntem rekonstrüksiyondur: yırtılan bağ dikilerek iyileşmediği için hastanın kendi tendonlarından ya da donör dokudan hazırlanan bir greftle yeni bir bağ oluşturulur. Bağın kemiğe yapıştığı yerden koptuğu bazı seçilmiş yırtıklarda onarım da düşünülebilir [1].",
+      "Ameliyat özellikle dönme ve ani yön değiştirme gerektiren sporlara dönmek isteyenlerde, günlük yaşamda dizi boşalanlarda ve menisküs, kıkırdak ya da başka bir bağ yaralanması eşlik edenlerde öne çıkar. Büyüme çağındaki çocuk ve ergenlerde, ileride menisküs ve kıkırdak hasarı riskini azaltmak için ameliyat sıklıkla tercih edilir [2].",
+      "Karar yaşa, spor hedeflerine, mesleğe ve muayene bulgularına göre birlikte verilir; tek bir yöntem herkes için en doğrusu değildir [2][5]."
+     ]
+    },
+    {
+     "h": "Ameliyat sonrası süreç",
+     "p": [
+      "Fizik tedavi ameliyattan hemen sonra başlar. İlk hedefler şişliği azaltmak, dizi tam düzleştirmek ve uyluk kaslarını çalıştırmaktır; sonraki aylarda kuvvet, denge ve sıçrama-iniş kontrolü üzerinde çalışılır. Egzersiz programına düzenli uyum sonucu belirleyen etkenlerden biridir [2].",
+      "Spora tam dönüş çoğu hastada 6 ile 12 ay arasındadır. Bu süreyi takvimden çok kuvvet, hareket açıklığı ve kas kontrolü belirler [2]."
+     ]
+    },
+    {
+     "h": "Beklememeniz gereken durumlar",
+     "p": [
+      "Şu durumlarda acil servise ya da bir ortopedi uzmanına gecikmeden başvurun [3]:"
+     ],
+     "list": [
+      "Dizin üzerine hiç basılamıyor ya da diz hiç hareket ettirilemiyorsa",
+      "Belirgin şekil bozukluğu ya da çok hızlı gelişen ciddi şişlik varsa",
+      "Diz bir pozisyonda kilitleniyor ya da ağrılı takılmalarla sık sık boşalıyorsa",
+      "Kızarıklık ve sıcaklığa yüksek ateş eşlik ediyorsa (enfeksiyon belirtisi olabilir)",
+      "Yaralanmadan sonra ayak ya da bacağın alt kısmı soğuk, soluk veya morumsu ise, ayak nabzı zayıf ya da alınamıyorsa, ayakta uyuşma varsa ya da ayak oynatılamıyorsa: bu diz çıkığına bağlı damar veya sinir yaralanmasının belirtisi olabilir; diz kendiliğinden yerine oturmuş gibi görünse de hemen acil servise gidin [6][7]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Bağı kopan kişi yürüyebilir mi?",
+     "a": "Çoğu kişi şişlik azaldıktan sonra düz zeminde yürüyebilir; ancak dönme ve ani yön değiştirmede diz boşalabilir. Yürüyebilmek bağın sağlam olduğu anlamına gelmez [1][3]."
+    },
+    {
+     "q": "Her ön çapraz bağ yırtığı ameliyat gerektirir mi?",
+     "a": "Hayır. Dizi boşalmayan ve daha az hareketli yaşayanlarda yapılandırılmış fizik tedavi uygun olabilir; dönme sporu yapanlarda, dizi boşalanlarda ve eşlik eden yaralanması olanlarda ameliyat daha sık önerilir [2][5]."
+    },
+    {
+     "q": "MR çektirmek şart mı?",
+     "a": "Tanı çoğunlukla muayeneyle konabilir; MR ise menisküs ve kıkırdak hasarını göstermek ve tedaviyi planlamak için değerlidir [1]."
+    },
+    {
+     "q": "Ameliyattan sonra spora ne zaman dönülür?",
+     "a": "Genellikle 6 ile 12 ay arasında; zamanı kuvvet, hareket açıklığı ve kas kontrolü belirler [2]."
+    },
+    {
+     "q": "Önce egzersizle başlarsam ameliyat şansını kaybeder miyim?",
+     "a": "Önce rehabilitasyonla başlayıp gerekirse sonra ameliyat olmak bir seçenektir ve diz fonksiyon skorları erken ameliyatla benzer çıkabilir; kanıtın kesinliği düşüktür. Dizi boşalmaya devam edenlerin önemli bir kısmı sonradan ameliyatı seçmiştir [4][5]."
+    }
+   ],
+   "note": "Kliniğimizde önce muayene ve gerekirse MR ile eşlik eden hasarı belirler, ardından spor hedefinizi, günlük yaşamınızı ve dizinizin davranışını birlikte konuşarak egzersiz ya da ameliyat yolunu seçeriz."
+  },
+  "en": {
+   "slug": "acl-tear-is-surgery-always-needed",
+   "title": "Anterior cruciate ligament tear: is surgery always needed?",
+   "description": "A pop and a feeling that the knee gives way: how to decide between exercise-based treatment and ACL reconstruction, and when sport can restart after surgery.",
+   "summary": "An anterior cruciate ligament (ACL) tear is a rupture of the main stabilising ligament in the middle of the knee, usually during a sudden stop, twist or landing from a jump [1]. Not every tear needs surgery: the choice depends on age, sporting goals, whether the knee gives way and whether other structures are injured; after surgery, return to sport usually takes 6 to 12 months [1][2][5].",
+   "sections": [
+    {
+     "h": "What does this ligament do?",
+     "p": [
+      "The ACL is a strong ligament joining the thigh bone to the shin bone. It limits forward sliding of the shin and excessive rotation of the knee; once torn, the knee can feel unstable, especially when twisting or changing direction suddenly [1].",
+      "The tear can be partial or complete. It is seen mostly in young, sporty people and can lead to a feeling of instability, less activity and, over time, a lower knee-related quality of life [4]."
+     ]
+    },
+    {
+     "h": "How does the injury happen and what does it feel like?",
+     "p": [
+      "Most tears happen without contact with another player: stopping suddenly while running, twisting the body with the foot planted, changing direction quickly or landing from a jump with the knee buckling inwards are typical. Football, basketball and volleyball carry a higher risk; a direct blow to the knee is a less common cause [1].",
+      "Symptoms usually start at the moment of injury [1][3]:"
+     ],
+     "list": [
+      "A tearing feeling or a 'pop' inside the knee, with sudden pain",
+      "Swelling that develops within a few hours",
+      "The knee giving way, or feeling as if it slips or pops out",
+      "Being unable to bend or fully straighten the knee",
+      "Tenderness along the joint line and discomfort when walking"
+     ]
+    },
+    {
+     "h": "Alone or with other damage?",
+     "p": [
+      "An ACL tear is often accompanied by a meniscus tear, damage to the joint cartilage or an injury to a side ligament. This extra damage directly affects the treatment plan [1]."
+     ]
+    },
+    {
+     "h": "How is it diagnosed?",
+     "p": [
+      "The first and most important step is examination: the injured knee is compared with the healthy one and special tests assess how loose the ligament is; an experienced examination can often make the diagnosis [1].",
+      "An X-ray does not show ligaments; it is taken to look for a small piece of bone pulled off by the ligament or an accompanying fracture. MRI shows the ligament and also soft tissues such as the meniscus and cartilage best [1]."
+     ]
+    },
+    {
+     "h": "Who may manage without surgery?",
+     "p": [
+      "Non-surgical care can suit people with a partial tear whose knee does not give way, those with a complete tear who have no problems in daily life, and people with a less active lifestyle; an initial treatment period of about 12 weeks is suggested [2].",
+      "The core of treatment is a structured exercise programme with a physiotherapist: strengthening the front and back thigh muscles, regaining movement and improving balance and muscle control [1].",
+      "Systematic reviews of randomised trials show that starting with rehabilitation and operating later only if needed can reach knee-function scores similar to early surgery, although the certainty of this evidence is low or very low [4][5]. A substantial share of those who started with rehabilitation chose surgery later because the knee kept giving way, so regular review matters on this path too [4]."
+     ]
+    },
+    {
+     "h": "When does surgery come to the fore?",
+     "p": [
+      "The most common operation is reconstruction: because a torn ACL does not heal by stitching, a new ligament is made from a graft taken from your own tendons or from donor tissue. In some selected tears, particularly where the ligament has come off its bone attachment, repair may be considered [1].",
+      "Surgery stands out for people who want to return to sports involving pivoting and sudden changes of direction, those whose knee gives way in daily life and those with a meniscus, cartilage or other ligament injury as well. In growing children and teenagers surgery is often preferred to lower the later risk of meniscus and cartilage damage [2].",
+      "The decision is shared and rests on age, sporting goals, work demands and examination findings; no single approach is best for everyone [2][5]."
+     ]
+    },
+    {
+     "h": "Recovery after surgery",
+     "p": [
+      "Physiotherapy starts straight after the operation. Early goals are reducing swelling, getting the knee fully straight and working the thigh muscles; later months focus on strength, balance and jump-landing control. Sticking to the exercise programme is one of the things that shapes the result [2].",
+      "Full return to sport is typically between 6 and 12 months. The timing depends less on the calendar than on strength, range of movement and muscle control [2]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Go to the emergency department or see an orthopaedic specialist without delay if [3]:"
+     ],
+     "list": [
+      "You cannot put any weight on the leg or cannot move the knee at all",
+      "There is obvious deformity or very rapid, severe swelling",
+      "The knee locks in one position or keeps giving way with painful catching",
+      "Redness and warmth come with a high temperature (possible infection)",
+      "After a knee injury the foot or lower leg is cold, pale or purplish, the foot pulse is weak or absent, the foot is numb or you cannot move it: this can mean blood vessel or nerve injury from a knee dislocation, so go to the emergency department at once even if the knee seems to have returned into place [6][7]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can someone walk with a torn ACL?",
+     "a": "Most people can walk on level ground once the swelling settles, but the knee may give way when twisting or changing direction. Being able to walk does not mean the ligament is intact [1][3]."
+    },
+    {
+     "q": "Does every ACL tear need surgery?",
+     "a": "No. Structured physiotherapy can be suitable for people whose knee does not give way and who are less active; surgery is recommended more often for people who play pivoting sports, whose knee gives way or who have other injuries [2][5]."
+    },
+    {
+     "q": "Is an MRI essential?",
+     "a": "The diagnosis can often be made by examination; MRI is valuable for showing meniscus and cartilage damage and for planning treatment [1]."
+    },
+    {
+     "q": "When can I return to sport after surgery?",
+     "a": "Usually between 6 and 12 months; the timing is set by strength, range of movement and muscle control [2]."
+    },
+    {
+     "q": "If I start with exercise, do I lose the chance of surgery?",
+     "a": "Starting with rehabilitation and operating later only if needed is an option, and knee-function scores can be similar to early surgery, though the certainty of the evidence is low. A substantial share of people whose knee kept giving way chose surgery later [4][5]."
+    }
+   ],
+   "note": "At our clinic we first establish any accompanying damage by examination and, where needed, MRI, then choose between exercise and surgery together with you, based on your sporting goals, daily life and how the knee behaves."
+  }
+ }
+}
