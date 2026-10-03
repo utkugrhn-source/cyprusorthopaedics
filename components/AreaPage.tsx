@@ -75,7 +75,7 @@ export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
                   </li>
                 ))}
               </ul>
-              <p className="small mt-6 text-white/75" style={{ fontWeight: 400 }}>{u.urgentNote}</p>
+              <p className="small mt-6 text-white/75" style={{ fontWeight: 400 }}>{a.urgentNote ? a.urgentNote[lang] : u.urgentNote}</p>
             </div>
           </section>
 

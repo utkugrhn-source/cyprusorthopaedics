@@ -9,6 +9,8 @@ export type Area = {
   lead: L;
   conditions: Record<Lang, Condition[]>;
   urgent: Record<Lang, string[]>;
+  /** Replaces the default "go to the emergency department" note where that advice would be wrong. */
+  urgentNote?: L;
 };
 
 export const AREAS_SEGMENT: Record<Lang, string> = { tr: "tedavi", en: "treatments" };
@@ -219,6 +221,37 @@ export const areas: Area[] = [
       en: ["A child who will not use an arm or leg after a fall", "Rapidly developing swelling of the elbow", "A limp or refusal to bear weight together with fever"],
     },
   },
+  {
+    id: "tumor",
+    slug: { tr: "kemik-ve-yumusak-doku-tumorleri", en: "bone-and-soft-tissue-tumours" },
+    title: { tr: "Kemik ve yumuşak doku tümörleri", en: "Bone and soft tissue tumours" },
+    lead: {
+      tr: "Kemikte ya da kas ve yağ dokusunda fark edilen kitlelerin büyük bölümü iyi huyludur. Yine de her kitlenin muayene ve görüntülemeyle değerlendirilmesi, gerektiğinde biyopsiyle tanı konması gerekir.",
+      en: "Most lumps found in bone, muscle or fat are benign. Even so, every lump should be assessed by examination and imaging, with a biopsy to establish the diagnosis where needed.",
+    },
+    conditions: {
+      tr: [
+        { n: "İyi huylu kemik tümörleri ve kistleri", d: "Çoğu başka bir nedenle çekilen röntgende tesadüfen görülür. Bir kısmı yalnızca izlenir; ağrı yapan, büyüyen ya da kemiği zayıflatanlar ameliyatla temizlenir." },
+        { n: "Yumuşak doku kitleleri", d: "En sık yağ bezesi (lipom) görülür. Büyüyen, derin yerleşimli ya da ağrılı kitleler MR ile incelenir; tanı gerektiğinde biyopsiyle konur." },
+        { n: "Kötü huylu kemik ve yumuşak doku tümörleri (sarkomlar)", d: "Nadir görülür. Tanı biyopsiyle konur; tedavi cerrahi, onkoloji ve radyasyon onkolojisiyle birlikte planlanır." },
+        { n: "Kemik metastazları ve patolojik kırıklar", d: "Başka bir organdaki kanserin kemiğe yayılması ağrıya ve kemiğin zayıflamasına yol açabilir. Kırılmış ya da kırılma riski taşıyan kemik ameliyatla güçlendirilir." },
+      ],
+      en: [
+        { n: "Benign bone tumours and cysts", d: "Many are found by chance on an X-ray taken for another reason. Some are simply observed; those that are painful, growing or weakening the bone are removed surgically." },
+        { n: "Soft tissue lumps", d: "The most common is a fatty lump (lipoma). Lumps that are growing, deep or painful are examined with MRI, and a biopsy establishes the diagnosis where needed." },
+        { n: "Malignant bone and soft tissue tumours (sarcomas)", d: "These are rare. The diagnosis is made by biopsy; treatment is planned jointly by surgery, oncology and radiation oncology." },
+        { n: "Bone metastases and pathological fractures", d: "Cancer that has spread to bone from another organ can cause pain and weaken the bone. A bone that has broken, or is at risk of breaking, is strengthened surgically." },
+      ],
+    },
+    urgent: {
+      tr: ["Hızla büyüyen ya da 5 santimetreden büyük kitle", "Gece uyandıran, dinlenmekle geçmeyen kemik ağrısı", "Hafif bir zorlanmayla ya da düşmeden oluşan kırık"],
+      en: ["A lump that is growing quickly or is larger than 5 centimetres", "Bone pain that wakes you at night and does not ease with rest", "A fracture after minor strain or without a fall"],
+    },
+    urgentNote: {
+      tr: "Kitle ve ağrıda beklemeyin, birkaç gün içinde muayene için randevu alın. Kırık şüphesinde acil servise gidin.",
+      en: "For a lump or pain, do not wait: book an examination within a few days. If you suspect a fracture, go to the emergency department.",
+    },
+  },
 ];
 
 export const getArea = (lang: Lang, slug: string) => areas.find((a) => a.slug[lang] === slug);
@@ -277,4 +310,5 @@ export const procedures: { t: L; area: string }[] = [
   { t: { tr: "Halluks valgus ameliyatı", en: "Bunion surgery" }, area: "ayak-bilek" },
   { t: { tr: "Aşil tendonu onarımı", en: "Achilles tendon repair" }, area: "ayak-bilek" },
   { t: { tr: "Çocuk kırıkları", en: "Children’s fractures" }, area: "cocuk" },
+  { t: { tr: "Kemik ve yumuşak doku tümörü ameliyatları", en: "Bone and soft tissue tumour surgery" }, area: "tumor" },
 ];

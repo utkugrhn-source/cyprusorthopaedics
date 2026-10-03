@@ -40,7 +40,7 @@ export const ui: Record<Lang, Ui> = {
       h1a: "Ortopedi ve",
       h1b: "Travmatoloji",
       place: "Dr. Suat Günsel Girne Üniversitesi Hastanesi, Girne",
-      lead: "Girne Üniversitesi Tıp Fakültesi’nin üç ortopedi öğretim üyesiyiz ve aynı klinikte birlikte çalışıyoruz. Kırık ve yaralanmalara, eklem protezine, artroskopiye, el cerrahisine, ayak ve ayak bileği sorunlarına bakıyoruz.",
+      lead: "Girne Üniversitesi Tıp Fakültesi’nin üç ortopedi öğretim üyesiyiz ve aynı klinikte birlikte çalışıyoruz. Kırık ve yaralanmalara, eklem protezine, artroskopiye, el cerrahisine, ayak ve ayak bileği sorunlarına, kemik ve yumuşak doku tümörlerine bakıyoruz.",
       cta1: "Randevu al",
       cta2: "Hekimlerimiz",
       photoAlt: "Ortopedi ekibi artroskopi ameliyatında",
@@ -58,6 +58,7 @@ export const ui: Record<Lang, Ui> = {
         { t: "Ayak ve ayak bileği", d: "Ayak bileği burkulması ve kırığı, halluks valgus, Aşil tendonu sorunları" },
         { t: "Kırık ve travma", d: "Acil kırık tedavisi, çoklu yaralanmalar, kaynamayan ve yanlış kaynayan kırıklar" },
         { t: "Çocuk ortopedisi", d: "Çocukluk çağı kırıkları ve büyüme dönemine özgü ortopedik sorunlar" },
+        { t: "Kemik ve yumuşak doku tümörleri", d: "İyi huylu kemik tümörleri ve kistleri, yumuşak doku kitleleri, sarkomlar, kemik metastazları" },
       ],
       note: "Bölge sayfaları genel bilgi içindir; tanı ve tedavi muayenede belirlenir.",
     },
@@ -111,7 +112,7 @@ export const ui: Record<Lang, Ui> = {
     profile: { back: "Hekimlerimiz", summary: "Özgeçmiş", focus: "Klinik ilgi alanları", focusPending: "Klinik ilgi alanları hekimden alınacak.", path: "Eğitim ve görevler", academic: "Akademik çalışmalar", selected: "Seçilmiş yayınlar", books: "Kitap bölümleri", courses: "Kurslar ve ek eğitim", memberships: "Yeterlik ve üyelikler", langs: "Muayene dilleri", links: "Akademik profiller", others: "Diğer hekimler", book: "Randevu al", site: "Kişisel site" },
     meta: {
       title: "Cyprus Orthopaedics · Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı",
-      desc: "Cyprus Orthopaedics: Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı, Dr. Suat Günsel Girne Üniversitesi Hastanesi. Üç öğretim üyesi; kırık ve travma, eklem protezi, artroskopi, el cerrahisi, ayak ve ayak bileği. Randevu: +90 392 444 99 39.",
+      desc: "Cyprus Orthopaedics: Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı, Dr. Suat Günsel Girne Üniversitesi Hastanesi. Üç öğretim üyesi; kırık ve travma, eklem protezi, artroskopi, el cerrahisi, ayak ve ayak bileği, kemik ve yumuşak doku tümörleri. Randevu: +90 392 444 99 39.",
     },
   },
   en: {
@@ -121,7 +122,7 @@ export const ui: Record<Lang, Ui> = {
       h1a: "Orthopaedics &",
       h1b: "Traumatology",
       place: "Dr. Suat Günsel University of Kyrenia Hospital, Kyrenia, North Cyprus",
-      lead: "We are three orthopaedic faculty members of the University of Kyrenia Faculty of Medicine, working together in one clinic. We look after fractures and injuries, joint replacement, arthroscopy, hand surgery, and foot and ankle problems.",
+      lead: "We are three orthopaedic faculty members of the University of Kyrenia Faculty of Medicine, working together in one clinic. We look after fractures and injuries, joint replacement, arthroscopy, hand surgery, foot and ankle problems, and bone and soft tissue tumours.",
       cta1: "Book an appointment",
       cta2: "Our doctors",
       photoAlt: "The orthopaedic team during an arthroscopy",
@@ -139,6 +140,7 @@ export const ui: Record<Lang, Ui> = {
         { t: "Foot and ankle", d: "Ankle sprains and fractures, hallux valgus (bunion), Achilles tendon problems" },
         { t: "Fractures and trauma", d: "Emergency fracture care, multiple injuries, non-union and malunion" },
         { t: "Children’s orthopaedics", d: "Childhood fractures and orthopaedic problems of the growing skeleton" },
+        { t: "Bone and soft tissue tumours", d: "Benign bone tumours and cysts, soft tissue lumps, sarcomas, bone metastases" },
       ],
       note: "The area pages are general information; diagnosis and treatment are decided at examination.",
     },
@@ -192,7 +194,7 @@ export const ui: Record<Lang, Ui> = {
     profile: { back: "Our doctors", summary: "Biography", focus: "Clinical interests", focusPending: "Clinical interests to be supplied by the doctor.", path: "Training and posts", academic: "Academic work", selected: "Selected publications", books: "Book chapters", courses: "Courses and further training", memberships: "Certification and memberships", langs: "Consultation languages", links: "Academic profiles", others: "Other doctors", book: "Book an appointment", site: "Personal site" },
     meta: {
       title: "Cyprus Orthopaedics · University of Kyrenia Faculty of Medicine, Department of Orthopaedics and Traumatology",
-      desc: "Cyprus Orthopaedics: the Department of Orthopaedics and Traumatology of the University of Kyrenia Faculty of Medicine, at Dr. Suat Günsel University of Kyrenia Hospital, North Cyprus. Three faculty surgeons; fractures and trauma, joint replacement, arthroscopy, hand surgery, foot and ankle. Appointments: +90 392 444 99 39.",
+      desc: "Cyprus Orthopaedics: the Department of Orthopaedics and Traumatology of the University of Kyrenia Faculty of Medicine, at Dr. Suat Günsel University of Kyrenia Hospital, North Cyprus. Three faculty surgeons; fractures and trauma, joint replacement, arthroscopy, hand surgery, foot and ankle, bone and soft tissue tumours. Appointments: +90 392 444 99 39.",
     },
   },
 };
