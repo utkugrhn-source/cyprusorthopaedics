@@ -1,0 +1,237 @@
+{
+ "id": "meniscus-clinic",
+ "area": "diz",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Meniscus Tears",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/meniscus-tears",
+   "year": ""
+  },
+  {
+   "title": "Knee pain",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/knee-pain/",
+   "year": "2023"
+  },
+  {
+   "title": "Arthroscopic surgery for degenerative knee arthritis and meniscal tears: a clinical practice guideline (Siemieniuk RAC, et al.)",
+   "publisher": "BMJ",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28490431/",
+   "year": "2017"
+  },
+  {
+   "title": "Exercise therapy versus arthroscopic partial meniscectomy for degenerative meniscal tear in middle aged patients: randomised controlled trial with two year follow-up (Kise NJ, et al.)",
+   "publisher": "BMJ",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27440192/",
+   "year": "2016"
+  },
+  {
+   "title": "Arthroscopic surgery for degenerative knee disease (osteoarthritis including degenerative meniscal tears) (O'Connor D, et al.)",
+   "publisher": "Cochrane Database of Systematic Reviews",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35238404/",
+   "year": "2022"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "menisku-yirtigi-ameliyat-ne-zaman",
+   "title": "Menisküs yırtığı: egzersiz mi, artroskopi mi?",
+   "description": "Dizde takılma ve ağrı: travmatik ve yıpranmaya bağlı menisküs yırtığı, MR'ın sınırları, fizyoterapi ile artroskopinin karşılaştırılması ve ameliyat sonrası süreç.",
+   "summary": "Menisküs, uyluk ile kaval kemiği arasında yastık görevi gören C şeklindeki kıkırdaktır. Gençlerde genellikle spor sırasında dizin dönmesiyle, orta yaş ve üzerinde ise yıpranmaya bağlı yırtılır [1][3]. Yıpranmaya bağlı yırtıklarda ilk tedavi fizyoterapi ve egzersizdir; dizi gerçekten kilitleyen ya da onarılabilecek travmatik yırtıklarda artroskopik cerrahi gündeme gelir [1][3][4].",
+   "sections": [
+    {
+     "h": "Menisküs ne işe yarar, nasıl yırtılır?",
+     "p": [
+      "Her dizde iç ve dış olmak üzere iki menisküs bulunur. Kama şeklindeki bu sert ve esnek kıkırdaklar yükü eklem yüzeyine dağıtır, darbeleri emer ve dizin dengesine katkı sağlar [1].",
+      "Yırtık iki biçimde ortaya çıkar. Gençlerde ve sporcularda genellikle ani bir dönme hareketiyle oluşan travmatik bir yaralanmadır. Yaşla birlikte menisküs dokusu zayıflar ve sandalyeden kalkarken yapılan basit bir dönme bile yırtığa yol açabilir; buna yıpranmaya bağlı (dejeneratif) yırtık denir [1][3]."
+     ]
+    },
+    {
+     "h": "Belirtiler",
+     "p": [
+      "Yaralanma anında dizde 'pıt' hissi olabilir. İlk gün çoğu kişi yürüyebilir, ancak sonraki 2–3 gün içinde diz giderek sertleşip şişebilir [1]. Sık görülenler [1][2]:"
+     ],
+     "list": [
+      "Dizin iç ya da dış yanında ağrı",
+      "Şişlik ve sertlik",
+      "Takılma ya da kilitlenme hissi",
+      "Dizin boşalması, güvensizlik",
+      "Dizi tam bükmekte ya da düzleştirmekte zorlanma"
+     ]
+    },
+    {
+     "h": "Kimde, hangi koşullarda?",
+     "p": [
+      "Futbol, basketbol gibi dönme, ani duruş ve yön değiştirme gerektiren sporlar travmatik yırtık riskini artırır; menisküs yırtığı ön çapraz bağ yaralanması gibi diğer diz yaralanmalarıyla birlikte de görülebilir [1]. Orta yaş ve üzerinde belirgin bir travma olmadan da oluşabilir ve sıklıkla dizdeki erken kireçlenmeyle birlikte seyreder [1][3]."
+     ]
+    },
+    {
+     "h": "Tanı ve MR'ın sınırı",
+     "p": [
+      "Tanı önce muayeneyle konur: eklem çizgisi boyunca hassasiyet aranır, dizi büküp döndürerek ağrı ya da tık oluşup oluşmadığına bakılır (McMurray testi) [1]. Menisküs röntgende görünmez, ama röntgen kireçlenme gibi benzer ağrı yapan sorunları ayırt etmeye yardımcı olur; MR menisküs dahil yumuşak dokuları en iyi gösteren yöntemdir [1].",
+      "Orta yaşın üzerinde MR'da yırtık görülmesi, ağrının asıl nedeninin yırtık olduğu anlamına gelmeyebilir; bu yüzden karar MR görüntüsüne değil, muayeneye ve yakınmalara göre verilir [3]."
+     ]
+    },
+    {
+     "h": "Ameliyatsız tedavi",
+     "p": [
+      "Pek çok yırtık, özellikle yıpranmaya bağlı olanlar, ameliyat gerektirmez. Başlangıçta istirahat, soğuk uygulama, bandajla hafif baskı ve bacağı yüksekte tutma önerilir; hekimin uygun gördüğü ağrı kesici ve iltihap gidericiler kullanılabilir [1].",
+      "Yıpranmaya bağlı yırtıklarda temel tedavi, fizyoterapist eşliğinde düzenli egzersizdir. Orta yaşlı hastalarda yapılan randomize bir çalışmada, 12 haftalık denetimli egzersiz ile artroskopik kısmi menisküs çıkarılması arasında iki yıllık diz işlevi açısından anlamlı fark bulunmamış, egzersiz grubunda uyluk kası gücü daha fazla artmıştır [4].",
+      "Uluslararası bir kılavuz, yıpranmaya bağlı diz hastalığı olan (menisküs yırtığı olsun olmasın) hemen tüm hastalarda artroskopiye karşı güçlü bir öneri yapmıştır; bir Cochrane derlemesi de bu grupta artroskopinin ağrı ve işlevde anlamlı ek fayda sağlamadığını göstermiştir [3][5]."
+     ]
+    },
+    {
+     "h": "Ne zaman cerrahi?",
+     "p": [
+      "Yakınma egzersiz ve diğer yöntemlerle geçmiyorsa, diz gerçekten kilitlenip düzleşemiyorsa ya da genç bir hastada onarılabilecek travmatik bir yırtık varsa artroskopik (kapalı) cerrahi düşünülebilir [1][3].",
+      "İki yöntem vardır: kısmi menisküs çıkarılmasında (menisektomi) yalnızca yırtık ve hasarlı parça temizlenir; onarımda yırtık parçalar dikilerek birleştirilir. Onarım yırtığın tipine ve yerine bağlıdır, çünkü menisküsün yalnızca kan akımı olan dış kısmı iyileşme gücüne sahiptir [1]. Karar yaş, yırtığın tipi, dizdeki kireçlenme düzeyi ve beklentileriniz birlikte değerlendirilerek ortak verilir [3]."
+     ]
+    },
+    {
+     "h": "İyileşme süreci",
+     "p": [
+      "Ameliyatsız tedavide egzersiz programı genellikle birkaç ay sürer; düzenli devam etmek sonucun en önemli belirleyicisidir [4]. Kısmi menisektomiden sonra iyileşme yaklaşık 3–6 hafta, menisküs onarımından sonra dokunun kaynaması için daha uzun bir koruma gerektiğinden yaklaşık 3–6 ay sürer; ikisinde de hareket açıklığı ve kas gücü için fizyoterapi önemlidir [1]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Şunlarda gecikmeden hekime ya da acile başvurun [2]:"
+     ],
+     "list": [
+      "Diz kilitlendiyse ve düzleştirilemiyorsa",
+      "Diz sık sık boşalıyor ya da ağrılı biçimde tık sesi çıkarıyorsa",
+      "Bacağa hiç yük verilemiyor ya da diz şekil bozukluğu gösteriyorsa",
+      "Diz kızarık ve sıcak, birlikte ateş varsa",
+      "Ağrı birkaç hafta içinde düzelmiyorsa"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Menisküs yırtığı kendiliğinden iyileşir mi?",
+     "a": "İç kısmı kanlanmadığı için yırtık genellikle kendiliğinden kaynamaz; ancak özellikle yıpranmaya bağlı yırtıklarda yakınmalar egzersiz ve fizyoterapiyle çoğu zaman belirgin azalır [1][4]."
+    },
+    {
+     "q": "Her menisküs yırtığı ameliyat mı gerektirir?",
+     "a": "Hayır. Orta yaş ve üzerindeki yıpranmaya bağlı yırtıklarda ilk tercih egzersizdir; ameliyat gerçek kilitlenme, onarılabilir travmatik yırtık ya da tedaviye rağmen süren yakınmada gündeme gelir [1][3]."
+    },
+    {
+     "q": "Yırtıkla yürünür mü?",
+     "a": "Çoğu kişi yaralanmadan sonra yürüyebilir; birkaç gün içinde şişlik ve sertlik artabilir. Kilitlenme ya da boşalma varsa hekime başvurun [1][2]."
+    },
+    {
+     "q": "Ameliyattan sonra ne zaman işe dönülür?",
+     "a": "Kısmi menisektomiden sonra iyileşme yaklaşık 3–6 hafta, dikişle onarımdan sonra 3–6 ay sürer; işe dönüş işin fiziksel yüküne göre değişir [1]."
+    },
+    {
+     "q": "MR'da yırtık görünmesi ameliyat nedeni mi?",
+     "a": "Tek başına hayır; orta yaşın üzerinde MR'daki yırtık ağrının asıl nedeni olmayabilir, karar muayene ve yakınmalara göre verilir [3]."
+    }
+   ],
+   "note": "Kliniğimizde ameliyat kararını MR raporuna göre değil, dizinizin kilitlenip kilitlenmediğine, yaşınıza ve hareketinizden ne beklediğinize göre veririz."
+  },
+  "en": {
+   "slug": "meniscus-tear-exercise-or-arthroscopy",
+   "title": "Meniscus tear: exercise or arthroscopy?",
+   "description": "Catching and pain in the knee: traumatic and degenerative meniscus tears, the limits of MRI, physiotherapy compared with arthroscopy, and recovery after surgery.",
+   "summary": "The meniscus is the C-shaped cartilage that cushions the knee between the thigh and shin bones. In young people it usually tears when the knee twists in sport, and from middle age onwards it tears through wear [1][3]. For degenerative tears the first treatment is physiotherapy and exercise; keyhole surgery is considered for tears that truly lock the knee or traumatic tears that can be repaired [1][3][4].",
+   "sections": [
+    {
+     "h": "What does the meniscus do and how does it tear?",
+     "p": [
+      "Each knee has two menisci, an inner and an outer. These wedge-shaped, tough and flexible cartilages spread load across the joint surface, absorb shock and contribute to the stability of the knee [1].",
+      "Tears come in two forms. In young people and athletes it is usually a traumatic injury from a sudden twist. With age the meniscus weakens, and even a simple turn while getting up from a chair can tear it; this is called a degenerative tear [1][3]."
+     ]
+    },
+    {
+     "h": "Symptoms",
+     "p": [
+      "At the moment of injury there may be a pop in the knee. Most people can walk on the first day, but over the next 2 to 3 days the knee gradually stiffens and may swell [1]. Common symptoms [1][2]:"
+     ],
+     "list": [
+      "Pain on the inner or outer side of the knee",
+      "Swelling and stiffness",
+      "A feeling of catching or locking",
+      "The knee giving way, a sense of insecurity",
+      "Difficulty bending or straightening the knee fully"
+     ]
+    },
+    {
+     "h": "Who gets it, and in what circumstances?",
+     "p": [
+      "Sports that need twisting, sudden stops and changes of direction, such as football and basketball, raise the risk of a traumatic tear; a meniscus tear can also occur together with other knee injuries such as an anterior cruciate ligament injury [1]. From middle age it can occur without any clear injury and often comes with early arthritis of the knee [1][3]."
+     ]
+    },
+    {
+     "h": "Diagnosis and the limits of MRI",
+     "p": [
+      "Diagnosis is made first by examination: tenderness along the joint line is sought and the knee is bent and turned to see whether pain or a click is produced (the McMurray test) [1]. The meniscus does not show on X-ray, but X-rays help separate other problems such as arthritis that cause similar pain; MRI shows soft tissues including the meniscus best [1].",
+      "In people past middle age a tear seen on MRI does not necessarily mean the tear is the main cause of the pain, which is why decisions are based on examination and symptoms rather than on the MRI picture [3]."
+     ]
+    },
+    {
+     "h": "Non-surgical treatment",
+     "p": [
+      "Many tears, especially degenerative ones, do not need surgery. At first rest, cold, light compression with a bandage and keeping the leg raised are advised; painkillers and anti-inflammatories can be used as the doctor sees fit [1].",
+      "For degenerative tears the mainstay is regular exercise with a physiotherapist. In a randomised trial in middle-aged patients, 12 weeks of supervised exercise and arthroscopic partial meniscectomy gave no significant difference in knee function at two years, and thigh muscle strength increased more in the exercise group [4].",
+      "An international guideline makes a strong recommendation against arthroscopy in nearly all patients with degenerative knee disease (with or without a meniscus tear), and a Cochrane review also found that arthroscopy gave no meaningful extra benefit in pain and function in this group [3][5]."
+     ]
+    },
+    {
+     "h": "When is surgery considered?",
+     "p": [
+      "Keyhole surgery can be considered if symptoms do not settle with exercise and other measures, if the knee truly locks and cannot straighten, or if a young patient has a traumatic tear that can be repaired [1][3].",
+      "There are two approaches: in partial meniscectomy only the torn and damaged piece is cleaned out; in repair the torn parts are stitched together. Repair depends on the type and site of the tear, because only the outer part of the meniscus, which has a blood supply, can heal [1]. The decision is shared, weighing age, type of tear, degree of arthritis in the knee and your expectations [3]."
+     ]
+    },
+    {
+     "h": "Recovery",
+     "p": [
+      "With non-surgical treatment an exercise programme usually lasts a few months; keeping at it regularly is the most important determinant of the result [4]. After partial meniscectomy recovery takes about 3 to 6 weeks; after meniscus repair longer protection is needed for the tissue to heal and recovery takes about 3 to 6 months; in both, physiotherapy matters for movement and muscle strength [1]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Go to a doctor or emergency department without delay if [2]:"
+     ],
+     "list": [
+      "The knee has locked and cannot be straightened",
+      "It often gives way or clicks painfully",
+      "You cannot put any weight on the leg or the knee looks deformed",
+      "The knee is red and hot and you have a fever",
+      "Pain does not settle within a few weeks"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does a meniscus tear heal by itself?",
+     "a": "Because its inner part has no blood supply a tear usually does not knit by itself; however, especially for degenerative tears, symptoms often ease markedly with exercise and physiotherapy [1][4]."
+    },
+    {
+     "q": "Does every meniscus tear need surgery?",
+     "a": "No. For degenerative tears in middle age and beyond the first choice is exercise; surgery comes up with true locking, a repairable traumatic tear or symptoms that persist despite treatment [1][3]."
+    },
+    {
+     "q": "Can I walk with a tear?",
+     "a": "Most people can walk after the injury; swelling and stiffness may increase over a few days. If the knee locks or gives way see a doctor [1][2]."
+    },
+    {
+     "q": "When can I return to work after surgery?",
+     "a": "Recovery takes about 3 to 6 weeks after partial meniscectomy and 3 to 6 months after repair; return to work depends on how physical the job is [1]."
+    },
+    {
+     "q": "Is a tear on MRI a reason for surgery?",
+     "a": "Not on its own; past middle age a tear on MRI may not be the main cause of the pain, and decisions rest on examination and symptoms [3]."
+    }
+   ],
+   "note": "At our clinic we decide about surgery not from the MRI report but from whether your knee locks, your age and what you expect from movement."
+  }
+ }
+}

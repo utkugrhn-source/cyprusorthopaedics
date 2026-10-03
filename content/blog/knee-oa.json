@@ -1,0 +1,249 @@
+{
+ "id": "knee-oa",
+ "area": "diz",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Osteoarthritis",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/osteoarthritis/",
+   "year": "2023"
+  },
+  {
+   "title": "Arthritis of the Knee",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/arthritis-of-the-knee",
+   "year": "n.d."
+  },
+  {
+   "title": "Osteoarthritis in over 16s: diagnosis and management (NG226)",
+   "publisher": "National Institute for Health and Care Excellence (NICE)",
+   "url": "https://www.nice.org.uk/guidance/ng226",
+   "year": "2022"
+  },
+  {
+   "title": "Exercise for osteoarthritis of the knee: a Cochrane systematic review",
+   "publisher": "British Journal of Sports Medicine (Fransen M, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26405113/",
+   "year": "2015"
+  },
+  {
+   "title": "EULAR recommendations for the non-pharmacological core management of hip and knee osteoarthritis: 2023 update",
+   "publisher": "Annals of the Rheumatic Diseases (Moseng T, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38212040/",
+   "year": "2024"
+  },
+  {
+   "title": "Knee pain",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/knee-pain/",
+   "year": "2023"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "diz-kireclenmesi-tedavisi",
+   "title": "Diz kireçlenmesi: egzersiz, kilo, iğne ve protez, hangisi ne zaman?",
+   "description": "Diz kireçlenmesinde tedavinin temeli nedir? Egzersiz, kilo kontrolü, kortizon ve hyalüronik asit iğnesi, artroskopi ve diz protezi için kılavuzlar ne diyor?",
+   "summary": "Diz kireçlenmesi (osteoartrit), kıkırdağın zamanla yıpranmasıyla gelişen ve ağrı, sertlik ve hareket kısıtlılığı yapan yaygın bir eklem hastalığıdır [1]. Tedavinin temeli kişiye göre düzenlenmiş egzersiz, gerekiyorsa kilo verme ve hastalığın doğru anlaşılmasıdır; ilaçlar ve enjeksiyonlar bunu destekler [3][5]. Ameliyatsız yöntemlere rağmen yaşam kalitesi ciddi bozulmuşsa diz protezi değerlendirilir [3].",
+   "sections": [
+    {
+     "h": "Kireçlenme tam olarak nedir?",
+     "p": [
+      "Eklemdeki kemik uçlarını örten koruyucu kıkırdağın zamanla incelmesi ve bozulmasıdır; sonuçta ağrı, şişlik ve hareket güçlüğü gelişir [1]. Adı kireçlenme olsa da sorun eklemde kireç birikmesi değildir; asıl değişiklik kıkırdak kaybı ve eşlik eden kemik değişiklikleridir. Diz artritinin en sık türü osteoartrittir ve çoğunlukla 50 yaşın üzerinde ortaya çıkar; romatoid artrit ve eski bir yaralanmaya bağlı travma sonrası artrit de dizi etkileyebilir [2]."
+     ]
+    },
+    {
+     "h": "Nasıl yakınmalar verir?",
+     "p": [
+      "Yakınma kişiden kişiye ve zamana göre değişir; ağrı genellikle yavaş başlar [1][2]:"
+     ],
+     "list": [
+      "Yürüme, merdiven ve uzun süre ayakta durmayla artan diz ağrısı",
+      "Sabah kalkınca ya da uzun süre oturduktan sonra sertlik",
+      "Şişlik ve dokununca hassasiyet",
+      "Hareketle çıtırdama ya da sürtünme hissi",
+      "Dizin takılması, kilitlenmesi ya da güçsüz hissedilmesi"
+     ]
+    },
+    {
+     "h": "Risk etkenleri",
+     "p": [
+      "Tek bir neden yoktur. İleri yaş, fazla kilo, eski diz yaralanması, ailede kireçlenme öyküsü, kadın cinsiyet ve romatoid artrit gibi başka bir eklem hastalığı riski artırır [1]."
+     ]
+    },
+    {
+     "h": "Tanı",
+     "p": [
+      "Tanı çoğunlukla öykü ve muayeneyle konur; şişlik, hareket açıklığı ve eklemin dengesi değerlendirilir [2]. NICE kılavuzuna göre 45 yaş ve üzerinde, hareketle artan eklem ağrısı olan ve sabah sertliği olmayan ya da yarım saati geçmeyen kişilerde tanı görüntüleme yapılmadan klinik olarak konabilir [3].",
+      "Görüntüleme tablo alışılmışın dışındaysa ya da başka bir hastalıktan kuşkulanılıyorsa istenir [3]. Röntgen eklem aralığındaki daralmayı ve kemik çıkıntılarını gösterir, kan tetkikleri romatoid artrit gibi nedenleri ayırmaya yardımcı olur [2]. Tedavi kararı filmdeki görünümden çok yakınmalara ve günlük yaşamdaki kısıtlılığa göre verilir [3]."
+     ]
+    },
+    {
+     "h": "Tedavinin temeli: egzersiz, kilo, bilgi",
+     "p": [
+      "Kireçlenme geri döndürülemez, ama çoğu kişide yakınmalar iyi kontrol edilebilir [1]. Uluslararası kılavuzlar temel olarak kişiye göre düzenlenmiş egzersizi, fazla kilolularda kilo vermeyi ve hastalık konusunda doğru bilgilendirmeyi önerir [3][5].",
+      "Kas güçlendirme ve genel kondisyon egzersizleri önerilir, gerekirse fizyoterapist eşliğinde yapılır. Başlarken ağrı bir süre artabilir; düzenli devam etmek uzun vadede ağrıyı azaltır ve işlevi iyileştirir [3]. Cochrane derlemesi, egzersizin ağrı ve işlevde kısa vadeli iyileşme sağladığını ve bunun program bittikten sonra aylarca sürebildiğini göstermiştir [4]. Küçük miktarlarda kilo vermek bile yararlı olabilir [3].",
+      "Uygun ayakkabı, baston gibi yürüme yardımcıları ve bazı hastalarda dizlik de işe yarayabilir [2][5]."
+     ]
+    },
+    {
+     "h": "İlaçlar ve iğneler",
+     "p": [
+      "İlaç gerekiyorsa egzersizi destekleyecek biçimde, en düşük etkili dozda ve en kısa süreyle kullanılır; diz kireçlenmesinde öncelikli seçenek cilde sürülen iltihap giderici ağrı kesicilerdir [3]. Eklem içine kortizon enjeksiyonu birkaç haftalık kısa süreli rahatlama sağlayabilir; NICE hyalüronik asit enjeksiyonlarını önermemektedir [3]."
+     ]
+    },
+    {
+     "h": "Ameliyat",
+     "p": [
+      "Kireçlenme için tek başına artroskopik eklem yıkama ya da temizleme önerilmez [3]. Ağrı, sertlik ya da şekil bozukluğu yaşam kalitesini belirgin biçimde bozuyor ve ameliyatsız tedaviler yetersiz kalıyorsa kısmi ya da total diz protezi değerlendirilir [3]. Uygun hastalarda dizin yük eksenini düzelten osteotomi de bir seçenektir [2]."
+     ]
+    },
+    {
+     "h": "Uzun vadede nasıl bir yol izlenir?",
+     "p": [
+      "Diz kireçlenmesi uzun süreli bir durumdur ve yakınmalar iyi ve kötü dönemler şeklinde dalgalanabilir; bu yüzden tedavi tek seferlik değil süreklilik gerektiren bir plandır, egzersize düzenli devam etmek yararı artırır [3]. Doktor ve fizyoterapistle düzenli takip, planın ihtiyaca göre güncellenmesini sağlar [3]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Şunlarda bir sağlık kuruluşuna gecikmeden başvurun [6]:"
+     ],
+     "list": [
+      "Diz çok ağrılıysa, hareket ettirilemiyor ya da üzerine hiç basılamıyorsa",
+      "Belirgin şişlik ya da şekil değişikliği varsa",
+      "Diz kilitleniyor, boşalıyor ya da ağrılı biçimde takılıyorsa",
+      "Yüksek ateşle birlikte dizde kızarıklık ve sıcaklık varsa (eklem iltihabı belirtisi olabilir)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Diz kireçlenmesi tamamen geçer mi?",
+     "a": "Kıkırdaktaki değişiklikler geri döndürülemez; ancak egzersiz, kilo kontrolü ve destek tedavilerle yakınmalar çoğu kişide kontrol altına alınabilir [1][3]."
+    },
+    {
+     "q": "Kireçlenmiş dizle egzersiz zararlı mı?",
+     "a": "Hayır; egzersiz kılavuzların tüm hastalara önerdiği temel tedavidir. Başta ağrı geçici artabilir, düzenli egzersiz ağrıyı azaltır ve işlevi iyileştirir [3][4]."
+    },
+    {
+     "q": "MR çektirmem gerekir mi?",
+     "a": "Çoğu zaman gerekmez. 45 yaş üstünde tipik yakınması olanlarda tanı muayeneyle konabilir [3]."
+    },
+    {
+     "q": "Hyalüronik asit iğnesi yaptırmalı mıyım?",
+     "a": "NICE kılavuzu hyalüronik asit enjeksiyonlarını önermez; kortizon ise diğer tedaviler yetmediğinde kısa süreli rahatlama için düşünülebilir [3]."
+    },
+    {
+     "q": "Diz protezi ne zaman gerekir?",
+     "a": "Yakınmalar yaşam kalitesini ciddi bozuyor ve egzersiz, kilo verme ve ağrı kesiciler yetmiyorsa değerlendirilir; karar yalnızca röntgene göre değil, klinik değerlendirmeyle verilir [3]."
+    }
+   ],
+   "note": "Kliniğimizde önce sizi ne kısıtladığını soruyoruz: yürüyüş mü, merdiven mi, uyku mu. Tedavi planını röntgenden çok bu yanıta göre kuruyoruz."
+  },
+  "en": {
+   "slug": "knee-osteoarthritis-treatment",
+   "title": "Knee osteoarthritis: exercise, weight, injections and replacement, what and when?",
+   "description": "What is the basis of treating knee arthritis? What guidelines say about exercise, weight control, cortisone and hyaluronic acid injections, arthroscopy and knee replacement.",
+   "summary": "Knee osteoarthritis is a common joint disease in which cartilage wears over time, causing pain, stiffness and limited movement [1]. The basis of treatment is exercise tailored to you, weight loss where needed and a clear understanding of the condition; medicines and injections support this [3][5]. If quality of life is seriously affected despite non-surgical treatment, knee replacement is considered [3].",
+   "sections": [
+    {
+     "h": "What exactly is it?",
+     "p": [
+      "The protective cartilage that covers the ends of the bones gradually thins and breaks down, leading to pain, swelling and difficulty moving [1]. Despite the name, the problem is not a build-up of lime in the joint; the main change is loss of cartilage with accompanying bone changes. Osteoarthritis is the commonest type of knee arthritis and usually appears after the age of 50; rheumatoid arthritis and post-traumatic arthritis after an old injury can also affect the knee [2]."
+     ]
+    },
+    {
+     "h": "What symptoms does it cause?",
+     "p": [
+      "Symptoms vary between people and over time, and pain usually starts slowly [1][2]:"
+     ],
+     "list": [
+      "Knee pain that increases with walking, stairs and long standing",
+      "Stiffness on getting up in the morning or after sitting for a long time",
+      "Swelling and tenderness to touch",
+      "Creaking or grating on movement",
+      "The knee catching, locking or feeling weak"
+     ]
+    },
+    {
+     "h": "Risk factors",
+     "p": [
+      "There is no single cause. Older age, excess weight, an earlier knee injury, a family history of arthritis, female sex and another joint disease such as rheumatoid arthritis increase the risk [1]."
+     ]
+    },
+    {
+     "h": "Diagnosis",
+     "p": [
+      "Diagnosis is usually made from your history and examination, checking swelling, range of movement and stability of the joint [2]. According to NICE guidance, in people aged 45 or over with activity-related joint pain and no morning stiffness, or stiffness lasting no more than half an hour, the diagnosis can be made clinically without imaging [3].",
+      "Imaging is requested if the picture is unusual or another condition is suspected [3]. X-rays can show narrowing of the joint space and bony spurs, and blood tests help separate causes such as rheumatoid arthritis [2]. Treatment decisions are based on symptoms and limitation in daily life rather than on how the film looks [3]."
+     ]
+    },
+    {
+     "h": "The basis of treatment: exercise, weight, information",
+     "p": [
+      "Osteoarthritis cannot be reversed, but symptoms can be well controlled in most people [1]. International guidelines recommend exercise tailored to the person, weight loss in those who are overweight, and clear information about the condition as the core of care [3][5].",
+      "Muscle strengthening and general fitness exercises are advised, with a physiotherapist where needed. Pain may increase for a while at the start; keeping at it regularly reduces pain and improves function in the long run [3]. A Cochrane review showed that exercise gives short-term improvement in pain and function, and that this can last for months after the programme ends [4]. Even small amounts of weight loss can help [3].",
+      "Suitable shoes, walking aids such as a stick and, for some patients, a knee support can also help [2][5]."
+     ]
+    },
+    {
+     "h": "Medicines and injections",
+     "p": [
+      "If medicines are needed they are used to support exercise, at the lowest effective dose for the shortest time; for knee osteoarthritis anti-inflammatory painkillers applied to the skin are the first choice [3]. A cortisone injection into the joint can give short-term relief for a few weeks; NICE does not recommend hyaluronic acid injections [3]."
+     ]
+    },
+    {
+     "h": "Surgery",
+     "p": [
+      "Arthroscopic washout or tidying of the joint is not recommended on its own for osteoarthritis [3]. If pain, stiffness or deformity clearly harms quality of life and non-surgical treatment is not enough, partial or total knee replacement is considered [3]. For suitable patients an osteotomy that corrects the load axis of the knee is also an option [2]."
+     ]
+    },
+    {
+     "h": "What does the long term look like?",
+     "p": [
+      "Knee osteoarthritis is a long-term condition and symptoms can fluctuate between good and bad periods; treatment is therefore an ongoing plan rather than a one-off, and keeping up exercise increases the benefit [3]. Regular review with the doctor and physiotherapist lets the plan be updated as needs change [3]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Seek care without delay if [6]:"
+     ],
+     "list": [
+      "The knee is very painful, cannot be moved or cannot bear weight at all",
+      "There is marked swelling or a change in shape",
+      "The knee locks, gives way or catches painfully",
+      "There is redness and warmth with a high temperature (this can be a sign of joint infection)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does knee osteoarthritis go away completely?",
+     "a": "The changes in the cartilage cannot be reversed, but exercise, weight control and supportive treatment can bring symptoms under control in most people [1][3]."
+    },
+    {
+     "q": "Is exercise harmful for an arthritic knee?",
+     "a": "No; exercise is the core treatment guidelines recommend to all patients. Pain may increase briefly at first, but regular exercise reduces pain and improves function [3][4]."
+    },
+    {
+     "q": "Do I need an MRI?",
+     "a": "Often not. In people over 45 with typical symptoms the diagnosis can be made by examination [3]."
+    },
+    {
+     "q": "Should I have hyaluronic acid injections?",
+     "a": "NICE does not recommend hyaluronic acid injections; cortisone can be considered for short-term relief when other treatment is not enough [3]."
+    },
+    {
+     "q": "When is knee replacement needed?",
+     "a": "When symptoms seriously affect quality of life and exercise, weight loss and painkillers are not enough; the decision rests on clinical assessment, not on the X-ray alone [3]."
+    }
+   ],
+   "note": "At our clinic we first ask what limits you: walking, stairs or sleep. We build the plan around that answer more than around the X-ray."
+  }
+ }
+}

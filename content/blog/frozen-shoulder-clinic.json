@@ -1,0 +1,281 @@
+{
+ "id": "frozen-shoulder-clinic",
+ "area": "omuz-dirsek",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Frozen shoulder",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/frozen-shoulder/",
+   "year": "2024"
+  },
+  {
+   "title": "Frozen Shoulder",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/frozen-shoulder",
+   "year": "n.d."
+  },
+  {
+   "title": "Comparison of Treatments for Frozen Shoulder: A Systematic Review and Meta-analysis",
+   "publisher": "JAMA Network Open (Challoumas D, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33326025/",
+   "year": "2020"
+  },
+  {
+   "title": "Manual therapy and exercise for adhesive capsulitis (frozen shoulder)",
+   "publisher": "Cochrane Database of Systematic Reviews (Page MJ, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25157702/",
+   "year": "2014"
+  },
+  {
+   "title": "Efficacy of hydrodilatation in frozen shoulder: a systematic review and meta-analysis",
+   "publisher": "British Medical Bulletin (Poku D, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37496207/",
+   "year": "2023"
+  },
+  {
+   "title": "Shoulder pain",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/shoulder-pain/",
+   "year": "2023"
+  },
+  {
+   "title": "Heart attack",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/heart-attack/",
+   "year": "2026"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "donuk-omuz-tedavisi",
+   "title": "Donuk omuz: ne kadar sürer, ne zaman iğne ya da ameliyat düşünülür?",
+   "description": "Omzun her yöne kısıtlanması ve gece ağrısı: donuk omuz evreleri, kortizon iğnesi, egzersiz, hidrodilatasyon ve ameliyatın yeri.",
+   "summary": "Donuk omuz (adeziv kapsülit), omuzu saran kapsülün kalınlaşıp büzüşmesiyle ağrı ve her yöne belirgin hareket kısıtlılığı yapan bir hastalıktır [1][2]. Çoğu hastada aylar ile birkaç yıl içinde kendiliğinden düzelir; ağrı kontrolü, erken ağrılı dönemde kortizon enjeksiyonu ve düzenli germe egzersizleri çoğu hastaya yeter, ameliyat nadiren gerekir [1][2][3].",
+   "sections": [
+    {
+     "h": "Omuzda ne olur?",
+     "p": [
+      "Omuz eklemi bağ dokusundan bir kapsülle sarılıdır. Donuk omuzda bu kapsül önce iltihaplanır, sonra kalınlaşıp sertleşir ve içinde yara dokusuna benzer yapışıklıklar oluşur; eklemin iç hacmi küçüldüğü için kol normal hareket edemez [1][2].",
+      "Tipik özellik, omzun hem kişinin kendi kaldırmasında hem de dışarıdan (örneğin doktor tarafından) hareket ettirilmesinde kısıtlı olmasıdır. Bu, donuk omzu tendon kaynaklı ağrılardan ayırır; tendon sorunlarında omuz ağrıyla birlikte dışarıdan genellikle hareket ettirilebilir [2]."
+     ]
+    },
+    {
+     "h": "Üç evre",
+     "p": [
+      "Hastalık genellikle iç içe geçen üç evreden geçer [2]:"
+     ],
+     "list": [
+      "Donma evresi: ağrı giderek artar ve hareket kaybı başlar; yaklaşık 6 hafta ile 9 ay",
+      "Donuk evre: ağrı azalabilir ama sertlik sürer ve günlük işleri zorlaştırır; yaklaşık 4–6 ay",
+      "Çözülme evresi: hareket yavaş yavaş geri döner; yaklaşık 6 ay ile 2 yıl"
+     ]
+    },
+    {
+     "h": "Belirtiler",
+     "p": [
+      "Yakınmalar yavaş başlar ve haftalar içinde belirginleşir [1][2]:"
+     ],
+     "list": [
+      "Özellikle geceleri artan, uykuyu bölen omuz ağrısı",
+      "Kolu yukarı kaldırmayı, yana açmayı ya da arkaya uzatmayı zorlaştıran sertlik",
+      "Giyinme, saç tarama, sırt cebine uzanma gibi işlerde güçlük",
+      "Hem aktif hem pasif harekette kısıtlılık"
+     ]
+    },
+    {
+     "h": "Neden olur?",
+     "p": [
+      "Kesin neden bilinmiyor; eklemi çevreleyen dokulardaki iltihabın kapsülü gerip küçülttüğü düşünülüyor ve çoğu zaman belirgin bir yaralanma olmadan başlıyor [1]. Risk 40–60 yaş arasında ve kadınlarda daha yüksektir; diyabette belirgin biçimde artar; tiroit hastalıkları, Parkinson hastalığı ve kalp hastalıkları ile bir yaralanma, kırık ya da ameliyat sonrası omzun uzun süre hareketsiz kalması da riski artırır [1][2]."
+     ]
+    },
+    {
+     "h": "Tanı",
+     "p": [
+      "Tanı çoğunlukla öykü ve muayeneyle konur: kolun kendi kaldırılışı ile dışarıdan hareket ettirilişi karşılaştırılır; donuk omuzda ikisi de kısıtlıdır [2]. Röntgen kapsülü göstermez, ama kireçlenme gibi başka kemik sorunlarını dışlamak için istenir. Rotator manşet yırtığı gibi yumuşak doku sorunlarından kuşku varsa MR ya da ultrason kullanılabilir [2]."
+     ]
+    },
+    {
+     "h": "Tedavi",
+     "p": [
+      "Amaç, hastalık doğal seyrini tamamlarken ağrıyı kontrol etmek ve hareketi korumak ya da geri kazandırmaktır; çoğu hasta ameliyatsız yöntemlerle düzelir [1][2].",
+      ""
+     ],
+     "list": [
+      "Ağrı kesiciler ve iltihap giderici ilaçlar; erken dönemde çok ağrılı hareketlerden kaçınma [1]",
+      "Eklem içine kortizon: hastalığın ilk yılında yapılan enjeksiyon kısa dönemde ağrı ve işlev açısından diğer yöntemlerden daha iyi sonuç vermiştir; ev egzersiziyle birlikte yararı artar [3]",
+      "Fizyoterapi ve ev egzersizleri: hafif germe ve hareket açıklığı egzersizleri temeldir; Cochrane incelemesine göre tek başına ilk haftalarda enjeksiyon kadar hızlı rahatlatmayabilir, ama 6–12 aylık sonuçlarda fark küçüktür [4]",
+      "Hidrodilatasyon: kapsülü germek için eklem içine sıvı verilmesi; kısa süreli iyileşme sağlayabilir, uzun dönemdeki yeri henüz net değildir [2][5]"
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman?",
+     "p": [
+      "Aylarca süren ameliyatsız tedaviye rağmen belirgin sertlik sürüyorsa, genel anestezi altında omzun kontrollü hareket ettirilmesi (manipülasyon) ya da artroskopik (kapalı) yöntemle sıkışmış kapsülün gevşetilmesi düşünülebilir; sonrasında da fizyoterapiye devam edilir [2]."
+     ]
+    },
+    {
+     "h": "Ne kadar sürer?",
+     "p": [
+      "Donuk omuz yavaş iyileşir; süre aylar, hatta yıllar olabilir, ama ağrı ve sertlik genellikle sonunda geçer [1]. Toplam süreç bazı hastalarda üç yıla kadar uzayabilir [2]. Fizyoterapi programları genellikle en az 6 hafta sürer [1]. Ameliyat olanlarda toplam toparlanma çoğunlukla 6 hafta ile 3 ay arasındadır [2].",
+      "Ağrıyı belirgin artıran zorlayıcı hareketlerden kaçınılır, ama omuz hafif egzersizlerle hareket ettirilmeye devam edilir; egzersizler fizyoterapist tarafından öğretildikten sonra evde düzenli uygulanır [1]."
+     ]
+    },
+    {
+     "h": "Donuk omuz sanıp geçiştirmemeniz gerekenler",
+     "p": [
+      "Donuk omuz yavaş gelişir; aşağıdakiler başka ve daha ciddi bir sorunu düşündürebilir ve hemen tıbbi yardım gerektirir [6]:"
+     ],
+     "list": [
+      "Ani başlayan ya da çok şiddetli omuz ağrısı",
+      "Kolun hiç hareket ettirilememesi",
+      "Omzun şeklinin değişmesi ya da belirgin şişlik",
+      "Kolda karıncalanma, uyuşma ya da kolun sıcak veya soğuk hissedilmesi",
+      "Düşme ya da darbe sonrası başlayan ağrı",
+      "Omuz ağrısına ateş ya da genel halsizliğin eşlik etmesi",
+      "Omuz ya da kol ağrısına (özellikle sol kolda) göğüs ağrısı ya da baskısı, nefes darlığı veya terleme eşlik ediyorsa: kalp krizi belirtisi olabilir; hemen acil yardım çağırın (Kuzey Kıbrıs ve Türkiye'de 112) [7]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Donuk omuz kendiliğinden geçer mi?",
+     "a": "Çoğu hastada evet; aylar hatta birkaç yıl sürebilir. Tedavi bu dönemi daha az ağrılı ve daha işlevsel geçirmenize yardımcı olur [1][2]."
+    },
+    {
+     "q": "Ne kadar sürer?",
+     "a": "Donma, donuk ve çözülme evrelerinin toplamı genellikle bir ile üç yıl arasındadır; kişiden kişiye değişir [2]."
+    },
+    {
+     "q": "Şeker hastalığıyla ilişkili mi?",
+     "a": "Evet; diyabeti olanlarda risk belirgin yüksektir, nedeni tam bilinmiyor [1][2]."
+    },
+    {
+     "q": "Kortizon iğnesi iyi gelir mi?",
+     "a": "Özellikle erken ve ağrılı dönemde kısa vadede ağrıyı azalttığı ve hareketi kolaylaştırdığı gösterilmiştir; en iyi sonuç ev egzersiziyle birlikte alınır [3][4]."
+    },
+    {
+     "q": "Ameliyat gerekir mi?",
+     "a": "Nadiren; aylarca süren uygun tedaviye rağmen sertlik sürerse düşünülür [2]."
+    }
+   ],
+   "note": "Kliniğimizde önce omzunuzun hangi evrede olduğunu belirleriz: erken, çok ağrılı dönemde ağrıyı, sertlik döneminde hareketi öne alırız."
+  },
+  "en": {
+   "slug": "frozen-shoulder-treatment",
+   "title": "Frozen shoulder: how long does it last, and when are injections or surgery considered?",
+   "description": "Shoulder stiff in every direction and painful at night: the stages of frozen shoulder, cortisone injection, exercise, hydrodilatation and where surgery fits.",
+   "summary": "Frozen shoulder (adhesive capsulitis) is a condition in which the capsule around the shoulder thickens and tightens, causing pain and marked loss of movement in every direction [1][2]. Most people improve by themselves within months to a few years; pain control, a cortisone injection in the early painful phase and regular stretching are enough for most, and surgery is rarely needed [1][2][3].",
+   "sections": [
+    {
+     "h": "What happens in the shoulder?",
+     "p": [
+      "The shoulder joint is wrapped in a capsule of connective tissue. In frozen shoulder this capsule first becomes inflamed, then thickens and stiffens, and scar-like adhesions form inside it; the joint's inner volume shrinks so the arm cannot move normally [1][2].",
+      "The typical feature is that the shoulder is restricted both when you try to lift the arm yourself and when someone else (for example the doctor) moves it. This separates frozen shoulder from tendon-related pain, where the shoulder hurts but can usually still be moved passively [2]."
+     ]
+    },
+    {
+     "h": "The three stages",
+     "p": [
+      "The condition typically goes through three overlapping stages [2]:"
+     ],
+     "list": [
+      "Freezing: pain steadily increases and movement is lost; about 6 weeks to 9 months",
+      "Frozen: pain may ease but stiffness continues and makes daily tasks hard; about 4 to 6 months",
+      "Thawing: movement slowly returns; about 6 months to 2 years"
+     ]
+    },
+    {
+     "h": "Symptoms",
+     "p": [
+      "Symptoms start slowly and become clear over weeks [1][2]:"
+     ],
+     "list": [
+      "Shoulder pain, especially pain that is worse at night and interrupts sleep",
+      "Stiffness that makes it hard to raise the arm, take it out to the side or reach behind",
+      "Difficulty dressing, combing the hair or reaching a back pocket",
+      "Restriction of both active and passive movement"
+     ]
+    },
+    {
+     "h": "Why does it happen?",
+     "p": [
+      "The exact cause is unknown; inflammation in the tissues around the joint is thought to tighten and shrink the capsule, and it often starts without a clear injury [1]. The risk is higher between 40 and 60 and in women; it is markedly higher in diabetes; thyroid disease, Parkinson's disease and heart disease also raise it, as does keeping the shoulder still for a long time after an injury, fracture or operation [1][2]."
+     ]
+    },
+    {
+     "h": "Diagnosis",
+     "p": [
+      "Diagnosis is mostly made from history and examination: how far you can lift the arm yourself is compared with how far it can be moved for you; in frozen shoulder both are restricted [2]. An X-ray does not show the capsule but is requested to exclude other bone problems such as arthritis. MRI or ultrasound can be used if a soft tissue problem such as a rotator cuff tear is suspected [2]."
+     ]
+    },
+    {
+     "h": "Treatment",
+     "p": [
+      "The aim is to control pain and keep or regain movement while the condition runs its course; most people improve without surgery [1][2].",
+      ""
+     ],
+     "list": [
+      "Painkillers and anti-inflammatory medicines; avoiding very painful movements early on [1]",
+      "A cortisone injection into the joint: in the first year of the disease an injection gave better short-term results for pain and function than other treatments, and the benefit increases with home exercises [3]",
+      "Physiotherapy and home exercises: gentle stretching and range-of-movement exercises are the foundation; according to a Cochrane review they may not relieve symptoms as quickly as an injection in the first weeks, but differences at 6 to 12 months are small [4]",
+      "Hydrodilatation: fluid is injected into the joint to stretch the capsule; it may give short-term improvement and its long-term place is not yet clear [2][5]"
+     ]
+    },
+    {
+     "h": "When is surgery considered?",
+     "p": [
+      "If marked stiffness continues despite months of non-surgical treatment, moving the shoulder under general anaesthetic (manipulation) or releasing the tight capsule arthroscopically (keyhole) can be considered; physiotherapy continues afterwards [2]."
+     ]
+    },
+    {
+     "h": "How long does it last?",
+     "p": [
+      "Frozen shoulder recovers slowly; it can take months or even years, but pain and stiffness usually pass in the end [1]. The whole course can last up to three years in some patients [2]. Physiotherapy programmes usually last at least 6 weeks [1]. After surgery total recovery is usually 6 weeks to 3 months [2].",
+      "Forceful movements that clearly increase pain are avoided, while the shoulder is kept moving with gentle exercises; once taught by a physiotherapist, exercises can be done regularly at home [1]."
+     ]
+    },
+    {
+     "h": "What should not be put down to frozen shoulder",
+     "p": [
+      "Frozen shoulder develops slowly; the following may suggest a different and more serious problem and need medical help straight away [6]:"
+     ],
+     "list": [
+      "Sudden or very severe shoulder pain",
+      "Not being able to move the arm at all",
+      "A change in the shape of the shoulder or marked swelling",
+      "Tingling, numbness or the arm feeling hot or cold",
+      "Pain that started after a fall or blow",
+      "Fever or general weakness with shoulder pain",
+      "Chest pain or pressure, breathlessness or sweating with shoulder or arm pain (especially in the left arm): this can be a sign of a heart attack; call emergency services immediately (112 in North Cyprus and Türkiye) [7]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does frozen shoulder go away by itself?",
+     "a": "In most patients yes; it can take months or even a few years. Treatment helps you get through the period with less pain and better function [1][2]."
+    },
+    {
+     "q": "How long does it last?",
+     "a": "The freezing, frozen and thawing stages together usually take one to three years; it varies from person to person [2]."
+    },
+    {
+     "q": "Is it linked to diabetes?",
+     "a": "Yes; the risk is markedly higher in people with diabetes, and the reason is not fully known [1][2]."
+    },
+    {
+     "q": "Does a cortisone injection help?",
+     "a": "In the early painful phase it has been shown to reduce pain and ease movement in the short term; the best results come with home exercises [3][4]."
+    },
+    {
+     "q": "Is surgery needed?",
+     "a": "Rarely; it is considered if stiffness continues despite months of suitable treatment [2]."
+    }
+   ],
+   "note": "At our clinic we first work out which stage your shoulder is in: in the early, very painful phase we put pain first, in the stiff phase movement."
+  }
+ }
+}

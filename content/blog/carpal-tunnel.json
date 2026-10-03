@@ -1,0 +1,241 @@
+{
+ "id": "carpal-tunnel",
+ "area": "el-bilek",
+ "updated": "2026-10-03",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Carpal Tunnel Syndrome",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/carpal-tunnel-syndrome",
+   "year": "n.d."
+  },
+  {
+   "title": "Carpal tunnel syndrome",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/carpal-tunnel-syndrome/",
+   "year": "2024"
+  },
+  {
+   "title": "Carpal Tunnel Syndrome",
+   "publisher": "British Society for Surgery of the Hand (BSSH)",
+   "url": "https://www.bssh.ac.uk/patients/conditions/21/carpal_tunnel_syndrome",
+   "year": "n.d."
+  },
+  {
+   "title": "Surgical versus non-surgical treatment for carpal tunnel syndrome (Cochrane Review)",
+   "publisher": "Cochrane Database of Systematic Reviews (Lusa V, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38189479/",
+   "year": "2024"
+  },
+  {
+   "title": "Splinting for carpal tunnel syndrome (Cochrane Review)",
+   "publisher": "Cochrane Database of Systematic Reviews (Karjalainen TV, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36848651/",
+   "year": "2023"
+  },
+  {
+   "title": "Surgery versus corticosteroid injection for carpal tunnel syndrome (DISTRICTS): an open-label, multicentre, randomised controlled trial",
+   "publisher": "The Lancet (Palmbergen WAC, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40517008/",
+   "year": "2025"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "karpal-tunel-sendromu-ameliyat-ne-zaman",
+   "title": "Karpal tünel sendromu: elde uyuşma ne zaman ameliyat gerektirir?",
+   "description": "Gece uyandıran uyuşma ve karıncalanma: karpal tünel için atel, iğne ve ameliyat arasında nasıl seçim yapılır, ameliyattan sonra el ne zaman kullanılır?",
+   "summary": "Karpal tünel sendromu, bilekteki dar bir kanalda median sinirin sıkışmasıdır; başparmak, işaret ve orta parmakta uyuşma, karıncalanma ve geceleri artan yakınma yapar [1][3]. Hafif ve orta şiddette yakınmalarda önce gece ateli ve aktivite düzenlemesi, gerekirse steroid iğnesi denenir; ameliyat yakınmalar sürüyorsa, şiddetliyse ya da kas erimesi gibi belirgin sinir hasarı varsa düşünülür [1][3].",
+   "sections": [
+    {
+     "h": "Sinir neden sıkışır?",
+     "p": [
+      "Bileğin avuç tarafında kemiklerle üzerindeki kalın bir bağın oluşturduğu dar bir kanal vardır. Parmakları büken tendonlar ve median sinir bu kanaldan geçer; içerideki basınç artınca sinir sıkışır [1][3].",
+      "Median sinir başparmak, işaret, orta ve yüzük parmağının bir kısmına his verir, bu yüzden yakınma çoğunlukla bu parmaklarda hissedilir [1][3]."
+     ]
+    },
+    {
+     "h": "Hangi yakınmalar bu tanıyı düşündürür?",
+     "p": [
+      "Belirtiler yavaş başlar ve zamanla artabilir [1][2][3]:"
+     ],
+     "list": [
+      "Başparmak, işaret ve orta parmakta uyuşma, karıncalanma ya da yanma",
+      "Geceleri artan, uykudan uyandıran yakınma; eli sallayınca rahatlama",
+      "Parmaklardan ele ve kola doğru yayılan ağrı",
+      "Kavrama gücünde azalma, sakarlık, elden eşya düşürme",
+      "İleri olgularda başparmak kökündeki kaslarda incelme"
+     ]
+    },
+    {
+     "h": "Kimlerde daha sık?",
+     "p": [
+      "Çoğu kişide tek bir neden yoktur. Doğuştan dar kanal, bileği sık ve zorlayarak büken tekrarlayan işler ve bileğin uzun süre aşırı bükülü tutulması riski artırabilir [1][2]. Gebelik, fazla kilo, diyabet, romatoid artrit gibi eklem hastalıkları, ailede benzer öykü ve eski bilek yaralanması da bilinen risk etkenleridir [1][2]."
+     ]
+    },
+    {
+     "h": "Tanı nasıl konur?",
+     "p": [
+      "Tanı büyük ölçüde yakınmaların dinlenmesine ve muayeneye dayanır: parmaklarda his ve kas gücü değerlendirilir, bilek üzerine hafifçe vurarak ya da bileği belirli konumlarda tutarak yakınmanın tetiklenip tetiklenmediğine bakılır [1][3].",
+      "Sinir iletim çalışması ve EMG, sinirin ne kadar etkilendiğini gösterir ve başka sinir sorunlarından ayırmaya yardımcı olur. Ultrason, röntgen ya da MR seçilmiş hastalarda istenir; bu testler her hastada gerekmez [1][3]."
+     ]
+    },
+    {
+     "h": "Önce ameliyatsız seçenekler",
+     "p": [
+      "Hafif ve orta yakınmalarda bileği düz tutan gece ateli, bileği zorlayan hareketlerin azaltılması ve kısa süreli ağrı kesiciler ilk adımdır [1][2]. Cochrane incelemesine göre atelin etkisine dair kanıt sınırlıdır; yine de gece ateli bazı hastalarda kısa vadede genel bir düzelme sağlayabilir ve ciddi bir zarar beklenmez [5].",
+      "Atel yetmezse karpal tünele steroid iğnesi yapılabilir. İğne yakınmaları çoğu zaman azaltır, ama etkisi bazı hastalarda geçici kalır [1][2]."
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman konuşulur?",
+     "p": [
+      "Ameliyatsız tedaviye rağmen yakınma sürüyor ya da tekrarlıyorsa, yakınma şiddetli ve uzun süredir varsa, testlerde belirgin sinir hasarı görülüyorsa ya da başparmak kökünde kas erimesi başlamışsa ameliyat gündeme gelir [1][3]. Kas erimesi ve sürekli uyuşma kalıcı sinir hasarı riskine işaret ettiği için beklenmemelidir [1].",
+      "Karar yakınmanın şiddetine ve tercihinize göre birlikte verilir. Cochrane incelemesi, yakınması katlanılabilir olanların ameliyatsız başlayabileceğini, yakınması şiddetli olanların ameliyatı seçebileceğini belirtir [4]. Büyük bir randomize çalışmada, tedaviye ameliyatla başlayanların 18. ayda iyileşmiş olma olasılığı steroid iğnesiyle başlayanlardan yüksek bulunmuştur [6].",
+      "Ameliyatta sinire baskı yapan bağ kesilerek kanal genişletilir; işlem genellikle lokal anestezi altında, kısa sürede ve günübirlik yapılır [1][2][3]."
+     ]
+    },
+    {
+     "h": "Ameliyattan sonra",
+     "p": [
+      "Gece uyanmaları çoğu hastada ilk hafta içinde azalır ve el birkaç gün içinde hafif işlerde kullanılabilir [1][3]. Günlük işlere tam dönüş genellikle birkaç hafta alır. Kavrama gücünün geri gelmesi birkaç ayı bulabilir; uzun süredir var olan ağır sıkışmalarda his bir yıla kadar düzelebilir ve bazen tam olmayabilir. Karıncalanma genellikle güçten önce düzelir [1][2][3]."
+     ]
+    },
+    {
+     "h": "Beklememeniz gereken durumlar",
+     "p": [
+      "Şunlarda muayeneyi geciktirmeyin [1][2]:"
+     ],
+     "list": [
+      "Uyuşma sürekli hale geldiyse ya da his kaybı artıyorsa",
+      "Başparmak kökündeki kaslar inceliyorsa ya da belirgin güç kaybı varsa",
+      "Elden sık eşya düşürüyor, düğme iliklemekte zorlanıyorsanız",
+      "Ev önlemlerine rağmen yakınma kötüleşiyor ya da geçmiyorsa"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Elde uyuşmanın en sık nedeni karpal tünel mi?",
+     "a": "Başparmak, işaret ve orta parmakta, geceleri artan uyuşma varsa en sık neden budur. Başka sinir sorunları da benzer yakınma verebildiği için muayene, gerekirse sinir iletim testi önemlidir [1][2]."
+    },
+    {
+     "q": "Kendiliğinden geçer mi?",
+     "a": "Hafif yakınmalar bileği zorlayan hareketleri azaltmak ve gece ateliyle düzelebilir. Geçmiyor, kötüleşiyor ya da güç kaybı başlıyorsa hekime başvurulmalıdır [2][5]."
+    },
+    {
+     "q": "EMG şart mı?",
+     "a": "Her hastada değil. Tanı çoğunlukla muayeneyle konur; tanı belirsizse, sıkışmanın derecesi görülmek istenirse ya da ameliyat planlanırken sinir iletim çalışması istenir [1][3]."
+    },
+    {
+     "q": "Ameliyattan sonra el ne zaman kullanılır?",
+     "a": "Birkaç gün içinde hafif işlerde; normal günlük işlere dönüş birkaç hafta, tam kavrama gücü birkaç ay sürebilir [1][2][3]."
+    },
+    {
+     "q": "Ameliyat mı, iğne mi?",
+     "a": "Yakınma katlanılabilirse ameliyatsız başlanabilir, şiddetliyse ameliyat seçilebilir; bir randomize çalışmada ameliyatla başlayanlar 18. ayda daha sık iyileşmiştir [4][6]."
+    }
+   ],
+   "note": "Kliniğimizde kararı yakınmanın uykunuzu ve işinizi ne kadar bozduğuna, parmaklarınızdaki his ve kas gücüne bakarak sizinle birlikte veririz."
+  },
+  "en": {
+   "slug": "carpal-tunnel-syndrome-when-is-surgery-needed",
+   "title": "Carpal tunnel syndrome: when does hand numbness need surgery?",
+   "description": "Numbness and tingling that wake you at night: how to choose between a splint, an injection and surgery for carpal tunnel, and when the hand can be used afterwards.",
+   "summary": "Carpal tunnel syndrome is compression of the median nerve in a narrow channel at the wrist, causing numbness, tingling and night-time symptoms in the thumb, index and middle fingers [1][3]. For mild to moderate symptoms we start with a night splint and activity changes, with a steroid injection if needed; surgery is considered when symptoms persist, are severe, or there is clear nerve damage such as muscle wasting [1][3].",
+   "sections": [
+    {
+     "h": "Why does the nerve get squeezed?",
+     "p": [
+      "On the palm side of the wrist the bones and a thick ligament above them form a narrow channel. The tendons that bend the fingers and the median nerve pass through it; when the pressure inside rises the nerve is compressed [1][3].",
+      "The median nerve supplies feeling to the thumb, index and middle finger and part of the ring finger, which is why symptoms are usually felt there [1][3]."
+     ]
+    },
+    {
+     "h": "Which symptoms point to it?",
+     "p": [
+      "Symptoms usually start slowly and can build up over time [1][2][3]:"
+     ],
+     "list": [
+      "Numbness, tingling or burning in the thumb, index and middle fingers",
+      "Symptoms that are worse at night and wake you, easing when you shake the hand",
+      "Pain spreading from the fingers into the hand and up the arm",
+      "Weaker grip, clumsiness, dropping things",
+      "In advanced cases, wasting of the muscles at the base of the thumb"
+     ]
+    },
+    {
+     "h": "Who is more likely to get it?",
+     "p": [
+      "For most people there is no single cause. Being born with a narrower channel, repetitive jobs that bend the wrist often and forcefully, and keeping the wrist strongly bent for long periods may raise the risk [1][2]. Pregnancy, excess weight, diabetes, joint diseases such as rheumatoid arthritis, a family history and an earlier wrist injury are also known risk factors [1][2]."
+     ]
+    },
+    {
+     "h": "How is it diagnosed?",
+     "p": [
+      "Diagnosis rests largely on your story and examination: we check feeling and muscle strength in the fingers and see whether tapping over the wrist or holding it in certain positions brings on the symptoms [1][3].",
+      "Nerve conduction studies and EMG show how much the nerve is affected and help separate it from other nerve problems. Ultrasound, X-ray or MRI are requested in selected patients; these tests are not needed for everyone [1][3]."
+     ]
+    },
+    {
+     "h": "Non-surgical options first",
+     "p": [
+      "For mild and moderate symptoms a night splint that keeps the wrist straight, avoiding movements that strain the wrist and short-term painkillers are the first steps [1][2]. According to a Cochrane review the evidence on splinting is limited, but a night splint may give some overall improvement in the short term and serious harm is not expected [5].",
+      "If a splint is not enough a steroid injection into the carpal tunnel can be given. It often reduces symptoms, although in some patients the effect is temporary [1][2]."
+     ]
+    },
+    {
+     "h": "When is surgery discussed?",
+     "p": [
+      "Surgery comes up if symptoms persist or return despite non-surgical treatment, if they are severe and long-standing, if tests show clear nerve damage or if the muscles at the base of the thumb start to waste [1][3]. Muscle wasting and constant numbness point to a risk of permanent nerve damage and should not be left waiting [1].",
+      "The decision is shared and depends on how severe your symptoms are and what you prefer. The Cochrane review notes that people with tolerable symptoms can start with non-surgical treatment and those with severe symptoms can choose surgery [4]. In a large randomised trial, patients who started with surgery were more likely to be improved at 18 months than those who started with a steroid injection [6].",
+      "In the operation the ligament pressing on the nerve is cut to widen the channel; it is usually done under local anaesthetic, quickly, as a day case [1][2][3]."
+     ]
+    },
+    {
+     "h": "After surgery",
+     "p": [
+      "Night waking settles within the first week for most patients and the hand can be used for light tasks within a few days [1][3]. Returning fully to daily tasks usually takes a few weeks. Grip strength can take several months to return; in long-standing severe compression feeling can keep improving for up to a year and sometimes does not recover fully. Tingling usually improves before strength does [1][2][3]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Do not delay examination if [1][2]:"
+     ],
+     "list": [
+      "Numbness has become constant or feeling loss is increasing",
+      "The muscles at the base of the thumb are wasting or you have clear weakness",
+      "You often drop things or struggle with buttons",
+      "Symptoms are getting worse or not going away despite home measures"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is carpal tunnel the commonest cause of numb hands?",
+     "a": "If numbness is in the thumb, index and middle fingers and is worse at night, it is the commonest cause. Other nerve problems can give similar symptoms, so examination and, if needed, a nerve conduction test matter [1][2]."
+    },
+    {
+     "q": "Does it go away by itself?",
+     "a": "Mild symptoms can ease by avoiding wrist-straining movements and wearing a night splint. If they are not settling, are getting worse or weakness starts, see a doctor [2][5]."
+    },
+    {
+     "q": "Do I need an EMG?",
+     "a": "Not for everyone. Diagnosis is usually made by examination; nerve conduction studies are requested if the diagnosis is unclear, if we want to see how severe the compression is or when surgery is planned [1][3]."
+    },
+    {
+     "q": "When can I use the hand after surgery?",
+     "a": "For light tasks within a few days; normal daily tasks usually after a few weeks and full grip strength after a few months [1][2][3]."
+    },
+    {
+     "q": "Surgery or injection?",
+     "a": "With tolerable symptoms you can start without surgery, with severe symptoms you can choose surgery; in one randomised trial those who started with surgery more often improved by 18 months [4][6]."
+    }
+   ],
+   "note": "At our clinic we decide with you, looking at how much the symptoms disturb your sleep and work and at the feeling and strength in your fingers."
+  }
+ }
+}
