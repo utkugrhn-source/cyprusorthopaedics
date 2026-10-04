@@ -7,7 +7,7 @@ import Reel from "@/components/Reel";
 import LazyVideo from "@/components/LazyVideo";
 import Papers from "@/components/Papers";
 import { JOURNAL_COVERS } from "@/lib/journals";
-import { ui, type Lang, PHONE, PHONE_HREF, APPT, MAPS, DOCTORS_SEGMENT, SITE, alts, hreflangs, num } from "@/lib/site";
+import { ui, type Lang, PHONE, PHONE_HREF, APPT, MAPS, DOCTORS_SEGMENT, SITE, CLIP_RATE, alts, hreflangs, num } from "@/lib/site";
 import { doctors, docName } from "@/lib/doctors";
 import { areas, areaUrl } from "@/lib/areas";
 import type { Metadata } from "next";
@@ -104,7 +104,7 @@ export default function Home({ params }: { params: { lang: string } }) {
             <p className="body text-slate" style={{ fontWeight: 400 }}>{t.plan.p}</p>
           </div>
           </div>
-          <div className="mt-10 md:mt-14"><Reel items={plan} labels={t.reel} lang={lang} /></div>
+          <div className="mt-10 md:mt-14"><Reel items={plan} labels={t.reel} lang={lang} rate={CLIP_RATE.plan} /></div>
         </section>
 
         {/* doctors */}
@@ -160,7 +160,7 @@ export default function Home({ params }: { params: { lang: string } }) {
           {(["or-2", "video", "or-3"] as const).map((f, i) => (
             <div key={f} className={`zoom r-media relative aspect-[4/5] overflow-hidden bg-mist ${i === 1 ? "order-first col-span-2 sm:order-none sm:col-span-1 sm:mt-16" : ""}`} data-clip={i}>
               {f === "video" ? (
-                <LazyVideo className="h-full w-full object-cover" src="/video/ameliyathane.mp4" poster="/video/ameliyathane.jpg" label={t.photos[i]} play={t.reel.play} />
+                <LazyVideo className="h-full w-full object-cover" src="/video/ameliyathane.mp4" poster="/video/ameliyathane.jpg" label={t.photos[i]} play={t.reel.play} rate={CLIP_RATE.theatre} />
               ) : (
                 // eslint-disable-next-line @next/next/no-img-element
                 <img src={`/img/${f}.jpg`} alt={t.photos[i]} loading="lazy" className="h-full w-full object-cover" />
@@ -230,7 +230,7 @@ export default function Home({ params }: { params: { lang: string } }) {
             <h2 className="h2">{t.route.h}</h2>
             <p className="lead">{t.route.p}</p>
           </div>
-          <div className="mt-14 md:mt-20"><Reel items={route} labels={t.reel} lang={lang} /></div>
+          <div className="mt-14 md:mt-20"><Reel items={route} labels={t.reel} lang={lang} rate={CLIP_RATE.route} /></div>
         </section>
 
         {/* contact: the phone number is the page's last large element */}

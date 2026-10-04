@@ -46,14 +46,32 @@
    "publisher": "Arthritis & Rheumatology (Kolasinski SL, et al.)",
    "url": "https://pubmed.ncbi.nlm.nih.gov/31908163/",
    "year": "2020"
+  },
+  {
+   "title": "The use of injectable orthobiologics for knee osteoarthritis: A European ESSKA-ORBIT consensus. Part 1—Blood-derived products (platelet-rich plasma)",
+   "publisher": "Knee Surgery, Sports Traumatology, Arthroscopy (Laver L, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38436492/",
+   "year": "2024"
+  },
+  {
+   "title": "Platelet-rich plasma injections for the management of knee osteoarthritis: The ESSKA-ICRS consensus. Recommendations using the RAND/UCLA appropriateness method for different clinical scenarios",
+   "publisher": "Knee Surgery, Sports Traumatology, Arthroscopy (Kon E, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38961773/",
+   "year": "2024"
+  },
+  {
+   "title": "Multiple PRP injections are more effective than single injections and hyaluronic acid in knees with early osteoarthritis: a randomized, double-blind, placebo-controlled trial",
+   "publisher": "Knee Surgery, Sports Traumatology, Arthroscopy (Görmeli G, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26233594/",
+   "year": "2017"
   }
  ],
  "i18n": {
   "tr": {
    "slug": "diz-ignesi-kortizon-hyaluronik-asit-prp-kok-hucre",
    "title": "Diz iğnesi: kortizon, hyalüronik asit, PRP ve kök hücre ne işe yarar?",
-   "description": "Diz iğnesi nedir, ne işe yarar? Kortizon iğnesi, hyalüronik asit, PRP ve kök hücre tedavisi: etkisi, yan etkileri, kaç ayda bir yapıldığı ve kılavuzlar.",
-   "summary": "Diz iğnesi olarak yapılan başlıca dört tedavi kortizon, hyalüronik asit, PRP ve kök hücredir [7]. Diz kireçlenmesinde (osteoartrit) kortizon iğnesi ağrıyı kısa süreli azaltabilir; altı ay sonra etkisinin sürdüğüne ilişkin kanıt yoktur [2]. Hyalüronik asit ve PRP, plaseboyla karşılaştırıldıkları büyük çalışmalarda klinik açıdan anlamlı bir üstünlük göstermemiştir; kök hücre için kanıtın güvenilirliği düşüktür ve Amerikan Romatoloji Koleji (ACR) kılavuzu bu üç iğneyi önermez [3][5][6][7].",
+   "description": "Diz iğnesi nedir, ne işe yarar? Kortizon, hyalüronik asit, PRP ve kök hücre: etkisi, yan etkileri, kaç ayda bir yapılır, son evre kireçlenmede yeri, kılavuzlar.",
+   "summary": "Diz iğnesi olarak yapılan başlıca dört tedavi kortizon, hyalüronik asit, PRP ve kök hücredir [7]. Diz kireçlenmesinde (osteoartrit) kortizon iğnesi ağrıyı kısa süreli azaltabilir [2]. İğnenin yeri hastalığın evresine göre değişir: Avrupa'daki ortopedi uzlaşıları PRP'yi hafif ve orta evrede (1–3. evre) uygun bulur, son evre (4. evre) diz kireçlenmesinde uygun bulmaz [8][9]. Hyalüronik asit büyük plasebo kontrollü çalışmalarda klinik açıdan anlamlı bir yarar göstermemiştir, kök hücre için kanıtın güvenilirliği düşüktür; Amerikan Romatoloji Koleji (ACR) kılavuzu ise evre ayırmadan hyalüronik asit, PRP ve kök hücreyi önermez [3][6][7].",
    "sections": [
     {
      "h": "Diz iğnesi nedir, hangi türleri var?",
@@ -104,6 +122,7 @@
      "p": [
       "PRP için kişiden kan alınır; kan santrifüj edilerek trombositler ayrılır, yoğunlaştırılır ve ilgili bölgeye enjekte edilir. Trombositler, iyileşmede önemli olan büyüme faktörleri içerir [4].",
       "Kanıtlar çelişkilidir. Amerikan Ortopedi Cerrahları Akademisi (AAOS), hafif ve orta dereceli diz kireçlenmesinde PRP'nin etkili olduğunu gösteren yayınların arttığını, ancak basındaki iddiaları destekleyecek araştırmaların eksik olduğunu belirtir [4]. Plasebo kontrollü RESTORE çalışmasında (hafif ve orta dereceli kireçlenmesi olan 288 hasta) ise PRP, 12 ay sonunda ağrıda ve kıkırdak hacminde serum fizyolojik iğnesinden anlamlı biçimde farklı bulunmamıştır [5].",
+      "Evre burada belirleyicidir. Avrupa Spor Travmatolojisi, Diz Cerrahisi ve Artroskopi Derneği'nin (ESSKA) 2024 uzlaşısına göre klinik kanıtlar PRP'nin hafif ve orta evre diz kireçlenmesinde (Kellgren-Lawrence 3. evre ve altı) etkili olduğunu göstermektedir; uzlaşı PRP'yi başlıca 1–3. evreler için geçerli bir seçenek sayar [8]. Farklı evrelerdeki 162 hastayla yapılan randomize bir çalışmada, erken evrede üç PRP iğnesi altıncı ayda daha iyi sonuç vermiş; ileri evrede (4. evre) ise iğne sayısını artırmak sonuçları anlamlı biçimde iyileştirmemiştir [10].",
       "Kaç seans yapılacağı konusunda uzlaşılmış bir şema bu kaynaklarda yer almaz: RESTORE çalışmasında birer hafta arayla üç iğne yapılmıştır [5]; ACR, PRP'nin hazırlanışında ve uygulama tekniklerinde standart bulunmadığına, bu yüzden tam olarak neyin enjekte edildiğini belirlemenin güç olduğuna dikkat çeker [7].",
       "İğne yerindeki ağrı ilk bir iki hafta artabilir, yararın hissedilmesi birkaç hafta sürebilir; AAOS'ye göre enfeksiyon, doku hasarı ve sinir yaralanması gibi sorunların sıklığı kortizon iğnesindekinden farklı görünmemektedir [4]."
      ]
@@ -117,10 +136,10 @@
      ]
     },
     {
-     "h": "Kılavuzlar hangi iğneyi öneriyor?",
+     "h": "Kılavuzlar ne diyor? Evreye göre iğnenin yeri",
      "p": [
-      "ACR kılavuzu diz ve kalça kireçlenmesinde egzersizi ve fazla kilosu olanlarda kilo vermeyi güçlü biçimde önerir [7]. İngiltere'de NICE hyalüronik asit iğnesini önermez; BMJ derlemesi kılavuzların çoğunun bu iğneyi desteklemediğini aktarır [3].",
-      "ACR'nin iğnelere ilişkin önerileri şöyledir [7]:"
+      "Kılavuzlar ve uzlaşı metinleri aynı şeyi söylemez; bir bölümü öneriyi hastalığın evresine göre verir. Diz kireçlenmesi röntgende Kellgren-Lawrence sınıflamasıyla 0'dan 4'e kadar evrelenir; 4. evre ileri, yani son evredir [5][9][10]. ESSKA ile Uluslararası Kıkırdak Rejenerasyonu ve Eklem Koruma Derneği'nin (ICRS) ortak uzlaşısı PRP'yi, iğnesiz ya da iğneli ameliyatsız tedavilerden yeterli sonuç alınamamış, 80 yaş ve altındaki, 0–3. evredeki hastalarda uygun bulur; ilk tedavi olarak ve son evrede (4. evre) uygun bulmaz [9]. Son evre diz kireçlenmesinde, diğer tedavilerle ağrı kontrol edilemediğinde gündeme gelen tedavi diz protezidir [6]; bu rehberde ayrı bir yazıda anlatılmıştır.",
+      "ACR kılavuzu (2019) evre ayrımı yapmaz. Diz ve kalça kireçlenmesinde egzersizi ve fazla kilosu olanlarda kilo vermeyi güçlü biçimde önerir; İngiltere'de NICE hyalüronik asit iğnesini önermez, BMJ derlemesi de kılavuzların çoğunun bu iğneyi desteklemediğini aktarır [3][7]. ACR'nin iğnelere ilişkin önerileri şöyledir [7]:"
      ],
      "list": [
       "Kortizon iğnesi: diz ve kalça kireçlenmesinde güçlü biçimde, el kireçlenmesinde koşullu olarak önerilir; kalça iğnesinde ultrason eşliği güçlü biçimde önerilir",
@@ -157,7 +176,7 @@
     },
     {
      "q": "PRP dizlere iyi gelir mi?",
-     "a": "Kanıtlar çelişkilidir. Plasebo kontrollü RESTORE çalışmasında PRP 12 ayda serum fizyolojik iğnesinden üstün bulunmamıştır [5] ve ACR kılavuzu diz kireçlenmesinde PRP'yi önermez [7]; AAOS ise hafif ve orta dereceli kireçlenmede etkili olduğunu gösteren yayınların arttığını belirtir [4]."
+     "a": "Evreye bağlıdır ve kanıtlar çelişkilidir. ESSKA uzlaşıları PRP'yi hafif ve orta evrede (1–3. evre) uygun bulur, son evrede (4. evre) uygun bulmaz [8][9]. Plasebo kontrollü RESTORE çalışmasında PRP 12 ayda serum fizyolojik iğnesinden üstün bulunmamıştır [5]; ACR kılavuzu da evre ayırmadan PRP'yi önermez [7]."
     },
     {
      "q": "Kök hücre tedavisi dizlere iyi gelir mi?",
@@ -169,8 +188,8 @@
   "en": {
    "slug": "knee-injections-cortisone-hyaluronic-acid-prp-stem-cells",
    "title": "Knee injections: what do cortisone, hyaluronic acid, PRP and stem cells do?",
-   "description": "What are knee injections for? Cortisone, hyaluronic acid, PRP and stem cell injections: how well they work, side effects, how often, and what guidelines say.",
-   "summary": "The four main treatments given as knee injections are cortisone, hyaluronic acid, PRP and stem cells [7]. In knee osteoarthritis a cortisone injection can reduce pain for a short time; there is no evidence that its effect is still present after six months [2]. Hyaluronic acid and PRP have not shown a clinically meaningful advantage in the large trials that compared them with placebo; for stem cells the certainty of the evidence is low, and the American College of Rheumatology (ACR) guideline does not recommend these three injections [3][5][6][7].",
+   "description": "Knee injections: cortisone, hyaluronic acid, PRP and stem cells. How well they work, side effects, how often, their place in end-stage arthritis, guidelines.",
+   "summary": "The four main treatments given as knee injections are cortisone, hyaluronic acid, PRP and stem cells [7]. In knee osteoarthritis a cortisone injection can reduce pain for a short time [2]. The place of injections depends on the stage of the disease: European orthopaedic consensus statements consider PRP appropriate in the mild and moderate stages (grades 1–3) and not appropriate in end-stage (grade 4) knee osteoarthritis [8][9]. Hyaluronic acid has not shown a clinically meaningful benefit in large placebo-controlled trials, and for stem cells the certainty of the evidence is low; the American College of Rheumatology (ACR) guideline, without distinguishing stages, does not recommend hyaluronic acid, PRP or stem cells [3][6][7].",
    "sections": [
     {
      "h": "What is a knee injection and what kinds are there?",
@@ -221,6 +240,7 @@
      "p": [
       "For PRP, blood is taken from the person; the blood is spun in a centrifuge so that the platelets are separated and concentrated, and they are then injected into the affected area. Platelets contain growth factors that are important in healing [4].",
       "The evidence is conflicting. The American Academy of Orthopaedic Surgeons (AAOS) states that more and more publications show PRP to be effective in low- to moderate-grade knee osteoarthritis, but that research to back up the claims made in the media is lacking [4]. In the placebo-controlled RESTORE trial (288 patients with mild to moderate osteoarthritis), however, PRP was not significantly different from a saline injection for pain or cartilage volume at 12 months [5].",
+      "Stage is decisive here. According to the 2024 consensus of the European Society of Sports Traumatology, Knee Surgery and Arthroscopy (ESSKA), clinical evidence shows that PRP is effective in mild to moderate knee osteoarthritis (Kellgren-Lawrence grade 3 or lower); the consensus regards PRP as a valid option mainly for grades 1–3 [8]. In a randomised trial of 162 patients at different stages, three PRP injections gave better results at six months in early-stage disease, whereas in advanced disease (grade 4) giving more injections did not significantly improve the results [10].",
       "These sources do not give an agreed schedule for the number of sessions: in the RESTORE trial three injections were given one week apart [5]; the ACR points out that there is no standard for how PRP is prepared or for the techniques used, which makes it difficult to identify exactly what is being injected [7].",
       "Pain at the injection site may increase for the first week or two, and it may be several weeks before a benefit is felt; according to the AAOS, the incidence of problems such as infection, tissue damage and nerve injury appears to be no different from that with cortisone injections [4]."
      ]
@@ -234,10 +254,10 @@
      ]
     },
     {
-     "h": "Which injection do guidelines recommend?",
+     "h": "What do guidelines say? The place of injections by stage",
      "p": [
-      "For knee and hip osteoarthritis the ACR guideline strongly recommends exercise and, for people who are overweight, weight loss [7]. In England, NICE does not recommend hyaluronic acid injections; the BMJ review reports that most guidelines do not support this injection [3].",
-      "The ACR's recommendations on injections are as follows [7]:"
+      "Guidelines and consensus statements do not all say the same thing; some of them give their recommendation according to the stage of the disease. Knee osteoarthritis is staged on X-ray from 0 to 4 with the Kellgren-Lawrence classification; grade 4 is the advanced, that is the end, stage [5][9][10]. The joint consensus of ESSKA and the International Cartilage Regeneration and Joint Preservation Society (ICRS) considers PRP appropriate in patients aged 80 or younger, at grades 0–3, in whom non-surgical treatment or other injection treatments have not given an adequate result; it does not consider it appropriate as a first treatment or in end-stage disease (grade 4) [9]. In end-stage knee osteoarthritis, when pain cannot be controlled with other treatments, the treatment that comes up is knee replacement [6]; it is described in a separate article in this guide.",
+      "The ACR guideline (2019) does not distinguish stages. For knee and hip osteoarthritis it strongly recommends exercise and, for people who are overweight, weight loss; in England, NICE does not recommend hyaluronic acid injections, and the BMJ review also reports that most guidelines do not support this injection [3][7]. The ACR's recommendations on injections are as follows [7]:"
      ],
      "list": [
       "Cortisone injection: strongly recommended for knee and hip osteoarthritis and conditionally recommended for hand osteoarthritis; ultrasound guidance is strongly recommended for injections into the hip",
@@ -274,7 +294,7 @@
     },
     {
      "q": "Does PRP help the knees?",
-     "a": "The evidence is conflicting. In the placebo-controlled RESTORE trial PRP was not better than a saline injection at 12 months [5], and the ACR guideline does not recommend PRP for knee osteoarthritis [7]; the AAOS, on the other hand, states that more and more publications show it to be effective in low- to moderate-grade osteoarthritis [4]."
+     "a": "It depends on the stage, and the evidence is conflicting. The ESSKA consensus statements consider PRP appropriate in the mild and moderate stages (grades 1–3) and not appropriate in end-stage disease (grade 4) [8][9]. In the placebo-controlled RESTORE trial PRP was not better than a saline injection at 12 months [5]; the ACR guideline, without distinguishing stages, also does not recommend PRP [7]."
     },
     {
      "q": "Does stem cell treatment help the knees?",
@@ -286,8 +306,8 @@
   "ru": {
    "slug": "ukoly-v-koleno-kortizon-gialuronovaya-kislota-prp-stvolovye-kletki",
    "title": "Уколы в колено: что дают кортизон, гиалуроновая кислота, PRP и стволовые клетки?",
-   "description": "Зачем делают уколы в колено? Кортизон, гиалуроновая кислота, PRP и стволовые клетки: эффект, побочные действия, как часто делать и что говорят руководства.",
-   "summary": "Четыре основных вида уколов в колено — это кортизон, гиалуроновая кислота, PRP и стволовые клетки [7]. При артрозе коленного сустава (остеоартрите) укол кортизона может на короткое время уменьшить боль; доказательств того, что его действие сохраняется через шесть месяцев, нет [2]. Гиалуроновая кислота и PRP в крупных исследованиях, где их сравнивали с плацебо, не показали клинически значимого преимущества; в отношении стволовых клеток достоверность доказательств низкая, и руководство Американской коллегии ревматологов (ACR) эти три вида инъекций не рекомендует [3][5][6][7].",
+   "description": "Уколы в колено: кортизон, гиалуроновая кислота, PRP, стволовые клетки. Эффект, побочные действия, частота, место при последней стадии артроза, руководства.",
+   "summary": "Четыре основных вида уколов в колено — это кортизон, гиалуроновая кислота, PRP и стволовые клетки [7]. При артрозе коленного сустава (остеоартрите) укол кортизона может на короткое время уменьшить боль [2]. Место инъекций зависит от стадии болезни: европейские ортопедические консенсусы считают PRP целесообразной на лёгкой и средней стадиях (1–3-я стадии) и нецелесообразной на последней, 4-й стадии артроза коленного сустава [8][9]. Гиалуроновая кислота в крупных плацебо-контролируемых исследованиях не показала клинически значимой пользы, а в отношении стволовых клеток достоверность доказательств низкая; руководство Американской коллегии ревматологов (ACR), не разделяя стадий, не рекомендует ни гиалуроновую кислоту, ни PRP, ни стволовые клетки [3][6][7].",
    "sections": [
     {
      "h": "Что такое укол в колено и какие бывают виды?",
@@ -338,6 +358,7 @@
      "p": [
       "Для PRP у человека берут кровь; её центрифугируют, чтобы отделить и сконцентрировать тромбоциты, и затем вводят их в нужную область. Тромбоциты содержат факторы роста, важные для заживления [4].",
       "Доказательства противоречивы. Американская академия хирургов-ортопедов (AAOS) указывает, что появляется всё больше публикаций, показывающих эффективность PRP при артрозе коленного сустава лёгкой и средней степени, но что исследований, подтверждающих заявления в прессе, не хватает [4]. В плацебо-контролируемом исследовании RESTORE (288 пациентов с артрозом лёгкой и средней степени), напротив, PRP через 12 месяцев значимо не отличалась от инъекции физиологического раствора ни по боли, ни по объёму хряща [5].",
+      "Здесь решающее значение имеет стадия. Согласно консенсусу Европейского общества спортивной травматологии, хирургии коленного сустава и артроскопии (ESSKA) 2024 года, клинические данные показывают, что PRP эффективна при артрозе коленного сустава лёгкой и средней стадии (3-я стадия по Келлгрену — Лоуренсу и ниже); консенсус считает PRP приемлемым вариантом главным образом для 1–3-й стадий [8]. В рандомизированном исследовании с участием 162 пациентов с разными стадиями на ранней стадии три инъекции PRP дали лучший результат через шесть месяцев; на поздней же стадии (4-й) увеличение числа инъекций не дало значимого улучшения результатов [10].",
       "Согласованной схемы — сколько нужно процедур — в этих источниках нет: в исследовании RESTORE делали три инъекции с интервалом в одну неделю [5]; ACR обращает внимание на то, что стандарта приготовления PRP и техники введения не существует, и поэтому трудно определить, что именно вводится [7].",
       "Боль в месте укола в первые одну-две недели может усилиться, а до ощутимой пользы может пройти несколько недель; по данным AAOS, частота таких проблем, как инфекция, повреждение тканей и повреждение нерва, по-видимому, не отличается от частоты при уколах кортизона [4]."
      ]
@@ -351,10 +372,10 @@
      ]
     },
     {
-     "h": "Какие уколы рекомендуют руководства?",
+     "h": "Что говорят руководства? Место инъекций в зависимости от стадии",
      "p": [
-      "При артрозе коленного и тазобедренного суставов руководство ACR настоятельно рекомендует упражнения, а людям с избыточным весом — снижение веса [7]. В Англии NICE не рекомендует инъекции гиалуроновой кислоты; в обзоре BMJ сообщается, что большинство руководств эту инъекцию не поддерживают [3].",
-      "Рекомендации ACR в отношении инъекций таковы [7]:"
+      "Руководства и консенсусные документы говорят не одно и то же; часть из них даёт рекомендации в зависимости от стадии болезни. Артроз коленного сустава по рентгеновским снимкам делят на стадии от 0 до 4 по классификации Келлгрена — Лоуренса; 4-я стадия — поздняя, то есть последняя [5][9][10]. Совместный консенсус ESSKA и Международного общества регенерации хряща и сохранения суставов (ICRS) считает PRP целесообразной у пациентов 80 лет и младше с 0–3-й стадией, у которых безоперационное лечение или другие инъекции не дали достаточного результата; в качестве первого метода лечения и на последней (4-й) стадии он считает её нецелесообразной [9]. При артрозе коленного сустава последней стадии, когда боль не удаётся контролировать другими методами, встаёт вопрос об эндопротезировании коленного сустава [6]; о нём рассказано в отдельной статье этого справочника.",
+      "Руководство ACR (2019) стадий не различает. При артрозе коленного и тазобедренного суставов оно настоятельно рекомендует упражнения, а людям с избыточным весом — снижение веса; в Англии NICE не рекомендует инъекции гиалуроновой кислоты, и в обзоре BMJ также сообщается, что большинство руководств эту инъекцию не поддерживают [3][7]. Рекомендации ACR в отношении инъекций таковы [7]:"
      ],
      "list": [
       "Укол кортизона: настоятельно рекомендуется при артрозе коленного и тазобедренного суставов, условно — при артрозе суставов кисти; при уколе в тазобедренный сустав настоятельно рекомендуется контроль УЗИ",
@@ -391,7 +412,7 @@
     },
     {
      "q": "Помогает ли PRP коленям?",
-     "a": "Доказательства противоречивы. В плацебо-контролируемом исследовании RESTORE PRP через 12 месяцев не превзошла инъекцию физиологического раствора [5], и руководство ACR не рекомендует PRP при артрозе коленного сустава [7]; AAOS же указывает, что появляется всё больше публикаций, показывающих её эффективность при артрозе лёгкой и средней степени [4]."
+     "a": "Это зависит от стадии, и доказательства противоречивы. Консенсусы ESSKA считают PRP целесообразной на лёгкой и средней стадиях (1–3-я стадии) и нецелесообразной на последней (4-й) стадии [8][9]. В плацебо-контролируемом исследовании RESTORE PRP через 12 месяцев не превзошла инъекцию физиологического раствора [5]; руководство ACR, не разделяя стадий, также не рекомендует PRP [7]."
     },
     {
      "q": "Помогает ли коленям лечение стволовыми клетками?",
@@ -403,8 +424,8 @@
   "fa": {
    "slug": "tazrigh-zanoo-korton-hyaluronic-acid-prp-selul-bonyadi",
    "title": "تزریق زانو: کورتون، هیالورونیک اسید، PRP و سلول بنیادی چه فایده‌ای دارند؟",
-   "description": "تزریق زانو چیست و چه فایده‌ای دارد؟ کورتون، هیالورونیک اسید (ژل زانو)، PRP و سلول بنیادی: اثر، عوارض، فاصلهٔ تزریق‌ها و نظر راهنماها.",
-   "summary": "چهار درمان اصلی که با نام «تزریق زانو» انجام می‌شود کورتون، هیالورونیک اسید، PRP و سلول بنیادی است [7]. در آرتروز زانو (استئوآرتریت) تزریق کورتون می‌تواند درد را برای مدتی کوتاه کم کند؛ شواهدی وجود ندارد که اثر آن پس از شش ماه باقی بماند [2]. هیالورونیک اسید و PRP در مطالعات بزرگی که آنها را با دارونما مقایسه کرده‌اند برتریِ معناداری از نظر بالینی نشان نداده‌اند؛ دربارهٔ سلول بنیادی اطمینان به شواهد پایین است و راهنمای کالج روماتولوژی آمریکا (ACR) این سه تزریق را توصیه نمی‌کند [3][5][6][7].",
+   "description": "تزریق زانو چیست؟ کورتون، هیالورونیک اسید (ژل زانو)، PRP و سلول بنیادی: اثر، عوارض، فاصلهٔ تزریق‌ها، جایگاه در آرتروز مرحلهٔ پایانی و نظر راهنماها.",
+   "summary": "چهار درمان اصلی که با نام «تزریق زانو» انجام می‌شود کورتون، هیالورونیک اسید، PRP و سلول بنیادی است [7]. در آرتروز زانو (استئوآرتریت) تزریق کورتون می‌تواند درد را برای مدتی کوتاه کم کند [2]. جایگاه تزریق به مرحلهٔ بیماری بستگی دارد: بیانیه‌های اجماع ارتوپدی در اروپا PRP را در مرحلهٔ خفیف و متوسط (مرحلهٔ ۱ تا ۳) مناسب می‌دانند و در آرتروز زانوی مرحلهٔ پایانی (مرحلهٔ ۴) مناسب نمی‌دانند [8][9]. هیالورونیک اسید در مطالعات بزرگِ کنترل‌شده با دارونما فایده‌ای که از نظر بالینی معنادار باشد نشان نداده و دربارهٔ سلول بنیادی اطمینان به شواهد پایین است؛ راهنمای کالج روماتولوژی آمریکا (ACR) نیز بدون تفکیک مرحله، هیالورونیک اسید، PRP و سلول بنیادی را توصیه نمی‌کند [3][6][7].",
    "sections": [
     {
      "h": "تزریق زانو چیست و چه انواعی دارد؟",
@@ -455,6 +476,7 @@
      "p": [
       "برای PRP از فرد خون گرفته می‌شود؛ خون سانتریفیوژ می‌شود تا پلاکت‌ها جدا و تغلیظ شوند و سپس به ناحیهٔ مورد نظر تزریق می‌شوند. پلاکت‌ها عوامل رشدی دارند که در ترمیم اهمیت دارند [4].",
       "شواهد ناهمسو است. آکادمی جراحان ارتوپدی آمریکا (AAOS) بیان می‌کند که شمار مقاله‌هایی که اثربخشی PRP را در آرتروز خفیف و متوسط زانو نشان می‌دهند رو به افزایش است، اما پژوهش‌هایی که ادعاهای مطرح‌شده در رسانه‌ها را تأیید کنند کافی نیست [4]. در مقابل، در کارآزمایی کنترل‌شده با دارونمای RESTORE (۲۸۸ بیمار با آرتروز خفیف و متوسط)، PRP پس از ۱۲ ماه از نظر درد و حجم غضروف تفاوت معناداری با تزریق سرم نمکی نداشت [5].",
+      "در اینجا مرحلهٔ بیماری تعیین‌کننده است. بر اساس اجماع سال ۲۰۲۴ انجمن اروپایی تروماتولوژی ورزشی، جراحی زانو و آرتروسکوپی (ESSKA)، شواهد بالینی نشان می‌دهد که PRP در آرتروز خفیف و متوسط زانو (مرحلهٔ ۳ کلگرن–لارنس و پایین‌تر) مؤثر است؛ این اجماع PRP را عمدتاً برای مرحله‌های ۱ تا ۳ گزینه‌ای معتبر می‌داند [8]. در یک کارآزمایی تصادفی با ۱۶۲ بیمار در مرحله‌های گوناگون، در مرحلهٔ اولیه سه تزریق PRP در ماه ششم نتیجهٔ بهتری داد؛ اما در مرحلهٔ پیشرفته (مرحلهٔ ۴) افزایش تعداد تزریق‌ها نتیجه را به‌طور معناداری بهتر نکرد [10].",
       "در این منابع برنامهٔ مورد توافقی برای شمار جلسه‌ها نیامده است: در کارآزمایی RESTORE سه تزریق با فاصلهٔ یک هفته انجام شد [5]؛ ACR یادآور می‌شود که برای تهیهٔ PRP و روش‌های تزریق آن استانداردی وجود ندارد و از این رو دشوار است بدانیم دقیقاً چه چیزی تزریق می‌شود [7].",
       "درد محل تزریق ممکن است در یکی دو هفتهٔ نخست بیشتر شود و ممکن است چند هفته طول بکشد تا فایده‌ای احساس شود؛ به گفتهٔ AAOS به نظر می‌رسد میزان بروز مشکلاتی مانند عفونت، آسیب بافتی و آسیب عصب با آنچه در تزریق کورتون دیده می‌شود تفاوتی ندارد [4]."
      ]
@@ -468,10 +490,10 @@
      ]
     },
     {
-     "h": "راهنماها کدام تزریق را توصیه می‌کنند؟",
+     "h": "راهنماها چه می‌گویند؟ جایگاه تزریق بر اساس مرحلهٔ بیماری",
      "p": [
-      "راهنمای ACR در آرتروز زانو و لگن، ورزش و در افراد دارای اضافه‌وزن کاهش وزن را به‌طور قوی توصیه می‌کند [7]. در انگلستان، NICE تزریق هیالورونیک اسید را توصیه نمی‌کند؛ مرور BMJ گزارش می‌کند که بیشتر راهنماها از این تزریق پشتیبانی نمی‌کنند [3].",
-      "توصیه‌های ACR دربارهٔ تزریق‌ها چنین است [7]:"
+      "راهنماها و بیانیه‌های اجماع همه یک چیز نمی‌گویند؛ برخی از آنها توصیه را بر اساس مرحلهٔ بیماری می‌دهند. آرتروز زانو در عکس رادیولوژی با طبقه‌بندی کلگرن–لارنس از ۰ تا ۴ مرحله‌بندی می‌شود؛ مرحلهٔ ۴ مرحلهٔ پیشرفته، یعنی مرحلهٔ پایانی است [5][9][10]. اجماع مشترک ESSKA و انجمن بین‌المللی بازسازی غضروف و حفظ مفصل (ICRS)، PRP را در بیماران ۸۰ ساله و کمتر که در مرحلهٔ ۰ تا ۳ هستند و از درمان‌های غیرجراحی یا تزریق‌های دیگر نتیجهٔ کافی نگرفته‌اند مناسب می‌داند؛ اما آن را به‌عنوان نخستین درمان و در مرحلهٔ پایانی (مرحلهٔ ۴) مناسب نمی‌داند [9]. در آرتروز زانوی مرحلهٔ پایانی، هنگامی که درد با درمان‌های دیگر مهار نمی‌شود، درمانی که مطرح می‌شود تعویض مفصل زانو است [6]؛ این موضوع در نوشته‌ای جداگانه در همین راهنمای بیماران توضیح داده شده است.",
+      "راهنمای ACR (۲۰۱۹) میان مرحله‌ها تفاوتی نمی‌گذارد. در آرتروز زانو و لگن، ورزش و در افراد دارای اضافه‌وزن کاهش وزن را به‌طور قوی توصیه می‌کند؛ در انگلستان، NICE تزریق هیالورونیک اسید را توصیه نمی‌کند و مرور BMJ نیز گزارش می‌کند که بیشتر راهنماها از این تزریق پشتیبانی نمی‌کنند [3][7]. توصیه‌های ACR دربارهٔ تزریق‌ها چنین است [7]:"
      ],
      "list": [
       "تزریق کورتون: در آرتروز زانو و لگن به‌طور قوی و در آرتروز دست به‌طور مشروط توصیه می‌شود؛ در تزریق به مفصل لگن، هدایت با سونوگرافی به‌طور قوی توصیه می‌شود",
@@ -508,7 +530,7 @@
     },
     {
      "q": "آیا PRP برای زانو مفید است؟",
-     "a": "شواهد ناهمسو است. در کارآزمایی کنترل‌شده با دارونمای RESTORE، PRP پس از ۱۲ ماه بهتر از تزریق سرم نمکی نبود [5] و راهنمای ACR در آرتروز زانو PRP را توصیه نمی‌کند [7]؛ اما AAOS بیان می‌کند که شمار مقاله‌هایی که اثربخشی آن را در آرتروز خفیف و متوسط نشان می‌دهند رو به افزایش است [4]."
+     "a": "به مرحلهٔ بیماری بستگی دارد و شواهد ناهمسو است. بیانیه‌های اجماع ESSKA، PRP را در مرحلهٔ خفیف و متوسط (مرحلهٔ ۱ تا ۳) مناسب می‌دانند و در مرحلهٔ پایانی (مرحلهٔ ۴) مناسب نمی‌دانند [8][9]. در کارآزمایی کنترل‌شده با دارونمای RESTORE، PRP پس از ۱۲ ماه بهتر از تزریق سرم نمکی نبود [5]؛ راهنمای ACR نیز بدون تفکیک مرحله، PRP را توصیه نمی‌کند [7]."
     },
     {
      "q": "آیا درمان با سلول بنیادی برای زانو مفید است؟",

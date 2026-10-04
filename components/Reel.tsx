@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
-import { num, type Lang } from "@/lib/site";
+import { num, slow, type Lang } from "@/lib/site";
 
 export type ReelItem = { id: string; label: string; href?: string };
 type Labels = { prev: string; next: string; play: string; pause: string };
@@ -10,7 +10,7 @@ type Labels = { prev: string; next: string; play: string; pause: string };
  * A strip of short, silent, vertical clips that scrolls sideways.
  * A clip is fetched and played only while its card is on screen; with reduced motion nothing plays until asked.
  */
-export default function Reel({ items, labels, tone = "light", lang = "tr" }: { items: ReelItem[]; labels: Labels; tone?: "light" | "deep"; lang?: Lang }) {
+export default function Reel({ items, labels, tone = "light", lang = "tr", rate = 1 }: { items: ReelItem[]; labels: Labels; tone?: "light" | "deep"; lang?: Lang; rate?: number }) {
   const track = useRef<HTMLUListElement>(null);
   const [edge, setEdge] = useState({ start: true, end: false });
   const [still, setStill] = useState(false);
@@ -21,6 +21,7 @@ export default function Reel({ items, labels, tone = "light", lang = "tr" }: { i
     if (!el) return;
     const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     setStill(reduce);
+    const unslow = Array.from(el.querySelectorAll("video")).map((v) => slow(v, rate));
     // in a right-to-left page scrollLeft runs from 0 down to a negative number, so the distance is taken without its sign
     const onScroll = () => { const x = Math.abs(el.scrollLeft); setEdge({ start: x < 8, end: x + el.clientWidth > el.scrollWidth - 8 }); };
     onScroll();
@@ -37,8 +38,8 @@ export default function Reel({ items, labels, tone = "light", lang = "tr" }: { i
       }, { threshold: 0.55 });
       el.querySelectorAll("video").forEach((v) => io!.observe(v));
     }
-    return () => { el.removeEventListener("scroll", onScroll); window.removeEventListener("resize", onScroll); io?.disconnect(); };
-  }, []);
+    return () => { el.removeEventListener("scroll", onScroll); window.removeEventListener("resize", onScroll); io?.disconnect(); unslow.forEach((f) => f()); };
+  }, [rate]);
 
   const step = (dir: 1 | -1) => {
     const el = track.current;

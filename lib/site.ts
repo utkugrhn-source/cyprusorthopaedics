@@ -26,6 +26,16 @@ export const MAPS = "https://www.google.com/maps/search/?api=1&query=Dr.+Suat+G%
 export const DOCTORS_SEGMENT: Record<Lang, string> = { tr: "hekimler", en: "doctors", ru: "vrachi", fa: "pezeshkan" };
 /** Consultations are held in Turkish and English only; the Russian and Persian pages say so wherever an appointment is offered. */
 export const CONSULT_NOTE: Partial<Record<Lang, string>> = { ru: "Приём ведётся на турецком и английском языках.", fa: "معاینه و مشاوره به زبان‌های ترکی و انگلیسی انجام می‌شود." };
+/** Playback speed of the short clips (1 = as filmed). The 3D CT views and the hand-held phone clips move too fast at full speed; the hero film stays as it is. */
+export const CLIP_RATE = { plan: 0.6, route: 0.7, theatre: 0.75 } as const;
+/** Sets a clip's speed and keeps it: some browsers put the speed back to normal whenever the clip is loaded or restarted. */
+export function slow(v: HTMLVideoElement, rate: number) {
+  const set = () => { if (v.playbackRate !== rate) { v.defaultPlaybackRate = rate; v.playbackRate = rate; } };
+  set();
+  v.addEventListener("loadedmetadata", set);
+  v.addEventListener("play", set);
+  return () => { v.removeEventListener("loadedmetadata", set); v.removeEventListener("play", set); };
+}
 /** Each language's own name, for the language switcher. */
 export const LANG_NAME: Record<Lang, string> = { tr: "Türkçe", en: "English", ru: "Русский", fa: "فارسی" };
 /** Persian is written from right to left. */

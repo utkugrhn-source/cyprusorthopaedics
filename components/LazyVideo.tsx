@@ -1,11 +1,12 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
+import { slow } from "@/lib/site";
 
 /**
  * A silent loop that is fetched and played only while it is on screen, so it costs nothing until then.
  * Where the browser will not start it by itself (reduced motion, a phone in low-power mode), a play button appears instead and a tap starts it.
  */
-export default function LazyVideo({ src, poster, label, play, className }: { src: string; poster: string; label: string; play: string; className?: string }) {
+export default function LazyVideo({ src, poster, label, play, className, rate = 1 }: { src: string; poster: string; label: string; play: string; className?: string; rate?: number }) {
   const ref = useRef<HTMLVideoElement>(null);
   const [idle, setIdle] = useState(false);
   useEffect(() => {
@@ -13,13 +14,14 @@ export default function LazyVideo({ src, poster, label, play, className }: { src
     if (!v) return;
     const onPlay = () => setIdle(false);
     v.addEventListener("playing", onPlay);
-    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) { setIdle(true); return () => v.removeEventListener("playing", onPlay); }
+    const unslow = slow(v, rate);
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) { setIdle(true); return () => { unslow(); v.removeEventListener("playing", onPlay); }; }
     const io = new IntersectionObserver(([e]) => {
       if (e.isIntersecting) v.play().catch(() => setIdle(true)); else v.pause();
     }, { threshold: 0.35 });
     io.observe(v);
-    return () => { io.disconnect(); v.removeEventListener("playing", onPlay); };
-  }, []);
+    return () => { io.disconnect(); unslow(); v.removeEventListener("playing", onPlay); };
+  }, [rate]);
   return (
     <>
       {/* eslint-disable-next-line @next/next/no-img-element */}
