@@ -12,6 +12,7 @@ export const physician = (d: Doctor, lang: Lang) => ({
   honorificPrefix: d.title[lang],
   jobTitle: d.role[lang],
   medicalSpecialty: "Orthopedic",
+  ...(d.focus ? { knowsAbout: d.focus[lang] } : {}),
   url: `${SITE}/${lang}/${DOCTORS_SEGMENT[lang]}/${d.slug}`,
   ...(d.photo ? { image: `${SITE}${d.photo}` } : {}),
   ...(d.sameAs.length ? { sameAs: d.sameAs } : {}),

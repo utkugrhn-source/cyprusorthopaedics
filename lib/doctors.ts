@@ -93,6 +93,11 @@ export const doctors: Doctor[] = [
       tr: ["Türk Ortopedi ve Travmatoloji Birliği Derneği (TOTBİD)", "TOTBİD Ortopedik Travma Şubesi"],
       en: ["Turkish Society of Orthopaedics and Traumatology (TOTBİD)", "TOTBİD Orthopaedic Trauma Section"],
     },
+    // stated by Dr. Gürhan for the department on 4 Oct 2026 ("all of them"): the clinic's full range, in the site's own terms
+    focus: {
+      tr: ["Kırık ve travma", "Kalça ve diz protezi", "Artroskopik cerrahi (diz ve omuz)", "Omuz ve dirsek", "El ve el bileği", "Ayak ve ayak bileği", "Çocuk ortopedisi", "Kemik ve yumuşak doku tümörleri"],
+      en: ["Fractures and trauma", "Hip and knee replacement", "Arthroscopic surgery (knee and shoulder)", "Shoulder and elbow", "Hand and wrist", "Foot and ankle", "Children’s orthopaedics", "Bone and soft tissue tumours"],
+    },
     links: [{ label: "PubMed", href: "https://pubmed.ncbi.nlm.nih.gov/?term=Umur+FL%5BAuthor%5D+OR+Umur+LF%5BAuthor%5D" }],
     sameAs: ["https://hospital.kyrenia.edu.tr/doktor/fazli-levent-umur/", "https://orcid.org/0000-0003-4961-4508"],
   },
@@ -154,6 +159,11 @@ export const doctors: Doctor[] = [
     memberships: {
       tr: ["TOTEK Yeterlik Belgesi (TOTBİD–TOTEK, Ekim 2017 yeterlik sınavı)"],
       en: ["TOTEK board certification (Turkish Board of Orthopaedics and Traumatology, October 2017 examination)"],
+    },
+    // stated by Dr. Gürhan for the department on 4 Oct 2026 ("all of them"): the clinic's full range, in the site's own terms
+    focus: {
+      tr: ["Kırık ve travma", "Kalça ve diz protezi", "Artroskopik cerrahi (diz ve omuz)", "Omuz ve dirsek", "El ve el bileği", "Ayak ve ayak bileği", "Çocuk ortopedisi", "Kemik ve yumuşak doku tümörleri"],
+      en: ["Fractures and trauma", "Hip and knee replacement", "Arthroscopic surgery (knee and shoulder)", "Shoulder and elbow", "Hand and wrist", "Foot and ankle", "Children’s orthopaedics", "Bone and soft tissue tumours"],
     },
     links: [{ label: "PubMed", href: "https://pubmed.ncbi.nlm.nih.gov/?term=Sari+Enes%5BAuthor%5D" }],
     sameAs: ["https://orcid.org/0000-0003-2385-1732"],
