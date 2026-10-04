@@ -80,7 +80,7 @@ export const ui: Record<Lang, Ui> = {
     },
     doctors: {
       h: "Hekimlerimiz",
-      p: "Ameliyatları ve zor olguları birlikte değerlendiriyoruz.",
+      p: "Üç ortopedi uzmanından oluşan ekibimiz, değerlendirme ve tanıdan cerrahi ve cerrahi dışı tedavilere uzanan tüm süreçleri yakın iş birliği içinde yürütmektedir. Ortak bilgi ve deneyimimizle, her hastamız için en uygun tedavi yaklaşımını belirlemeyi ve en yüksek faydayı sağlamayı hedeflemekteyiz.",
       profile: "Özgeçmiş",
       photoPending: "Fotoğraf eklenecek",
     },
@@ -166,7 +166,7 @@ export const ui: Record<Lang, Ui> = {
     },
     doctors: {
       h: "Our doctors",
-      p: "We review operations and difficult cases together.",
+      p: "Our team of three orthopaedic surgeons works in close collaboration at every stage, from assessment and diagnosis to surgical and non-surgical treatment. Drawing on our shared knowledge and experience, we aim to find the most suitable treatment for each patient and to achieve the greatest benefit.",
       profile: "Profile",
       photoPending: "Photo to be added",
     },
