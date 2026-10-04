@@ -91,7 +91,7 @@ export const ui: Record<Lang, Ui> = {
       h: "Üniversite kliniği",
       p1: "Girne Üniversitesi Tıp Fakültesi’ne bağlı bir klinik: hasta bakımının yanında tıp öğrencilerinin eğitimi ve klinik araştırma.",
       p2: "Hakemli dergilerde yayımlanmış 50’den fazla makale. Yayın listeleri hekim sayfalarında.",
-      paperLead: "Ortak çalışmamız",
+      paperLead: "Çalışmalarımız",
       paper: "Gürhan U, Kahve Y, Sarı E, Umur FL. Composite graft survival in Allen zone II fingertip amputations: independent predictors of graft failure. Injury. 2026;57(10):113587.",
     },
     intl: {
@@ -176,7 +176,7 @@ export const ui: Record<Lang, Ui> = {
       h: "A university clinic",
       p1: "A clinic of the University of Kyrenia Faculty of Medicine: alongside patient care, the teaching of medical students and clinical research.",
       p2: "More than 50 articles published in peer-reviewed journals. The lists are on the doctors’ pages.",
-      paperLead: "A study we did together",
+      paperLead: "Our research",
       paper: "Gürhan U, Kahve Y, Sarı E, Umur FL. Composite graft survival in Allen zone II fingertip amputations: independent predictors of graft failure. Injury. 2026;57(10):113587.",
     },
     intl: {

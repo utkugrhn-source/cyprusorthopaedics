@@ -5,6 +5,7 @@ import JsonLd from "@/components/JsonLd";
 import Portrait from "@/components/Portrait";
 import Reel from "@/components/Reel";
 import LazyVideo from "@/components/LazyVideo";
+import Papers from "@/components/Papers";
 import { ui, type Lang, PHONE, PHONE_HREF, APPT, MAPS, DOCTORS_SEGMENT, SITE } from "@/lib/site";
 import { doctors } from "@/lib/doctors";
 import { areas, areaUrl } from "@/lib/areas";
@@ -25,6 +26,10 @@ export default function Home({ params }: { params: { lang: string } }) {
   // three-dimensional CT views filmed from the team's own screens, each pointing at its treatment area
   const plan = ([["bt-omuz", "omuz-dirsek"], ["bt-kol", "omuz-dirsek"], ["bt-el", "el-bilek"], ["bt-uyluk", "kirik-travma"], ["bt-diz", "diz"], ["bt-ayak", "ayak-bilek"], ["skopi", "kirik-travma"]] as const)
     .map(([id, area], i) => ({ id, label: t.plan.items[i], href: areaHref(area) }));
+  // the doctors' listed publications, taken in turn from each and without repeats, so the block shows a mix
+  const seen = new Set<string>();
+  const papers = Array.from({ length: Math.max(...doctors.map((d) => d.pubs.length)) }, (_, n) => [...doctors].reverse().map((d) => d.pubs[n]))
+    .flat().filter((x) => x && !seen.has(x.doi) && seen.add(x.doi)).map((x) => ({ text: `${x.a} ${x.t} ${x.j}`, doi: x.doi }));
   // the way in, filmed on a phone: campus, emergency, reception, theatre
   const route = (["kampus", "hastane", "acil", "ambulans", "karsilama", "koridor", "ekip", "mikroskop"] as const)
     .map((id, i) => ({ id, label: t.route.items[i] }));
@@ -171,7 +176,7 @@ export default function Home({ params }: { params: { lang: string } }) {
               <p className="lead mt-5">{t.uni.p2}</p>
               <div className="mt-10 border-l-[3px] border-turq pl-6">
                 <p className="small text-turq" style={{ fontWeight: 500 }}>{t.uni.paperLead}</p>
-                <p className="mt-2 max-w-[38em] text-[1rem] leading-relaxed text-white/90" style={{ fontWeight: 400 }}>{t.uni.paper} <a className="underline decoration-turq underline-offset-4 hover:text-turq" href="https://doi.org/10.1016/j.injury.2026.113587">doi:10.1016/j.injury.2026.113587</a></p>
+                <div className="mt-2"><Papers items={papers} /></div>
               </div>
             </div>
           </div>
