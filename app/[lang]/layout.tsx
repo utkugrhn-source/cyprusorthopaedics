@@ -28,7 +28,7 @@ export default function LangLayout({ children, params }: { children: React.React
       <body>
         <Motion />
         {children}
-        <WhatsApp number={WHATSAPP} {...WHATSAPP_UI[params.lang as Lang]} />
+        <WhatsApp number={WHATSAPP} t={WHATSAPP_UI[params.lang as Lang]} source="cyprusorthopaedics.com" />
       </body>
     </html>
   );

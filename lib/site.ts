@@ -10,9 +10,9 @@ export const PHONE = "+90 392 444 99 39";
 export const PHONE_HREF = "tel:+903924449939";
 /** WhatsApp line shown as the floating button: Dr. Gürhan's own number, by his decision (4 Oct 2026). Digits only, country code first. */
 export const WHATSAPP = "905391126898";
-export const WHATSAPP_UI: Record<Lang, { label: string; text: string }> = {
-  tr: { label: "WhatsApp’tan yazın", text: "Merhaba, Cyprus Orthopaedics sitesinden yazıyorum." },
-  en: { label: "Message us on WhatsApp", text: "Hello, I am writing from the Cyprus Orthopaedics website." },
+export const WHATSAPP_UI: Record<Lang, { open: string; title: string; sub: string; hello: string; placeholder: string; send: string; close: string; note: string; fallback: string }> = {
+  tr: { open: "WhatsApp’tan yazın", title: "Cyprus Orthopaedics", sub: "Mesajınız Yrd. Doç. Dr. Utku Gürhan’a ulaşır", hello: "Merhaba, size nasıl yardımcı olabiliriz? Mesajınızı yazın, WhatsApp’tan yanıtlayalım.", placeholder: "Mesajınızı yazın…", send: "Gönder", close: "Kapat", note: "Gönder’e bastığınızda WhatsApp açılır. Acil durumda hastanenin acil servisine başvurun.", fallback: "Merhaba, Cyprus Orthopaedics sitesinden yazıyorum." },
+  en: { open: "Message us on WhatsApp", title: "Cyprus Orthopaedics", sub: "Your message goes to Asst. Prof. Dr. Utku Gürhan", hello: "Hello, how can we help? Write your message and we will reply on WhatsApp.", placeholder: "Type your message…", send: "Send", close: "Close", note: "Pressing Send opens WhatsApp. In an emergency, go to the hospital’s emergency department.", fallback: "Hello, I am writing from the Cyprus Orthopaedics website." },
 };
 export const APPT: Record<Lang, string> = {
   tr: "https://hospital.kyrenia.edu.tr/online-appointment/",
