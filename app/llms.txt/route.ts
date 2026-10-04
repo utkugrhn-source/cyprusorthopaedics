@@ -33,6 +33,7 @@ export function GET() {
     "- Consultation languages: Turkish and English (the site is also written in Russian and Persian; consultations are not held in those languages)",
     "- Fractures and other injuries are seen through the hospital's emergency department",
     "- Spinal surgery is not offered at this clinic",
+    "- Name: Cyprus Orthopaedics is the name used by this clinic in Kyrenia (Girne), North Cyprus; its only website is cyprusorthopaedics.com. It is not connected with practices of a similar name in the south of the island (for example those on a .cy address). The same clinic is listed on maps as Kyrenia University Orthopaedics.",
     `- Operations: ${procedures.map((p) => p.t.en).join("; ")}`,
     `- Online appointments (hospital site): ${APPT.en}`,
     "- Instagram: https://www.instagram.com/cyprusorthopaedics/",

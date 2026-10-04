@@ -27,6 +27,7 @@ export default function JsonLd({ lang, doctor }: { lang: Lang; doctor?: Doctor }
     "@id": `${SITE}/#clinic`,
     name: "Cyprus Orthopaedics",
     alternateName: ["Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı", "University of Kyrenia Faculty of Medicine, Department of Orthopaedics and Traumatology", "Kyrenia University Orthopaedics"],
+    disambiguatingDescription: "Orthopaedics and trauma clinic of the University of Kyrenia Faculty of Medicine at Dr. Suat Günsel University of Kyrenia Hospital, Kyrenia (Girne), North Cyprus. Not connected with practices of a similar name in the south of Cyprus.",
     medicalSpecialty: "Orthopedic",
     url: SITE,
     description: ui[lang].meta.desc,

@@ -19,7 +19,7 @@ export function faq(lang: Lang): FaqItem[] {
   const upper = (s: string) => s.charAt(0).toLocaleUpperCase(locale) + s.slice(1);
   const ruNames = names.map((n, i) => (i ? lower(n) : upper(n)));
   if (lang === "tr") return [
-    { q: "Cyprus Orthopaedics nerede?", a: "Girne’de, Karakum’daki Dr. Suat Günsel Girne Üniversitesi Hastanesi’nin içinde. Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı’nın kliniğidir. Ercan Havalimanı’ndan arabayla yaklaşık 45 dakika sürer." },
+    { q: "Cyprus Orthopaedics nerede?", a: "Girne’de, Karakum’daki Dr. Suat Günsel Girne Üniversitesi Hastanesi’nin içinde. Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı’nın kliniğidir. Ercan Havalimanı’ndan arabayla yaklaşık 45 dakika sürer. Adanın güneyinde benzer adla çalışan muayenehanelerle bir bağlantısı yoktur." },
     { q: "Nasıl randevu alınır?", a: `Hastane santralini (${PHONE}) arayıp Ortopedi ve Travmatoloji polikliniğini isteyin ya da hastanenin online randevu sayfasını kullanın.` },
     { q: "Klinikte hangi hekimler var?", a: `${names.slice(0, -1).join(", ")} ve ${names[names.length - 1]}. Hepsi ortopedi ve travmatoloji uzmanı ve Girne Üniversitesi Tıp Fakültesi öğretim üyesidir.` },
     { q: "Hangi ameliyatlar yapılıyor?", a: `${ops.slice(0, -1).map((x, i) => (i ? lower(x) : x)).join(", ")} ve ${lower(ops[ops.length - 1])}. Çoğu sorun ameliyatsız tedavi edilir; ameliyat gerekirse aynı hastanede yapılır.` },
@@ -29,7 +29,7 @@ export function faq(lang: Lang): FaqItem[] {
     { q: "Yurt dışından gelen hastalar için ne gerekiyor?", a: "Muayene ve görüşmeler Türkçe ve İngilizce yapılıyor. Elinizdeki röntgen, MR ve raporları ilk muayeneye getirin." },
   ];
   if (lang === "ru") return [
-    { q: "Где находится Cyprus Orthopaedics?", a: "В Кирении (Гирне), Северный Кипр, в Университетской больнице им. д-ра Суата Гюнселя в районе Каракум. Это клиника кафедры ортопедии и травматологии медицинского факультета Университета Кирении. Дорога от аэропорта Эрджан на автомобиле занимает около 45 минут." },
+    { q: "Где находится Cyprus Orthopaedics?", a: "В Кирении (Гирне), Северный Кипр, в Университетской больнице им. д-ра Суата Гюнселя в районе Каракум. Это клиника кафедры ортопедии и травматологии медицинского факультета Университета Кирении. Дорога от аэропорта Эрджан на автомобиле занимает около 45 минут. Клиника не связана с частными практиками с похожим названием на юге острова." },
     { q: "Как записаться на приём?", a: `Позвоните в справочную больницы (${PHONE}) и попросите соединить вас с отделением ортопедии и травматологии либо воспользуйтесь страницей онлайн-записи на сайте больницы.` },
     { q: "Какие врачи работают в клинике?", a: `${ruNames.slice(0, -1).join(", ")} и ${ruNames[ruNames.length - 1]}. Все они — ортопеды-травматологи и преподаватели медицинского факультета Университета Кирении.` },
     { q: "Какие операции выполняются?", a: `${ops.slice(0, -1).map((x, i) => (i ? lower(x) : x)).join(", ")} и ${lower(ops[ops.length - 1])}. Большинство проблем лечится без операции; если операция необходима, она выполняется в этой же больнице.` },
@@ -40,7 +40,7 @@ export function faq(lang: Lang): FaqItem[] {
   ];
   // the phone number sits inside a left-to-right isolate (U+2066 … U+2069), otherwise its groups would be laid out right to left
   if (lang === "fa") return [
-    { q: "Cyprus Orthopaedics کجاست؟", a: "در گیرنه (کایرنیا)، قبرس شمالی، داخل بیمارستان دانشگاهی دکتر سوات گونسل در محلهٔ کاراکوم. این مرکز کلینیک گروه ارتوپدی و تروماتولوژی دانشکدهٔ پزشکی دانشگاه گیرنه است. از فرودگاه ارجان با خودرو حدود ۴۵ دقیقه راه است." },
+    { q: "Cyprus Orthopaedics کجاست؟", a: "در گیرنه (کایرنیا)، قبرس شمالی، داخل بیمارستان دانشگاهی دکتر سوات گونسل در محلهٔ کاراکوم. این مرکز کلینیک گروه ارتوپدی و تروماتولوژی دانشکدهٔ پزشکی دانشگاه گیرنه است. از فرودگاه ارجان با خودرو حدود ۴۵ دقیقه راه است. این کلینیک با مطب‌هایی که در جنوب جزیره با نامی مشابه فعالیت می‌کنند ارتباطی ندارد." },
     { q: "چگونه نوبت بگیرم؟", a: `با تلفن مرکزی بیمارستان (\u2066${PHONE}\u2069) تماس بگیرید و درمانگاه ارتوپدی و تروماتولوژی را بخواهید، یا از صفحهٔ نوبت‌دهی اینترنتی بیمارستان استفاده کنید.` },
     { q: "چه پزشکانی در کلینیک هستند؟", a: `${names.slice(0, -1).join("، ")} و ${names[names.length - 1]}. همگی متخصص ارتوپدی و تروماتولوژی و عضو هیئت علمی دانشکدهٔ پزشکی دانشگاه گیرنه هستند.` },
     { q: "چه جراحی‌هایی انجام می‌شود؟", a: `${ops.slice(0, -1).map((x, i) => (i ? lower(x) : x)).join("، ")} و ${lower(ops[ops.length - 1])}. بیشتر مشکلات بدون جراحی درمان می‌شود؛ اگر جراحی لازم باشد، در همین بیمارستان انجام می‌شود.` },
@@ -50,7 +50,7 @@ export function faq(lang: Lang): FaqItem[] {
     { q: "بیمارانی که از خارج می‌آیند به چه چیزی نیاز دارند؟", a: "معاینه و مشاوره به زبان‌های ترکی و انگلیسی انجام می‌شود. عکس‌های رادیولوژی، ام‌آرآی و گزارش‌هایی را که دارید در نخستین معاینه همراه بیاورید." },
   ];
   return [
-    { q: "Where is Cyprus Orthopaedics?", a: "In Kyrenia (Girne), North Cyprus, inside Dr. Suat Günsel University of Kyrenia Hospital in the Karakum district. It is the clinic of the University of Kyrenia Faculty of Medicine, Department of Orthopaedics and Traumatology. Ercan Airport is about 45 minutes away by car." },
+    { q: "Where is Cyprus Orthopaedics?", a: "In Kyrenia (Girne), North Cyprus, inside Dr. Suat Günsel University of Kyrenia Hospital in the Karakum district. It is the clinic of the University of Kyrenia Faculty of Medicine, Department of Orthopaedics and Traumatology. Ercan Airport is about 45 minutes away by car. It has no connection with practices of a similar name in the south of the island." },
     { q: "How do I make an appointment?", a: `Call the hospital switchboard (${PHONE}) and ask for the Orthopaedics and Traumatology clinic, or use the hospital’s online appointment page.` },
     { q: "Which doctors work at the clinic?", a: `${names.slice(0, -1).join(", ")} and ${names[names.length - 1]}. All are orthopaedic and trauma surgeons and members of the University of Kyrenia Faculty of Medicine.` },
     { q: "Which operations are done?", a: `${ops.slice(0, -1).map((x, i) => (i ? lower(x) : x)).join(", ")} and ${lower(ops[ops.length - 1])}. Most problems are treated without surgery; when an operation is needed it is done in the same hospital.` },
