@@ -5,7 +5,7 @@ export const SITE = "https://www.cyprusorthopaedics.com";
 export const PREVIEW = false;
 /** Search Console and Bing Webmaster ownership codes (the content value of the meta tag each tool gives). Empty until supplied. */
 export const GOOGLE_VERIFY = "";
-export const BING_VERIFY = "";
+export const BING_VERIFY = "1F3C90711822CA94E61DD635AA56A0C1";
 export const PHONE = "+90 392 444 99 39";
 export const PHONE_HREF = "tel:+903924449939";
 /** WhatsApp line shown as the floating button: Dr. Gürhan's own number, by his decision (4 Oct 2026). Digits only, country code first. */
