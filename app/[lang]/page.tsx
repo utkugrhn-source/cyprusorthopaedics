@@ -6,6 +6,7 @@ import Portrait from "@/components/Portrait";
 import Reel from "@/components/Reel";
 import LazyVideo from "@/components/LazyVideo";
 import Papers from "@/components/Papers";
+import { JOURNAL_COVERS } from "@/lib/journals";
 import { ui, type Lang, PHONE, PHONE_HREF, APPT, MAPS, DOCTORS_SEGMENT, SITE } from "@/lib/site";
 import { doctors } from "@/lib/doctors";
 import { areas, areaUrl } from "@/lib/areas";
@@ -29,7 +30,7 @@ export default function Home({ params }: { params: { lang: string } }) {
   // the doctors' listed publications, taken in turn from each and without repeats, so the block shows a mix
   const seen = new Set<string>();
   const papers = Array.from({ length: Math.max(...doctors.map((d) => d.pubs.length)) }, (_, n) => [...doctors].reverse().map((d) => d.pubs[n]))
-    .flat().filter((x) => x && !seen.has(x.doi) && seen.add(x.doi)).map((x) => ({ text: `${x.a} ${x.t} ${x.j}`, doi: x.doi, journal: x.j.split(/\.\s*\d{4}/)[0], year: x.j.match(/\d{4}/)?.[0] ?? "" }));
+    .flat().filter((x) => x && !seen.has(x.doi) && seen.add(x.doi)).map((x) => { const journal = x.j.split(/\.\s*\d{4}/)[0]; return { text: `${x.a} ${x.t} ${x.j}`, doi: x.doi, journal, year: x.j.match(/\d{4}/)?.[0] ?? "", cover: JOURNAL_COVERS[journal] }; });
   // the way in, filmed on a phone: campus, emergency, reception, theatre
   const route = (["kampus", "hastane", "acil", "ambulans", "karsilama", "koridor", "ekip", "mikroskop"] as const)
     .map((id, i) => ({ id, label: t.route.items[i] }));

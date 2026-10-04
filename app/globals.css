@@ -121,5 +121,7 @@ body { @apply bg-white text-deep font-sans antialiased; font-weight: 300; overfl
 .jtile { flex: none; display: flex; flex-direction: column; justify-content: space-between; width: 4.5rem; aspect-ratio: 3 / 4; padding: .55rem .5rem .5rem; border-radius: .4rem; background: linear-gradient(160deg, rgba(0,173,181,.28), rgba(0,173,181,.08)); border: 1px solid rgba(255,255,255,.22); border-top: 4px solid #00ADB5; }
 .jtile-name { font-family: "Cormorant Garamond", Georgia, serif; font-weight: 600; font-size: .86rem; line-height: 1.08; color: #fff; overflow-wrap: anywhere; }
 .jtile-year { font-size: .66rem; font-weight: 500; letter-spacing: .06em; color: #00ADB5; }
+.jcover { flex: none; width: 4.5rem; height: auto; aspect-ratio: 3 / 4; object-fit: cover; object-position: top; border-radius: .3rem; background: #fff; box-shadow: 0 6px 18px rgba(0,0,0,.28); }
+@media (min-width: 768px) { .jcover { width: 5.25rem; } }
 @media (min-width: 768px) { .jtile { width: 5.25rem; } .jtile-name { font-size: .95rem; } }
 @media (prefers-reduced-motion: reduce) { .paper, .paper[data-on="1"] { transition: none; } }
