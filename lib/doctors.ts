@@ -94,7 +94,7 @@ export const doctors: Doctor[] = [
       en: ["Turkish Society of Orthopaedics and Traumatology (TOTBİD)", "TOTBİD Orthopaedic Trauma Section"],
     },
     links: [{ label: "PubMed", href: "https://pubmed.ncbi.nlm.nih.gov/?term=Umur+FL%5BAuthor%5D+OR+Umur+LF%5BAuthor%5D" }],
-    sameAs: ["https://hospital.kyrenia.edu.tr/doktor/fazli-levent-umur/"],
+    sameAs: ["https://hospital.kyrenia.edu.tr/doktor/fazli-levent-umur/", "https://orcid.org/0000-0003-4961-4508"],
   },
   {
     id: "sari",
@@ -156,7 +156,7 @@ export const doctors: Doctor[] = [
       en: ["TOTEK board certification (Turkish Board of Orthopaedics and Traumatology, October 2017 examination)"],
     },
     links: [{ label: "PubMed", href: "https://pubmed.ncbi.nlm.nih.gov/?term=Sari+Enes%5BAuthor%5D" }],
-    sameAs: [],
+    sameAs: ["https://orcid.org/0000-0003-2385-1732"],
   },
   {
     id: "gurhan",

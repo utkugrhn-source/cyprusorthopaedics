@@ -1,7 +1,8 @@
 import type { Lang } from "./site";
 
 type L = Record<Lang, string>;
-export type Condition = { n: string; d: string; more?: L };
+/** `guide` is the id of one of the clinic's own patient-guide articles; `more` is an article on Dr. Gürhan's personal site. */
+export type Condition = { n: string; d: string; more?: L; guide?: string };
 export type Area = {
   id: string;
   slug: L;
@@ -11,6 +12,9 @@ export type Area = {
   urgent: Record<Lang, string[]>;
   /** Replaces the default "go to the emergency department" note where that advice would be wrong. */
   urgentNote?: L;
+  /** A page about a way of operating rather than a body region: changes the list heading and the structured-data type. */
+  kind?: "procedure";
+  listTitle?: L;
 };
 
 export const AREAS_SEGMENT: Record<Lang, string> = { tr: "tedavi", en: "treatments" };
@@ -67,7 +71,9 @@ export const areas: Area[] = [
         { n: "Ganglion kisti", d: "El bileğinde ya da parmakta, eklem veya tendon kılıfından kaynaklanan içi sıvı dolu şişliktir. Şikâyet yapmıyorsa izlenir; ağrı ya da hareket kısıtlılığı yapıyorsa çıkarılabilir.", more: art("ganglion-kisti", "ganglion-cyst") },
         { n: "El bileği kırığı", d: "En sık düşme sonrası görülür. Kayma azsa alçı, eklem yüzü bozulmuşsa ya da kırık dengesizse plak ve vidayla tespit uygulanır.", more: art("el-bilegi-kirigi-distal-radius", "broken-wrist-distal-radius-fracture") },
         { n: "Tendon ve sinir kesileri", d: "Cam ve bıçak gibi kesici yaralanmalardan sonra parmağı hareket ettirememe ya da uyuşma, tendon veya sinir kesisini düşündürür. Onarım erken dönemde yapıldığında sonuç daha iyidir.", more: art("elde-tendon-ve-sinir-yaralanmalari", "hand-tendon-nerve-injuries") },
+        { n: "Replantasyon (kopan parmağın ya da elin yerine dikilmesi)", d: "Kopan parmak ya da el; kemik, tendon, damar ve sinirleri mikroskop altında tek tek onarılarak yerine dikilir. Zamana karşı yapılan bir ameliyattır; uygun olup olmadığı yaralanmanın tipine, kopan parçanın durumuna ve geçen süreye göre değerlendirilir." },
         { n: "Parmak ucu yaralanmaları", d: "Ezilme ve kopmalarda tırnak yatağı onarımı, doku nakli ya da uygun olgularda kopan parçanın yerine dikilmesi değerlendirilir." },
+        { n: "Tırnak problemleri", d: "Tırnak yatağı yaralanmaları, tırnak çevresi iltihabı (dolama), tırnak batması ve yaralanma sonrası tırnak şekil bozukluklarını kapsar. Tedavi, sorunun türüne göre pansuman ve ilaçtan küçük bir cerrahi girişime kadar değişir." },
       ],
       en: [
         { n: "Carpal tunnel syndrome", d: "Compression of the median nerve at the wrist, causing numbness in the thumb, index and middle fingers and tingling that wakes you at night. Mild cases are treated with a night splint and injection; advanced cases with release of the nerve.", more: art("karpal-tunel-sendromu", "carpal-tunnel-syndrome") },
@@ -76,7 +82,9 @@ export const areas: Area[] = [
         { n: "Ganglion cyst", d: "A fluid-filled swelling at the wrist or finger arising from a joint or tendon sheath. If it causes no trouble it is observed; if it causes pain or limits movement it can be removed.", more: art("ganglion-kisti", "ganglion-cyst") },
         { n: "Wrist fracture", d: "Most often follows a fall. A cast is used when displacement is slight; plate and screw fixation when the joint surface is disrupted or the fracture is unstable.", more: art("el-bilegi-kirigi-distal-radius", "broken-wrist-distal-radius-fracture") },
         { n: "Tendon and nerve lacerations", d: "After a cut from glass or a knife, being unable to move a finger, or numbness, suggests a divided tendon or nerve. Results are better when repair is done early.", more: art("elde-tendon-ve-sinir-yaralanmalari", "hand-tendon-nerve-injuries") },
+        { n: "Replantation (reattaching a severed finger or hand)", d: "A severed finger or hand is reattached by repairing the bone, tendons, vessels and nerves one by one under the microscope. It is surgery against the clock; whether it is suitable depends on the type of injury, the condition of the severed part and the time elapsed." },
         { n: "Fingertip injuries", d: "In crush injuries and amputations, the options are nail-bed repair, tissue cover or, in suitable cases, reattachment of the severed part." },
+        { n: "Nail problems", d: "These include nail-bed injuries, infection around the nail (paronychia), ingrown nails and nail deformity after injury. Depending on the problem, treatment ranges from dressings and medication to a minor procedure." },
       ],
     },
     urgent: {
@@ -163,6 +171,37 @@ export const areas: Area[] = [
     urgent: {
       tr: ["Burkulma sonrası dört adım atamama ya da kemik üzerinde belirgin ağrı", "Topuk arkasında ani ağrı ve parmak ucunda yükselememe", "Ayakta şekil bozukluğu ya da açık yara ile birlikte yaralanma"],
       en: ["Being unable to take four steps after a sprain, or marked tenderness over the bone", "Sudden pain behind the heel and inability to rise on tiptoe", "An injury with deformity of the foot or an open wound"],
+    },
+  },
+  {
+    id: "artroskopi",
+    kind: "procedure",
+    slug: { tr: "artroskopik-cerrahi", en: "arthroscopic-surgery" },
+    title: { tr: "Artroskopik cerrahi (kapalı eklem ameliyatı)", en: "Arthroscopic surgery (keyhole joint surgery)" },
+    lead: {
+      tr: "Artroskopi, eklemin içine birkaç milimetrelik kesilerden yerleştirilen kamera ve ince aletlerle yapılan ameliyattır; halk arasında kapalı ameliyat olarak bilinir. En sık dizde ve omuzda; menisküs, bağ ve tendon sorunlarında uyguluyoruz.",
+      en: "Arthroscopy is surgery carried out inside a joint with a camera and fine instruments passed through cuts a few millimetres long; it is often called keyhole surgery. We use it most in the knee and the shoulder, for meniscus, ligament and tendon problems.",
+    },
+    listTitle: { tr: "Artroskopiyle yaptığımız ameliyatlar", en: "Operations we do arthroscopically" },
+    conditions: {
+      tr: [
+        { n: "Diz artroskopisi: menisküs ameliyatı", d: "Yırtık menisküs, yırtığın yerine ve tipine göre dikilir ya da hasarlı bölümü alınır. Her menisküs yırtığı ameliyat gerektirmez; karar şikâyete, muayeneye ve MR bulgusuna göre verilir.", guide: "meniscus-clinic" },
+        { n: "Ön çapraz bağ ameliyatı", d: "Kopan bağın yerine, çoğunlukla hastanın kendi tendonundan hazırlanan greft kamera eşliğinde yerleştirilir. Ameliyat sonrası fizik tedavi sonucun önemli bir parçasıdır.", guide: "acl-tear-clinic" },
+        { n: "Omuz artroskopisi: rotator manşet onarımı", d: "Yırtılan tendon, kemiğe yerleştirilen dikiş çapalarıyla yerine tespit edilir. Onarım kararı yırtığın büyüklüğüne, yaşa ve şikâyete göre verilir.", guide: "rotator-cuff-clinic" },
+        { n: "Omuz çıkığı ameliyatı (stabilizasyon)", d: "Tekrarlayan omuz çıkıklarında, yırtılan labrum ve eklem kapsülü dikiş çapalarıyla kemiğe yeniden tutturulur.", guide: "shoulder-dislocation-clinic" },
+        { n: "Açık ameliyattan farkı", d: "Kesiler küçük olduğu için ameliyat sonrası ağrı ve hastanede kalış süresi açık ameliyata göre genellikle daha azdır; eklemin içindeki yapılar kamera görüntüsünde büyütülerek değerlendirilir. İyileşme süresi yapılan işleme göre değişir: dikiş ya da bağ onarımı yapıldıysa koruma dönemi daha uzundur." },
+      ],
+      en: [
+        { n: "Knee arthroscopy: meniscus surgery", d: "A torn meniscus is either stitched or has its damaged part removed, depending on where and how it is torn. Not every meniscal tear needs surgery; the decision rests on the symptoms, the examination and the MRI findings.", guide: "meniscus-clinic" },
+        { n: "Anterior cruciate ligament reconstruction", d: "The torn ligament is replaced with a graft, usually prepared from the patient’s own tendon, placed under camera view. Physiotherapy after the operation is an important part of the result.", guide: "acl-tear-clinic" },
+        { n: "Shoulder arthroscopy: rotator cuff repair", d: "The torn tendon is fixed back to the bone with suture anchors. Whether to repair depends on the size of the tear, age and symptoms.", guide: "rotator-cuff-clinic" },
+        { n: "Shoulder stabilisation for dislocation", d: "For recurrent shoulder dislocation, the torn labrum and joint capsule are reattached to the bone with suture anchors.", guide: "shoulder-dislocation-clinic" },
+        { n: "How it differs from open surgery", d: "Because the cuts are small, pain after the operation and the hospital stay are generally less than with open surgery, and the structures inside the joint are assessed magnified on the camera image. Recovery time depends on what was done: after a stitched repair or a ligament reconstruction the period of protection is longer." },
+      ],
+    },
+    urgent: {
+      tr: ["Ameliyat sonrası artan ağrı, şişlik, kızarıklık, yara yerinden akıntı ya da ateş", "Baldırda ağrı, şişlik ve gerginlik", "Düşme ya da burkulma sonrası dizin kilitlenmesi ve tam açılamaması", "Omzun yerinden çıktığından şüphelenilmesi"],
+      en: ["Increasing pain, swelling, redness, discharge from the wound or fever after the operation", "Pain, swelling and tightness in the calf", "A knee that locks and will not straighten fully after a fall or twist", "A shoulder you suspect has dislocated"],
     },
   },
   {
@@ -264,8 +303,8 @@ export const areaSeo: Record<string, { title: L; desc: L }> = {
     desc: { tr: "Girne’de omuz ve dirsek tedavisi: rotator manşet yırtığı, omuz çıkığı, donuk omuz, tenisçi dirseği ve kırıklar. Çoğu şikâyet ameliyatsız düzelir.", en: "Shoulder and elbow care in Kyrenia: rotator cuff tears, shoulder dislocation, frozen shoulder, tennis elbow and fractures. Most improve without surgery." },
   },
   "el-bilek": {
-    title: { tr: "El ve el bileği cerrahisi", en: "Hand and wrist surgery" },
-    desc: { tr: "Girne’de el cerrahisi: karpal tünel, tetik parmak, ganglion kisti, el bileği kırığı, tendon ve sinir kesileri, parmak ucu yaralanmaları. Mikrocerrahi onarım.", en: "Hand surgery in Kyrenia: carpal tunnel, trigger finger, ganglion cyst, wrist fracture, tendon and nerve lacerations, fingertip injuries. Microsurgical repair." },
+    title: { tr: "El cerrahisi ve mikrocerrahi", en: "Hand surgery and microsurgery" },
+    desc: { tr: "Girne’de el cerrahisi: karpal tünel, tetik parmak, el bileği kırığı, tendon ve sinir kesileri, replantasyon (kopan parmağın dikilmesi), tırnak problemleri.", en: "Hand surgery in Kyrenia: carpal tunnel, trigger finger, wrist fracture, tendon and nerve repair, replantation of severed fingers, nail problems." },
   },
   kalca: {
     title: { tr: "Kalça ağrısı, kalça kırığı ve kalça protezi", en: "Hip pain, hip fracture and hip replacement" },
@@ -278,6 +317,10 @@ export const areaSeo: Record<string, { title: L; desc: L }> = {
   "ayak-bilek": {
     title: { tr: "Ayak ve ayak bileği: burkulma, kırık, halluks valgus", en: "Foot and ankle: sprains, fractures and bunions" },
     desc: { tr: "Girne’de ayak ve ayak bileği tedavisi: ayak bileği burkulması ve kırığı, halluks valgus (başparmak çıkıntısı) ve Aşil tendonu sorunları.", en: "Foot and ankle care in Kyrenia: ankle sprains and fractures, hallux valgus (bunion) and Achilles tendon problems." },
+  },
+  artroskopi: {
+    title: { tr: "Artroskopi (kapalı eklem ameliyatı): diz ve omuz", en: "Arthroscopy (keyhole surgery): knee and shoulder" },
+    desc: { tr: "Girne’de artroskopik cerrahi (kapalı ameliyat): menisküs ameliyatı, ön çapraz bağ ameliyatı, rotator manşet onarımı ve omuz çıkığı ameliyatı.", en: "Arthroscopic (keyhole) surgery in Kyrenia: meniscus surgery, ACL reconstruction, rotator cuff repair and shoulder stabilisation." },
   },
   "kirik-travma": {
     title: { tr: "Kırık ve travma tedavisi", en: "Fracture and trauma care" },
@@ -301,7 +344,7 @@ export const areaUi: Record<Lang, { back: string; conditions: string; more: stri
     urgent: "Beklemeden başvurulması gereken durumlar",
     urgentNote: "Bu durumlarda randevu beklemeyin; en yakın acil servise gidin.",
     doctors: "Hekimlerimiz",
-    doctorsP: "Üç ortopedi ve travmatoloji uzmanıyız. Ameliyatları ve zor olguları birlikte değerlendiriyoruz.",
+    doctorsP: "Ameliyatları ve zor olguları birlikte değerlendiriyoruz.",
     others: "Diğer tedavi alanları",
     disclaimer: "Bu sayfa genel bilgi içindir; tanı ve tedavi muayenede belirlenir.",
     updated: "Son güncelleme",
@@ -315,7 +358,7 @@ export const areaUi: Record<Lang, { back: string; conditions: string; more: stri
     urgent: "When to be seen without waiting",
     urgentNote: "In these situations do not wait for an appointment; go to the nearest emergency department.",
     doctors: "Our doctors",
-    doctorsP: "We are three orthopaedic and trauma surgeons. We review operations and difficult cases together.",
+    doctorsP: "We review operations and difficult cases together.",
     others: "Other areas",
     disclaimer: "This page is general information; diagnosis and treatment are decided at examination.",
     updated: "Last updated",
@@ -331,8 +374,8 @@ export const procedures: { t: L; area: string }[] = [
   { t: { tr: "Kalça protezi", en: "Hip replacement" }, area: "kalca" },
   { t: { tr: "Ön çapraz bağ ameliyatı", en: "ACL reconstruction" }, area: "diz" },
   { t: { tr: "Menisküs ameliyatı", en: "Meniscus surgery" }, area: "diz" },
-  { t: { tr: "Diz artroskopisi", en: "Knee arthroscopy" }, area: "diz" },
-  { t: { tr: "Omuz artroskopisi", en: "Shoulder arthroscopy" }, area: "omuz-dirsek" },
+  { t: { tr: "Diz artroskopisi", en: "Knee arthroscopy" }, area: "artroskopi" },
+  { t: { tr: "Omuz artroskopisi", en: "Shoulder arthroscopy" }, area: "artroskopi" },
   { t: { tr: "Rotator manşet onarımı", en: "Rotator cuff repair" }, area: "omuz-dirsek" },
   { t: { tr: "Omuz çıkığı ameliyatı", en: "Shoulder stabilisation" }, area: "omuz-dirsek" },
   { t: { tr: "Kırık ameliyatları", en: "Fracture surgery" }, area: "kirik-travma" },
@@ -342,6 +385,7 @@ export const procedures: { t: L; area: string }[] = [
   { t: { tr: "Tetik parmak ameliyatı", en: "Trigger finger release" }, area: "el-bilek" },
   { t: { tr: "Tendon ve sinir onarımı", en: "Tendon and nerve repair" }, area: "el-bilek" },
   { t: { tr: "Parmak ucu onarımı", en: "Fingertip reconstruction" }, area: "el-bilek" },
+  { t: { tr: "Replantasyon", en: "Replantation" }, area: "el-bilek" },
   { t: { tr: "Ayak bileği kırığı ameliyatı", en: "Ankle fracture fixation" }, area: "ayak-bilek" },
   { t: { tr: "Halluks valgus ameliyatı", en: "Bunion surgery" }, area: "ayak-bilek" },
   { t: { tr: "Aşil tendonu onarımı", en: "Achilles tendon repair" }, area: "ayak-bilek" },

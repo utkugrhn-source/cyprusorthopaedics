@@ -1,7 +1,8 @@
-import { SITE, PHONE, DOCTORS_SEGMENT } from "@/lib/site";
+import { SITE, PHONE, DOCTORS_SEGMENT, APPT } from "@/lib/site";
 import { doctors } from "@/lib/doctors";
-import { areas, areaUrl } from "@/lib/areas";
+import { areas, areaUrl, procedures } from "@/lib/areas";
 import { allArticles, blogUrl } from "@/lib/blog";
+import { faq } from "@/lib/faq";
 
 export const dynamic = "force-static";
 
@@ -11,7 +12,7 @@ export function GET() {
   const out = [
     "# Cyprus Orthopaedics",
     "",
-    "> Orthopaedics and trauma clinic of the University of Kyrenia (Girne Üniversitesi) Faculty of Medicine, Department of Orthopaedics and Traumatology, at Dr. Suat Günsel University of Kyrenia Hospital in Kyrenia (Girne), North Cyprus. Three faculty surgeons. Every page exists in Turkish and English.",
+    `> Orthopaedics and trauma clinic of the University of Kyrenia (Girne Üniversitesi) Faculty of Medicine, Department of Orthopaedics and Traumatology, at Dr. Suat Günsel University of Kyrenia Hospital in Kyrenia (Girne), North Cyprus. Three faculty surgeons: ${doctors.map((d) => `${d.title.en} ${d.name}`).join(", ")}. Every page exists in Turkish and English.`,
     "",
     "## Key facts",
     "- Location: Dr. Suat Günsel University of Kyrenia Hospital, Şehit Yahya Bakır Sokak, Karakum, Kyrenia (Girne), North Cyprus",
@@ -19,6 +20,8 @@ export function GET() {
     "- Consultation languages: Turkish and English",
     "- Fractures and other injuries are seen through the hospital's emergency department",
     "- Spinal surgery is not offered at this clinic",
+    `- Operations: ${procedures.map((p) => p.t.en).join("; ")}`,
+    `- Online appointments (hospital site): ${APPT.en}`,
     "- Instagram: https://www.instagram.com/cyprusorthopaedics/",
     "",
     "## Doctors",
@@ -27,6 +30,8 @@ export function GET() {
     "## Treatment areas",
     ...areas.map((a) => `- [${a.title.en}](${SITE}${areaUrl("en", a)}): ${a.conditions.en.map((c) => c.n).join("; ")}`),
     "",
+    "## Common questions",
+    ...faq("en").flatMap((x) => [`### ${x.q}`, x.a, ""]),
     "## Patient guide (English)",
     "Articles written for patients; each lists its sources.",
     ...list.map((a) => `- [${a.i18n.en.title}](${SITE}${blogUrl("en", a)}): ${a.i18n.en.description}`),
@@ -35,6 +40,8 @@ export function GET() {
     `- [Ana sayfa](${SITE}/tr)`,
     ...areas.map((a) => `- [${a.title.tr}](${SITE}${areaUrl("tr", a)}): ${a.conditions.tr.map((c) => c.n).join("; ")}`),
     "",
+    "## Sık sorulanlar",
+    ...faq("tr").flatMap((x) => [`### ${x.q}`, x.a, ""]),
     "## Hasta rehberi (Türkçe)",
     ...list.map((a) => `- [${a.i18n.tr.title}](${SITE}${blogUrl("tr", a)}): ${a.i18n.tr.description}`),
     "",

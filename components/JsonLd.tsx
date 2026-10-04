@@ -1,6 +1,7 @@
 import { SITE, DOCTORS_SEGMENT, MAPS, ui, type Lang } from "@/lib/site";
 import { OG_IMAGE } from "@/lib/seo";
 import { doctors, type Doctor } from "@/lib/doctors";
+import { areas, areaUrl, procedures } from "@/lib/areas";
 
 const hospital = { "@type": "Hospital", name: "Dr. Suat Günsel Kyrenia University Hospital", telephone: "+903924449939", address: { "@type": "PostalAddress", streetAddress: "Şehit Yahya Bakır Sokak, Karakum", addressLocality: "Kyrenia", addressRegion: "North Cyprus", addressCountry: "CY" } };
 
@@ -38,6 +39,8 @@ export default function JsonLd({ lang, doctor }: { lang: Lang; doctor?: Doctor }
     parentOrganization: hospital,
     sameAs: ["https://www.instagram.com/cyprusorthopaedics/"],
     employee: doctors.map((d) => ({ "@id": `${SITE}/#${d.id}` })),
+    knowsAbout: areas.map((x) => x.title[lang]),
+    availableService: procedures.map((p) => ({ "@type": "MedicalProcedure", name: p.t[lang], url: SITE + areaUrl(lang, areas.find((x) => x.id === p.area)!) })),
   };
   const website = { "@type": "WebSite", "@id": `${SITE}/#website`, url: SITE, name: "Cyprus Orthopaedics", inLanguage: ["tr", "en"], publisher: { "@id": `${SITE}/#clinic` } };
   const crumbs = doctor && { "@type": "BreadcrumbList", itemListElement: [

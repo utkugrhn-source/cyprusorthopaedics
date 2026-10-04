@@ -3,7 +3,7 @@ import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import { ui, type Lang, DOCTORS_SEGMENT, SITE, PHONE, PHONE_HREF } from "@/lib/site";
 import { doctors } from "@/lib/doctors";
-import { articlesOfArea, blogUrl, blogUi } from "@/lib/blog";
+import { allArticles, articlesOfArea, blogUrl, blogUi } from "@/lib/blog";
 import { areas, areaUi, areaUrl, AREAS_UPDATED, type Area } from "@/lib/areas";
 
 const fmt = (iso: string, lang: Lang) => new Date(iso + "T12:00:00Z").toLocaleDateString(lang === "tr" ? "tr-TR" : "en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
@@ -11,7 +11,12 @@ const fmt = (iso: string, lang: Lang) => new Date(iso + "T12:00:00Z").toLocaleDa
 export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
   const t = ui[lang];
   const u = areaUi[lang];
-  const guide = articlesOfArea(a.id);
+  const findById = (id: string) => allArticles().find((x) => x.id === id);
+  // an area's own articles, plus any its list entries point to (the arthroscopy page borrows the knee and shoulder ones)
+  const guide = [...articlesOfArea(a.id), ...a.conditions[lang].map((c) => (c.guide ? findById(c.guide) : undefined)).filter((x): x is NonNullable<typeof x> => !!x)].filter((x, i, arr) => arr.findIndex((y) => y.id === x.id) === i);
+  // articles already linked beside a list entry are not repeated in the guide block
+  const inline = new Set(a.conditions[lang].map((c) => c.guide).filter(Boolean));
+  const rest = guide.filter((g) => !inline.has(g.id));
   const others = areas.filter((x) => x.id !== a.id);
   const ld = { "@context": "https://schema.org", "@graph": [
     {
@@ -22,7 +27,7 @@ export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
       description: a.lead[lang],
       inLanguage: lang,
       dateModified: AREAS_UPDATED,
-      about: a.conditions[lang].map((c) => ({ "@type": "MedicalCondition", name: c.n })),
+      about: a.conditions[lang].map((c) => ({ "@type": a.kind === "procedure" ? "MedicalProcedure" : "MedicalCondition", name: c.n })),
       isPartOf: { "@id": `${SITE}/#website` },
       publisher: { "@id": `${SITE}/#clinic` },
     },
@@ -53,13 +58,18 @@ export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
 
         <div className="wrap pb-24 md:pb-32">
           <section className="py-12 md:py-20">
-            <h2 className="h2">{u.conditions}</h2>
+            <h2 className="h2">{a.listTitle ? a.listTitle[lang] : u.conditions}</h2>
             <ul className="mt-10 border-b border-line md:mt-14">
               {a.conditions[lang].map((c) => (
                 <li key={c.n} className="grid gap-3 border-t border-line py-7 md:grid-cols-[1fr_1.4fr] md:gap-16 md:py-9">
                   <h3 className="h3">{c.n}</h3>
                   <div>
                     <p className="body" style={{ fontWeight: 400 }}>{c.d}</p>
+                    {c.guide && findById(c.guide) && (
+                      <p className="mt-4 text-[1rem]" style={{ fontWeight: 500 }}>
+                        <Link className="link" href={blogUrl(lang, findById(c.guide)!)}>{u.more}: {findById(c.guide)!.i18n[lang].title}</Link>
+                      </p>
+                    )}
                     {c.more && (
                       <p className="mt-4 text-[1rem]" style={{ fontWeight: 500 }}>
                         <a className="link" href={c.more[lang]} rel="noopener">{u.more}: utkugurhan.com</a>
@@ -101,10 +111,10 @@ export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
             </div>
           </section>
 
-          {guide.length > 0 && (
+          {rest.length > 0 && (
             <section className="grid gap-6 border-t border-line py-12 md:grid-cols-[1fr_2.1fr] md:gap-16 md:py-16">
               <h2 className="h3">{blogUi[lang].title}</h2>
-              <ul>{guide.map((g) => (<li key={g.id} className="border-b border-line py-3 first:pt-0"><Link className="link" href={blogUrl(lang, g)}>{g.i18n[lang].title}</Link></li>))}</ul>
+              <ul>{rest.map((g) => (<li key={g.id} className="border-b border-line py-3 first:pt-0"><Link className="link" href={blogUrl(lang, g)}>{g.i18n[lang].title}</Link></li>))}</ul>
             </section>
           )}
 

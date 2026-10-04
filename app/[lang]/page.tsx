@@ -12,6 +12,7 @@ import { doctors } from "@/lib/doctors";
 import { areas, areaUrl } from "@/lib/areas";
 import type { Metadata } from "next";
 import { share } from "@/lib/seo";
+import { faq, faqUi } from "@/lib/faq";
 
 export function generateMetadata({ params }: { params: { lang: string } }): Metadata {
   const lang = params.lang as Lang; const m = ui[lang]?.meta;
@@ -34,9 +35,12 @@ export default function Home({ params }: { params: { lang: string } }) {
   // the way in, filmed on a phone: campus, emergency, reception, theatre
   const route = (["kampus", "hastane", "acil", "ambulans", "karsilama", "koridor", "ekip", "mikroskop"] as const)
     .map((id, i) => ({ id, label: t.route.items[i] }));
+  const questions = faq(lang);
+  const faqLd = { "@context": "https://schema.org", "@type": "FAQPage", "@id": `${SITE}/${lang}#faq`, inLanguage: lang, mainEntity: questions.map((x) => ({ "@type": "Question", name: x.q, acceptedAnswer: { "@type": "Answer", text: x.a } })) };
   return (
     <>
       <JsonLd lang={lang} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
       <Nav lang={lang} t={t} alt={{ tr: "/tr", en: "/en" }} tone="turq" />
       <main>
         {/* hero: the seal's own colour as the field */}
@@ -197,6 +201,24 @@ export default function Home({ params }: { params: { lang: string } }) {
                   </div>
                 ))}
               </dl>
+            </div>
+          </div>
+        </section>
+
+        {/* common questions: short answers that repeat facts stated elsewhere on the page */}
+        <section id="sorular" className="wrap pb-24 md:pb-36">
+          <div className="grid gap-8 border-t border-line pt-24 md:grid-cols-[1fr_1.4fr] md:gap-16 md:pt-36">
+            <h2 className="h2" data-reveal>{faqUi[lang].h}</h2>
+            <div className="border-b border-line" data-stagger>
+              {questions.map((x) => (
+                <details key={x.q} className="faq border-t border-line">
+                  <summary><h3 className="text-[1.15rem] md:text-[1.3rem]" style={{ fontWeight: 500, letterSpacing: "-0.01em" }}>{x.q}</h3><span aria-hidden className="faq-mark" /></summary>
+                  <div className="pb-7 md:pr-14">
+                    <p className="text-slate" style={{ fontWeight: 400 }}>{x.a}</p>
+                    {x.link && <p className="mt-3" style={{ fontWeight: 500 }}><Link className="link" href={x.link.href}>{x.link.label}</Link></p>}
+                  </div>
+                </details>
+              ))}
             </div>
           </div>
         </section>

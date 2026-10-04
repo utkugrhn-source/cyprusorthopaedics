@@ -157,3 +157,14 @@ body { @apply bg-white text-deep font-sans antialiased; font-weight: 300; overfl
 @media (min-width: 768px) { .wa-panel { inset-inline-end: 1.5rem; inset-block-end: calc(1.5rem + 3.25rem + .75rem); } }
 @media (prefers-reduced-motion: reduce) { .wa-panel { animation: none; } }
 @media print { .wa-panel { display: none; } }
+
+/* common questions */
+.faq summary { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding-block: 1.5rem; cursor: pointer; list-style: none; }
+.faq summary::-webkit-details-marker { display: none; }
+.faq summary:focus-visible { outline: 3px solid #00ADB5; outline-offset: 4px; }
+.faq-mark { position: relative; flex: none; width: 1.1rem; height: 1.1rem; }
+.faq-mark::before, .faq-mark::after { content: ""; position: absolute; inset-inline: 0; top: 50%; height: 2px; margin-top: -1px; background: #007A80; transition: transform .3s ease; }
+.faq-mark::after { transform: rotate(90deg); }
+.faq[open] .faq-mark::after { transform: rotate(0deg); }
+.faq summary:hover h3 { color: #007A80; }
+@media (prefers-reduced-motion: reduce) { .faq-mark::before, .faq-mark::after { transition: none; } }
