@@ -100,16 +100,17 @@ export default function Page({ params }: { params: P }) {
             <div className="space-y-5">{d.summary[lang].map((x) => (<p key={x.slice(0, 24)} className="lead">{x}</p>))}</div>
           </section>
 
-          <Block h={p.focus}>
-            {d.focus ? (
-              <ul className="flex flex-wrap gap-x-3 gap-y-3">
-                {d.focus[lang].map((f) => (<li key={f} className="rounded-full bg-mist px-5 py-2.5 text-[1rem]" style={{ fontWeight: 400 }}>{f}</li>))}
-              </ul>
-            ) : (
-              <p className="inline-block border border-dashed border-line px-5 py-4 text-slate" style={{ fontWeight: 400 }}>{p.focusPending}</p>
-            )}
-            {d.langs && (<p className="mt-7 text-[1rem]" style={{ fontWeight: 400 }}><span style={{ fontWeight: 500 }}>{p.langs}:</span> {d.langs[lang]}</p>)}
-          </Block>
+          {/* shown only once the doctor has stated their interests; no placeholder on a public page */}
+          {(d.focus || d.langs) && (
+            <Block h={d.focus ? p.focus : p.langs}>
+              {d.focus && (
+                <ul className="flex flex-wrap gap-x-3 gap-y-3">
+                  {d.focus[lang].map((f) => (<li key={f} className="rounded-full bg-mist px-5 py-2.5 text-[1rem]" style={{ fontWeight: 400 }}>{f}</li>))}
+                </ul>
+              )}
+              {d.langs && (<p className={`${d.focus ? "mt-7 " : ""}text-[1rem]`} style={{ fontWeight: 400 }}>{d.focus && <span style={{ fontWeight: 500 }}>{p.langs}: </span>}{d.langs[lang]}</p>)}
+            </Block>
+          )}
 
           <Block h={p.path}>
             <ol>

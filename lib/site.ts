@@ -1,8 +1,8 @@
 export type Lang = "tr" | "en";
 export const LANGS: Lang[] = ["tr", "en"];
 export const SITE = "https://www.cyprusorthopaedics.com";
-/** Preview phase: keep search engines out until the team approves the content. Set to false at launch. */
-export const PREVIEW = true;
+/** True keeps search engines out (noindex + robots Disallow). Opened to search on 2026-10-04. */
+export const PREVIEW = false;
 /** Search Console and Bing Webmaster ownership codes (the content value of the meta tag each tool gives). Empty until supplied. */
 export const GOOGLE_VERIFY = "";
 export const BING_VERIFY = "";
