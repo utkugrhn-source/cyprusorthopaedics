@@ -70,11 +70,6 @@ export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
                         <Link className="link" href={blogUrl(lang, findById(c.guide)!)}>{u.more}: {findById(c.guide)!.i18n[lang].title}</Link>
                       </p>
                     )}
-                    {c.more && (
-                      <p className="mt-4 text-[1rem]" style={{ fontWeight: 500 }}>
-                        <a className="link" href={c.more[lang]} rel="noopener">{u.more}: utkugurhan.com</a>
-                      </p>
-                    )}
                   </div>
                 </li>
               ))}

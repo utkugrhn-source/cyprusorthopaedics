@@ -1,8 +1,8 @@
 import type { Lang } from "./site";
 
 type L = Record<Lang, string>;
-/** `guide` is the id of one of the clinic's own patient-guide articles; `more` is an article on Dr. Gürhan's personal site. */
-export type Condition = { n: string; d: string; more?: L; guide?: string };
+/** `guide` is the id of one of the clinic's own patient-guide articles, linked beside the entry. */
+export type Condition = { n: string; d: string; guide?: string };
 export type Area = {
   id: string;
   slug: L;
@@ -21,7 +21,6 @@ export const AREAS_SEGMENT: Record<Lang, string> = { tr: "tedavi", en: "treatmen
 export const AREAS_UPDATED = "2026-10-04";
 
 /** Detailed patient articles live on Dr. Gürhan's personal site; region pages link to them rather than repeat them. */
-const art = (tr: string, en: string): L => ({ tr: `https://utkugurhan.com/tr/blog/${tr}`, en: `https://utkugurhan.com/en/blog/${en}` });
 
 // Same order as ui.areas.items on the home page.
 // Texts are general patient information drafted from the team's stated scope; they need the doctors' review before launch.
@@ -36,17 +35,17 @@ export const areas: Area[] = [
     },
     conditions: {
       tr: [
-        { n: "Rotator manşet sorunları ve omuz sıkışması", d: "Kolu yana ve yukarı kaldırırken, gece yan yatarken ağrı yapar. Tedavi çoğunlukla egzersiz ve fizik tedaviyle başlar; yırtığın büyüklüğüne ve şikâyete göre artroskopik onarım gündeme gelir.", more: art("omuz-sikisma-sendromu-rotator-manset", "shoulder-impingement-rotator-cuff") },
-        { n: "Omuz çıkığı", d: "Omuz başının yuvasından çıkmasıdır ve acil olarak yerine konur. Sonrasında tekrarlama riski yaşa ve eşlik eden hasara göre değerlendirilir; MR ile incelenir.", more: art("omuz-cikigi", "shoulder-dislocation") },
-        { n: "Donuk omuz", d: "Omuz hareketlerinin her yöne ağrılı biçimde kısıtlanmasıdır. Aylar süren bir seyir gösterir; tedavinin temeli ağrı kontrolü ve germe egzersizleridir.", more: art("donuk-omuz", "frozen-shoulder") },
-        { n: "Tenisçi dirseği", d: "Dirseğin dış yanında, kavrama ve bilek hareketleriyle artan ağrıdır. Çoğu hastada yük düzenlemesi ve egzersizle geçer.", more: art("tenisci-dirsegi", "tennis-elbow") },
+        { n: "Rotator manşet sorunları ve omuz sıkışması", d: "Kolu yana ve yukarı kaldırırken, gece yan yatarken ağrı yapar. Tedavi çoğunlukla egzersiz ve fizik tedaviyle başlar; yırtığın büyüklüğüne ve şikâyete göre artroskopik onarım gündeme gelir.", guide: "rotator-cuff-clinic" },
+        { n: "Omuz çıkığı", d: "Omuz başının yuvasından çıkmasıdır ve acil olarak yerine konur. Sonrasında tekrarlama riski yaşa ve eşlik eden hasara göre değerlendirilir; MR ile incelenir.", guide: "shoulder-dislocation-clinic" },
+        { n: "Donuk omuz", d: "Omuz hareketlerinin her yöne ağrılı biçimde kısıtlanmasıdır. Aylar süren bir seyir gösterir; tedavinin temeli ağrı kontrolü ve germe egzersizleridir.", guide: "frozen-shoulder-clinic" },
+        { n: "Tenisçi dirseği", d: "Dirseğin dış yanında, kavrama ve bilek hareketleriyle artan ağrıdır. Çoğu hastada yük düzenlemesi ve egzersizle geçer.", guide: "tennis-elbow-clinic" },
         { n: "Omuz ve dirsek çevresi kırıkları", d: "Köprücük kemiği, kol kemiğinin üst ucu ve dirsek kırıklarını kapsar. Kırığın yerine ve kaymasına göre askı, alçı ya da ameliyatla tespit seçilir." },
       ],
       en: [
-        { n: "Rotator cuff problems and shoulder impingement", d: "Pain on lifting the arm sideways and overhead, and when lying on that side at night. Treatment usually starts with exercise and physiotherapy; arthroscopic repair is considered depending on the size of the tear and the symptoms.", more: art("omuz-sikisma-sendromu-rotator-manset", "shoulder-impingement-rotator-cuff") },
-        { n: "Shoulder dislocation", d: "The ball of the shoulder comes out of its socket and is put back as an emergency. The risk of it happening again is then assessed by age and associated damage, with an MRI scan.", more: art("omuz-cikigi", "shoulder-dislocation") },
-        { n: "Frozen shoulder", d: "Painful restriction of shoulder movement in every direction. It runs a course of months; treatment rests on pain control and stretching exercises.", more: art("donuk-omuz", "frozen-shoulder") },
-        { n: "Tennis elbow", d: "Pain on the outer side of the elbow that worsens with gripping and wrist movement. In most patients it settles with load adjustment and exercise.", more: art("tenisci-dirsegi", "tennis-elbow") },
+        { n: "Rotator cuff problems and shoulder impingement", d: "Pain on lifting the arm sideways and overhead, and when lying on that side at night. Treatment usually starts with exercise and physiotherapy; arthroscopic repair is considered depending on the size of the tear and the symptoms.", guide: "rotator-cuff-clinic" },
+        { n: "Shoulder dislocation", d: "The ball of the shoulder comes out of its socket and is put back as an emergency. The risk of it happening again is then assessed by age and associated damage, with an MRI scan.", guide: "shoulder-dislocation-clinic" },
+        { n: "Frozen shoulder", d: "Painful restriction of shoulder movement in every direction. It runs a course of months; treatment rests on pain control and stretching exercises.", guide: "frozen-shoulder-clinic" },
+        { n: "Tennis elbow", d: "Pain on the outer side of the elbow that worsens with gripping and wrist movement. In most patients it settles with load adjustment and exercise.", guide: "tennis-elbow-clinic" },
         { n: "Fractures around the shoulder and elbow", d: "These include fractures of the collarbone, the upper end of the arm bone and the elbow. Depending on the site and displacement, treatment is a sling, a cast or surgical fixation." },
       ],
     },
@@ -65,23 +64,23 @@ export const areas: Area[] = [
     },
     conditions: {
       tr: [
-        { n: "Karpal tünel sendromu", d: "Median sinirin bilekte sıkışmasıdır; başparmak, işaret ve orta parmakta uyuşma ve gece uyandıran karıncalanma yapar. Hafif olgularda gece ateli ve enjeksiyon, ilerlemiş olgularda sinirin gevşetilmesi uygulanır.", more: art("karpal-tunel-sendromu", "carpal-tunnel-syndrome") },
-        { n: "Tetik parmak", d: "Parmağın bükülüp açılırken takılması ve kilitlenmesidir. Enjeksiyon çoğu hastada yeterlidir; tekrarlayan olgularda küçük bir girişimle tendon kılıfı gevşetilir.", more: art("tetik-parmak", "trigger-finger") },
-        { n: "De Quervain tenosinoviti", d: "Bileğin başparmak tarafında, kavrama ve kaldırma ile artan ağrıdır. Atel, yük düzenlemesi ve enjeksiyonla tedavi edilir.", more: art("de-quervain-tenosinoviti", "de-quervain-tenosynovitis") },
-        { n: "Ganglion kisti", d: "El bileğinde ya da parmakta, eklem veya tendon kılıfından kaynaklanan içi sıvı dolu şişliktir. Şikâyet yapmıyorsa izlenir; ağrı ya da hareket kısıtlılığı yapıyorsa çıkarılabilir.", more: art("ganglion-kisti", "ganglion-cyst") },
-        { n: "El bileği kırığı", d: "En sık düşme sonrası görülür. Kayma azsa alçı, eklem yüzü bozulmuşsa ya da kırık dengesizse plak ve vidayla tespit uygulanır.", more: art("el-bilegi-kirigi-distal-radius", "broken-wrist-distal-radius-fracture") },
-        { n: "Tendon ve sinir kesileri", d: "Cam ve bıçak gibi kesici yaralanmalardan sonra parmağı hareket ettirememe ya da uyuşma, tendon veya sinir kesisini düşündürür. Onarım erken dönemde yapıldığında sonuç daha iyidir.", more: art("elde-tendon-ve-sinir-yaralanmalari", "hand-tendon-nerve-injuries") },
+        { n: "Karpal tünel sendromu", d: "Median sinirin bilekte sıkışmasıdır; başparmak, işaret ve orta parmakta uyuşma ve gece uyandıran karıncalanma yapar. Hafif olgularda gece ateli ve enjeksiyon, ilerlemiş olgularda sinirin gevşetilmesi uygulanır.", guide: "carpal-tunnel" },
+        { n: "Tetik parmak", d: "Parmağın bükülüp açılırken takılması ve kilitlenmesidir. Enjeksiyon çoğu hastada yeterlidir; tekrarlayan olgularda küçük bir girişimle tendon kılıfı gevşetilir.", guide: "trigger-finger-clinic" },
+        { n: "De Quervain tenosinoviti", d: "Bileğin başparmak tarafında, kavrama ve kaldırma ile artan ağrıdır. Atel, yük düzenlemesi ve enjeksiyonla tedavi edilir.", guide: "de-quervain-clinic" },
+        { n: "Ganglion kisti", d: "El bileğinde ya da parmakta, eklem veya tendon kılıfından kaynaklanan içi sıvı dolu şişliktir. Şikâyet yapmıyorsa izlenir; ağrı ya da hareket kısıtlılığı yapıyorsa çıkarılabilir.", guide: "ganglion-cyst" },
+        { n: "El bileği kırığı", d: "En sık düşme sonrası görülür. Kayma azsa alçı, eklem yüzü bozulmuşsa ya da kırık dengesizse plak ve vidayla tespit uygulanır.", guide: "distal-radius-clinic" },
+        { n: "Tendon ve sinir kesileri", d: "Cam ve bıçak gibi kesici yaralanmalardan sonra parmağı hareket ettirememe ya da uyuşma, tendon veya sinir kesisini düşündürür. Onarım erken dönemde yapıldığında sonuç daha iyidir.", guide: "hand-tendon-nerve-clinic" },
         { n: "Replantasyon (kopan parmağın ya da elin yerine dikilmesi)", d: "Kopan parmak ya da el; kemik, tendon, damar ve sinirleri mikroskop altında tek tek onarılarak yerine dikilir. Zamana karşı yapılan bir ameliyattır; uygun olup olmadığı yaralanmanın tipine, kopan parçanın durumuna ve geçen süreye göre değerlendirilir." },
         { n: "Parmak ucu yaralanmaları", d: "Ezilme ve kopmalarda tırnak yatağı onarımı, doku nakli ya da uygun olgularda kopan parçanın yerine dikilmesi değerlendirilir." },
         { n: "Tırnak problemleri", d: "Tırnak yatağı yaralanmaları, tırnak çevresi iltihabı (dolama), tırnak batması ve yaralanma sonrası tırnak şekil bozukluklarını kapsar. Tedavi, sorunun türüne göre pansuman ve ilaçtan küçük bir cerrahi girişime kadar değişir." },
       ],
       en: [
-        { n: "Carpal tunnel syndrome", d: "Compression of the median nerve at the wrist, causing numbness in the thumb, index and middle fingers and tingling that wakes you at night. Mild cases are treated with a night splint and injection; advanced cases with release of the nerve.", more: art("karpal-tunel-sendromu", "carpal-tunnel-syndrome") },
-        { n: "Trigger finger", d: "The finger catches and locks as it bends and straightens. An injection is enough for most patients; in recurrent cases the tendon sheath is released in a minor procedure.", more: art("tetik-parmak", "trigger-finger") },
-        { n: "De Quervain’s tenosynovitis", d: "Pain on the thumb side of the wrist that worsens with gripping and lifting. It is treated with a splint, load adjustment and injection.", more: art("de-quervain-tenosinoviti", "de-quervain-tenosynovitis") },
-        { n: "Ganglion cyst", d: "A fluid-filled swelling at the wrist or finger arising from a joint or tendon sheath. If it causes no trouble it is observed; if it causes pain or limits movement it can be removed.", more: art("ganglion-kisti", "ganglion-cyst") },
-        { n: "Wrist fracture", d: "Most often follows a fall. A cast is used when displacement is slight; plate and screw fixation when the joint surface is disrupted or the fracture is unstable.", more: art("el-bilegi-kirigi-distal-radius", "broken-wrist-distal-radius-fracture") },
-        { n: "Tendon and nerve lacerations", d: "After a cut from glass or a knife, being unable to move a finger, or numbness, suggests a divided tendon or nerve. Results are better when repair is done early.", more: art("elde-tendon-ve-sinir-yaralanmalari", "hand-tendon-nerve-injuries") },
+        { n: "Carpal tunnel syndrome", d: "Compression of the median nerve at the wrist, causing numbness in the thumb, index and middle fingers and tingling that wakes you at night. Mild cases are treated with a night splint and injection; advanced cases with release of the nerve.", guide: "carpal-tunnel" },
+        { n: "Trigger finger", d: "The finger catches and locks as it bends and straightens. An injection is enough for most patients; in recurrent cases the tendon sheath is released in a minor procedure.", guide: "trigger-finger-clinic" },
+        { n: "De Quervain’s tenosynovitis", d: "Pain on the thumb side of the wrist that worsens with gripping and lifting. It is treated with a splint, load adjustment and injection.", guide: "de-quervain-clinic" },
+        { n: "Ganglion cyst", d: "A fluid-filled swelling at the wrist or finger arising from a joint or tendon sheath. If it causes no trouble it is observed; if it causes pain or limits movement it can be removed.", guide: "ganglion-cyst" },
+        { n: "Wrist fracture", d: "Most often follows a fall. A cast is used when displacement is slight; plate and screw fixation when the joint surface is disrupted or the fracture is unstable.", guide: "distal-radius-clinic" },
+        { n: "Tendon and nerve lacerations", d: "After a cut from glass or a knife, being unable to move a finger, or numbness, suggests a divided tendon or nerve. Results are better when repair is done early.", guide: "hand-tendon-nerve-clinic" },
         { n: "Replantation (reattaching a severed finger or hand)", d: "A severed finger or hand is reattached by repairing the bone, tendons, vessels and nerves one by one under the microscope. It is surgery against the clock; whether it is suitable depends on the type of injury, the condition of the severed part and the time elapsed." },
         { n: "Fingertip injuries", d: "In crush injuries and amputations, the options are nail-bed repair, tissue cover or, in suitable cases, reattachment of the severed part." },
         { n: "Nail problems", d: "These include nail-bed injuries, infection around the nail (paronychia), ingrown nails and nail deformity after injury. Depending on the problem, treatment ranges from dressings and medication to a minor procedure." },
@@ -104,12 +103,12 @@ export const areas: Area[] = [
       tr: [
         { n: "Kalça kireçlenmesi (osteoartrit)", d: "Eklem kıkırdağının aşınmasıdır; kasıkta ve uylukta ağrı, sabah tutukluğu ve topallama yapar. Kilo kontrolü, egzersiz ve ağrı tedavisiyle başlanır.", guide: "hip-oa" },
         { n: "Kalça protezi", d: "Ameliyatsız tedaviye rağmen ağrı günlük yaşamı kısıtlıyorsa, aşınmış eklem yüzeyleri yapay eklemle değiştirilir.", guide: "hip-replacement-recovery" },
-        { n: "Yaşlılarda kalça kırığı", d: "Çoğunlukla ev içinde basit bir düşmeyle olur ve hemen her zaman ameliyat gerektirir. Amaç hastayı en kısa sürede yeniden ayağa kaldırmaktır.", more: art("yaslilarda-kalca-kirigi", "hip-fracture-in-older-adults") },
+        { n: "Yaşlılarda kalça kırığı", d: "Çoğunlukla ev içinde basit bir düşmeyle olur ve hemen her zaman ameliyat gerektirir. Amaç hastayı en kısa sürede yeniden ayağa kaldırmaktır.", guide: "hip-fracture-clinic" },
       ],
       en: [
         { n: "Hip arthritis (osteoarthritis)", d: "Wear of the joint cartilage, causing pain in the groin and thigh, morning stiffness and a limp. Treatment starts with weight control, exercise and pain relief.", guide: "hip-oa" },
         { n: "Hip replacement", d: "When pain still restricts daily life despite non-surgical treatment, the worn joint surfaces are replaced with an artificial joint.", guide: "hip-replacement-recovery" },
-        { n: "Hip fracture in older adults", d: "Usually follows a simple fall at home and almost always needs an operation. The aim is to get the patient back on their feet as soon as possible.", more: art("yaslilarda-kalca-kirigi", "hip-fracture-in-older-adults") },
+        { n: "Hip fracture in older adults", d: "Usually follows a simple fall at home and almost always needs an operation. The aim is to get the patient back on their feet as soon as possible.", guide: "hip-fracture-clinic" },
       ],
     },
     urgent: {
@@ -127,16 +126,16 @@ export const areas: Area[] = [
     },
     conditions: {
       tr: [
-        { n: "Menisküs yırtığı", d: "Dizde dönme hareketi sonrası ağrı, şişlik, takılma ve kilitlenme yapar. Yırtığın tipine ve yaşa göre egzersiz, artroskopik onarım ya da yırtık parçanın alınması seçilir.", more: art("menisku-yirtigi", "meniscus-tear") },
-        { n: "Ön çapraz bağ yaralanması", d: "Ani yön değiştirme ya da sıçrama sonrası dizde boşalma hissi ve şişlikle ortaya çıkar. Aktivite düzeyine ve dizdeki güvensizlik hissine göre rehabilitasyon ya da artroskopik bağ rekonstrüksiyonu yapılır.", more: art("on-capraz-bag-yirtigi", "acl-tear") },
-        { n: "Diz kireçlenmesi", d: "Merdiven inip çıkarken ve uzun yürüyüşte ağrı, tutukluk ve şişlik yapar. Egzersiz, kilo kontrolü ve eklem içi enjeksiyonlar ilk basamaktır.", more: art("diz-kireclenmesi", "knee-osteoarthritis") },
+        { n: "Menisküs yırtığı", d: "Dizde dönme hareketi sonrası ağrı, şişlik, takılma ve kilitlenme yapar. Yırtığın tipine ve yaşa göre egzersiz, artroskopik onarım ya da yırtık parçanın alınması seçilir.", guide: "meniscus-clinic" },
+        { n: "Ön çapraz bağ yaralanması", d: "Ani yön değiştirme ya da sıçrama sonrası dizde boşalma hissi ve şişlikle ortaya çıkar. Aktivite düzeyine ve dizdeki güvensizlik hissine göre rehabilitasyon ya da artroskopik bağ rekonstrüksiyonu yapılır.", guide: "acl-tear-clinic" },
+        { n: "Diz kireçlenmesi", d: "Merdiven inip çıkarken ve uzun yürüyüşte ağrı, tutukluk ve şişlik yapar. Egzersiz, kilo kontrolü ve eklem içi enjeksiyonlar ilk basamaktır.", guide: "knee-oa" },
         { n: "Diz protezi", d: "İleri kireçlenmede, diğer tedavilerle ağrı kontrol edilemediğinde aşınmış eklem yüzeyleri protezle değiştirilir.", guide: "knee-replacement" },
         { n: "Diz çevresi kırıkları", d: "Diz kapağı, uyluk kemiğinin alt ucu ve kaval kemiğinin üst ucundaki kırıklar eklem yüzünü ilgilendirdiğinde çoğunlukla ameliyatla tespit edilir." },
       ],
       en: [
-        { n: "Meniscal tear", d: "Pain, swelling, catching and locking after a twisting movement of the knee. Depending on the type of tear and the patient’s age, treatment is exercise, arthroscopic repair or removal of the torn fragment.", more: art("menisku-yirtigi", "meniscus-tear") },
-        { n: "Anterior cruciate ligament injury", d: "Follows a sudden change of direction or a jump, with the knee giving way and swelling. Depending on activity level and how unstable the knee feels, treatment is rehabilitation or arthroscopic ligament reconstruction.", more: art("on-capraz-bag-yirtigi", "acl-tear") },
-        { n: "Knee arthritis", d: "Pain, stiffness and swelling on stairs and on long walks. Exercise, weight control and injections into the joint are the first steps.", more: art("diz-kireclenmesi", "knee-osteoarthritis") },
+        { n: "Meniscal tear", d: "Pain, swelling, catching and locking after a twisting movement of the knee. Depending on the type of tear and the patient’s age, treatment is exercise, arthroscopic repair or removal of the torn fragment.", guide: "meniscus-clinic" },
+        { n: "Anterior cruciate ligament injury", d: "Follows a sudden change of direction or a jump, with the knee giving way and swelling. Depending on activity level and how unstable the knee feels, treatment is rehabilitation or arthroscopic ligament reconstruction.", guide: "acl-tear-clinic" },
+        { n: "Knee arthritis", d: "Pain, stiffness and swelling on stairs and on long walks. Exercise, weight control and injections into the joint are the first steps.", guide: "knee-oa" },
         { n: "Knee replacement", d: "In advanced arthritis, when pain cannot be controlled by other treatment, the worn joint surfaces are replaced with a prosthesis.", guide: "knee-replacement" },
         { n: "Fractures around the knee", d: "Fractures of the kneecap, the lower end of the thigh bone and the upper end of the shin bone are usually fixed surgically when they involve the joint surface." },
       ],
@@ -156,14 +155,14 @@ export const areas: Area[] = [
     },
     conditions: {
       tr: [
-        { n: "Ayak bileği burkulması", d: "Dış yan bağların zorlanması ya da yırtılmasıdır. Çoğu burkulma kısa süreli destek, erken hareket ve denge egzersizleriyle iyileşir; tekrarlayan burkulmalarda bağ onarımı gündeme gelir.", more: art("ayak-bilegi-burkulmasi", "ankle-sprain") },
-        { n: "Ayak bileği kırığı", d: "Kırığın dengeli olup olmadığına göre alçı ya da ameliyat seçilir; karar verirken kemikle birlikte bağların durumu da değerlendirilir.", more: art("ayak-bilegi-kirigi", "broken-ankle-fracture") },
+        { n: "Ayak bileği burkulması", d: "Dış yan bağların zorlanması ya da yırtılmasıdır. Çoğu burkulma kısa süreli destek, erken hareket ve denge egzersizleriyle iyileşir; tekrarlayan burkulmalarda bağ onarımı gündeme gelir.", guide: "ankle-sprain-clinic" },
+        { n: "Ayak bileği kırığı", d: "Kırığın dengeli olup olmadığına göre alçı ya da ameliyat seçilir; karar verirken kemikle birlikte bağların durumu da değerlendirilir.", guide: "ankle-fracture-clinic" },
         { n: "Halluks valgus", d: "Ayak başparmağının dışa kayması ve iç yanda çıkıntı oluşmasıdır. Geniş burunlu ayakkabıyla şikâyet azalır; ağrı sürerse kemik düzeltme ameliyatı yapılır." },
         { n: "Aşil tendonu sorunları", d: "Topuk arkasında ağrı ve sabah tutukluğu tendon hastalığını, ani ve şiddetli ağrıyla birlikte parmak ucunda yükselememe ise kopmayı düşündürür." },
       ],
       en: [
-        { n: "Ankle sprain", d: "A strain or tear of the ligaments on the outer side of the ankle. Most sprains heal with brief support, early movement and balance exercises; ligament repair is considered for recurrent sprains.", more: art("ayak-bilegi-burkulmasi", "ankle-sprain") },
-        { n: "Ankle fracture", d: "A cast or surgery is chosen according to whether the fracture is stable; the state of the ligaments is assessed along with the bone.", more: art("ayak-bilegi-kirigi", "broken-ankle-fracture") },
+        { n: "Ankle sprain", d: "A strain or tear of the ligaments on the outer side of the ankle. Most sprains heal with brief support, early movement and balance exercises; ligament repair is considered for recurrent sprains.", guide: "ankle-sprain-clinic" },
+        { n: "Ankle fracture", d: "A cast or surgery is chosen according to whether the fracture is stable; the state of the ligaments is assessed along with the bone.", guide: "ankle-fracture-clinic" },
         { n: "Hallux valgus (bunion)", d: "The big toe drifts outwards and a bump forms on the inner side. Wide-fitting shoes ease the symptoms; if pain persists, the bone is realigned surgically." },
         { n: "Achilles tendon problems", d: "Pain behind the heel with morning stiffness suggests tendon disease; sudden severe pain with inability to rise on tiptoe suggests a rupture." },
       ],
