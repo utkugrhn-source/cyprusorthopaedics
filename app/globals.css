@@ -125,3 +125,12 @@ body { @apply bg-white text-deep font-sans antialiased; font-weight: 300; overfl
 @media (min-width: 768px) { .jcover { width: 5.25rem; } }
 @media (min-width: 768px) { .jtile { width: 5.25rem; } .jtile-name { font-size: .95rem; } }
 @media (prefers-reduced-motion: reduce) { .paper, .paper[data-on="1"] { transition: none; } }
+
+/* WhatsApp: a fixed pill in the bottom corner (inline-end, so it moves to the left in right-to-left pages) */
+.wa { position: fixed; inset-inline-end: 1rem; inset-block-end: max(1rem, env(safe-area-inset-bottom)); z-index: 40; display: inline-flex; align-items: center; gap: .5rem; height: 3.25rem; padding-inline: .95rem 1.15rem; border-radius: 999px; background: #25D366; color: #06281B; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; font-weight: 600; font-size: .95rem; letter-spacing: 0; line-height: 1; text-decoration: none; box-shadow: 0 8px 24px rgba(0,0,0,.22); transition: transform .2s ease, box-shadow .2s ease; }
+.wa:hover { transform: translateY(-2px); box-shadow: 0 12px 28px rgba(0,0,0,.28); }
+.wa:focus-visible { outline: 3px solid #06281B; outline-offset: 3px; }
+.wa svg { flex: none; }
+@media (min-width: 768px) { .wa { inset-inline-end: 1.5rem; inset-block-end: 1.5rem; } }
+@media (prefers-reduced-motion: reduce) { .wa { transition: none; } .wa:hover { transform: none; } }
+@media print { .wa { display: none; } }

@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Motion from "@/components/Motion";
-import { LANGS, SITE, PREVIEW, GOOGLE_VERIFY, BING_VERIFY, ui, type Lang } from "@/lib/site";
+import { LANGS, SITE, PREVIEW, GOOGLE_VERIFY, BING_VERIFY, WHATSAPP, WHATSAPP_UI, ui, type Lang } from "@/lib/site";
+import WhatsApp from "@/components/WhatsApp";
 import { share } from "@/lib/seo";
 
 export function generateStaticParams() { return LANGS.map((lang) => ({ lang })); }
@@ -27,6 +28,7 @@ export default function LangLayout({ children, params }: { children: React.React
       <body>
         <Motion />
         {children}
+        <WhatsApp number={WHATSAPP} {...WHATSAPP_UI[params.lang as Lang]} />
       </body>
     </html>
   );

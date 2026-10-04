@@ -8,6 +8,12 @@ export const GOOGLE_VERIFY = "";
 export const BING_VERIFY = "";
 export const PHONE = "+90 392 444 99 39";
 export const PHONE_HREF = "tel:+903924449939";
+/** WhatsApp line shown as the floating button: Dr. Gürhan's own number, by his decision (4 Oct 2026). Digits only, country code first. */
+export const WHATSAPP = "905391126898";
+export const WHATSAPP_UI: Record<Lang, { label: string; text: string }> = {
+  tr: { label: "WhatsApp’tan yazın", text: "Merhaba, Cyprus Orthopaedics sitesinden yazıyorum." },
+  en: { label: "Message us on WhatsApp", text: "Hello, I am writing from the Cyprus Orthopaedics website." },
+};
 export const APPT: Record<Lang, string> = {
   tr: "https://hospital.kyrenia.edu.tr/online-appointment/",
   en: "https://hospital.kyrenia.edu.tr/online-appointment/?lang=en",
