@@ -6,7 +6,7 @@ const BRAND = "Cyprus Orthopaedics";
 export const OG_IMAGE: Record<Lang, string> = { tr: "/brand/og-tr.jpg", en: "/brand/og-en.jpg" };
 export const PLACE: Record<Lang, string> = { tr: "Girne", en: "Kyrenia, North Cyprus" };
 /** Dates the non-article pages were last edited; the sitemap reports these instead of the build time. */
-export const PAGES_UPDATED = "2026-10-03";
+export const PAGES_UPDATED = "2026-10-04";
 
 /** Adds the place and the clinic name while the whole title still fits a search result line. */
 export function pageTitle(lang: Lang, main: string, withPlace = true): string {

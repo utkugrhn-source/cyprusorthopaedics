@@ -1,0 +1,263 @@
+{
+ "id": "hip-oa",
+ "area": "kalca",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Osteoarthritis",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/osteoarthritis/",
+   "year": "2023"
+  },
+  {
+   "title": "Osteoarthritis of the Hip",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/osteoarthritis-of-the-hip/",
+   "year": "n.d."
+  },
+  {
+   "title": "Osteoarthritis in over 16s: diagnosis and management (NG226): Recommendations",
+   "publisher": "National Institute for Health and Care Excellence (NICE)",
+   "url": "https://www.nice.org.uk/guidance/ng226/chapter/Recommendations",
+   "year": "2022"
+  },
+  {
+   "title": "Exercise for osteoarthritis of the hip",
+   "publisher": "Cochrane Database of Systematic Reviews (Hall M, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42486497/",
+   "year": "2026"
+  },
+  {
+   "title": "Osteoarthritis: Symptoms",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/osteoarthritis/symptoms/",
+   "year": "2023"
+  },
+  {
+   "title": "What is a hip replacement?",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/tests-and-treatments/hip-replacement/what-is-a-hip-replacement/",
+   "year": "2024"
+  },
+  {
+   "title": "Hip pain in adults",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/hip-pain/",
+   "year": "2025"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "kalca-kireclenmesi-tedavisi",
+   "title": "Kalça kireçlenmesi: egzersiz, ilaç, iğne ve protez, hangisi ne zaman?",
+   "description": "Kalça kireçlenmesi belirtileri ve tedavisi: kasık ağrısı, egzersiz, kilo, ilaçlar, kortizon ve hyalüronik asit iğnesi; kalça protezi ne zaman gerekir?",
+   "summary": "Kalça kireçlenmesi (osteoartrit), kalça eklemindeki kıkırdağın zamanla yıpranmasıyla gelişen ve ağrı, sertlik ve hareket güçlüğü yapan bir eklem hastalığıdır [1][2]. NICE kılavuzuna göre tedavinin temeli kişiye göre düzenlenmiş egzersiz, gerekiyorsa kilo verme ve hastalık konusunda bilgilendirmedir; ilaçlar ve kortizon enjeksiyonu bunu destekleyebilir [3]. Ameliyatsız yöntemlere rağmen yakınmalar günlük yaşamı belirgin biçimde bozuyorsa total kalça protezi değerlendirilir [3][6].",
+   "sections": [
+    {
+     "h": "Kalça kireçlenmesi nedir?",
+     "p": [
+      "Kalça kireçlenmesinde (osteoartrit) eklem yüzeylerini örten kaygan kıkırdak zamanla yıpranır, eklem aralığı daralır ve kemik kenarlarında çıkıntılar oluşabilir; sonuçta ağrı, sertlik ve hareket güçlüğü gelişir [1][2]. Halk arasında kireçlenme denir; tıbbi olarak tanımlanan değişiklik ise kıkırdağın yıpranması ve eşlik eden kemik değişiklikleridir [1][2]. En sık 50 yaş ve üzerinde görülür, ancak daha genç kişilerde de ortaya çıkabilir [2]."
+     ]
+    },
+    {
+     "h": "Nasıl yakınmalar verir?",
+     "p": [
+      "En sık yakınma ağrıdır; çoğunlukla yavaş başlar ve zamanla artar [2]. Sık görülenler şunlardır [2][5]:"
+     ],
+     "list": [
+      "Kasıkta ya da kalçanın dış yanında ağrı; uyluğa, kaba ete ya da dize yayılabilir",
+      "Sabah ya da bir süre oturup dinlendikten sonra artan ağrı ve sertlik",
+      "Çorap ve ayakkabı giymekte, arabaya binip inmekte güçlük",
+      "Kalça hareketlerinde kısıtlanma ve topallama",
+      "Hareket sırasında eklemde takılma ya da sürtünme sesi",
+      "İlerledikçe dinlenirken ya da gece de ağrı"
+     ]
+    },
+    {
+     "h": "Risk etkenleri",
+     "p": [
+      "Tek bir belirli nedeni yoktur. İleri yaş, ailede kireçlenme öyküsü, kalçanın daha önce yaralanmış olması, obezite ve kalça ekleminin doğuştan düzgün oluşmaması (gelişimsel kalça displazisi) riski artırır [2]. Fazla kilo, diz ve kalça gibi vücut ağırlığını taşıyan eklemlere binen yükü artırır; osteoartrit kadınlarda daha sık görülür [1]. Bu etkenlerin hiçbiri olmadan da kireçlenme gelişebilir [2]."
+     ]
+    },
+    {
+     "h": "Tanı",
+     "p": [
+      "Tanı çoğunlukla öykü ve muayeneyle konur; kalça çevresindeki hassasiyet, hareket açıklığı ve yürüyüş değerlendirilir [2]. NICE kılavuzuna göre 45 yaş ve üzerinde, hareketle artan eklem ağrısı olan ve sabah sertliği olmayan ya da yarım saati geçmeyen kişilerde tanı görüntüleme yapılmadan klinik olarak konabilir [3].",
+      "Görüntüleme, tablo alışılmışın dışındaysa ya da başka bir hastalıktan kuşkulanılıyorsa istenir [3]. Röntgen eklem aralığındaki daralmayı ve kemik çıkıntılarını gösterebilir; MR ya da BT'ye yalnızca ara sıra gerek duyulur [2]. Tedavi filmdeki görünüme göre değil, yakınmalara ve günlük işlevlere göre yönlendirilir [3]."
+     ]
+    },
+    {
+     "h": "Tedavinin temeli: egzersiz, kilo, bilgi",
+     "p": [
+      "Kireçlenmenin kesin bir tedavisi yoktur; ancak zamanla mutlaka kötüleşmez ve yakınmaları azaltan tedaviler vardır [1]. NICE kılavuzuna göre temel tedavi kişiye göre düzenlenmiş egzersiz, gerekiyorsa kilo yönetimi, bilgilendirme ve destektir [3].",
+      "Kas güçlendirme ve genel kondisyon egzersizleri önerilir, gerekirse fizyoterapist eşliğinde yapılır [2][3]. Başlarken ağrı bir süre artabilir; kılavuz, düzenli ve uzun süreli egzersizin ağrıyı azaltıp işlevi artırdığını belirtir [3]. Kanıtın sınırı da bilinmelidir: 2026'da güncellenen Cochrane derlemesine göre egzersiz, tedavi almamaya ya da olağan bakıma kıyasla ağrıyı ve işlevi muhtemelen biraz iyileştirir; ancak bu ortalama iyileşme büyük olasılıkla klinik açıdan anlamlı sayılan düzeyin altındadır [4].",
+      "Fazla kilosu olanlarda kilo vermek ağrıyı azaltır ve işlevi iyileştirir; her miktarda kilo kaybının yararlı olması beklenir [3]. Baston gibi yürüme yardımcıları düşünülebilir [3]; koşu gibi darbeli etkinlikler yerine yüzme ve bisiklet gibi kalçaya daha az yük bindiren etkinlikler önerilir [2]. Akupunktur ile TENS ve ultrason gibi elektroterapi yöntemleri önerilmez [3]."
+     ]
+    },
+    {
+     "h": "İlaçlar ve iğneler",
+     "p": [
+      "İlaç gerekiyorsa egzersizi destekleyecek biçimde, en düşük etkili dozda ve en kısa süreyle kullanılır [3]. Cilde sürülen iltihap giderici ağrı kesiciler düşünülebilir; yetersiz kalırsa riskler gözetilerek ve mide koruyucuyla birlikte ağızdan alınanlar düşünülür [3]. Parasetamol ve zayıf opioidler rutin olarak önerilmez; glukozamin ve güçlü opioidler ise önerilmez, çünkü glukozaminin yararına ilişkin güçlü kanıt yoktur ve güçlü opioidlerin riskleri yararından fazladır [3].",
+      "NICE, eklem içine hyalüronik asit enjeksiyonunu önermez [3]. Kortizon (kortikosteroid) enjeksiyonu, diğer ilaçlar yetersiz kaldığında ya da uygun olmadığında veya egzersizi desteklemek amacıyla düşünülebilir; sağladığı rahatlama kısa sürelidir (2 ile 10 hafta) [3]."
+     ]
+    },
+    {
+     "h": "Ameliyat: total kalça protezi",
+     "p": [
+      "NICE'a göre ağrı, sertlik ve işlev kaybı gibi yakınmalar yaşam kalitesini belirgin biçimde bozuyor ve ameliyatsız tedaviler yetersiz kalıyor ya da uygun değilse protez için yönlendirme düşünülür [3]. Karar klinik değerlendirmeyle verilir; yaş, sigara, eşlik eden hastalıklar ya da fazla kilo tek başına engel sayılmaz, ancak ameliyatın risklerini değiştirebilir [3].",
+      "Total kalça protezinde uyluk kemiğinin başı ve leğen kemiğindeki yuva çıkarılır; yerine metal, plastik ya da seramik parçalar yerleştirilir [2][6]. Ameliyat hastanede yapılır; iyileşme birkaç ay sürebilir, bu sürede fizyoterapi ve bir süre baston, koltuk değneği ya da yürüteç gerekebilir [2][6]. Çoğu durumda ameliyat ağrıyı hafifletir ve günlük işleri kolaylaştırır [2]; protez en az 15 yıl dayanabilir [6].",
+      "Her ameliyat gibi riskleri vardır; enfeksiyon, kanama, kan pıhtısı, protezin yerinden çıkması ve bacak boyu farkı bunların başında gelir [2]. Kireçlenme için artroskopik yıkama ya da temizleme önerilmez [3]."
+     ]
+    },
+    {
+     "h": "Uzun vadede nasıl bir yol izlenir?",
+     "p": [
+      "Kalça kireçlenmesi yavaş gelişir ve ağrı zamanla artabilir [2]; yine de osteoartrit zamanla mutlaka kötüleşmez [1], yakınmalar dönemler hâlinde gelip gidebilir [5]. Egzersiz planına uzun süre bağlı kalmak yararını artırır; planlanan tedavi kararlaştırılan sürede işe yaramıyorsa ya da uygulamada güçlük çekiliyorsa yeniden değerlendirme istenmelidir [3]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Şunlarda bir sağlık kuruluşuna gecikmeden başvurun; ilk iki durumda acil servise gidin [7]:"
+     ],
+     "list": [
+      "Düşme ya da yaralanmadan sonra şiddetli kalça ağrısı varsa, yürüyemiyor ya da bacağınıza basamıyorsanız",
+      "Yaralanmadan sonra kalçada ya da bacakta karıncalanma ya da his kaybı varsa",
+      "Düşme ya da yaralanma olmadan aniden başlayan şiddetli kalça ağrısı varsa",
+      "Kalça şiş ve sıcaksa, çevresindeki ciltte renk değişikliği varsa ya da ağrıya yüksek ateş ve genel kırgınlık eşlik ediyorsa (eklem iltihabı belirtisi olabilir)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kalça kireçlenmesi tamamen geçer mi?",
+     "a": "Kesin bir tedavisi yoktur; ancak zamanla mutlaka kötüleşmez ve egzersiz, kilo kontrolü ve ağrı tedavisiyle yakınmalar azaltılabilir [1][3]."
+    },
+    {
+     "q": "Kalça kireçlenmesi diz ağrısı yapar mı?",
+     "a": "Yapabilir. Ağrı en sık kasıkta hissedilir, ancak uyluğa, kaba ete ve dize de yayılabilir [2]."
+    },
+    {
+     "q": "MR çektirmem gerekir mi?",
+     "a": "Çoğu zaman gerekmez. 45 yaş ve üzerinde tipik yakınması olanlarda tanı muayeneyle konabilir; MR ya da BT'ye yalnızca ara sıra gerek duyulur [2][3]."
+    },
+    {
+     "q": "Kalçaya hyalüronik asit ya da kortizon iğnesi yaptırmalı mıyım?",
+     "a": "NICE kılavuzu hyalüronik asit enjeksiyonunu önermez; kortizon enjeksiyonu diğer ilaçlar yetersiz kaldığında ya da egzersizi desteklemek için düşünülebilir ve 2 ile 10 haftalık kısa süreli rahatlama sağlar [3]."
+    },
+    {
+     "q": "Kalça protezi ne zaman gerekir, ne kadar dayanır?",
+     "a": "Yakınmalar yaşam kalitesini belirgin biçimde bozuyor ve egzersiz, kilo verme ve ağrı tedavisi yetersiz kalıyorsa değerlendirilir; karar klinik değerlendirmeyle verilir [3]. Protez en az 15 yıl dayanabilir [6]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "hip-osteoarthritis-treatment",
+   "title": "Hip osteoarthritis: exercise, medicines, injections and replacement, what and when?",
+   "description": "Hip osteoarthritis symptoms and treatment: groin pain, exercise, weight, medicines, steroid and hyaluronic acid injections, and when hip replacement is needed.",
+   "summary": "Hip osteoarthritis is a joint disease in which the cartilage of the hip joint wears over time, causing pain, stiffness and difficulty moving [1][2]. According to NICE guidance, the basis of treatment is exercise tailored to the person, weight loss where needed and information about the condition; medicines and a steroid injection can support this [3]. If symptoms clearly disrupt daily life despite non-surgical treatment, total hip replacement is considered [3][6].",
+   "sections": [
+    {
+     "h": "What is hip osteoarthritis?",
+     "p": [
+      "In hip osteoarthritis the smooth cartilage covering the joint surfaces wears away over time, the joint space narrows and bony growths can form at the edges of the bones, leading to pain, stiffness and difficulty moving [1][2]. In everyday Turkish it is called kireçlenme (calcification); the change described medically is wear of the cartilage with accompanying bone changes [1][2]. It is most common from the age of 50 but can occur in younger people too [2]."
+     ]
+    },
+    {
+     "h": "What symptoms does it cause?",
+     "p": [
+      "The commonest symptom is pain; it usually starts slowly and increases over time [2]. Common features are [2][5]:"
+     ],
+     "list": [
+      "Pain in the groin or on the outside of the hip, which can spread to the thigh, buttock or knee",
+      "Pain and stiffness that are worse in the morning or after sitting or resting for a while",
+      "Difficulty putting on socks and shoes or getting in and out of a car",
+      "Reduced movement of the hip and a limp",
+      "Catching of the joint or a grinding noise on movement",
+      "As it progresses, pain at rest or at night too"
+     ]
+    },
+    {
+     "h": "Risk factors",
+     "p": [
+      "There is no single specific cause. Older age, a family history of osteoarthritis, an earlier injury to the hip, obesity and a hip joint that did not form properly at birth (developmental dysplasia of the hip) increase the risk [2]. Excess weight adds to the load on joints that carry body weight, such as the knees and hips, and osteoarthritis is more common in women [1]. Osteoarthritis can still develop without any of these factors [2]."
+     ]
+    },
+    {
+     "h": "Diagnosis",
+     "p": [
+      "Diagnosis is usually made from your history and an examination, checking tenderness around the hip, range of movement and the way you walk [2]. According to NICE guidance, in people aged 45 or over with activity-related joint pain and no morning stiffness, or stiffness lasting no more than half an hour, the diagnosis can be made clinically without imaging [3].",
+      "Imaging is requested if the picture is unusual or another condition is suspected [3]. X-rays can show narrowing of the joint space and bony spurs; an MRI or CT scan is needed only occasionally [2]. Treatment is guided by symptoms and day-to-day function rather than by how the film looks [3]."
+     ]
+    },
+    {
+     "h": "The basis of treatment: exercise, weight, information",
+     "p": [
+      "There is no cure for osteoarthritis, but it does not necessarily get worse over time and there are treatments that reduce symptoms [1]. According to NICE guidance, the core of care is exercise tailored to the person, weight management where needed, and information and support [3].",
+      "Muscle strengthening and general fitness exercises are advised, with a physiotherapist where needed [2][3]. Pain may increase for a while at the start; the guideline states that regular, long-term exercise reduces pain and improves function [3]. The limits of the evidence should also be known: according to the Cochrane review updated in 2026, exercise probably improves pain and function slightly compared with no treatment or usual care, but this average improvement is unlikely to reach the level regarded as clinically meaningful [4].",
+      "In people who are overweight, losing weight reduces pain and improves function, and any amount of weight loss is likely to help [3]. Walking aids such as a stick can be considered [3]; lower-impact activities such as swimming and cycling, which put less load on the hip, are advised in place of high-impact ones such as jogging [2]. Acupuncture and electrotherapy such as TENS and ultrasound are not recommended [3]."
+     ]
+    },
+    {
+     "h": "Medicines and injections",
+     "p": [
+      "If medicines are needed they are used to support exercise, at the lowest effective dose for the shortest time [3]. Anti-inflammatory painkillers applied to the skin can be considered; if these are not enough, anti-inflammatory tablets are considered, taking the risks into account and together with a medicine that protects the stomach [3]. Paracetamol and weak opioids are not routinely recommended, and glucosamine and strong opioids are not recommended, because there is no strong evidence that glucosamine helps and the risks of strong opioids outweigh their benefits [3].",
+      "NICE does not recommend hyaluronic acid injections into the joint [3]. A steroid (cortisone) injection can be considered when other medicines are not enough or not suitable, or to support exercise; the relief it gives is short-term (2 to 10 weeks) [3]."
+     ]
+    },
+    {
+     "h": "Surgery: total hip replacement",
+     "p": [
+      "According to NICE, referral for joint replacement is considered if symptoms such as pain, stiffness and loss of function clearly harm quality of life and non-surgical treatment is not enough or not suitable [3]. The decision rests on clinical assessment; age, smoking, other illnesses or excess weight do not by themselves rule it out, although they can change the risks of surgery [3].",
+      "In a total hip replacement the head of the thigh bone and the socket in the pelvis are removed and replaced with metal, plastic or ceramic parts [2][6]. The operation is done in hospital; recovery can take several months, during which physiotherapy and, for a time, a stick, crutches or a walking frame may be needed [2][6]. In most cases surgery relieves the pain and makes daily activities easier [2]; a hip replacement can last for at least 15 years [6].",
+      "As with any operation there are risks; infection, bleeding, blood clots, dislocation of the new joint and a difference in leg length are the main ones [2]. Arthroscopic washout or tidying of the joint is not recommended for osteoarthritis [3]."
+     ]
+    },
+    {
+     "h": "What does the long term look like?",
+     "p": [
+      "Hip osteoarthritis develops slowly and pain can increase over time [2]; even so, osteoarthritis does not necessarily get worse over time [1], and symptoms can come and go in episodes [5]. Sticking to an exercise plan over the long term increases its benefit; a review should be sought if the planned treatment is not working within the agreed time or is proving difficult to follow [3]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Seek care without delay in the following situations; in the first two, go to an emergency department [7]:"
+     ],
+     "list": [
+      "Severe hip pain after a fall or injury, or you cannot walk or put weight on the leg",
+      "Tingling or loss of feeling in the hip or leg after an injury",
+      "Severe hip pain that started suddenly without a fall or injury",
+      "The hip is swollen and hot, the skin around it has changed colour, or the pain comes with a high temperature and feeling generally unwell (this can be a sign of joint infection)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does hip osteoarthritis go away completely?",
+     "a": "There is no cure, but it does not necessarily get worse over time, and exercise, weight control and pain treatment can reduce symptoms [1][3]."
+    },
+    {
+     "q": "Can hip osteoarthritis cause knee pain?",
+     "a": "It can. Pain is felt most often in the groin, but it can also spread to the thigh, buttock and knee [2]."
+    },
+    {
+     "q": "Do I need an MRI?",
+     "a": "Often not. In people aged 45 or over with typical symptoms the diagnosis can be made by examination; an MRI or CT scan is needed only occasionally [2][3]."
+    },
+    {
+     "q": "Should I have a hyaluronic acid or steroid injection in the hip?",
+     "a": "NICE does not recommend hyaluronic acid injections; a steroid injection can be considered when other medicines are not enough or to support exercise, and gives short-term relief of 2 to 10 weeks [3]."
+    },
+    {
+     "q": "When is hip replacement needed, and how long does it last?",
+     "a": "It is considered when symptoms clearly harm quality of life and exercise, weight loss and pain treatment are not enough; the decision rests on clinical assessment [3]. A hip replacement can last for at least 15 years [6]."
+    }
+   ],
+   "note": "This is a general summary; decisions about diagnosis and treatment rest on assessment by the doctor who examines you."
+  }
+ }
+}

@@ -1,0 +1,289 @@
+{
+ "id": "knee-replacement",
+ "area": "diz",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "How a knee replacement is done",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/tests-and-treatments/knee-replacement/how-its-done/",
+   "year": "2026"
+  },
+  {
+   "title": "Recovering from a knee replacement",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/tests-and-treatments/knee-replacement/recovery/",
+   "year": "2026"
+  },
+  {
+   "title": "Complications of a knee replacement",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/tests-and-treatments/knee-replacement/complications/",
+   "year": "2026"
+  },
+  {
+   "title": "Total Knee Replacement",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/treatment/total-knee-replacement/",
+   "year": "n.d."
+  },
+  {
+   "title": "Joint replacement (primary): hip, knee and shoulder (NG157)",
+   "publisher": "National Institute for Health and Care Excellence (NICE)",
+   "url": "https://www.nice.org.uk/guidance/ng157",
+   "year": "2020"
+  },
+  {
+   "title": "Osteoarthritis in over 16s: diagnosis and management (NG226)",
+   "publisher": "National Institute for Health and Care Excellence (NICE)",
+   "url": "https://www.nice.org.uk/guidance/ng226",
+   "year": "2022"
+  },
+  {
+   "title": "How long does a knee replacement last? A systematic review and meta-analysis of case series and national registry reports with more than 15 years of follow-up",
+   "publisher": "The Lancet (Evans JT, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30782341/",
+   "year": "2019"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "diz-protezi-ameliyati",
+   "title": "Diz protezi ameliyatı: kimlere yapılır, iyileşme nasıl geçer?",
+   "description": "Diz protezi ameliyatı kimlere yapılır, nasıl hazırlanılır? Ameliyat, hastanede kalış, fizik tedavi, riskler, protezin ömrü ve iyileşme süreci.",
+   "summary": "Diz protezinde eklemin hasarlı yüzeyleri metal ve plastik parçalarla değiştirilir [1]. Ağrı ve kısıtlılık yaşam kalitesini belirgin biçimde bozuyor ve ameliyatsız tedaviler yetersiz kalıyorsa değerlendirilir [6]. Tam iyileşme birkaç ay ya da daha uzun sürebilir [2]; kayıt verilerine dayanan bir analize göre total diz protezlerinin yaklaşık %82'si 25 yıl dayanır [7].",
+   "sections": [
+    {
+     "h": "Diz protezi nedir?",
+     "p": [
+      "Diz protezi ameliyatında (artroplasti) eklemin hasarlı kemik uçları çıkarılır, yerine metal ve plastik parçalar yerleştirilir. En sık yapılan tür total diz protezidir: uyluk kemiğinin alt ucu ile kaval kemiğinin üst ucu değiştirilir, bazı hastalarda diz kapağının arka yüzü de kaplanır [1].",
+      "Kısmi (unikompartmantal) protez, kireçlenme (osteoartrit) dizin yalnızca bir yarısını tuttuğunda kullanılır; kesi daha küçüktür ve iyileşme genellikle daha hızlıdır [1]. NICE, kireçlenmesi dizin iç bölümüyle sınırlı kişilere kısmi ve total protez arasında seçim sunulmasını, her birinin yarar ve risklerinin konuşulmasını önerir [5]."
+     ]
+    },
+    {
+     "h": "Kimlere yapılır?",
+     "p": [
+      "Ameliyat ilk seçenek değildir. NICE'a göre ağrı, sertlik, işlev kaybı ya da ilerleyen şekil bozukluğu yaşam kalitesini belirgin biçimde etkiliyorsa ve egzersiz, kilo verme, ağrı tedavisi gibi ameliyatsız yöntemler yetersiz kalmış ya da uygun değilse protez için yönlendirme düşünülür; karar puanlama sistemleriyle değil, klinik değerlendirmeyle verilir [6]. Ameliyatın önerildiği tipik durumlar şunlardır [4]:"
+     ],
+     "list": [
+      "Yürümeyi, merdiven çıkmayı ve sandalyeden kalkmayı kısıtlayan şiddetli ağrı ya da sertlik",
+      "Dinlenirken, gündüz ya da gece süren ağrı",
+      "Dinlenmeyle ya da ilaçla düzelmeyen süregelen şişlik, dizde içe ya da dışa doğru eğrilik",
+      "İlaç, enjeksiyon ve fizik tedaviden yeterli yarar görülmemesi"
+     ]
+    },
+    {
+     "h": "Ameliyat öncesi değerlendirme ve hazırlık",
+     "p": [
+      "Değerlendirmede yakınmalar ve genel sağlık durumu sorulur, diz muayene edilir ve röntgen çekilir; kan tetkiki ya da MR yalnızca gerektiğinde istenir [4]. Protez dışındaki seçenekler, beklenen yararlar, riskler, ileride yeniden ameliyat gerekebileceği ve anestezi seçenekleri hastayla konuşulmalıdır [5].",
+      "Ameliyattan birkaç hafta önce genel sağlık değerlendirmesi yapılır, gerekli tetkikler istenir; hangi ilaçların kesileceğini cerrah bildirir, büyük diş tedavilerinin önceden tamamlanması önerilir [4]. NICE, ameliyattan önce ve sonra yapılacak egzersizler, kilo kontrolü, beslenme ve sigarayı bırakma konusunda bilgi verilmesini önerir [5]. Evde ilk haftalar için yardım ayarlamak, kayabilecek halıları kaldırmak ve tutunma yerleri hazırlamak işleri kolaylaştırır [4]."
+     ]
+    },
+    {
+     "h": "Ameliyat ve hastanede kalış",
+     "p": [
+      "Ameliyat genel anesteziyle (uyutularak) ya da belden uyuşturmayla (spinal anestezi) yapılır ve genellikle 1–2 saat sürer [1][4].",
+      "NICE'a göre rehabilitasyon mümkünse ameliyat günü, en geç 24 saat içinde başlamalıdır [5]; ilk adımlar koltuk değneği ya da yürüteçle atılır [2]. Pıhtı riskini azaltmak için kompresyon çorabı ve pıhtı önleyici ilaçlar önerilebilir [3][4].",
+      "Hastanede kalış süresi değişir: NHS taburculuğun genellikle ameliyattan 1–4 gün sonra olduğunu belirtir [2]; OrthoInfo bazı hastaların aynı gün, bazılarının bir gece ya da daha uzun kaldıktan sonra evine gittiğini bildirir [4]."
+     ]
+    },
+    {
+     "h": "İyileşme ve fizik tedavi",
+     "p": [
+      "Tam iyileşme birkaç ay ya da daha uzun sürebilir; süre yaşa ve genel sağlık durumuna göre değişir, kısmi protezde genellikle daha kısadır [2]. Taburcu olmadan önce evde yapılacak egzersizler öğretilir [2][5]; günlük işlerde zorlananlara ya da kendi başına hedefine ulaşamayanlara gözetimli rehabilitasyon sunulmalıdır [5]. Kaynakların verdiği süreler genel değerlerdir ve kişiden kişiye değişir:"
+     ],
+     "list": [
+      "Yürüme: önce koltuk değneği ya da yürüteç, sonra tek değnek ve baston; hazır hissedenler yaklaşık 6 hafta sonra desteksiz yürümeyi deneyebilir [2]",
+      "Günlük işler: çoğu günlük etkinliğe 3–6 hafta içinde dönülebilir [4]",
+      "Araba kullanma: NHS total protezde en az 6, kısmi protezde 3 hafta beklenmesini önerir [2]; OrthoInfo çoğu kişinin yaklaşık 4–6 haftada yeniden araba kullandığını belirtir [4]",
+      "İşe dönüş: genellikle 6–12 hafta sonra, işin türüne göre [2]",
+      "Ağır kaldırma ve taşıma gerektiren ev işleri: ilk 3 ay kaçınılır [2]"
+     ]
+    },
+    {
+     "h": "Riskler ve komplikasyonlar",
+     "p": [
+      "Diz protezi sık yapılan ve güvenli bir ameliyattır; çoğu kişide komplikasyon gelişmez, gelişenler çoğunlukla hafif ve tedavi edilebilir niteliktedir. Risk yaşa ve genel sağlık durumuna göre değişir [3]. Başlıca riskler şunlardır:"
+     ],
+     "list": [
+      "Enfeksiyon: yarada ya da protez çevresinde, ameliyattan günler, haftalar, hatta yıllar sonra gelişebilir. Yara enfeksiyonu çoğunlukla antibiyotikle tedavi edilir; derin enfeksiyon yeniden ameliyat gerektirebilir [3][4]",
+      "Kan pıhtısı: bacak toplardamarlarında oluşabilir (derin ven trombozu); akciğere giderse (pulmoner emboli) ciddi sonuçlar doğurabilir [3][4]",
+      "Sertlik: diz yeterince bükülmeyebilir; çoğunlukla fizik tedaviyle düzelir [3][4]",
+      "Süren ağrı: az sayıda hastada ameliyattan sonra da ağrı devam eder [3][4]",
+      "Aşınma ve gevşeme: protez yüzeyleri zamanla aşınabilir, parçalar gevşeyebilir [4]",
+      "Sinir, damar ya da bağ yaralanması: sık görülmez [3][4]"
+     ]
+    },
+    {
+     "h": "Protez ne kadar dayanır?",
+     "p": [
+      "Normal kullanımla her diz protezinin plastik parçası zamanla aşınır; aşırı yüklenme ve fazla kilo bunu hızlandırabilir [4]. 2019'da The Lancet'te yayımlanan ve ulusal protez kayıtlarının verilerini birleştiren bir analizde total diz protezlerinin yaklaşık %82'sinin, kısmi protezlerin yaklaşık %70'inin 25 yıl dayandığı hesaplanmıştır; belirli bir protezin tam olarak ne kadar dayanacağını öngörmek için daha fazla bilgi gerekir [7]. İleride yeniden protez ameliyatı gerekebilir; NHS bunun sık olmadığını belirtir [3]."
+     ]
+    },
+    {
+     "h": "Protezle yaşam",
+     "p": [
+      "Çoğu kişide ağrı belirgin biçimde azalır ve günlük işler kolaylaşır; ancak protez, kireçlenme başlamadan önce yapılabilenlerin ötesine geçmeyi sağlamaz. Dizin tam hareketi çoğu zaman geri gelmez; hastaların çoğu dizini neredeyse tam düzleştirebilir, merdiven çıkacak ve arabaya binecek kadar bükebilir [4].",
+      "Yürüyüş, yüzme, golf, bisiklet ve dans gibi düşük etkili etkinlikler uygundur; çoğu cerrah koşu ve sıçrama içeren sporlardan uzak durulmasını önerir [4]. Diz çökmek bazen rahatsız edebilir ama zararlı değildir [4]; iyileşme döneminde ise hekim izin verene kadar çökülmemelidir [2]. Protezli dizde yeni başlayan ya da artan ağrı, topallama ya da işlev kaybı ortopedi değerlendirmesi gerektirir [5]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Ameliyattan sonra şunlarda gecikmeden bir sağlık kuruluşuna başvurun; enfeksiyon ya da pıhtı belirtisi olabilir [3][4]:"
+     ],
+     "list": [
+      "Ateş, üşüme ya da titreme",
+      "Yaradan akıntı ya da irin gelmesi",
+      "Dizde geçmeyen ya da artan kızarıklık, şişlik, hassasiyet ya da ağrı",
+      "Baldırda artan ağrı ya da şişlik, bacakta zonklayıcı ya da kramp tarzında ağrı",
+      "Ani nefes darlığı ya da göğüs ağrısı (akciğere pıhtı gitmiş olabilir): acil servise başvurun ya da ambulans çağırın"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Diz protezi için yaş sınırı var mı?",
+     "a": "Kesin bir yaş ya da kilo sınırı yoktur; öneri yaşa göre değil, ağrıya ve kısıtlılığa göre yapılır. Ameliyat olanların çoğu 50–80 yaş arasındadır [4]."
+    },
+    {
+     "q": "Hastanede kaç gün kalırım?",
+     "a": "Değişir. NHS genellikle 1–4 gün olduğunu [2], OrthoInfo bazı hastaların aynı gün evine gidebildiğini belirtir [4]."
+    },
+    {
+     "q": "Ne zaman araba kullanabilirim?",
+     "a": "NHS total protezde en az 6 hafta beklenmesini ve hekime danışılmasını önerir [2]; OrthoInfo'ya göre çoğu kişi yaklaşık 4–6 haftada yeniden araba kullanır [4]."
+    },
+    {
+     "q": "Diz protezi kaç yıl dayanır?",
+     "a": "Ulusal kayıt verilerini birleştiren bir analize göre total diz protezlerinin yaklaşık %82'si 25 yıl dayanır [7]."
+    },
+    {
+     "q": "Protezli dizin üzerine çökebilir miyim?",
+     "a": "İyileşme döneminde hekiminiz izin verene kadar çökmeyin [2]. Sonrasında bazen rahatsız edebilir, ancak zararlı değildir [4]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; kısıtlamaları ve zamanlamayı ameliyatı yapan cerrahın talimatları belirler."
+  },
+  "en": {
+   "slug": "knee-replacement-surgery",
+   "title": "Knee replacement surgery: who is it for and what is recovery like?",
+   "description": "Who is knee replacement surgery for and how do you prepare? The operation, hospital stay, physiotherapy, risks, how long an implant lasts and recovery.",
+   "summary": "In a knee replacement the damaged surfaces of the joint are replaced with metal and plastic parts [1]. It is considered when pain and limitation clearly harm quality of life and non-surgical treatment is not enough [6]. Full recovery can take several months or longer [2]; according to an analysis of registry data, about 82% of total knee replacements last 25 years [7].",
+   "sections": [
+    {
+     "h": "What is a knee replacement?",
+     "p": [
+      "In knee replacement surgery (arthroplasty) the damaged ends of the bones in the joint are removed and replaced with metal and plastic parts. The most common type is a total knee replacement: the lower end of the thigh bone and the upper end of the shin bone are replaced, and in some people the back of the kneecap is covered as well [1].",
+      "A partial (unicompartmental) replacement is used when arthritis (osteoarthritis) affects only one half of the knee; the cut is smaller and recovery is usually quicker [1]. NICE recommends offering people whose osteoarthritis is confined to the inner part of the knee a choice between partial and total replacement, with a discussion of the benefits and risks of each [5]."
+     ]
+    },
+    {
+     "h": "Who is it considered for?",
+     "p": [
+      "Surgery is not the first option. According to NICE, referral for joint replacement is considered when pain, stiffness, reduced function or progressive deformity substantially affect quality of life and non-surgical treatment such as exercise, weight loss and pain relief has not been enough or is unsuitable; the decision rests on clinical assessment, not on scoring systems [6]. Typical situations in which the operation is recommended are [4]:"
+     ],
+     "list": [
+      "Severe pain or stiffness that limits walking, climbing stairs and getting up from a chair",
+      "Pain that continues at rest, by day or by night",
+      "Long-standing swelling that does not settle with rest or medicines, or bowing of the knee inwards or outwards",
+      "Too little benefit from medicines, injections and physiotherapy"
+     ]
+    },
+    {
+     "h": "Assessment and getting ready",
+     "p": [
+      "At assessment you are asked about your symptoms and general health, the knee is examined and X-rays are taken; blood tests or an MRI scan are requested only when needed [4]. The alternatives to replacement, expected benefits, risks, the possible need for more surgery in the future and the options for anaesthesia should be discussed with the patient [5].",
+      "A general health check is carried out several weeks before the operation, with any tests that are needed; the surgeon says which medicines to stop, and major dental treatment is best completed beforehand [4]. NICE recommends advice on exercises to do before and after surgery, weight management, diet and stopping smoking [5]. Arranging help at home for the first weeks, removing loose rugs and fitting handrails make things easier [4]."
+     ]
+    },
+    {
+     "h": "The operation and hospital stay",
+     "p": [
+      "The operation is done under a general anaesthetic (asleep) or a spinal anaesthetic (numb from the waist down) and usually takes 1 to 2 hours [1][4].",
+      "According to NICE, rehabilitation should start on the day of surgery if possible and no later than 24 hours afterwards [5]; the first steps are taken with crutches or a walking frame [2]. Compression stockings and anticoagulant medicines may be advised to reduce the risk of blood clots [3][4].",
+      "Length of stay varies: the NHS states that people usually leave hospital 1 to 4 days after the operation [2]; OrthoInfo reports that some patients go home the same day while others stay overnight or longer [4]."
+     ]
+    },
+    {
+     "h": "Recovery and physiotherapy",
+     "p": [
+      "Full recovery can take several months or longer; this varies with age and general health and is usually shorter after a partial replacement [2]. Before you leave hospital you are taught exercises to do at home [2][5]; people who struggle with daily activities, or who are not reaching their goals on their own, should be offered supervised rehabilitation [5]. The time frames given by the sources are general figures and vary from person to person:"
+     ],
+     "list": [
+      "Walking: crutches or a frame at first, then one crutch and a stick; those who feel ready can try walking without an aid after about 6 weeks [2]",
+      "Daily activities: most everyday activities can be resumed within 3 to 6 weeks [4]",
+      "Driving: the NHS advises waiting at least 6 weeks after a total replacement or 3 weeks after a partial one [2]; OrthoInfo states that most people resume driving at about 4 to 6 weeks [4]",
+      "Work: usually after about 6 to 12 weeks, depending on the type of work [2]",
+      "Household tasks that involve heavy lifting or carrying: avoided for the first 3 months [2]"
+     ]
+    },
+    {
+     "h": "Risks and complications",
+     "p": [
+      "Knee replacement is a common and safe operation; most people have no complications, and those that occur are usually minor and treatable. The risk depends on age and general health [3]. The main risks are:"
+     ],
+     "list": [
+      "Infection: this can develop in the wound or around the implant days, weeks or even years after the operation. Wound infection is usually treated with antibiotics; deep infection may need further surgery [3][4]",
+      "Blood clots: a clot can form in the leg veins (deep vein thrombosis); if it travels to the lungs (pulmonary embolism) the consequences can be serious [3][4]",
+      "Stiffness: the knee may not bend well enough; this usually improves with physiotherapy [3][4]",
+      "Persistent pain: a small number of patients continue to have pain after the operation [3][4]",
+      "Wear and loosening: the implant surfaces can wear over time and the components can loosen [4]",
+      "Injury to a nerve, blood vessel or ligament: this is not common [3][4]"
+     ]
+    },
+    {
+     "h": "How long does a knee replacement last?",
+     "p": [
+      "With normal use, the plastic part of every knee replacement wears over time; excessive loading and excess weight can speed this up [4]. An analysis published in The Lancet in 2019, which pooled data from national joint registries, estimated that about 82% of total knee replacements and about 70% of partial replacements last 25 years; more information is needed to predict exactly how long a specific implant will last [7]. Another replacement may be needed later in life; the NHS states that this is not common [3]."
+     ]
+    },
+    {
+     "h": "Living with a knee replacement",
+     "p": [
+      "Most people have much less pain and find everyday activities easier; however, a replacement does not allow you to do more than you could before the arthritis developed. Full movement of the knee often does not return; most patients can straighten the knee almost fully and bend it enough to climb stairs and get in and out of a car [4].",
+      "Low-impact activities such as walking, swimming, golf, cycling and dancing are suitable; most surgeons advise against sports that involve running and jumping [4]. Kneeling is sometimes uncomfortable but is not harmful [4]; during recovery, however, you should not kneel until your doctor says you can [2]. New or worsening pain, a limp or loss of function in a replaced knee needs orthopaedic assessment [5]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "After the operation, seek care without delay if you have any of the following; they can be signs of infection or a blood clot [3][4]:"
+     ],
+     "list": [
+      "A high temperature, chills or shivering",
+      "Oozing or pus from the wound",
+      "Redness, swelling, tenderness or pain in the knee that is not settling or is getting worse",
+      "Increasing pain or swelling in the calf, or throbbing or cramping pain in the leg",
+      "Sudden breathlessness or chest pain (a clot may have travelled to the lungs): go to an emergency department or call an ambulance"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is there an age limit for knee replacement?",
+     "a": "There is no absolute age or weight limit; the recommendation is based on pain and disability rather than age. Most people who have the operation are aged 50 to 80 [4]."
+    },
+    {
+     "q": "How long will I stay in hospital?",
+     "a": "It varies. The NHS states that it is usually 1 to 4 days [2], while OrthoInfo notes that some patients go home the same day [4]."
+    },
+    {
+     "q": "When can I drive?",
+     "a": "The NHS advises waiting at least 6 weeks after a total replacement and checking with your doctor [2]; according to OrthoInfo most people resume driving at about 4 to 6 weeks [4]."
+    },
+    {
+     "q": "How many years does a knee replacement last?",
+     "a": "According to an analysis that pooled national registry data, about 82% of total knee replacements last 25 years [7]."
+    },
+    {
+     "q": "Can I kneel on a replaced knee?",
+     "a": "During recovery, do not kneel until your doctor says you can [2]. Afterwards it is sometimes uncomfortable, but it is not harmful [4]."
+    }
+   ],
+   "note": "This is a general summary; the restrictions and timing are set by the instructions of the surgeon who operated."
+  }
+ }
+}

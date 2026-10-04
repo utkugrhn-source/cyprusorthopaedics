@@ -18,7 +18,7 @@ export type Area = {
 };
 
 export const AREAS_SEGMENT: Record<Lang, string> = { tr: "tedavi", en: "treatments" };
-export const AREAS_UPDATED = "2026-10-03";
+export const AREAS_UPDATED = "2026-10-04";
 
 /** Detailed patient articles live on Dr. Gürhan's personal site; region pages link to them rather than repeat them. */
 const art = (tr: string, en: string): L => ({ tr: `https://utkugurhan.com/tr/blog/${tr}`, en: `https://utkugurhan.com/en/blog/${en}` });
@@ -102,13 +102,13 @@ export const areas: Area[] = [
     },
     conditions: {
       tr: [
-        { n: "Kalça kireçlenmesi (osteoartrit)", d: "Eklem kıkırdağının aşınmasıdır; kasıkta ve uylukta ağrı, sabah tutukluğu ve topallama yapar. Kilo kontrolü, egzersiz ve ağrı tedavisiyle başlanır." },
-        { n: "Kalça protezi", d: "Ameliyatsız tedaviye rağmen ağrı günlük yaşamı kısıtlıyorsa, aşınmış eklem yüzeyleri yapay eklemle değiştirilir." },
+        { n: "Kalça kireçlenmesi (osteoartrit)", d: "Eklem kıkırdağının aşınmasıdır; kasıkta ve uylukta ağrı, sabah tutukluğu ve topallama yapar. Kilo kontrolü, egzersiz ve ağrı tedavisiyle başlanır.", guide: "hip-oa" },
+        { n: "Kalça protezi", d: "Ameliyatsız tedaviye rağmen ağrı günlük yaşamı kısıtlıyorsa, aşınmış eklem yüzeyleri yapay eklemle değiştirilir.", guide: "hip-replacement-recovery" },
         { n: "Yaşlılarda kalça kırığı", d: "Çoğunlukla ev içinde basit bir düşmeyle olur ve hemen her zaman ameliyat gerektirir. Amaç hastayı en kısa sürede yeniden ayağa kaldırmaktır.", more: art("yaslilarda-kalca-kirigi", "hip-fracture-in-older-adults") },
       ],
       en: [
-        { n: "Hip arthritis (osteoarthritis)", d: "Wear of the joint cartilage, causing pain in the groin and thigh, morning stiffness and a limp. Treatment starts with weight control, exercise and pain relief." },
-        { n: "Hip replacement", d: "When pain still restricts daily life despite non-surgical treatment, the worn joint surfaces are replaced with an artificial joint." },
+        { n: "Hip arthritis (osteoarthritis)", d: "Wear of the joint cartilage, causing pain in the groin and thigh, morning stiffness and a limp. Treatment starts with weight control, exercise and pain relief.", guide: "hip-oa" },
+        { n: "Hip replacement", d: "When pain still restricts daily life despite non-surgical treatment, the worn joint surfaces are replaced with an artificial joint.", guide: "hip-replacement-recovery" },
         { n: "Hip fracture in older adults", d: "Usually follows a simple fall at home and almost always needs an operation. The aim is to get the patient back on their feet as soon as possible.", more: art("yaslilarda-kalca-kirigi", "hip-fracture-in-older-adults") },
       ],
     },
@@ -130,14 +130,14 @@ export const areas: Area[] = [
         { n: "Menisküs yırtığı", d: "Dizde dönme hareketi sonrası ağrı, şişlik, takılma ve kilitlenme yapar. Yırtığın tipine ve yaşa göre egzersiz, artroskopik onarım ya da yırtık parçanın alınması seçilir.", more: art("menisku-yirtigi", "meniscus-tear") },
         { n: "Ön çapraz bağ yaralanması", d: "Ani yön değiştirme ya da sıçrama sonrası dizde boşalma hissi ve şişlikle ortaya çıkar. Aktivite düzeyine ve dizdeki güvensizlik hissine göre rehabilitasyon ya da artroskopik bağ rekonstrüksiyonu yapılır.", more: art("on-capraz-bag-yirtigi", "acl-tear") },
         { n: "Diz kireçlenmesi", d: "Merdiven inip çıkarken ve uzun yürüyüşte ağrı, tutukluk ve şişlik yapar. Egzersiz, kilo kontrolü ve eklem içi enjeksiyonlar ilk basamaktır.", more: art("diz-kireclenmesi", "knee-osteoarthritis") },
-        { n: "Diz protezi", d: "İleri kireçlenmede, diğer tedavilerle ağrı kontrol edilemediğinde aşınmış eklem yüzeyleri protezle değiştirilir." },
+        { n: "Diz protezi", d: "İleri kireçlenmede, diğer tedavilerle ağrı kontrol edilemediğinde aşınmış eklem yüzeyleri protezle değiştirilir.", guide: "knee-replacement" },
         { n: "Diz çevresi kırıkları", d: "Diz kapağı, uyluk kemiğinin alt ucu ve kaval kemiğinin üst ucundaki kırıklar eklem yüzünü ilgilendirdiğinde çoğunlukla ameliyatla tespit edilir." },
       ],
       en: [
         { n: "Meniscal tear", d: "Pain, swelling, catching and locking after a twisting movement of the knee. Depending on the type of tear and the patient’s age, treatment is exercise, arthroscopic repair or removal of the torn fragment.", more: art("menisku-yirtigi", "meniscus-tear") },
         { n: "Anterior cruciate ligament injury", d: "Follows a sudden change of direction or a jump, with the knee giving way and swelling. Depending on activity level and how unstable the knee feels, treatment is rehabilitation or arthroscopic ligament reconstruction.", more: art("on-capraz-bag-yirtigi", "acl-tear") },
         { n: "Knee arthritis", d: "Pain, stiffness and swelling on stairs and on long walks. Exercise, weight control and injections into the joint are the first steps.", more: art("diz-kireclenmesi", "knee-osteoarthritis") },
-        { n: "Knee replacement", d: "In advanced arthritis, when pain cannot be controlled by other treatment, the worn joint surfaces are replaced with a prosthesis." },
+        { n: "Knee replacement", d: "In advanced arthritis, when pain cannot be controlled by other treatment, the worn joint surfaces are replaced with a prosthesis.", guide: "knee-replacement" },
         { n: "Fractures around the knee", d: "Fractures of the kneecap, the lower end of the thigh bone and the upper end of the shin bone are usually fixed surgically when they involve the joint surface." },
       ],
     },
