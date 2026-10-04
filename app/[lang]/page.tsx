@@ -155,11 +155,12 @@ export default function Home({ params }: { params: { lang: string } }) {
         </section>
 
         {/* theatre photographs */}
-        <div className="wrap grid gap-4 pb-24 sm:grid-cols-3 md:gap-8 md:pb-36">
+        {/* on a phone the film leads at full width and the two photographs sit side by side under it */}
+        <div className="wrap grid grid-cols-2 gap-4 pb-24 sm:grid-cols-3 md:gap-8 md:pb-36">
           {(["or-2", "video", "or-3"] as const).map((f, i) => (
-            <div key={f} className={`zoom r-media relative aspect-[4/5] overflow-hidden bg-mist ${i === 1 ? "sm:mt-16" : ""}`} data-clip={i}>
+            <div key={f} className={`zoom r-media relative aspect-[4/5] overflow-hidden bg-mist ${i === 1 ? "order-first col-span-2 sm:order-none sm:col-span-1 sm:mt-16" : ""}`} data-clip={i}>
               {f === "video" ? (
-                <LazyVideo className="h-full w-full object-cover" src="/video/ameliyathane.mp4" poster="/video/ameliyathane.jpg" label={t.photos[i]} />
+                <LazyVideo className="h-full w-full object-cover" src="/video/ameliyathane.mp4" poster="/video/ameliyathane.jpg" label={t.photos[i]} play={t.reel.play} />
               ) : (
                 // eslint-disable-next-line @next/next/no-img-element
                 <img src={`/img/${f}.jpg`} alt={t.photos[i]} loading="lazy" className="h-full w-full object-cover" />
