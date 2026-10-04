@@ -7,8 +7,8 @@ import Reel from "@/components/Reel";
 import LazyVideo from "@/components/LazyVideo";
 import Papers from "@/components/Papers";
 import { JOURNAL_COVERS } from "@/lib/journals";
-import { ui, type Lang, PHONE, PHONE_HREF, APPT, MAPS, DOCTORS_SEGMENT, SITE } from "@/lib/site";
-import { doctors } from "@/lib/doctors";
+import { ui, type Lang, PHONE, PHONE_HREF, APPT, MAPS, DOCTORS_SEGMENT, SITE, alts, hreflangs, num } from "@/lib/site";
+import { doctors, docName } from "@/lib/doctors";
 import { areas, areaUrl } from "@/lib/areas";
 import type { Metadata } from "next";
 import { share } from "@/lib/seo";
@@ -17,7 +17,7 @@ import { faq, faqUi } from "@/lib/faq";
 export function generateMetadata({ params }: { params: { lang: string } }): Metadata {
   const lang = params.lang as Lang; const m = ui[lang]?.meta;
   if (!m) return {};
-  return { alternates: { canonical: `${SITE}/${lang}`, languages: { tr: `${SITE}/tr`, en: `${SITE}/en`, "x-default": `${SITE}/tr` } }, ...share(lang, `/${lang}`, m.title, m.desc) };
+  return { alternates: { canonical: `${SITE}/${lang}`, languages: hreflangs((l) => `/${l}`) }, ...share(lang, `/${lang}`, m.title, m.desc) };
 }
 
 export default function Home({ params }: { params: { lang: string } }) {
@@ -41,7 +41,7 @@ export default function Home({ params }: { params: { lang: string } }) {
     <>
       <JsonLd lang={lang} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
-      <Nav lang={lang} t={t} alt={{ tr: "/tr", en: "/en" }} tone="turq" />
+      <Nav lang={lang} t={t} alt={alts((l) => `/${l}`)} tone="turq" />
       <main>
         {/* hero: the seal's own colour as the field */}
         <section data-hero className="relative bg-turq pt-[9.5rem] md:pt-[11.5rem]">
@@ -91,7 +91,7 @@ export default function Home({ params }: { params: { lang: string } }) {
             {t.areas.items.map((r, i) => (
               <li key={r.t} className="row border-t border-line">
                 <Link href={areaUrl(lang, areas[i])} className="group grid gap-2 px-3 py-7 md:grid-cols-[1fr_1.4fr] md:gap-16 md:px-5 md:py-9">
-                  <h3 className="h3 row-t flex items-baseline gap-4"><span className="row-n">{String(i + 1).padStart(2, "0")}</span>{r.t}<span aria-hidden className="text-turq transition-transform duration-300 group-hover:translate-x-1.5">→</span></h3>
+                  <h3 className="h3 row-t flex items-baseline gap-4"><span className="row-n">{num(String(i + 1).padStart(2, "0"), lang)}</span>{r.t}<span aria-hidden className="text-turq transition-transform duration-300 group-hover:translate-x-1.5 rtl:-scale-x-100 rtl:group-hover:-translate-x-1.5">→</span></h3>
                   <p className="body text-slate" style={{ fontWeight: 400 }}>{r.d}</p>
                 </Link>
               </li>
@@ -104,7 +104,7 @@ export default function Home({ params }: { params: { lang: string } }) {
             <p className="body text-slate" style={{ fontWeight: 400 }}>{t.plan.p}</p>
           </div>
           </div>
-          <div className="mt-10 md:mt-14"><Reel items={plan} labels={t.reel} /></div>
+          <div className="mt-10 md:mt-14"><Reel items={plan} labels={t.reel} lang={lang} /></div>
         </section>
 
         {/* doctors */}
@@ -117,11 +117,11 @@ export default function Home({ params }: { params: { lang: string } }) {
             <div className="mt-14 grid gap-12 md:mt-20 md:grid-cols-3 md:gap-8" data-stagger>
               {doctors.map((d, i) => (
                 <Link key={d.id} href={`/${lang}/${seg}/${d.slug}`} className="group block">
-                  <Portrait d={d} pending={t.doctors.photoPending} delay={i} />
+                  <Portrait d={d} name={docName(d, lang)} pending={t.doctors.photoPending} delay={i} />
                   <p className="mt-6 text-[0.95rem] text-tide" style={{ fontWeight: 500 }}>{d.title[lang]}</p>
-                  <h3 className="h3 mt-1 group-hover:underline decoration-turq decoration-[3px] underline-offset-[6px]">{d.name}</h3>
+                  <h3 className="h3 mt-1 group-hover:underline decoration-turq decoration-[3px] underline-offset-[6px]">{docName(d, lang)}</h3>
                   <p className="small mt-3 text-slate" style={{ fontWeight: 400 }}>{d.school[lang]}<br />{d.line[lang]}</p>
-                  <span className="link small mt-4 inline-block" style={{ fontWeight: 500 }}>{t.doctors.profile} <span aria-hidden className="inline-block transition-transform duration-300 group-hover:translate-x-1">→</span></span>
+                  <span className="link small mt-4 inline-block" style={{ fontWeight: 500 }}>{t.doctors.profile} <span aria-hidden className="inline-block transition-transform duration-300 group-hover:translate-x-1 rtl:-scale-x-100 rtl:group-hover:-translate-x-1">→</span></span>
                 </Link>
               ))}
             </div>
@@ -146,7 +146,7 @@ export default function Home({ params }: { params: { lang: string } }) {
             {t.process.steps.map((s, i) => (
               <li key={s.t}>
                 <span className="step-line" />
-                <span className="mt-6 block font-seal text-5xl font-medium text-tide">{i + 1}</span>
+                <span className="mt-6 block font-seal text-5xl font-medium text-tide">{num(i + 1, lang)}</span>
                 <h3 className="mt-4 text-[1.3rem]" style={{ fontWeight: 500, letterSpacing: "-0.02em" }}>{s.t}</h3>
                 <p className="mt-3 text-[1rem] leading-relaxed text-slate" style={{ fontWeight: 400 }}>{s.d}</p>
               </li>
@@ -171,7 +171,7 @@ export default function Home({ params }: { params: { lang: string } }) {
 
         {/* university */}
         <section className="on-deep relative overflow-hidden bg-deep py-24 text-white md:py-36">
-          <div className="pointer-events-none absolute -right-72 top-1/2 hidden w-[44rem] -translate-y-1/2 opacity-[0.09] lg:block" aria-hidden="true">
+          <div className="pointer-events-none absolute -right-72 rtl:-left-72 rtl:right-auto top-1/2 hidden w-[44rem] -translate-y-1/2 opacity-[0.09] lg:block" aria-hidden="true">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src="/brand/seal.svg" alt="" loading="lazy" className="w-full" data-turn />
           </div>
@@ -180,7 +180,7 @@ export default function Home({ params }: { params: { lang: string } }) {
             <div data-stagger>
               <p className="lead">{t.uni.p1}</p>
               <p className="lead mt-5">{t.uni.p2}</p>
-              <div className="mt-10 border-l-[3px] border-turq pl-6">
+              <div className="mt-10 border-s-[3px] border-turq ps-6">
                 <p className="small text-turq" style={{ fontWeight: 500 }}>{t.uni.paperLead}</p>
                 <div className="mt-2"><Papers items={papers} /></div>
               </div>
@@ -214,7 +214,7 @@ export default function Home({ params }: { params: { lang: string } }) {
               {questions.map((x) => (
                 <details key={x.q} className="faq border-t border-line">
                   <summary><h3 className="text-[1.15rem] md:text-[1.3rem]" style={{ fontWeight: 500, letterSpacing: "-0.01em" }}>{x.q}</h3><span aria-hidden className="faq-mark" /></summary>
-                  <div className="pb-7 md:pr-14">
+                  <div className="pb-7 md:pe-14">
                     <p className="text-slate" style={{ fontWeight: 400 }}>{x.a}</p>
                     {x.link && <p className="mt-3" style={{ fontWeight: 500 }}><Link className="link" href={x.link.href}>{x.link.label}</Link></p>}
                   </div>
@@ -230,7 +230,7 @@ export default function Home({ params }: { params: { lang: string } }) {
             <h2 className="h2">{t.route.h}</h2>
             <p className="lead">{t.route.p}</p>
           </div>
-          <div className="mt-14 md:mt-20"><Reel items={route} labels={t.reel} /></div>
+          <div className="mt-14 md:mt-20"><Reel items={route} labels={t.reel} lang={lang} /></div>
         </section>
 
         {/* contact: the phone number is the page's last large element */}

@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import { useState } from "react";
-import { LANGS, type Lang, type Ui } from "@/lib/site";
+import { LANGS, LANG_NAME, type Lang, type Ui } from "@/lib/site";
 import { areas, areaUrl, procedures } from "@/lib/areas";
 
 export default function Nav({ lang, t, alt, tone }: { lang: Lang; t: Ui; alt: Record<Lang, string>; tone: "turq" | "white" }) {
@@ -46,7 +46,7 @@ export default function Nav({ lang, t, alt, tone }: { lang: Lang; t: Ui; alt: Re
         <nav className="hidden items-center gap-8 whitespace-nowrap xl:flex" aria-label={t.nav.menu}>
           {links.map((x) => (<Link key={x.h} href={x.h} className="text-[0.95rem] hover:underline decoration-2 underline-offset-8" style={{ fontWeight: 400 }}>{x.l}</Link>))}
           <span className="flex items-center gap-1 text-[0.9rem]" style={{ fontWeight: 400 }}>
-            {LANGS.map((l, i) => (<span key={l} className="flex items-center gap-1">{i > 0 && <span aria-hidden="true">/</span>}<Link href={alt[l]} lang={l} aria-current={l === lang ? "true" : undefined} className={l === lang ? "underline decoration-2 underline-offset-8" : "opacity-70 hover:opacity-100"}>{l.toUpperCase()}</Link></span>))}
+            {LANGS.map((l, i) => (<span key={l} className="flex items-center gap-1">{i > 0 && <span aria-hidden="true">/</span>}<Link href={alt[l]} lang={l} title={LANG_NAME[l]} aria-current={l === lang ? "true" : undefined} className={l === lang ? "underline decoration-2 underline-offset-8" : "opacity-70 hover:opacity-100"}>{l.toUpperCase()}</Link></span>))}
           </span>
           <Link href={`${home}#iletisim`} className="btn-deep !py-3">{t.nav.book}</Link>
         </nav>
@@ -57,8 +57,8 @@ export default function Nav({ lang, t, alt, tone }: { lang: Lang; t: Ui; alt: Re
           <div className="flex flex-col gap-4">
             {links.map((x) => (<Link key={x.h} href={x.h} onClick={() => setOpen(false)} className="h3">{x.l}</Link>))}
           </div>
-          <div className="mt-6 flex items-center gap-4 border-t border-line pt-5">
-            {LANGS.map((l) => (<Link key={l} href={alt[l]} lang={l} className={`rounded-full border px-4 py-2 text-sm ${l === lang ? "border-deep bg-deep text-white" : "border-line"}`}>{l === "tr" ? "Türkçe" : "English"}</Link>))}
+          <div className="mt-6 flex flex-wrap items-center gap-3 border-t border-line pt-5">
+            {LANGS.map((l) => (<Link key={l} href={alt[l]} lang={l} className={`rounded-full border px-4 py-2 text-sm ${l === lang ? "border-deep bg-deep text-white" : "border-line"}`}>{LANG_NAME[l]}</Link>))}
           </div>
         </div>
       )}

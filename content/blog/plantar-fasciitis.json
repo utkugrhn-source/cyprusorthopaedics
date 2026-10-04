@@ -1,0 +1,559 @@
+{
+ "id": "plantar-fasciitis",
+ "area": "ayak-bilek",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Plantar fasciitis",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/plantar-fasciitis/",
+   "year": "2025"
+  },
+  {
+   "title": "Plantar Fasciitis and Bone Spurs",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/plantar-fasciitis-and-bone-spurs/",
+   "year": "n.d."
+  },
+  {
+   "title": "Heel Pain - Plantar Fasciitis: Revision 2023",
+   "publisher": "Journal of Orthopaedic & Sports Physical Therapy (Koc TA Jr, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38037331/",
+   "year": "2023"
+  },
+  {
+   "title": "Injected corticosteroids for treating plantar heel pain in adults",
+   "publisher": "Cochrane Database of Systematic Reviews (David JA, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28602048/",
+   "year": "2017"
+  },
+  {
+   "title": "Extracorporeal shockwave therapy for refractory plantar fasciitis (IPG311)",
+   "publisher": "National Institute for Health and Care Excellence (NICE)",
+   "url": "https://www.nice.org.uk/guidance/ipg311",
+   "year": "2009"
+  },
+  {
+   "title": "Heel pain",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/",
+   "year": "2025"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "topuk-dikeni-plantar-fasiit",
+   "title": "Topuk dikeni ve plantar fasiit: topuk ağrısı neden olur, nasıl geçer?",
+   "description": "Topuk dikeni ve topuk ağrısı (plantar fasiit) neden olur? Sabah ilk adım ağrısı, germe egzersizleri, tabanlık, iğne, şok dalga tedavisi ve ameliyat.",
+   "summary": "Plantar fasiit, topuk kemiğini ayak parmaklarına bağlayan taban bandının (plantar fasya) zorlanmasıyla gelişir ve topuk altında, özellikle sabah ilk adımlarda ağrı yapar [1][2]. Röntgende görülen topuk dikeni, plantar fasiit ağrısının nedeni değildir [2]. Hastaların yüzde 90'ından fazlası germe egzersizleri, uygun ayakkabı ve tabanlık gibi basit önlemlerle 10 ay içinde düzelir; ameliyat nadiren gerekir [1][2].",
+   "sections": [
+    {
+     "h": "Plantar fasiit ve topuk dikeni nedir?",
+     "p": [
+      "Plantar fasya, ayak tabanında derinin hemen altında uzanan, topuk kemiğini ayağın ön kısmına bağlayan ve ayak kemerini destekleyen uzun, ince bir bağ dokusudur [2]. Bu dokunun zorlanmasıyla ortaya çıkan ve ayak tabanında, topuk ile ayak kemeri çevresinde ağrı yapan duruma plantar fasiit denir [1]. Topuk altı ağrısının en sık nedenlerinden biridir [2].",
+      "Bu ağrı halk arasında çoğu zaman \"topuk dikeni\" olarak adlandırılır. Topuk dikeni, röntgende topuk kemiğinde görülebilen kemik çıkıntısıdır [2]. Ancak topuğunda kemik çıkıntısı olan kişilerin çoğunda topuk ağrısı yoktur ve plantar fasiit ağrısının nedeni bu çıkıntı değildir; bu yüzden ağrı, çıkıntı alınmadan tedavi edilebilir [2]."
+     ]
+    },
+    {
+     "h": "Nasıl yakınmalar verir?",
+     "p": [
+      "Ağrı çoğunlukla yavaş başlar ve genellikle ayakta geçirilen sürede ya da etkinlik düzeyinde bir değişiklikle ilişkilidir [3]. Şu özellikler plantar fasiiti düşündürür [1][2]:"
+     ],
+     "list": [
+      "Uyuduktan ya da dinlendikten sonra yürümeye başlarken ağrının çok daha fazla olması; sabah yataktan kalkınca atılan ilk adımlar tipiktir",
+      "Ağrının hareketle azalması, ancak uzun süre ayakta durma, yürüme ya da koşmayla yeniden artması",
+      "Ayak tabanı gerildiğinde, örneğin ayak parmaklarını yerden kaldırırken ya da merdiven çıkarken ağrı olması",
+      "Ağrının egzersiz sırasında değil, egzersiz ya da etkinlikten sonra artması"
+     ]
+    },
+    {
+     "h": "Kimlerde görülür?",
+     "p": [
+      "En sık 40–60 yaş arasında görülür [1][2][3]. Riski artıran başlıca etkenler şunlardır [1][2][3]:"
+     ],
+     "list": [
+      "Yeni başlanan ya da kısa sürede artırılan etkinlik, özellikle sert zeminde egzersiz",
+      "Koşu ve dans gibi tekrarlayan, darbeli etkinlikler",
+      "İş gereği sert zeminde uzun süre ayakta durma ya da yürüme",
+      "Baldır kaslarının gergin, ayak bileğinin yukarı doğru hareketinin kısıtlı olması",
+      "Fazla kilo",
+      "Düztabanlık ya da ayak kemerinin yüksek olması",
+      "Yastıklaması ve desteği yetersiz ayakkabılar"
+     ]
+    },
+    {
+     "h": "Tanı nasıl konur?",
+     "p": [
+      "Tanı çoğunlukla öykü ve muayeneyle konur; ayak tabanında topuk kemiğinin hemen önündeki hassasiyete ve ayak bileğinin yukarı doğru hareketindeki kısıtlılığa bakılır, benzer ağrı yapabilecek başka durumlar da araştırılır [2][3].",
+      "Muayene bulguları tipikse görüntüleme genellikle gerekmez; ameliyatsız tedaviden sonuç alınamadığında gündeme gelir [3]. Röntgen kemikleri gösterir ve kırık ya da eklem kireçlenmesi gibi başka topuk ağrısı nedenlerini dışlamaya yarar; MR ve ultrason tanı için rutin olarak kullanılmaz, nadiren istenir [2]."
+     ]
+    },
+    {
+     "h": "İlk basamak tedavi: germe, ayakkabı ve yükü azaltmak",
+     "p": [
+      "Plantar fasiitli hastaların yüzde 90'ından fazlası, basit tedavi yöntemlerine başladıktan sonra 10 ay içinde düzelir [2].",
+      "Amerikan Fizik Tedavi Derneği (APTA) kılavuzu, ayak tabanına ve baldır kaslarına yönelik germenin kısa ve uzun vadede ağrıyı azalttığını ve işlevi iyileştirdiğini güçlü kanıta dayanarak bildirir [3]. Ayak tabanı germesinin sabah, ayağa kalkmadan ya da yürümeden önce yapılması önerilir [2].",
+      "Tabanlıklar için kanıt daha sınırlıdır: aynı kılavuz, hazır ya da kişiye özel tabanlığın kısa süreli ağrı giderme amacıyla tek başına kullanılmasını önermez, diğer tedavilerle birlikte kullanılabileceğini belirtir [3]. Ağrı kesici gerekiyorsa hangisinin uygun olduğu eczacıya ya da hekime sorulabilir [1].",
+      "Evde uygulanabilecek başlıca önlemler şunlardır [1][2]:"
+     ],
+     "list": [
+      "Ağrıyı artıran etkinlikleri azaltmak ya da bir süre bırakmak; uzun süre ayakta durmaktan ve yürümekten kaçınmak",
+      "Baldır kaslarını ve ayak tabanını germeye yönelik düzenli egzersizler",
+      "Topuğu yastıklayan ve ayak kemerini iyi destekleyen ayakkabılar; yüksek topuklu, dar ve sivri burunlu ayakkabılardan ve arkası açık terliklerden kaçınmak; sert zeminde çıplak ayakla yürümemek",
+      "Ayakkabı içine tabanlık ya da topuk yastığı",
+      "Ağrılı bölgeye havluya sarılı buz torbasını 2–3 saatte bir, 20 dakikaya kadar uygulamak",
+      "Yüzme gibi ayağa yük bindirmeyen egzersizler",
+      "Fazla kilo varsa kilo vermek"
+     ]
+    },
+    {
+     "h": "Diğer tedaviler: gece ateli, fizyoterapi, iğneler ve şok dalga",
+     "p": [
+      "Gece ateli, uyku sırasında ayak tabanını gergin tutar [2]. APTA kılavuzu, sabah ilk adımda sürekli olarak ağrısı olan kişilerde 1–3 ay süreyle kullanılmasını önerir [3].",
+      "Fizyoterapist, yakınmaları hafifletecek egzersizleri gösterir [1]; kılavuz, germeye ek olarak elle uygulanan tedavileri (manuel terapi) ve güçlendirme egzersizlerini de önerir [3].",
+      "Kortizon (steroid) iğnesi, sunulabilecek diğer tedaviler arasındadır [1]. Bir Cochrane derlemesi, steroid iğnesinin plaseboya ya da tedavi uygulanmamasına kıyasla topuk ağrısını bir aya kadar hafifçe azaltabileceğine, ancak sonrasında fark yaratmadığına ilişkin düşük kaliteli kanıt bulmuştur; ciddi yan etkiler nadirdir, ancak yeterince bildirilmemiştir [4]. Steroid iğnesi plantar fasyayı zayıflatıp yırtılmasına yol açabilir; bu da ayak kemerinin çökmesine ve süregen ağrıya neden olabilir [2].",
+      "Vücut dışından şok dalga tedavisinde (ESWT) bir cihazla ağrılı bölgeye ses dalgaları uygulanır; amaç dokunun iyileşmesini uyarmaktır [5]. NICE, diğer tedavilere yanıt vermeyen plantar fasiitte bu yöntemin güvenliği konusunda önemli bir kaygı bulunmadığını, ancak etkinliğine ilişkin kanıtların tutarsız olduğunu belirtmiş ve hastaların bu belirsizlik konusunda bilgilendirilmesini istemiştir [5]. Amerikan Ortopedi Cerrahları Akademisi (AAOS) de sonuçların karışık olduğunu ve yöntemin bu nedenle yaygın olarak uygulanmadığını bildirir [2].",
+      "Trombositten zengin plazma (PRP), kişinin kendi kanından elde edilir ve plantar fasyaya enjekte edilir [2]. Kortizon iğnesiyle aynı yırtılma riskini taşımaz; ancak pahalı olabilir ve etkinliğini belirlemek için daha fazla araştırmaya ihtiyaç vardır [2]."
+     ]
+    },
+    {
+     "h": "Ameliyat",
+     "p": [
+      "Hastaların büyük çoğunluğu ameliyatsız düzeldiği için ameliyat nadiren gerekir; genellikle 12 ay boyunca yoğun biçimde uygulanan ameliyatsız tedaviye rağmen düzelmeyen kişiler için saklanır [1][2].",
+      "İki tür girişim vardır: plantar fasyanın topuk kemiğine yapıştığı yerde kısmen kesilerek gevşetilmesi ve germe egzersizlerine rağmen ayak bileğini yukarı çekmekte güçlüğü süren hastalarda baldır kasının uzatılması [2]. Kemik çıkıntısı ağrının nedeni olmadığı için genellikle alınmaz [2].",
+      "Çoğu hastada sonuç iyidir; ancak ameliyat süregen ağrı ve memnuniyetsizlikle de sonuçlanabildiği için yalnızca ameliyatsız yöntemlerin tümü denendikten sonra önerilir [2]."
+     ]
+    },
+    {
+     "h": "Ne kadar sürer, ne beklenmeli?",
+     "p": [
+      "Plantar fasiit çoğu kişide ameliyatsız yöntemlerle düzelir, ancak bu aylar sürebilir [2]. Evde uygulanan önlemlere rağmen ağrı iki hafta içinde azalmıyorsa, kötüleşiyor ya da tekrarlıyorsa, şiddetliyse ya da günlük işleri engelliyorsa hekime başvurmak yerinde olur [1]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Her topuk ağrısı plantar fasiit değildir. Şu durumlarda beklemeden bir sağlık kuruluşuna başvurun; ilk dört durum kırık ya da Aşil tendonu kopması gibi bir yaralanmanın belirtisi olabilir [1][6]:"
+     ],
+     "list": [
+      "Bir yaralanmadan sonra şiddetli topuk ağrısı başladıysa",
+      "Yaralanma sırasında kopma, çıtırtı ya da \"pat\" sesi duyduysanız",
+      "Yürüyemiyor, parmak ucunda yürüyemiyor ya da merdiven çıkamıyorsanız",
+      "Ayağın ya da ayak bileğinin şekli değiştiyse veya baldır ve ayak bileğinde şişlik ve morarma varsa",
+      "Ayakta karıncalanma ya da his kaybı varsa",
+      "Şeker hastalığınız (diyabet) varsa ve ayağınız ağrıyorsa; diyabette ayak sorunları daha ciddi seyredebilir"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Topuk dikeni ameliyatla alınmalı mı?",
+     "a": "Genellikle hayır. Topuğunda kemik çıkıntısı olanların çoğunda ağrı yoktur ve plantar fasiit ağrısının nedeni çıkıntı değildir; ağrı, çıkıntı alınmadan tedavi edilebilir [2]."
+    },
+    {
+     "q": "Topuk ağrısı ne kadar sürede geçer?",
+     "a": "Hastaların yüzde 90'ından fazlası basit tedavi yöntemlerine başladıktan sonra 10 ay içinde düzelir [2]. Evde tedaviyle iki hafta içinde düzelme olmazsa hekime başvurmanız önerilir [1]."
+    },
+    {
+     "q": "Röntgen ya da MR çektirmem gerekir mi?",
+     "a": "Çoğu zaman gerekmez; tanı muayeneyle konur ve görüntüleme genellikle tedaviden sonuç alınamadığında istenir [3]. Röntgen kırık gibi başka nedenleri dışlamaya yarar; MR ve ultrason rutin olarak kullanılmaz [2]."
+    },
+    {
+     "q": "Kortizon iğnesi işe yarar mı?",
+     "a": "Ağrıyı bir aya kadar hafifçe azaltabilir, ancak sonrasında fark yaratmadığı gösterilmiştir; bu konudaki kanıt düşük kalitelidir [4]. İğne plantar fasyayı zayıflatıp yırtılmasına yol açabilir [2]."
+    },
+    {
+     "q": "Şok dalga tedavisi (ESWT) ya da PRP yaptırmalı mıyım?",
+     "a": "İkisi için de kanıt kesin değildir. NICE, şok dalga tedavisinin etkinliğine ilişkin kanıtların tutarsız olduğunu belirtir [5]; AAOS de PRP'nin etkinliğini belirlemek için daha fazla araştırma gerektiğini bildirir [2]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "plantar-fasciitis-heel-pain",
+   "title": "Heel spurs and plantar fasciitis: what causes heel pain and how does it settle?",
+   "description": "What causes heel pain and heel spurs (plantar fasciitis)? First-step pain in the morning, stretching, insoles, injections, shock-wave therapy and surgery.",
+   "summary": "Plantar fasciitis develops when the band of tissue that connects the heel bone to the toes (the plantar fascia) is strained, and it causes pain under the heel, especially with the first steps in the morning [1][2]. The heel spur seen on an X-ray is not the cause of plantar fasciitis pain [2]. More than 90% of patients improve within 10 months with simple measures such as stretching exercises, suitable shoes and insoles; surgery is rarely needed [1][2].",
+   "sections": [
+    {
+     "h": "What are plantar fasciitis and a heel spur?",
+     "p": [
+      "The plantar fascia is a long, thin band of ligament tissue that lies just beneath the skin on the sole of the foot, connects the heel bone to the front of the foot and supports the arch [2]. Plantar fasciitis is the condition that arises when this tissue is strained, causing pain on the bottom of the foot around the heel and arch [1]. It is one of the commonest causes of pain under the heel [2].",
+      "In everyday language this pain is often called a \"heel spur\". A heel spur is a bony outgrowth on the heel bone that can be seen on an X-ray [2]. However, most people who have a bony spur on the heel have no heel pain, and the spur is not the cause of plantar fasciitis pain; the pain can therefore be treated without removing the spur [2]."
+     ]
+    },
+    {
+     "h": "What symptoms does it cause?",
+     "p": [
+      "Pain usually comes on gradually and is generally linked to a change in the time spent on your feet or in your level of activity [3]. The following features suggest plantar fasciitis [1][2]:"
+     ],
+     "list": [
+      "Pain that is much worse when you start walking after sleeping or resting; the first steps after getting out of bed in the morning are typical",
+      "Pain that eases with movement but increases again with long periods of standing, walking or running",
+      "Pain when the sole of the foot is stretched, for example when raising your toes off the floor or climbing stairs",
+      "Pain that increases after exercise or activity rather than during it"
+     ]
+    },
+    {
+     "h": "Who gets it?",
+     "p": [
+      "It is most common between the ages of 40 and 60 [1][2][3]. The main factors that increase the risk are [1][2][3]:"
+     ],
+     "list": [
+      "Activity that is new or has been increased over a short time, especially exercise on hard surfaces",
+      "Repetitive high-impact activities such as running and dancing",
+      "Standing or walking for long periods on hard surfaces at work",
+      "Tight calf muscles and limited upward movement of the ankle",
+      "Excess weight",
+      "Flat feet or a high arch",
+      "Shoes with poor cushioning and support"
+     ]
+    },
+    {
+     "h": "How is it diagnosed?",
+     "p": [
+      "The diagnosis is usually made from your history and examination; this checks for tenderness on the sole just in front of the heel bone and for limitation in bending the ankle upwards, and looks for other conditions that can cause similar pain [2][3].",
+      "If the examination findings are typical, imaging is usually not needed; it is considered when non-surgical treatment has not worked [3]. X-rays show the bones and help rule out other causes of heel pain such as a fracture or arthritis; MRI and ultrasound are not used routinely for diagnosis and are rarely requested [2]."
+     ]
+    },
+    {
+     "h": "First-line treatment: stretching, footwear and reducing load",
+     "p": [
+      "More than 90% of patients with plantar fasciitis improve within 10 months of starting simple treatment methods [2].",
+      "The American Physical Therapy Association (APTA) guideline reports, on strong evidence, that stretching of the sole of the foot and the calf muscles reduces pain and improves function in the short and long term [3]. The stretch for the sole of the foot is best done in the morning, before standing or walking [2].",
+      "The evidence for insoles is more limited: the same guideline does not recommend ready-made or custom-made insoles on their own for short-term pain relief, and states that they may be used together with other treatments [3]. If a painkiller is needed, a pharmacist or doctor can be asked which one is suitable [1].",
+      "The main measures that can be applied at home are [1][2]:"
+     ],
+     "list": [
+      "Reducing, or stopping for a while, the activities that make the pain worse; avoiding long periods of standing and walking",
+      "Regular exercises to stretch the calf muscles and the sole of the foot",
+      "Shoes that cushion the heel and support the arch well; avoiding high heels, tight pointed shoes and backless slippers; not walking barefoot on hard surfaces",
+      "Insoles or heel pads inside the shoes",
+      "An ice pack wrapped in a towel on the painful area for up to 20 minutes every 2 to 3 hours",
+      "Exercise that does not put weight on the foot, such as swimming",
+      "Losing weight if you are overweight"
+     ]
+    },
+    {
+     "h": "Other treatments: night splints, physiotherapy, injections and shock-wave therapy",
+     "p": [
+      "A night splint keeps the sole of the foot stretched during sleep [2]. The APTA guideline recommends its use for 1 to 3 months in people who consistently have pain with the first step in the morning [3].",
+      "A physiotherapist shows you exercises that ease the symptoms [1]; in addition to stretching, the guideline also recommends hands-on treatment (manual therapy) and strengthening exercises [3].",
+      "A cortisone (steroid) injection is among the other treatments that may be offered [1]. A Cochrane review found low-quality evidence that, compared with placebo or no treatment, a steroid injection may slightly reduce heel pain for up to one month but makes no difference after that; serious side effects were rare, but they were under-reported [4]. A steroid injection can weaken the plantar fascia and lead to its rupture, which can in turn cause flattening of the arch and chronic pain [2].",
+      "In extracorporeal shock-wave therapy (ESWT) a machine delivers sound waves to the painful area, with the aim of stimulating healing of the tissue [5]. NICE has stated that in plantar fasciitis that has not responded to other treatments there is no major concern about the safety of this method, but that the evidence on its efficacy is inconsistent, and has asked that patients be informed of this uncertainty [5]. The American Academy of Orthopaedic Surgeons (AAOS) also reports that results are mixed and that the method is therefore not commonly performed [2].",
+      "Platelet-rich plasma (PRP) is obtained from the person's own blood and injected into the plantar fascia [2]. It does not carry the same risk of rupture as a cortisone injection; however, it can be expensive and more research is needed to determine its effectiveness [2]."
+     ]
+    },
+    {
+     "h": "Surgery",
+     "p": [
+      "Because the great majority of patients improve without an operation, surgery is rarely needed; it is generally reserved for people who have not improved despite 12 months of intensive non-surgical treatment [1][2].",
+      "There are two types of procedure: releasing the plantar fascia by partly cutting it where it attaches to the heel bone, and lengthening the calf muscle in patients who still have difficulty pulling the ankle upwards despite stretching exercises [2]. Because the bony spur is not the cause of the pain, it is usually not removed [2].",
+      "In most patients the result is good; however, because surgery can also end in chronic pain and dissatisfaction, it is recommended only after all non-surgical methods have been tried [2]."
+     ]
+    },
+    {
+     "h": "How long does it last and what should you expect?",
+     "p": [
+      "In most people plantar fasciitis improves with non-surgical methods, but this can take months [2]. If, despite the measures taken at home, the pain does not ease within two weeks, is getting worse or keeps coming back, is severe or is stopping daily activities, it is appropriate to see a doctor [1]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Not every heel pain is plantar fasciitis. In the following situations seek care without waiting; the first four can be signs of an injury such as a fracture or a ruptured Achilles tendon [1][6]:"
+     ],
+     "list": [
+      "Severe heel pain that started after an injury",
+      "A snapping, grinding or popping noise heard at the time of the injury",
+      "You cannot walk, cannot walk on tiptoe or cannot climb stairs",
+      "The foot or ankle has changed shape, or there is swelling and bruising in the calf and ankle",
+      "Tingling or loss of feeling in the foot",
+      "You have diabetes and foot pain; foot problems can be more serious in diabetes"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does a heel spur need to be removed by surgery?",
+     "a": "Usually not. Most people with a bony spur on the heel have no pain, and the spur is not the cause of plantar fasciitis pain; the pain can be treated without removing the spur [2]."
+    },
+    {
+     "q": "How long does heel pain take to settle?",
+     "a": "More than 90% of patients improve within 10 months of starting simple treatment methods [2]. If there is no improvement within two weeks of home treatment, you are advised to see a doctor [1]."
+    },
+    {
+     "q": "Do I need an X-ray or an MRI?",
+     "a": "Often not; the diagnosis is made by examination, and imaging is usually requested when treatment has not worked [3]. An X-ray helps rule out other causes such as a fracture; MRI and ultrasound are not used routinely [2]."
+    },
+    {
+     "q": "Does a cortisone injection work?",
+     "a": "It may slightly reduce pain for up to one month, but it has been shown to make no difference after that; the evidence on this is of low quality [4]. The injection can weaken the plantar fascia and lead to its rupture [2]."
+    },
+    {
+     "q": "Should I have shock-wave therapy (ESWT) or PRP?",
+     "a": "The evidence is not conclusive for either. NICE states that the evidence on the efficacy of shock-wave therapy is inconsistent [5]; the AAOS also reports that more research is needed to determine the effectiveness of PRP [2]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "pyatochnaya-shpora-podoshvennyj-fasciit",
+   "title": "Пяточная шпора и подошвенный фасциит: отчего болит пятка и как это проходит?",
+   "description": "Отчего возникают пяточная шпора и боль в пятке (подошвенный фасциит)? Боль при первых шагах утром, растяжка, стельки, уколы, ударно-волновая терапия, операция.",
+   "summary": "Подошвенный фасциит развивается при перенапряжении полосы ткани, соединяющей пяточную кость с пальцами стопы (подошвенной фасции), и вызывает боль под пяткой, особенно при первых шагах утром [1][2]. Пяточная шпора, видимая на рентгеновском снимке, не является причиной боли при подошвенном фасциите [2]. Более чем у 90% пациентов состояние улучшается в течение 10 месяцев при простых мерах — упражнениях на растяжку, подходящей обуви и стельках; операция требуется редко [1][2].",
+   "sections": [
+    {
+     "h": "Что такое подошвенный фасциит и пяточная шпора?",
+     "p": [
+      "Подошвенная фасция — длинная тонкая связочная ткань, которая лежит на подошве сразу под кожей, соединяет пяточную кость с передним отделом стопы и поддерживает свод стопы [2]. Состояние, которое возникает при перенапряжении этой ткани и вызывает боль на подошве, в области пятки и свода стопы, называют подошвенным (плантарным) фасциитом [1]. Это одна из самых частых причин боли под пяткой [2].",
+      "В быту эту боль чаще всего называют «пяточной шпорой». Пяточная шпора — это костный вырост на пяточной кости, который можно увидеть на рентгеновском снимке [2]. Однако у большинства людей с костным выростом на пятке боли в пятке нет, и причиной боли при подошвенном фасциите этот вырост не является; поэтому боль можно лечить, не удаляя вырост [2]."
+     ]
+    },
+    {
+     "h": "Какие жалобы он вызывает?",
+     "p": [
+      "Боль чаще всего начинается постепенно и обычно связана с изменением времени, проводимого на ногах, или уровня активности [3]. На подошвенный фасциит указывают следующие особенности [1][2]:"
+     ],
+     "list": [
+      "Боль намного сильнее, когда вы начинаете ходить после сна или отдыха; типичны первые шаги утром после подъёма с постели",
+      "При движении боль уменьшается, но при длительном стоянии, ходьбе или беге снова усиливается",
+      "Больно, когда подошва растягивается, например при подъёме пальцев стопы от пола или при ходьбе вверх по лестнице",
+      "Боль усиливается не во время упражнений, а после упражнений или нагрузки"
+     ]
+    },
+    {
+     "h": "У кого он встречается?",
+     "p": [
+      "Чаще всего он встречается в возрасте 40–60 лет [1][2][3]. Основные факторы, повышающие риск [1][2][3]:"
+     ],
+     "list": [
+      "Новая или за короткое время возросшая нагрузка, особенно упражнения на твёрдой поверхности",
+      "Повторяющиеся ударные нагрузки, такие как бег и танцы",
+      "Длительное стояние или ходьба по твёрдой поверхности на работе",
+      "Напряжённые икроножные мышцы и ограниченное движение стопы вверх в голеностопном суставе",
+      "Избыточный вес",
+      "Плоскостопие или высокий свод стопы",
+      "Обувь с недостаточной амортизацией и поддержкой"
+     ]
+    },
+    {
+     "h": "Как ставят диагноз?",
+     "p": [
+      "Диагноз чаще всего ставят на основании расспроса и осмотра; оценивают болезненность на подошве сразу перед пяточной костью и ограничение движения стопы вверх в голеностопном суставе, а также ищут другие состояния, которые могут вызывать похожую боль [2][3].",
+      "Если данные осмотра типичны, визуализация обычно не нужна; вопрос о ней встаёт, когда безоперационное лечение не дало результата [3]. Рентген показывает кости и помогает исключить другие причины боли в пятке, такие как перелом или артроз сустава; МРТ и УЗИ для диагностики рутинно не применяются и назначаются редко [2]."
+     ]
+    },
+    {
+     "h": "Лечение первой линии: растяжка, обувь и снижение нагрузки",
+     "p": [
+      "Более чем у 90% пациентов с подошвенным фасциитом состояние улучшается в течение 10 месяцев после начала простых методов лечения [2].",
+      "В руководстве Американской ассоциации физической терапии (APTA) на основании убедительных доказательств указано, что растяжка подошвы и икроножных мышц уменьшает боль и улучшает функцию в краткосрочной и долгосрочной перспективе [3]. Растяжку подошвы рекомендуют выполнять утром, до того как встать на ноги или начать ходить [2].",
+      "Доказательства в пользу стелек более ограничены: то же руководство не рекомендует применять готовые или индивидуально изготовленные стельки как единственное средство для кратковременного уменьшения боли и указывает, что их можно использовать вместе с другими методами лечения [3]. Если нужно обезболивающее, о том, какое подходит, можно спросить фармацевта или врача [1].",
+      "Основные меры, которые можно применять дома [1][2]:"
+     ],
+     "list": [
+      "Уменьшить или на время прекратить нагрузки, усиливающие боль; избегать длительного стояния и ходьбы",
+      "Регулярные упражнения на растяжку икроножных мышц и подошвы",
+      "Обувь, которая смягчает нагрузку на пятку и хорошо поддерживает свод стопы; отказ от высоких каблуков, тесной обуви с узким носком и тапочек без задника; не ходить босиком по твёрдой поверхности",
+      "Стельки или подпяточники в обуви",
+      "Прикладывать к болезненному месту пакет со льдом, завёрнутый в полотенце, каждые 2–3 часа на время до 20 минут",
+      "Упражнения без нагрузки на стопу, например плавание",
+      "Снижение веса при избыточном весе"
+     ]
+    },
+    {
+     "h": "Другие методы: ночная шина, физиотерапия, уколы и ударно-волновая терапия",
+     "p": [
+      "Ночная шина удерживает подошву в растянутом положении во время сна [2]. Руководство APTA рекомендует использовать её в течение 1–3 месяцев людям, у которых постоянно бывает боль при первом шаге утром [3].",
+      "Физиотерапевт показывает упражнения, которые облегчают жалобы [1]; помимо растяжки, руководство рекомендует также лечение, выполняемое руками (мануальную терапию), и укрепляющие упражнения [3].",
+      "Укол кортизона (стероида) входит в число других методов лечения, которые могут предложить [1]. Кокрейновский обзор нашёл доказательства низкого качества в пользу того, что по сравнению с плацебо или отсутствием лечения инъекция стероида может слегка уменьшить боль в пятке на срок до одного месяца, но в дальнейшем разницы не даёт; серьёзные побочные эффекты редки, однако о них сообщалось недостаточно [4]. Инъекция стероида может ослабить подошвенную фасцию и привести к её разрыву; это, в свою очередь, может вызвать уплощение свода стопы и хроническую боль [2].",
+      "При экстракорпоральной ударно-волновой терапии (ESWT) аппарат воздействует на болезненную область звуковыми волнами; цель — стимулировать заживление ткани [5]. NICE указал, что при подошвенном фасциите, не отвечающем на другие методы лечения, существенных опасений по поводу безопасности этого метода нет, однако доказательства его эффективности противоречивы, и потребовал информировать пациентов об этой неопределённости [5]. Американская академия хирургов-ортопедов (AAOS) также сообщает, что результаты неоднозначны и что поэтому метод применяется нечасто [2].",
+      "Обогащённую тромбоцитами плазму (PRP) получают из собственной крови человека и вводят в подошвенную фасцию [2]. Она не несёт такого же риска разрыва, как укол кортизона; однако она может быть дорогой, и для определения её эффективности нужны дальнейшие исследования [2]."
+     ]
+    },
+    {
+     "h": "Операция",
+     "p": [
+      "Поскольку у подавляющего большинства пациентов состояние улучшается без операции, она требуется редко; обычно её оставляют для тех, у кого нет улучшения, несмотря на 12 месяцев интенсивного безоперационного лечения [1][2].",
+      "Существует два вида вмешательств: ослабление натяжения подошвенной фасции путём её частичного рассечения в месте прикрепления к пяточной кости и удлинение икроножной мышцы у пациентов, у которых, несмотря на упражнения на растяжку, сохраняется затруднение при движении стопы вверх [2]. Костный вырост обычно не удаляют, так как он не является причиной боли [2].",
+      "У большинства пациентов результат хороший; однако, поскольку операция может закончиться и хронической болью и неудовлетворённостью, её рекомендуют только после того, как испробованы все безоперационные методы [2]."
+     ]
+    },
+    {
+     "h": "Сколько это длится и чего ожидать?",
+     "p": [
+      "У большинства людей подошвенный фасциит проходит при безоперационном лечении, но это может занять месяцы [2]. Если, несмотря на домашние меры, боль не уменьшается в течение двух недель, усиливается или возвращается, если она сильная или мешает повседневным делам, стоит обратиться к врачу [1]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Не всякая боль в пятке — подошвенный фасциит. В следующих случаях без промедления обратитесь в медицинское учреждение; первые четыре ситуации могут быть признаком травмы, например перелома или разрыва ахиллова сухожилия [1][6]:"
+     ],
+     "list": [
+      "Сильная боль в пятке началась после травмы",
+      "В момент травмы вы слышали щелчок, хруст или хлопок",
+      "Вы не можете ходить, не можете ходить на носках или подниматься по лестнице",
+      "Изменилась форма стопы или голеностопного сустава либо есть отёк и синяки в области икры и голеностопного сустава",
+      "В стопе есть покалывание или потеря чувствительности",
+      "У вас сахарный диабет и болит стопа; при диабете проблемы со стопами могут протекать тяжелее"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Нужно ли удалять пяточную шпору операцией?",
+     "a": "Как правило, нет. У большинства людей с костным выростом на пятке боли нет, и причиной боли при подошвенном фасциите вырост не является; боль можно лечить, не удаляя вырост [2]."
+    },
+    {
+     "q": "За какое время проходит боль в пятке?",
+     "a": "Более чем у 90% пациентов состояние улучшается в течение 10 месяцев после начала простых методов лечения [2]. Если при домашнем лечении за две недели улучшения нет, рекомендуется обратиться к врачу [1]."
+    },
+    {
+     "q": "Нужно ли делать рентген или МРТ?",
+     "a": "Чаще всего нет; диагноз ставят при осмотре, а визуализацию обычно назначают, когда лечение не дало результата [3]. Рентген помогает исключить другие причины, например перелом; МРТ и УЗИ рутинно не применяются [2]."
+    },
+    {
+     "q": "Помогает ли укол кортизона?",
+     "a": "Он может слегка уменьшить боль на срок до одного месяца, но показано, что в дальнейшем разницы не даёт; доказательства по этому вопросу низкого качества [4]. Укол может ослабить подошвенную фасцию и привести к её разрыву [2]."
+    },
+    {
+     "q": "Стоит ли делать ударно-волновую терапию (ESWT) или PRP?",
+     "a": "Ни для одного из этих методов доказательства не являются окончательными. NICE указывает, что доказательства эффективности ударно-волновой терапии противоречивы [5]; AAOS также сообщает, что для определения эффективности PRP нужны дальнейшие исследования [2]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "khar-pashneh-fasciit-plantar",
+   "title": "خار پاشنه و فاشئیت پلانتار: درد پاشنه چرا ایجاد می‌شود و چگونه برطرف می‌شود؟",
+   "description": "خار پاشنه و درد پاشنه (فاشئیت پلانتار) چرا ایجاد می‌شود؟ درد نخستین قدم‌های صبح، ورزش‌های کششی، کفی، تزریق، شاک‌ویو و جراحی.",
+   "summary": "فاشئیت پلانتار با تحت فشار قرار گرفتن نوار بافتی‌ای که استخوان پاشنه را به انگشتان پا وصل می‌کند (فاسیای کف پا) ایجاد می‌شود و زیر پاشنه، به‌ویژه در نخستین قدم‌های صبح، درد ایجاد می‌کند [1][2]. خار پاشنه‌ای که در عکس رادیولوژی دیده می‌شود علت درد فاشئیت پلانتار نیست [2]. بیش از ۹۰ درصد بیماران با اقدام‌های ساده‌ای مانند ورزش‌های کششی، کفش مناسب و کفی طی ۱۰ ماه بهبود می‌یابند؛ جراحی به‌ندرت لازم می‌شود [1][2].",
+   "sections": [
+    {
+     "h": "فاشئیت پلانتار و خار پاشنه چیست؟",
+     "p": [
+      "فاسیای کف پا (فاسیای پلانتار) بافت رباطیِ بلند و نازکی است که در کف پا درست زیر پوست قرار دارد، استخوان پاشنه را به بخش جلویی پا وصل می‌کند و از قوس کف پا پشتیبانی می‌کند [2]. به وضعیتی که با تحت فشار قرار گرفتن این بافت پدید می‌آید و در کف پا، اطراف پاشنه و قوس پا، درد ایجاد می‌کند فاشئیت پلانتار می‌گویند [1]. این وضعیت یکی از شایع‌ترین علت‌های درد زیر پاشنه است [2].",
+      "در زبان مردم این درد را بیشتر وقت‌ها «خار پاشنه» می‌نامند. خار پاشنه برآمدگی استخوانی‌ای روی استخوان پاشنه است که ممکن است در عکس رادیولوژی دیده شود [2]. اما بیشتر کسانی که روی پاشنه برآمدگی استخوانی دارند درد پاشنه ندارند و علت درد فاشئیت پلانتار این برآمدگی نیست؛ از این رو درد را می‌توان بدون برداشتن برآمدگی درمان کرد [2]."
+     ]
+    },
+    {
+     "h": "چه علائمی ایجاد می‌کند؟",
+     "p": [
+      "درد بیشتر به‌تدریج شروع می‌شود و معمولاً با تغییری در مدت سرپا بودن یا سطح فعالیت ارتباط دارد [3]. این ویژگی‌ها فاشئیت پلانتار را مطرح می‌کنند [1][2]:"
+     ],
+     "list": [
+      "درد هنگام شروع راه رفتن پس از خواب یا استراحت بسیار بیشتر است؛ نخستین قدم‌ها پس از برخاستن از رختخواب در صبح نمونهٔ بارز آن است",
+      "درد با حرکت کم می‌شود، اما با ایستادن، راه رفتن یا دویدن طولانی دوباره بیشتر می‌شود",
+      "هنگام کشیده شدن کف پا، مثلاً هنگام بالا آوردن انگشتان پا از زمین یا بالا رفتن از پله، درد وجود دارد",
+      "درد نه هنگام ورزش، بلکه پس از ورزش یا فعالیت بیشتر می‌شود"
+     ]
+    },
+    {
+     "h": "در چه کسانی دیده می‌شود؟",
+     "p": [
+      "بیشتر در سنین ۴۰ تا ۶۰ سال دیده می‌شود [1][2][3]. مهم‌ترین عواملی که خطر را بالا می‌برند این‌ها هستند [1][2][3]:"
+     ],
+     "list": [
+      "فعالیتی که تازه شروع شده یا در مدت کوتاهی زیاد شده است، به‌ویژه ورزش روی سطح سخت",
+      "فعالیت‌های تکراری و پرضربه مانند دویدن و رقص",
+      "ایستادن یا راه رفتن طولانی روی سطح سخت به اقتضای شغل",
+      "سفت بودن عضلات پشت ساق پا و محدود بودن حرکت مچ پا به سمت بالا",
+      "اضافه‌وزن",
+      "صافی کف پا یا بلند بودن قوس کف پا",
+      "کفش‌هایی که لایهٔ نرم و حمایت کافی ندارند"
+     ]
+    },
+    {
+     "h": "تشخیص چگونه داده می‌شود؟",
+     "p": [
+      "تشخیص بیشتر با شرح حال و معاینه داده می‌شود؛ حساسیت کف پا درست جلوی استخوان پاشنه و محدودیت حرکت مچ پا به سمت بالا بررسی می‌شود و وضعیت‌های دیگری که ممکن است درد مشابهی ایجاد کنند نیز جست‌وجو می‌شوند [2][3].",
+      "اگر یافته‌های معاینه نمونه‌وار باشند، تصویربرداری معمولاً لازم نیست و زمانی مطرح می‌شود که از درمان غیرجراحی نتیجه‌ای گرفته نشده باشد [3]. عکس رادیولوژی استخوان‌ها را نشان می‌دهد و به رد کردن علت‌های دیگر درد پاشنه، مانند شکستگی یا آرتروز مفصل، کمک می‌کند؛ ام‌آرآی و سونوگرافی به‌طور معمول برای تشخیص به کار نمی‌روند و به‌ندرت درخواست می‌شوند [2]."
+     ]
+    },
+    {
+     "h": "درمان خط اول: کشش، کفش و کم کردن بار",
+     "p": [
+      "بیش از ۹۰ درصد بیماران مبتلا به فاشئیت پلانتار طی ۱۰ ماه پس از شروع روش‌های سادهٔ درمانی بهبود می‌یابند [2].",
+      "راهنمای انجمن فیزیوتراپی آمریکا (APTA) بر پایهٔ شواهد قوی بیان می‌کند که کشش کف پا و عضلات پشت ساق در کوتاه‌مدت و بلندمدت درد را کم می‌کند و عملکرد را بهتر می‌کند [3]. توصیه می‌شود کشش کف پا صبح، پیش از ایستادن یا راه رفتن، انجام شود [2].",
+      "شواهد دربارهٔ کفی محدودتر است: همین راهنما استفاده از کفی آماده یا کفی ساخته‌شده برای خود فرد را به‌تنهایی و با هدف کاهش کوتاه‌مدت درد توصیه نمی‌کند و بیان می‌کند که می‌توان آن را همراه با درمان‌های دیگر به کار برد [3]. اگر مسکّن لازم باشد، می‌توان از داروساز یا پزشک پرسید کدام مناسب است [1].",
+      "مهم‌ترین اقدام‌هایی که می‌توان در خانه انجام داد این‌ها هستند [1][2]:"
+     ],
+     "list": [
+      "کم کردن یا مدتی کنار گذاشتن فعالیت‌هایی که درد را بیشتر می‌کنند؛ پرهیز از ایستادن و راه رفتن طولانی",
+      "ورزش‌های منظم برای کشش عضلات پشت ساق و کف پا",
+      "کفش‌هایی که زیر پاشنه را نرم نگه می‌دارند و از قوس کف پا خوب حمایت می‌کنند؛ پرهیز از کفش پاشنه‌بلند، کفش تنگ و نوک‌تیز و دمپایی پشت‌باز؛ راه نرفتن با پای برهنه روی سطح سخت",
+      "کفی یا پد پاشنه درون کفش",
+      "گذاشتن کیسهٔ یخِ پیچیده در حوله روی ناحیهٔ دردناک، هر ۲ تا ۳ ساعت یک بار و تا ۲۰ دقیقه",
+      "ورزش‌هایی که به پا بار وارد نمی‌کنند، مانند شنا",
+      "کم کردن وزن در صورت اضافه‌وزن"
+     ]
+    },
+    {
+     "h": "درمان‌های دیگر: آتل شبانه، فیزیوتراپی، تزریق و شاک‌ویو",
+     "p": [
+      "آتل شبانه کف پا را هنگام خواب در حالت کشیده نگه می‌دارد [2]. راهنمای APTA استفاده از آن را به مدت ۱ تا ۳ ماه برای کسانی توصیه می‌کند که به‌طور پیوسته در نخستین قدم صبح درد دارند [3].",
+      "فیزیوتراپیست ورزش‌هایی را نشان می‌دهد که علائم را سبک‌تر می‌کنند [1]؛ این راهنما افزون بر کشش، درمان‌هایی را که با دست انجام می‌شوند (درمان دستی) و ورزش‌های تقویتی را نیز توصیه می‌کند [3].",
+      "تزریق کورتون (استروئید) از درمان‌های دیگری است که ممکن است پیشنهاد شود [1]. یک مرور کاکرین شواهدی با کیفیت پایین یافته است مبنی بر اینکه تزریق استروئید در مقایسه با دارونما یا درمان نکردن ممکن است درد پاشنه را تا یک ماه اندکی کم کند، اما پس از آن تفاوتی ایجاد نمی‌کند؛ عوارض جانبی جدی نادرند، اما به اندازهٔ کافی گزارش نشده‌اند [4]. تزریق استروئید ممکن است فاسیای کف پا را ضعیف کند و به پارگی آن بینجامد؛ این نیز می‌تواند باعث فروافتادن قوس کف پا و درد مزمن شود [2].",
+      "در شاک‌ویو (درمان با امواج شوک برون‌اندامی، ESWT) دستگاهی امواج صوتی را به ناحیهٔ دردناک می‌رساند؛ هدف تحریک ترمیم بافت است [5]. NICE بیان کرده است که در فاشئیت پلانتاری که به درمان‌های دیگر پاسخ نداده است نگرانی مهمی دربارهٔ ایمنی این روش وجود ندارد، اما شواهد مربوط به اثربخشی آن ناهمسو است، و خواسته است بیماران از این عدم قطعیت آگاه شوند [5]. آکادمی جراحان ارتوپدی آمریکا (AAOS) نیز گزارش می‌کند که نتایج ناهمگون است و از این رو این روش به‌طور رایج انجام نمی‌شود [2].",
+      "پلاسمای غنی از پلاکت (PRP) از خون خود فرد گرفته و به فاسیای کف پا تزریق می‌شود [2]. همان خطر پارگی‌ای را که تزریق کورتون دارد ندارد؛ اما ممکن است گران باشد و برای تعیین اثربخشی آن به پژوهش بیشتری نیاز است [2]."
+     ]
+    },
+    {
+     "h": "جراحی",
+     "p": [
+      "چون بیشترِ بیماران بدون جراحی بهبود می‌یابند، جراحی به‌ندرت لازم می‌شود و معمولاً برای کسانی نگه داشته می‌شود که با وجود ۱۲ ماه درمان غیرجراحیِ فشرده بهبود نیافته‌اند [1][2].",
+      "دو نوع عمل وجود دارد: آزادسازی فاسیای کف پا با برش نسبی آن در محل اتصال به استخوان پاشنه، و بلند کردن عضلهٔ پشت ساق در بیمارانی که با وجود ورزش‌های کششی همچنان در بالا آوردن مچ پا دشواری دارند [2]. چون برآمدگی استخوانی علت درد نیست، معمولاً برداشته نمی‌شود [2].",
+      "نتیجه در بیشتر بیماران خوب است؛ اما چون جراحی ممکن است به درد مزمن و نارضایتی نیز بینجامد، تنها پس از آزمودن همهٔ روش‌های غیرجراحی توصیه می‌شود [2]."
+     ]
+    },
+    {
+     "h": "چقدر طول می‌کشد و چه انتظاری باید داشت؟",
+     "p": [
+      "فاشئیت پلانتار در بیشتر افراد با روش‌های غیرجراحی بهبود می‌یابد، اما این ممکن است ماه‌ها طول بکشد [2]. اگر با وجود اقدام‌های خانگی درد طی دو هفته کم نشود، بدتر شود یا عود کند، شدید باشد یا مانع کارهای روزمره شود، مراجعه به پزشک به‌جا است [1]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "هر درد پاشنه‌ای فاشئیت پلانتار نیست. در موارد زیر بدون تأخیر به یک مرکز درمانی مراجعه کنید؛ چهار مورد نخست ممکن است نشانهٔ آسیبی مانند شکستگی یا پارگی تاندون آشیل باشد [1][6]:"
+     ],
+     "list": [
+      "اگر پس از یک آسیب، درد شدید پاشنه شروع شده است",
+      "اگر هنگام آسیب صدای پاره شدن، خرچ‌خرچ یا «تق» شنیده‌اید",
+      "اگر نمی‌توانید راه بروید، روی نوک پنجه راه بروید یا از پله بالا بروید",
+      "اگر شکل پا یا مچ پا تغییر کرده است، یا در ساق و مچ پا تورم و کبودی وجود دارد",
+      "اگر در پا گزگز یا بی‌حسی دارید",
+      "اگر دیابت دارید و پایتان درد می‌کند؛ در دیابت مشکلات پا ممکن است جدی‌تر باشد"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "آیا خار پاشنه باید با جراحی برداشته شود؟",
+     "a": "معمولاً نه. بیشتر کسانی که روی پاشنه برآمدگی استخوانی دارند درد ندارند و علت درد فاشئیت پلانتار برآمدگی نیست؛ درد را می‌توان بدون برداشتن برآمدگی درمان کرد [2]."
+    },
+    {
+     "q": "درد پاشنه در چه مدتی برطرف می‌شود؟",
+     "a": "بیش از ۹۰ درصد بیماران طی ۱۰ ماه پس از شروع روش‌های سادهٔ درمانی بهبود می‌یابند [2]. اگر با درمان خانگی طی دو هفته بهبودی حاصل نشود، توصیه می‌شود به پزشک مراجعه کنید [1]."
+    },
+    {
+     "q": "آیا باید عکس رادیولوژی یا ام‌آرآی بگیرم؟",
+     "a": "بیشتر وقت‌ها لازم نیست؛ تشخیص با معاینه داده می‌شود و تصویربرداری معمولاً زمانی درخواست می‌شود که از درمان نتیجه‌ای گرفته نشده باشد [3]. عکس رادیولوژی به رد کردن علت‌های دیگر مانند شکستگی کمک می‌کند؛ ام‌آرآی و سونوگرافی به‌طور معمول به کار نمی‌روند [2]."
+    },
+    {
+     "q": "آیا تزریق کورتون مؤثر است؟",
+     "a": "ممکن است درد را تا یک ماه اندکی کم کند، اما نشان داده شده است که پس از آن تفاوتی ایجاد نمی‌کند؛ شواهد در این باره کیفیت پایینی دارد [4]. تزریق ممکن است فاسیای کف پا را ضعیف کند و به پارگی آن بینجامد [2]."
+    },
+    {
+     "q": "آیا باید شاک‌ویو (ESWT) یا PRP انجام دهم؟",
+     "a": "شواهد برای هیچ‌کدام قطعی نیست. NICE بیان می‌کند که شواهد مربوط به اثربخشی شاک‌ویو ناهمسو است [5]؛ AAOS نیز گزارش می‌کند که برای تعیین اثربخشی PRP به پژوهش بیشتری نیاز است [2]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

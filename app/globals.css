@@ -7,6 +7,9 @@
 @font-face { font-family: "Geologica"; font-style: normal; font-weight: 100 900; font-display: swap; src: url(/fonts/geologica-cyrillic-wght-normal.woff2) format("woff2"); unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116; }
 @font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 300 700; font-display: swap; src: url(/fonts/cormorant-latin.woff2) format("woff2"); unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
 @font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 300 700; font-display: swap; src: url(/fonts/cormorant-latin-ext.woff2) format("woff2"); unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
+/* Persian: Vazirmatn answers under both family names, so every element finds Arabic-script glyphs without a separate font stack */
+@font-face { font-family: "Geologica"; font-style: normal; font-weight: 100 900; font-display: swap; src: url(/fonts/vazirmatn-arabic.woff2) format("woff2"); unicode-range: U+0600-06FF,U+0750-077F,U+0870-088E,U+0890-0891,U+0897-08E1,U+08E3-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FE74,U+FE76-FEFC; }
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 100 900; font-display: swap; src: url(/fonts/vazirmatn-arabic.woff2) format("woff2"); unicode-range: U+0600-06FF,U+0750-077F,U+0870-088E,U+0890-0891,U+0897-08E1,U+08E3-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FE74,U+FE76-FEFC; }
 
 :root { color-scheme: light; }
 html { scroll-behavior: auto; }
@@ -55,7 +58,7 @@ body { @apply bg-white text-deep font-sans antialiased; font-weight: 300; overfl
 
 /* treatment rows */
 .row { position: relative; }
-.row::before { content: ""; position: absolute; left: 0; top: -1px; height: 3px; width: 0; background: #00ADB5; transition: width .45s cubic-bezier(.2,.7,.2,1); }
+.row::before { content: ""; position: absolute; inset-inline-start: 0; top: -1px; height: 3px; width: 0; background: #00ADB5; transition: width .45s cubic-bezier(.2,.7,.2,1); }
 .row:hover::before { width: 100%; }
 
 /* header: transparent over the hero, white once the page moves */
@@ -76,6 +79,8 @@ body { @apply bg-white text-deep font-sans antialiased; font-weight: 300; overfl
 .band-item { display: flex; align-items: center; white-space: nowrap; font-size: .86rem; font-weight: 400; letter-spacing: .01em; }
 .band-item::after { content: ""; width: 5px; height: 5px; margin: 0 1.4rem; border-radius: 50%; background: #00ADB5; }
 @keyframes band { to { transform: translateX(-50%); } }
+@keyframes band-rtl { to { transform: translateX(50%); } }
+[dir="rtl"] .band-track { animation-name: band-rtl; }
 @media (prefers-reduced-motion: reduce) { .band-track { animation: none; } .band { overflow-x: auto; } }
 
 /* rounded media */
@@ -86,6 +91,7 @@ body { @apply bg-white text-deep font-sans antialiased; font-weight: 300; overfl
 .row .row-n { font-size: .82rem; font-weight: 500; color: #007A80; font-variant-numeric: tabular-nums; letter-spacing: .04em; }
 .row .row-t { transition: transform .35s cubic-bezier(.2,.7,.2,1); }
 .row:hover .row-t { transform: translateX(.6rem); }
+[dir="rtl"] .row:hover .row-t { transform: translateX(-.6rem); }
 .row { transition: background-color .35s ease; }
 .row:hover { background: #EAF5F5; }
 
@@ -95,6 +101,7 @@ body { @apply bg-white text-deep font-sans antialiased; font-weight: 300; overfl
 
 /* process: the line draws itself */
 .step-line { display: block; height: 3px; background: #00ADB5; transform-origin: left center; }
+[dir="rtl"] .step-line { transform-origin: right center; }
 
 @media (prefers-reduced-motion: reduce) { .zoom img { transition: none; } .row .row-t { transition: none; } }
 
@@ -168,3 +175,14 @@ body { @apply bg-white text-deep font-sans antialiased; font-weight: 300; overfl
 .faq[open] .faq-mark::after { transform: rotate(0deg); }
 .faq summary:hover h3 { color: #007A80; }
 @media (prefers-reduced-motion: reduce) { .faq-mark::before, .faq-mark::after { transition: none; } }
+
+/* right-to-left (Persian): joined script takes no letter-spacing and needs taller lines than Latin display type */
+[dir="rtl"] * { letter-spacing: 0 !important; }
+[dir="rtl"] .display { line-height: 1.22; font-weight: 600; }
+[dir="rtl"] .h2 { line-height: 1.3; font-weight: 600; }
+[dir="rtl"] .h3 { line-height: 1.45; font-weight: 600; }
+[dir="rtl"] .lead { line-height: 1.95; }
+[dir="rtl"] .body, [dir="rtl"] p, [dir="rtl"] li, [dir="rtl"] dd { line-height: 1.95; }
+[dir="rtl"] .small { line-height: 1.85; }
+[dir="rtl"] [dir="ltr"] { text-align: left; }
+[dir="rtl"] a[dir="ltr"], [dir="rtl"] bdi[dir="ltr"] { text-align: inherit; }

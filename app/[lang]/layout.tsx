@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Motion from "@/components/Motion";
-import { LANGS, SITE, PREVIEW, GOOGLE_VERIFY, BING_VERIFY, WHATSAPP, WHATSAPP_UI, ui, type Lang } from "@/lib/site";
+import { LANGS, SITE, PREVIEW, GOOGLE_VERIFY, BING_VERIFY, WHATSAPP, WHATSAPP_UI, ui, dir, type Lang } from "@/lib/site";
 import WhatsApp from "@/components/WhatsApp";
 import { share } from "@/lib/seo";
 
@@ -24,7 +24,7 @@ export function generateMetadata({ params }: { params: { lang: string } }): Meta
 export default function LangLayout({ children, params }: { children: React.ReactNode; params: { lang: string } }) {
   if (!LANGS.includes(params.lang as Lang)) notFound();
   return (
-    <html lang={params.lang}>
+    <html lang={params.lang} dir={dir(params.lang as Lang)}>
       <body>
         <Motion />
         {children}

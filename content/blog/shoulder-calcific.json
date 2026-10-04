@@ -1,0 +1,513 @@
+{
+ "id": "shoulder-calcific",
+ "area": "omuz-dirsek",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Calcific Tendinitis of the Shoulder",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/calcific-tendinitis-of-the-shoulder/",
+   "year": "n.d."
+  },
+  {
+   "title": "Calcific Tendinopathy: Information for patients",
+   "publisher": "NHS Lothian",
+   "url": "https://policyonline.nhslothian.scot/wp-content/uploads/2023/03/Calcific_Tendinopathy.pdf",
+   "year": "2025"
+  },
+  {
+   "title": "Arthritis of the Shoulder",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/arthritis-of-the-shoulder/",
+   "year": "n.d."
+  },
+  {
+   "title": "Shock wave therapy for rotator cuff disease with or without calcification",
+   "publisher": "Cochrane Database of Systematic Reviews (Surace SJ, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32128761/",
+   "year": "2020"
+  },
+  {
+   "title": "Ultrasound guided lavage with corticosteroid injection versus sham lavage with and without corticosteroid injection for calcific tendinopathy of shoulder: randomised double blinded multi-arm study",
+   "publisher": "BMJ (Moosmayer S, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37821122/",
+   "year": "2023"
+  },
+  {
+   "title": "Is ultrasound-guided lavage an effective intervention for rotator cuff calcific tendinopathy? A systematic review with a meta-analysis of randomised controlled trials",
+   "publisher": "BMJ Open Sport & Exercise Medicine (Lafrance S, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31191964/",
+   "year": "2019"
+  },
+  {
+   "title": "Shoulder pain",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/shoulder-pain/",
+   "year": "2023"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "omuzda-kireclenme-kalsifik-tendinit",
+   "title": "Omuzda kireçlenme (kalsifik tendinit): neden olur, nasıl tedavi edilir?",
+   "description": "Omuzda kireç birikmesi (kalsifik tendinit): eklem kireçlenmesinden farkı, belirtileri, kendiliğinden geçip geçmediği, iğne, şok dalga ve ameliyatın yeri.",
+   "summary": "Kalsifik tendinit, omzu hareket ettiren rotator manşet tendonlarının içinde kalsiyum birikmesidir; halk arasında 'omuzda kireçlenme' denir ve omuz ekleminin aşınmasından (osteoartrit) farklı bir durumdur [1][3]. Birikintilerin çoğu zamanla kendiliğinden kaybolur ve tedavi çoğu hastada ameliyatsız yöntemlerle başlar; şok dalga tedavisi ve iğneyle yıkama için kanıtlar sınırlı ya da çelişkilidir, ameliyat ise diğer tedavilere rağmen ağrısı süren az sayıda hastada gündeme gelir [1][2][4][5].",
+   "sections": [
+    {
+     "h": "Omuzda kireçlenme ne demektir?",
+     "p": [
+      "Günlük dilde 'omuz kireçlenmesi' iki ayrı durum için kullanılır. Birincisi, omzu hareket ettiren rotator manşet tendonlarının içinde kalsiyum birikmesidir (kalsifik tendinit); bu yazının konusu budur [1][2]. İkincisi omuz ekleminin kendisinin aşınmasıdır (osteoartrit): eklem yüzeylerini örten kıkırdak yıpranır, genellikle 50 yaşından sonra görülür ve röntgende eklem aralığının daralması ile kemik çıkıntılarıyla tanınır [3]. Bu iki durum birbirinden farklıdır; tedavileri de aynı değildir [1][3].",
+      "Kalsifik tendinitte kalsiyum birikintisi tendonu tahriş eder, iltihaba katkıda bulunur ve omzun tepesindeki kemik çıkıntıya (akromiyon) sürtünebilir [1][2]. Bir NHS hasta bilgilendirme broşürüne göre zararlı ya da ciddi bir hastalık değildir [2]."
+     ]
+    },
+    {
+     "h": "Hangi yakınmalar görülür?",
+     "p": [
+      "Kalsiyum birikintisi her zaman ağrı yapmaz [2]. Yakınma olduğunda başlıcaları şunlardır [1][2]:"
+     ],
+     "list": [
+      "Omzun ön ya da yan tarafında ağrı ve hassasiyet; ağrı bazen kola yayılır",
+      "Şiddetli olabilen, bir yaralanma ya da hareket olmadan da ortaya çıkabilen ağrı",
+      "Uykuyu bölebilen ya da omuz üzerine yatmayı güçleştiren ağrı",
+      "Kolu hareket ettirmede güçlük, sertlik hissi ya da hareket kaybı",
+      "Omuzda güçsüzlük"
+     ]
+    },
+    {
+     "h": "Kimlerde görülür?",
+     "p": [
+      "Neden oluştuğu tam olarak bilinmiyor; tendonun aşırı kullanımıyla ilişkili olabileceği düşünülüyor [1][2]. 30 ile 60 yaş arasındaki yetişkinlerde daha sık görülür, ama herkeste ortaya çıkabilir; kadınlarda erkeklere göre biraz daha sıktır ve tek omzu ya da iki omzu birden tutabilir [1][2]."
+     ]
+    },
+    {
+     "h": "Tanı nasıl konur?",
+     "p": [
+      "Hekim omzu elle muayene eder, hareket açıklığına ve kol gücüne bakar [1]. Röntgen rotator manşet çevresindeki kalsiyum birikintilerini gösterir ve tanıyı doğrulamak için istenebilir [1][2]. MR çevredeki yumuşak dokuları, sıvıyı, iltihabı ve tendon yırtıklarını gösterebilir [1].",
+      "Röntgende görülen her birikinti ağrının nedeni olmayabilir; bu yüzden görüntüleme sonucu muayene bulgularıyla birlikte değerlendirilir [2]. Ultrason, enjeksiyonda ve iğneyle yıkama işleminde iğneyi yönlendirmek için kullanılabilir [1][2]."
+     ]
+    },
+    {
+     "h": "Kireç kendiliğinden kaybolur mu?",
+     "p": [
+      "Birikintilerin çoğu kendiliğinden kaybolur [2]. Kalsiyumun doğal yolla çözülmesi 9 aya kadar, bazen daha uzun sürebilir; ağrı ise çoğu zaman birkaç hafta içinde yatışır [2].",
+      "Ağrı birden başlayıp çok şiddetli olabilir. Bu, çoğu zaman birikintinin kendiliğinden çözülmekte olduğu anlamına gelir [2]. Yine de seyir herkeste aynı değildir: yakınmaları en az üç aydır süren hastalarla yapılan bir çalışmada 220 katılımcının 143'ü, yeterince düzelmediği için dört ay sonra ek tedavi almıştır [5]."
+     ]
+    },
+    {
+     "h": "İlk basamak tedavi",
+     "p": [
+      "Çoğu hastada tedavi ameliyatsız yöntemlerle başlar; pek çok hasta zamanla düzelir ve omzunu yeniden kullanabilir, ancak tam iyileşme haftalar ya da aylar alabilir [1]. Başlıca yöntemler:"
+     ],
+     "list": [
+      "Göreli dinlenme: ağrıyı başlatan ya da artıran hareketlerden bir süre kaçınmak; kolu tümüyle hareketsiz bırakmak yerine ağrının izin verdiği ölçüde hareket ettirmeyi sürdürmek [1][2]",
+      "Ağrı kesiciler ve iltihap giderici ilaçlar; buz uygulaması [1][2]",
+      "Fizik tedavi ve egzersiz: omuz hareketini geri kazandırmaya yönelik germe egzersizleri, ilerleyen dönemde güçlendirme [1][2]",
+      "Kortizon enjeksiyonu: diğer yöntemler ağrıyı gidermezse akromiyonun altındaki keseye (bursa) yapılabilir; ağrı sonradan geri dönebilir, ama çoğu zaman eskisi kadar şiddetli olmaz [1][2]"
+     ]
+    },
+    {
+     "h": "Şok dalga, iğneyle yıkama ve ameliyat",
+     "p": [
+      "İlk basamak tedaviyle yeterince rahatlamayan hastalarda başka yöntemler gündeme gelebilir. Bunların bir kısmı için kanıtlar sınırlı ya da çelişkilidir [4][5][6]:"
+     ],
+     "list": [
+      "Şok dalga tedavisi (ESWT): cihazla üretilen şok dalgaları omzun derin dokularına yöneltilir; birikintileri parçalayabileceği düşünülür [1]. Cochrane incelemesine göre düşük ile orta kesinlikteki kanıtlar, plaseboya kıyasla ağrı ve işlevde klinik açıdan önemli faydanın çok az olduğunu gösterir; kalsiyum birikintisi olan ve olmayan hastalar arasında fark saptanmamıştır. Güvenliği konusunda belirsizlik vardır; çalışmalardaki uygulama protokolleri birbirinden çok farklı olduğu için olası fayda olduğundan az görünüyor olabilir [4]",
+      "Ultrason eşliğinde iğneyle yıkama (lavaj, barbotaj): birikintiye iğneyle girilir ve serum fizyolojik verilerek kalsiyum parçalanır ya da dışarı çekilir [1][2]. Üç çalışmaya dayanan bir sistematik inceleme, düşük kaliteli kanıtlarla bu yöntemin şok dalga tedavisinden ya da tek başına kortizon enjeksiyonundan daha etkili olabileceğini bildirmiştir [6]. Daha sonra yapılan ve 220 hastayı sahte (plasebo) işlemle karşılaştıran bir çalışmada ise yıkama ile kortizonun birlikte uygulanması da, tek başına kortizon da dört ayda ve iki yılda sahte işlemden üstün bulunmamıştır; ciddi bir yan etki bildirilmemiştir [5]",
+      "Artroskopik (kapalı) ameliyat: ameliyatsız tedavi ağrıyı gidermediğinde gündeme gelir ve nadiren gerekir; amaç kalsiyumu çıkarmak ve varsa eşlik eden tendon yırtığını onarmaktır [1][2]"
+     ]
+    },
+    {
+     "h": "İyileşme ne kadar sürer?",
+     "p": [
+      "Ameliyatsız tedaviyle pek çok hastada yakınmalar yavaş yavaş azalır; tam iyileşme birkaç hafta ile birkaç ay arasında sürebilir [1]. Genel olarak omuz ağrısının geçmesi altı ay ya da daha uzun sürebilir; bu dönemde omzu hiç kullanmamak yerine nazikçe hareket ettirmek önerilir [7].",
+      "Ameliyattan sonra kol kısa bir süre askıda tutulur, ardından omuz egzersizlerine başlanır; ağrının tümüyle geçmesi genellikle 2 ila 4 ay sürer, bazı hastalarda bir yıla kadar uzayabilir [1]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Kireçlenmeye bağlı ağrı da birden başlayıp çok şiddetli olabilir; ancak nedenin bu olduğu yalnızca muayeneyle anlaşılır [1][2]. Ağrı iki hafta içinde düzelmiyorsa ya da kolu hareket ettirmek güçleşiyorsa hekime başvurun; şu durumlarda ise beklemeden değerlendirme gerekir [7]:"
+     ],
+     "list": [
+      "Ani başlayan ya da çok şiddetli omuz ağrısı",
+      "Kolun hiç hareket ettirilememesi",
+      "Omuzda şekil değişikliği ya da belirgin şişlik",
+      "Kolda geçmeyen karıncalanma ya da uyuşma, ya da kolun sıcak veya soğuk hissedilmesi",
+      "Düşme ya da kaza sonrası başlayan ağrı",
+      "İki omuzda birden şiddetli ağrı ya da ağrıya ateşin eşlik etmesi"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Omuz kireçlenmesi ile kalsifik tendinit aynı şey mi?",
+     "a": "Günlük dilde 'kireçlenme' hem tendon içindeki kalsiyum birikintisi (kalsifik tendinit) hem de eklem kıkırdağının aşınması (osteoartrit) için kullanılır; bunlar farklı durumlardır [1][3]."
+    },
+    {
+     "q": "Omuzdaki kireç kendiliğinden geçer mi?",
+     "a": "Birikintilerin çoğu kendiliğinden kaybolur; bu 9 aya kadar, bazen daha uzun sürebilir, ağrı ise çoğu zaman birkaç haftada yatışır [2]."
+    },
+    {
+     "q": "Ağrım neden birden çok şiddetlendi?",
+     "a": "Ani ve çok şiddetli ağrı çoğu zaman birikintinin kendiliğinden çözülmekte olduğunu gösterir [2]. Yine de ani ya da çok şiddetli omuz ağrısında beklemeden muayene olmak gerekir [7]."
+    },
+    {
+     "q": "Şok dalga tedavisi işe yarar mı?",
+     "a": "Cochrane incelemesine göre plaseboya kıyasla klinik açıdan önemli faydası çok azdır ve güvenliği konusunda belirsizlik vardır; kanıtların kesinliği düşük ile orta düzeydedir [4]."
+    },
+    {
+     "q": "Kireci iğneyle almak ya da ameliyat gerekir mi?",
+     "a": "Çoğu hastada gerekmez; tedavi ameliyatsız yöntemlerle başlar [1]. İğneyle yıkama için kanıtlar çelişkilidir: sahte işlemle karşılaştıran bir çalışmada üstünlüğü gösterilememiştir [5][6]. Ameliyat, diğer tedavilere rağmen ağrısı süren hastalarda nadiren gündeme gelir [1][2]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "calcific-tendinitis-shoulder",
+   "title": "Calcific tendinitis of the shoulder: why it happens and how it is treated",
+   "description": "Calcium deposits in the shoulder tendons (calcific tendinitis): how it differs from arthritis, symptoms, natural course, injections, shock waves and surgery.",
+   "summary": "Calcific tendinitis is a build-up of calcium inside the rotator cuff tendons that move the shoulder; it is popularly called 'calcification of the shoulder' and is a different condition from wear of the shoulder joint (osteoarthritis) [1][3]. Most deposits disappear by themselves in time and treatment starts without surgery in most people; the evidence for shock-wave therapy and needle lavage is limited or conflicting, and surgery comes up for the small number of people whose pain continues despite other treatment [1][2][4][5].",
+   "sections": [
+    {
+     "h": "What does 'calcification' of the shoulder mean?",
+     "p": [
+      "In everyday speech 'calcification' of the shoulder (in Turkish, 'omuz kireçlenmesi') is used for two different things. The first is a build-up of calcium inside the rotator cuff tendons that move the shoulder (calcific tendinitis); that is the subject of this article [1][2]. The second is wear of the shoulder joint itself (osteoarthritis): the cartilage covering the joint surfaces wears away, it usually appears after the age of 50, and on X-ray it is recognised by narrowing of the joint space and bony spurs [3]. The two are different conditions and are not treated in the same way [1][3].",
+      "In calcific tendinitis the calcium deposit irritates the tendon, contributes to inflammation and may rub against the bony point at the top of the shoulder (the acromion) [1][2]. According to an NHS patient information leaflet, it is not a harmful or serious condition [2]."
+     ]
+    },
+    {
+     "h": "What symptoms are typical?",
+     "p": [
+      "A calcium deposit does not always cause pain [2]. When there are symptoms, the main ones are [1][2]:"
+     ],
+     "list": [
+      "Pain and tenderness at the front or side of the shoulder; the pain sometimes spreads into the arm",
+      "Pain that may be severe and may come on without an injury or movement",
+      "Pain that can disturb sleep or make it hard to lie on the shoulder",
+      "Difficulty moving the arm, a feeling of stiffness or loss of movement",
+      "Weakness in the shoulder"
+     ]
+    },
+    {
+     "h": "Who gets it?",
+     "p": [
+      "Why it develops is not fully known; it is thought that it may be linked to overuse of the tendon [1][2]. It is more common in adults between 30 and 60 but can happen to anyone; it is slightly more common in women than in men and can affect one shoulder or both [1][2]."
+     ]
+    },
+    {
+     "h": "How is it diagnosed?",
+     "p": [
+      "The doctor feels the shoulder and checks range of movement and arm strength [1]. An X-ray shows the calcium deposits around the rotator cuff and may be requested to confirm the diagnosis [1][2]. MRI can show the surrounding soft tissues, fluid, inflammation and tendon tears [1].",
+      "Not every deposit seen on X-ray is the cause of the pain, so the imaging result is weighed together with the examination findings [2]. Ultrasound can be used to guide the needle during an injection and during needle lavage [1][2]."
+     ]
+    },
+    {
+     "h": "Does the calcium go away by itself?",
+     "p": [
+      "Most deposits disappear by themselves [2]. It can take up to 9 months, and sometimes longer, for the calcium to dissolve naturally; the pain, however, often settles within a few weeks [2].",
+      "The pain can come on suddenly and be very intense. This often means that the deposit is dissolving by itself [2]. Even so, the course is not the same for everyone: in a study of patients whose symptoms had lasted at least three months, 143 of 220 participants received additional treatment after four months because they had not improved enough [5]."
+     ]
+    },
+    {
+     "h": "First-line treatment",
+     "p": [
+      "In most people treatment starts without surgery; many improve in time and regain use of the shoulder, although full recovery can take weeks or months [1]. The main measures:"
+     ],
+     "list": [
+      "Relative rest: avoiding for a while the movements that bring on or increase the pain; rather than keeping the arm completely still, continuing to move it as far as pain allows [1][2]",
+      "Painkillers and anti-inflammatory medicines; ice packs [1][2]",
+      "Physiotherapy and exercise: stretching exercises to restore shoulder movement, with strengthening later on [1][2]",
+      "Steroid injection: if other measures do not relieve the pain, it can be given into the sac (bursa) beneath the acromion; the pain may return later but is often not as severe as before [1][2]"
+     ]
+    },
+    {
+     "h": "Shock-wave therapy, needle lavage and surgery",
+     "p": [
+      "Other treatments may be considered for people who do not get enough relief from first-line treatment. For some of them the evidence is limited or conflicting [4][5][6]:"
+     ],
+     "list": [
+      "Shock-wave therapy (ESWT): shock waves generated by a machine are directed at the deep tissues of the shoulder, with the idea that they may break up the deposits [1]. According to a Cochrane review, low- to moderate-certainty evidence shows very few clinically important benefits for pain and function compared with placebo; no difference was found between patients with and without calcium deposits. There is uncertainty about its safety, and because treatment protocols differed widely between studies, any benefit may appear smaller than it is [4]",
+      "Ultrasound-guided needle lavage (barbotage): a needle is passed into the deposit and saline is injected so that the calcium is broken up or drawn out [1][2]. A systematic review based on three trials reported, on low-quality evidence, that it may be more effective than shock-wave therapy or a steroid injection alone [6]. In a later trial that compared 220 patients with a sham (placebo) procedure, however, neither lavage combined with a steroid nor a steroid alone was found to be better than the sham procedure at four months or at two years; no serious adverse events were reported [5]",
+      "Arthroscopic (keyhole) surgery: comes up when non-surgical treatment does not relieve the pain and is rarely needed; the aim is to remove the calcium and to repair any associated tendon tear [1][2]"
+     ]
+    },
+    {
+     "h": "How long does recovery take?",
+     "p": [
+      "With non-surgical treatment symptoms ease gradually in many people; full recovery can take from a few weeks to a few months [1]. In general, shoulder pain can take six months or longer to settle; during this time the advice is to keep moving the shoulder gently rather than stop using it altogether [7].",
+      "After surgery the arm is kept in a sling for a short time and shoulder exercises then begin; complete relief of pain usually takes 2 to 4 months and in some people up to a year [1]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Pain from calcium deposits can also come on suddenly and be very severe, but only an examination can show that this is the cause [1][2]. See a doctor if the pain does not improve within two weeks or it becomes hard to move the arm; assessment without delay is needed for [7]:"
+     ],
+     "list": [
+      "Sudden or very severe shoulder pain",
+      "Being unable to move the arm",
+      "A change in the shape of the shoulder or marked swelling",
+      "Tingling or numbness in the arm that does not go away, or the arm feeling hot or cold",
+      "Pain that began after a fall or an accident",
+      "Severe pain in both shoulders at once, or pain with a fever"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Are 'calcification' of the shoulder and calcific tendinitis the same thing?",
+     "a": "In everyday speech 'calcification' is used both for a calcium deposit inside a tendon (calcific tendinitis) and for wear of the joint cartilage (osteoarthritis); these are different conditions [1][3]."
+    },
+    {
+     "q": "Do calcium deposits in the shoulder go away by themselves?",
+     "a": "Most deposits disappear by themselves; this can take up to 9 months and sometimes longer, while the pain often settles within a few weeks [2]."
+    },
+    {
+     "q": "Why did my pain suddenly become very severe?",
+     "a": "Sudden, very intense pain often means that the deposit is dissolving by itself [2]. Even so, sudden or very severe shoulder pain should be examined without delay [7]."
+    },
+    {
+     "q": "Does shock-wave therapy work?",
+     "a": "According to a Cochrane review it has very few clinically important benefits compared with placebo and there is uncertainty about its safety; the certainty of the evidence is low to moderate [4]."
+    },
+    {
+     "q": "Do I need the calcium removed with a needle, or an operation?",
+     "a": "Most people do not; treatment starts without surgery [1]. The evidence for needle lavage is conflicting: a trial comparing it with a sham procedure did not show it to be better [5][6]. Surgery comes up rarely, for people whose pain continues despite other treatment [1][2]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "kaltsifitsiruyushchiy-tendinit-plecha",
+   "title": "Отложение кальция в плече (кальцифицирующий тендинит): почему возникает и как лечится?",
+   "description": "Отложение кальция в сухожилиях плеча (кальцифицирующий тендинит): отличие от артроза, симптомы, проходит ли само, уколы, ударно-волновая терапия, операция.",
+   "summary": "Кальцифицирующий тендинит — это отложение кальция внутри сухожилий вращательной манжеты, которые приводят плечо в движение; в быту его называют «отложением солей» в плече, и это состояние отличается от износа самого плечевого сустава (остеоартрит) [1][3]. Большинство отложений со временем исчезают сами, и у большинства пациентов лечение начинают с безоперационных методов; данные об ударно-волновой терапии и промывании иглой ограничены или противоречивы, а вопрос об операции возникает у небольшого числа пациентов, у которых боль сохраняется несмотря на другое лечение [1][2][4][5].",
+   "sections": [
+    {
+     "h": "Что означает «отложение солей» в плече?",
+     "p": [
+      "В быту «отложением солей» в плече (по-турецки — omuz kireçlenmesi) называют два разных состояния. Первое — отложение кальция внутри сухожилий вращательной манжеты, которые приводят плечо в движение (кальцифицирующий тендинит); ему и посвящена эта статья [1][2]. Второе — износ самого плечевого сустава, артроз (остеоартрит): хрящ, покрывающий суставные поверхности, изнашивается; обычно это бывает после 50 лет, а на рентгене его распознают по сужению суставной щели и костным разрастаниям [3]. Это разные состояния, и лечат их не одинаково [1][3].",
+      "При кальцифицирующем тендините отложение кальция раздражает сухожилие, способствует воспалению и может тереться о костный выступ в верхней части плеча (акромион) [1][2]. Согласно одной из информационных брошюр NHS для пациентов, это не опасное и не серьёзное заболевание [2]."
+     ]
+    },
+    {
+     "h": "Какие бывают жалобы?",
+     "p": [
+      "Отложение кальция не всегда вызывает боль [2]. Если жалобы есть, основные из них такие [1][2]:"
+     ],
+     "list": [
+      "Боль и болезненность по передней или боковой поверхности плеча; иногда боль отдаёт в руку",
+      "Боль, которая может быть сильной и возникать без травмы и без движения",
+      "Боль, которая может прерывать сон или мешать лежать на плече",
+      "Трудности при движении рукой, ощущение скованности или потеря подвижности",
+      "Слабость в плече"
+     ]
+    },
+    {
+     "h": "У кого встречается?",
+     "p": [
+      "Почему оно возникает, точно не известно; предполагают, что оно может быть связано с перегрузкой сухожилия [1][2]. Чаще встречается у взрослых в возрасте от 30 до 60 лет, но может возникнуть у любого человека; у женщин бывает немного чаще, чем у мужчин, и может затрагивать одно плечо или сразу оба [1][2]."
+     ]
+    },
+    {
+     "h": "Как ставят диагноз?",
+     "p": [
+      "Врач ощупывает плечо, проверяет объём движений и силу руки [1]. Рентген показывает отложения кальция вокруг вращательной манжеты, и его могут назначить для подтверждения диагноза [1][2]. МРТ может показать окружающие мягкие ткани, жидкость, воспаление и разрывы сухожилий [1].",
+      "Не каждое отложение, видимое на рентгене, оказывается причиной боли; поэтому результат обследования оценивают вместе с данными осмотра [2]. УЗИ могут использовать, чтобы направлять иглу при уколе и при промывании иглой [1][2]."
+     ]
+    },
+    {
+     "h": "Исчезает ли кальций сам?",
+     "p": [
+      "Большинство отложений исчезают сами [2]. Естественное рассасывание кальция может занять до 9 месяцев, иногда дольше; боль же чаще всего стихает за несколько недель [2].",
+      "Боль может начаться внезапно и быть очень сильной. Чаще всего это означает, что отложение рассасывается само [2]. Тем не менее течение не у всех одинаково: в исследовании с участием пациентов, у которых жалобы сохранялись не менее трёх месяцев, 143 из 220 участников через четыре месяца получили дополнительное лечение, поскольку улучшение было недостаточным [5]."
+     ]
+    },
+    {
+     "h": "Лечение первой линии",
+     "p": [
+      "У большинства пациентов лечение начинают с безоперационных методов; у многих состояние со временем улучшается, и они снова могут пользоваться плечом, однако полное выздоровление может занять недели или месяцы [1]. Основные методы:"
+     ],
+     "list": [
+      "Относительный покой: на время избегать движений, которые вызывают или усиливают боль; не обездвиживать руку полностью, а продолжать двигать ею настолько, насколько позволяет боль [1][2]",
+      "Обезболивающие и противовоспалительные препараты; прикладывание льда [1][2]",
+      "Физиотерапия и упражнения: упражнения на растяжку для восстановления подвижности плеча, позже — укрепляющие упражнения [1][2]",
+      "Укол кортизона: если другие методы не снимают боль, его можно сделать в сумку (бурсу) под акромионом; позже боль может вернуться, но чаще всего она уже не такая сильная, как прежде [1][2]"
+     ]
+    },
+    {
+     "h": "Ударно-волновая терапия, промывание иглой и операция",
+     "p": [
+      "Если лечение первой линии не приносит достаточного облегчения, могут рассматриваться другие методы. Для части из них данные ограничены или противоречивы [4][5][6]:"
+     ],
+     "list": [
+      "Ударно-волновая терапия (УВТ): ударные волны, создаваемые аппаратом, направляют в глубокие ткани плеча; считается, что они могут разрушать отложения [1]. По данным Кокрейновского обзора, доказательства низкой и умеренной степени определённости показывают, что клинически значимой пользы для боли и функции по сравнению с плацебо очень мало; различий между пациентами с отложениями кальция и без них не выявлено. Безопасность метода остаётся неясной; поскольку протоколы лечения в исследованиях сильно различались, возможная польза может выглядеть меньше, чем она есть [4]",
+      "Промывание иглой под контролем УЗИ (лаваж, барботаж): в отложение вводят иглу и подают физиологический раствор, чтобы раздробить кальций или вывести его наружу [1][2]. В систематическом обзоре, основанном на трёх исследованиях, по доказательствам низкого качества сообщается, что этот метод может быть эффективнее ударно-волновой терапии или одного только укола кортизона [6]. Однако в более позднем исследовании, где 220 пациентов сравнивали с имитацией процедуры (плацебо), ни промывание вместе с кортизоном, ни один только кортизон не оказались лучше имитации ни через четыре месяца, ни через два года; о серьёзных побочных эффектах не сообщалось [5]",
+      "Артроскопическая (закрытая) операция: вопрос о ней возникает, когда безоперационное лечение не снимает боль, и требуется она редко; цель — удалить кальций и восстановить сопутствующий разрыв сухожилия, если он есть [1][2]"
+     ]
+    },
+    {
+     "h": "Сколько длится выздоровление?",
+     "p": [
+      "При безоперационном лечении у многих пациентов жалобы постепенно уменьшаются; полное выздоровление может занять от нескольких недель до нескольких месяцев [1]. В целом боль в плече может проходить шесть месяцев или дольше; в это время рекомендуют не отказываться от движений плечом полностью, а осторожно им двигать [7].",
+      "После операции руку недолго держат на поддерживающей повязке, затем начинают упражнения для плеча; боль полностью проходит обычно за 2–4 месяца, у некоторых пациентов это может занять до года [1]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Боль, связанная с отложением кальция, тоже может начаться внезапно и быть очень сильной; но понять, что причина именно в этом, можно только при осмотре [1][2]. Если боль не уменьшается в течение двух недель или двигать рукой становится трудно, обратитесь к врачу; в следующих случаях оценка нужна без промедления [7]:"
+     ],
+     "list": [
+      "Внезапно возникшая или очень сильная боль в плече",
+      "Полная невозможность двигать рукой",
+      "Изменение формы плеча или выраженный отёк",
+      "Не проходящее покалывание или онемение в руке либо ощущение, что рука горячая или холодная",
+      "Боль, появившаяся после падения или несчастного случая",
+      "Сильная боль сразу в обоих плечах либо боль, сопровождающаяся повышенной температурой"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "«Отложение солей» в плече и кальцифицирующий тендинит — одно и то же?",
+     "a": "В быту «отложением солей» называют и отложение кальция внутри сухожилия (кальцифицирующий тендинит), и износ суставного хряща (остеоартрит); это разные состояния [1][3]."
+    },
+    {
+     "q": "Проходит ли отложение кальция в плече само?",
+     "a": "Большинство отложений исчезают сами; это может занять до 9 месяцев, иногда дольше, а боль чаще всего стихает за несколько недель [2]."
+    },
+    {
+     "q": "Почему боль вдруг стала очень сильной?",
+     "a": "Внезапная и очень сильная боль чаще всего означает, что отложение рассасывается само [2]. Тем не менее при внезапной или очень сильной боли в плече нужно без промедления показаться врачу [7]."
+    },
+    {
+     "q": "Помогает ли ударно-волновая терапия?",
+     "a": "По данным Кокрейновского обзора, клинически значимой пользы по сравнению с плацебо очень мало, а безопасность метода остаётся неясной; степень определённости доказательств — от низкой до умеренной [4]."
+    },
+    {
+     "q": "Нужно ли удалять кальций иглой или делать операцию?",
+     "a": "У большинства пациентов — нет; лечение начинают с безоперационных методов [1]. Данные о промывании иглой противоречивы: в исследовании, где его сравнивали с имитацией процедуры, преимущества показать не удалось [5][6]. Вопрос об операции возникает редко — у пациентов, у которых боль сохраняется несмотря на другое лечение [1][2]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "rosub-kalsiom-shane-tandonit-kalsifiye",
+   "title": "رسوب کلسیم در شانه (تاندونیت کلسیفیه): چرا ایجاد می‌شود و چگونه درمان می‌شود؟",
+   "description": "رسوب کلسیم در تاندون‌های شانه (تاندونیت کلسیفیه): تفاوت با آرتروز شانه، علائم، آیا خودبه‌خود برطرف می‌شود، تزریق، شاک‌ویو و جایگاه جراحی.",
+   "summary": "تاندونیت کلسیفیه یعنی رسوب کلسیم درون تاندون‌های روتاتور کاف که شانه را حرکت می‌دهند؛ در گفتار روزمره به آن «آهکی شدن شانه» گفته می‌شود و با ساییدگی خودِ مفصل شانه (استئوآرتریت) تفاوت دارد [1][3]. بیشتر رسوب‌ها با گذشت زمان خودبه‌خود از بین می‌روند و درمان در بیشتر بیماران با روش‌های غیرجراحی آغاز می‌شود؛ شواهد دربارهٔ درمان با امواج شوکی و شست‌وشو با سوزن محدود یا متناقض است و جراحی برای شمار اندکی از بیماران مطرح می‌شود که با وجود درمان‌های دیگر دردشان ادامه دارد [1][2][4][5].",
+   "sections": [
+    {
+     "h": "آهکی شدن شانه یعنی چه؟",
+     "p": [
+      "در گفتار روزمره «آهکی شدن شانه» (در ترکی: omuz kireçlenmesi) به دو وضعیت متفاوت گفته می‌شود. نخست، رسوب کلسیم درون تاندون‌های روتاتور کاف که شانه را حرکت می‌دهند (تاندونیت کلسیفیه)؛ موضوع این نوشته همین است [1][2]. دوم، ساییدگی خودِ مفصل شانه، یعنی آرتروز (استئوآرتریت): غضروفی که سطح‌های مفصل را می‌پوشاند فرسوده می‌شود، معمولاً پس از ۵۰ سالگی دیده می‌شود و در عکس رادیولوژی با باریک شدن فضای مفصلی و زائده‌های استخوانی شناخته می‌شود [3]. این دو وضعیت با هم متفاوت‌اند و درمانشان هم یکسان نیست [1][3].",
+      "در تاندونیت کلسیفیه، رسوب کلسیم تاندون را تحریک می‌کند، در ایجاد التهاب نقش دارد و ممکن است به زائدهٔ استخوانی بالای شانه (آکرومیون) ساییده شود [1][2]. بر اساس یک برگهٔ اطلاعات بیمار از NHS، این بیماری زیان‌بار یا جدی نیست [2]."
+     ]
+    },
+    {
+     "h": "چه علائمی دیده می‌شود؟",
+     "p": [
+      "رسوب کلسیم همیشه درد ایجاد نمی‌کند [2]. اگر علامتی وجود داشته باشد، مهم‌ترین‌ها این‌ها هستند [1][2]:"
+     ],
+     "list": [
+      "درد و حساسیت به لمس در جلو یا کنار شانه؛ درد گاهی به دست کشیده می‌شود",
+      "دردی که ممکن است شدید باشد و بدون آسیب یا حرکت هم پدید آید",
+      "دردی که ممکن است خواب را مختل کند یا خوابیدن روی شانه را دشوار سازد",
+      "دشواری در حرکت دادن دست، احساس خشکی یا کاهش حرکت",
+      "ضعف در شانه"
+     ]
+    },
+    {
+     "h": "در چه کسانی دیده می‌شود؟",
+     "p": [
+      "علت پیدایش آن به‌طور کامل روشن نیست؛ گمان می‌رود ممکن است با استفادهٔ بیش از حد از تاندون ارتباط داشته باشد [1][2]. در بزرگسالان ۳۰ تا ۶۰ ساله شایع‌تر است، اما در هر کسی ممکن است رخ دهد؛ در زنان کمی بیشتر از مردان دیده می‌شود و ممکن است یک شانه یا هر دو شانه را درگیر کند [1][2]."
+     ]
+    },
+    {
+     "h": "تشخیص چگونه داده می‌شود؟",
+     "p": [
+      "پزشک شانه را با دست معاینه می‌کند و دامنهٔ حرکت و قدرت دست را می‌سنجد [1]. عکس رادیولوژی رسوب‌های کلسیم را در اطراف روتاتور کاف نشان می‌دهد و ممکن است برای تأیید تشخیص درخواست شود [1][2]. ام‌آرآی می‌تواند بافت‌های نرم اطراف، مایع، التهاب و پارگی تاندون را نشان دهد [1].",
+      "هر رسوبی که در عکس رادیولوژی دیده می‌شود لزوماً علت درد نیست؛ از این رو نتیجهٔ تصویربرداری همراه با یافته‌های معاینه ارزیابی می‌شود [2]. سونوگرافی ممکن است برای هدایت سوزن هنگام تزریق و هنگام شست‌وشو با سوزن به کار رود [1][2]."
+     ]
+    },
+    {
+     "h": "آیا رسوب کلسیم خودبه‌خود از بین می‌رود؟",
+     "p": [
+      "بیشتر رسوب‌ها خودبه‌خود از بین می‌روند [2]. حل شدن طبیعی کلسیم ممکن است تا ۹ ماه و گاهی بیشتر طول بکشد؛ اما درد بیشتر وقت‌ها ظرف چند هفته آرام می‌گیرد [2].",
+      "درد ممکن است ناگهان شروع شود و بسیار شدید باشد. این بیشتر وقت‌ها به این معناست که رسوب خودبه‌خود در حال حل شدن است [2]. با این حال سیر بیماری در همه یکسان نیست: در پژوهشی روی بیمارانی که دست‌کم سه ماه علامت داشتند، ۱۴۳ نفر از ۲۲۰ شرکت‌کننده چون به اندازهٔ کافی بهتر نشده بودند، پس از چهار ماه درمان تکمیلی دریافت کردند [5]."
+     ]
+    },
+    {
+     "h": "درمان خط اول",
+     "p": [
+      "در بیشتر بیماران درمان با روش‌های غیرجراحی آغاز می‌شود؛ بسیاری از بیماران با گذشت زمان بهتر می‌شوند و دوباره می‌توانند از شانهٔ خود استفاده کنند، اما بهبود کامل ممکن است هفته‌ها یا ماه‌ها طول بکشد [1]. روش‌های اصلی:"
+     ],
+     "list": [
+      "استراحت نسبی: پرهیز موقت از حرکاتی که درد را شروع یا تشدید می‌کنند؛ به‌جای بی‌حرکت نگه داشتن کامل دست، ادامهٔ حرکت دادن آن تا جایی که درد اجازه می‌دهد [1][2]",
+      "مسکن‌ها و داروهای ضدالتهاب؛ استفاده از یخ [1][2]",
+      "فیزیوتراپی و ورزش: تمرین‌های کششی برای بازگرداندن حرکت شانه و در مرحلهٔ بعد تمرین‌های تقویتی [1][2]",
+      "تزریق کورتون: اگر روش‌های دیگر درد را برطرف نکنند، می‌توان آن را در کیسهٔ زیر آکرومیون (بورس) تزریق کرد؛ درد ممکن است بعداً برگردد، اما بیشتر وقت‌ها به شدت قبل نیست [1][2]"
+     ]
+    },
+    {
+     "h": "درمان با امواج شوکی، شست‌وشو با سوزن و جراحی",
+     "p": [
+      "در بیمارانی که با درمان خط اول به اندازهٔ کافی آسوده نمی‌شوند، ممکن است روش‌های دیگری مطرح شود. شواهد دربارهٔ برخی از این روش‌ها محدود یا متناقض است [4][5][6]:"
+     ],
+     "list": [
+      "درمان با امواج شوکی (شاک‌ویو، ESWT): امواج شوکی تولیدشده با دستگاه به بافت‌های عمقی شانه تابانده می‌شود؛ گمان می‌رود بتواند رسوب‌ها را خرد کند [1]. بر اساس مرور کاکرین، شواهدی با قطعیت کم تا متوسط نشان می‌دهد که در مقایسه با دارونما، فایدهٔ مهم بالینی برای درد و عملکرد بسیار اندک است؛ میان بیمارانِ دارای رسوب کلسیم و بدون آن تفاوتی دیده نشده است. دربارهٔ ایمنی آن ابهام وجود دارد؛ چون شیوه‌های درمان در پژوهش‌ها با هم بسیار متفاوت بوده است، ممکن است فایدهٔ احتمالی کمتر از آنچه هست به نظر برسد [4]",
+      "شست‌وشو با سوزن زیر هدایت سونوگرافی (لاواژ، باربوتاژ): سوزن وارد رسوب می‌شود و با تزریق سرم فیزیولوژیک، کلسیم خرد یا بیرون کشیده می‌شود [1][2]. یک مرور نظام‌مند که بر سه پژوهش تکیه دارد، با شواهدی با کیفیت پایین گزارش کرده است که این روش ممکن است از درمان با امواج شوکی یا تزریق کورتون به‌تنهایی مؤثرتر باشد [6]. اما در پژوهشی که بعدتر انجام شد و ۲۲۰ بیمار را با مداخلهٔ ساختگی (دارونما) مقایسه کرد، نه شست‌وشو همراه با کورتون و نه کورتون به‌تنهایی، در چهار ماه و در دو سال برتر از مداخلهٔ ساختگی نبود؛ عارضهٔ جانبی جدی گزارش نشد [5]",
+      "جراحی آرتروسکوپی (جراحی بستهٔ مفصل): هنگامی مطرح می‌شود که درمان غیرجراحی درد را برطرف نکند و به‌ندرت لازم می‌شود؛ هدف، برداشتن کلسیم و ترمیم پارگی همراه تاندون در صورت وجود است [1][2]"
+     ]
+    },
+    {
+     "h": "بهبودی چقدر طول می‌کشد؟",
+     "p": [
+      "با درمان غیرجراحی، علائم در بسیاری از بیماران کم‌کم کاهش می‌یابد؛ بهبود کامل ممکن است از چند هفته تا چند ماه طول بکشد [1]. به‌طور کلی برطرف شدن درد شانه ممکن است شش ماه یا بیشتر طول بکشد؛ در این مدت توصیه می‌شود به‌جای استفاده نکردن کامل از شانه، آن را به‌آرامی حرکت دهید [7].",
+      "پس از جراحی، دست مدت کوتاهی در آویز نگه داشته می‌شود و سپس تمرین‌های شانه آغاز می‌شود؛ برطرف شدن کامل درد معمولاً ۲ تا ۴ ماه طول می‌کشد و در برخی بیماران ممکن است تا یک سال ادامه یابد [1]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "درد ناشی از رسوب کلسیم هم ممکن است ناگهان شروع شود و بسیار شدید باشد؛ اما اینکه علت همین است تنها با معاینه مشخص می‌شود [1][2]. اگر درد ظرف دو هفته بهتر نشد یا حرکت دادن دست دشوار شد، به پزشک مراجعه کنید؛ در موارد زیر ارزیابی بدون معطلی لازم است [7]:"
+     ],
+     "list": [
+      "درد شانه که ناگهانی شروع شده یا بسیار شدید است",
+      "ناتوانی کامل در حرکت دادن دست",
+      "تغییر شکل شانه یا تورم آشکار",
+      "گزگز یا بی‌حسی در دست که برطرف نمی‌شود، یا احساس گرما یا سرما در دست",
+      "دردی که پس از زمین خوردن یا حادثه شروع شده است",
+      "درد شدید هم‌زمان در هر دو شانه، یا همراه بودن درد با تب"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "آیا آهکی شدن شانه و تاندونیت کلسیفیه یکی هستند؟",
+     "a": "در گفتار روزمره «آهکی شدن» هم برای رسوب کلسیم درون تاندون (تاندونیت کلسیفیه) و هم برای ساییدگی غضروف مفصل (استئوآرتریت) به کار می‌رود؛ این‌ها وضعیت‌های متفاوتی هستند [1][3]."
+    },
+    {
+     "q": "آیا رسوب کلسیم شانه خودبه‌خود برطرف می‌شود؟",
+     "a": "بیشتر رسوب‌ها خودبه‌خود از بین می‌روند؛ این روند ممکن است تا ۹ ماه و گاهی بیشتر طول بکشد، اما درد بیشتر وقت‌ها ظرف چند هفته آرام می‌گیرد [2]."
+    },
+    {
+     "q": "چرا دردم ناگهان خیلی شدید شد؟",
+     "a": "درد ناگهانی و بسیار شدید بیشتر وقت‌ها نشان می‌دهد که رسوب خودبه‌خود در حال حل شدن است [2]. با این حال در درد ناگهانی یا بسیار شدید شانه باید بدون معطلی معاینه شوید [7]."
+    },
+    {
+     "q": "آیا درمان با امواج شوکی مؤثر است؟",
+     "a": "بر اساس مرور کاکرین، در مقایسه با دارونما فایدهٔ مهم بالینی آن بسیار اندک است و دربارهٔ ایمنی آن ابهام وجود دارد؛ قطعیت شواهد در حد کم تا متوسط است [4]."
+    },
+    {
+     "q": "آیا باید کلسیم را با سوزن خارج کرد یا جراحی لازم است؟",
+     "a": "در بیشتر بیماران لازم نیست؛ درمان با روش‌های غیرجراحی آغاز می‌شود [1]. شواهد دربارهٔ شست‌وشو با سوزن متناقض است: در پژوهشی که آن را با مداخلهٔ ساختگی مقایسه کرد، برتری آن نشان داده نشد [5][6]. جراحی به‌ندرت و برای بیمارانی مطرح می‌شود که با وجود درمان‌های دیگر دردشان ادامه دارد [1][2]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

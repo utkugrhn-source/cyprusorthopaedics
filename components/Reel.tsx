@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
+import { num, type Lang } from "@/lib/site";
 
 export type ReelItem = { id: string; label: string; href?: string };
 type Labels = { prev: string; next: string; play: string; pause: string };
@@ -9,7 +10,7 @@ type Labels = { prev: string; next: string; play: string; pause: string };
  * A strip of short, silent, vertical clips that scrolls sideways.
  * A clip is fetched and played only while its card is on screen; with reduced motion nothing plays until asked.
  */
-export default function Reel({ items, labels, tone = "light" }: { items: ReelItem[]; labels: Labels; tone?: "light" | "deep" }) {
+export default function Reel({ items, labels, tone = "light", lang = "tr" }: { items: ReelItem[]; labels: Labels; tone?: "light" | "deep"; lang?: Lang }) {
   const track = useRef<HTMLUListElement>(null);
   const [edge, setEdge] = useState({ start: true, end: false });
   const [still, setStill] = useState(false);
@@ -20,7 +21,8 @@ export default function Reel({ items, labels, tone = "light" }: { items: ReelIte
     if (!el) return;
     const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     setStill(reduce);
-    const onScroll = () => setEdge({ start: el.scrollLeft < 8, end: el.scrollLeft + el.clientWidth > el.scrollWidth - 8 });
+    // in a right-to-left page scrollLeft runs from 0 down to a negative number, so the distance is taken without its sign
+    const onScroll = () => { const x = Math.abs(el.scrollLeft); setEdge({ start: x < 8, end: x + el.clientWidth > el.scrollWidth - 8 }); };
     onScroll();
     el.addEventListener("scroll", onScroll, { passive: true });
     window.addEventListener("resize", onScroll);
@@ -43,7 +45,7 @@ export default function Reel({ items, labels, tone = "light" }: { items: ReelIte
     if (!el) return;
     const card = el.querySelector("li");
     const w = card ? card.getBoundingClientRect().width + 16 : 280;
-    el.scrollBy({ left: dir * w * 2, behavior: "smooth" });
+    el.scrollBy({ left: dir * w * 2 * (getComputedStyle(el).direction === "rtl" ? -1 : 1), behavior: "smooth" });
   };
 
   const toggle = (id: string, v: HTMLVideoElement | null) => {
@@ -74,9 +76,9 @@ export default function Reel({ items, labels, tone = "light" }: { items: ReelIte
                 </button>
               </div>
               <p className="mt-4 flex items-baseline gap-3 text-[1rem]" style={{ fontWeight: 500, letterSpacing: "-0.01em" }}>
-                <span className={`text-[0.82rem] tabular-nums tracking-[0.04em] ${deep ? "text-turq" : "text-tide"}`}>{String(i + 1).padStart(2, "0")}</span>
+                <span className={`text-[0.82rem] tabular-nums tracking-[0.04em] ${deep ? "text-turq" : "text-tide"}`}>{num(String(i + 1).padStart(2, "0"), lang)}</span>
                 {it.href ? (
-                  <Link href={it.href} className="group/l underline decoration-transparent decoration-2 underline-offset-4 transition-colors hover:decoration-turq">{it.label} <span aria-hidden className="inline-block text-turq transition-transform duration-300 group-hover/l:translate-x-1">→</span></Link>
+                  <Link href={it.href} className="group/l underline decoration-transparent decoration-2 underline-offset-4 transition-colors hover:decoration-turq">{it.label} <span aria-hidden className="inline-block text-turq transition-transform duration-300 group-hover/l:translate-x-1 rtl:-scale-x-100 rtl:group-hover/l:-translate-x-1">→</span></Link>
                 ) : it.label}
               </p>
             </li>
@@ -84,8 +86,8 @@ export default function Reel({ items, labels, tone = "light" }: { items: ReelIte
         })}
       </ul>
       <div className="wrap mt-8 hidden justify-end gap-3 md:flex">
-        <button type="button" className="reel-nav" onClick={() => step(-1)} disabled={edge.start} aria-label={labels.prev}><span aria-hidden>←</span></button>
-        <button type="button" className="reel-nav" onClick={() => step(1)} disabled={edge.end} aria-label={labels.next}><span aria-hidden>→</span></button>
+        <button type="button" className="reel-nav" onClick={() => step(-1)} disabled={edge.start} aria-label={labels.prev}><span aria-hidden className="inline-block rtl:-scale-x-100">←</span></button>
+        <button type="button" className="reel-nav" onClick={() => step(1)} disabled={edge.end} aria-label={labels.next}><span aria-hidden className="inline-block rtl:-scale-x-100">→</span></button>
       </div>
     </div>
   );

@@ -1,12 +1,11 @@
 import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
-import { ui, type Lang, SITE, PHONE, PHONE_HREF, DOCTORS_SEGMENT } from "@/lib/site";
-import { doctors } from "@/lib/doctors";
+import { ui, type Lang, SITE, PHONE, PHONE_HREF, DOCTORS_SEGMENT, alts, fmtDate as fmt } from "@/lib/site";
+import { doctors, docFull } from "@/lib/doctors";
 import { areas, areaUrl } from "@/lib/areas";
 import { type Article, blogUi, blogUrl, articlesOfArea } from "@/lib/blog";
 
-const fmt = (iso: string, lang: Lang) => new Date(iso + "T12:00:00Z").toLocaleDateString(lang === "tr" ? "tr-TR" : "en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
 
 function Cited({ text }: { text: string }) {
   const parts = text.split(/(\[\d+\])/g);
@@ -38,7 +37,7 @@ export default function ArticlePage({ lang, a }: { lang: Lang; a: Article }) {
   return (
     <>
       {ld.map((o, i) => <script key={i} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(o) }} />)}
-      <Nav lang={lang} t={t} alt={{ tr: blogUrl("tr", a), en: blogUrl("en", a) }} tone="white" />
+      <Nav lang={lang} t={t} alt={alts((l) => blogUrl(l, a))} tone="white" />
       <main className="pt-[8.5rem] md:pt-[9.5rem]">
         <div className="bg-mist">
           <div className="wrap py-12 md:py-20">
@@ -46,7 +45,7 @@ export default function ArticlePage({ lang, a }: { lang: Lang; a: Article }) {
             <p className="mt-8 text-[1.05rem] text-tide" style={{ fontWeight: 500 }}><Link href={areaUrl(lang, area)}>{area.title[lang]}</Link></p>
             <h1 className="display mt-2 max-w-4xl" style={{ fontSize: "clamp(2.2rem, 5.2vw, 4.4rem)" }}>{x.title}</h1>
             <p className="small mt-6 text-slate" style={{ fontWeight: 400 }}>
-              {a.reviewed && <>{b.reviewed}: <Link className="link" href={`/${lang}/${DOCTORS_SEGMENT[lang]}/${doc.slug}`}>{doc.title[lang]} {doc.name}</Link> · </>}{b.updated}: {fmt(a.updated, lang)}
+              {a.reviewed && <>{b.reviewed}: <Link className="link" href={`/${lang}/${DOCTORS_SEGMENT[lang]}/${doc.slug}`}>{docFull(doc, lang)}</Link> · </>}{b.updated}: {fmt(a.updated, lang)}
             </p>
           </div>
         </div>
@@ -57,7 +56,7 @@ export default function ArticlePage({ lang, a }: { lang: Lang; a: Article }) {
               <section key={s.h} className="mt-12">
                 <h2 className="h3">{s.h}</h2>
                 {s.p.filter(Boolean).map((p) => <p key={p.slice(0, 30)} className="body mt-4" style={{ fontWeight: 400 }}><Cited text={p} /></p>)}
-                {s.list && <ul className="mt-4 list-disc space-y-2 pl-6" style={{ fontWeight: 400 }}>{s.list.map((l) => <li key={l}><Cited text={l} /></li>)}</ul>}
+                {s.list && <ul className="mt-4 list-disc space-y-2 ps-6" style={{ fontWeight: 400 }}>{s.list.map((l) => <li key={l}><Cited text={l} /></li>)}</ul>}
               </section>
             ))}
             <section className="mt-16 border-t border-line pt-10">
@@ -72,7 +71,7 @@ export default function ArticlePage({ lang, a }: { lang: Lang; a: Article }) {
             {x.note && <p className="mt-10 rounded-2xl bg-mist p-6" style={{ fontWeight: 400 }}>{x.note}</p>}
             <section className="mt-12">
               <h2 className="h3">{b.sources}</h2>
-              <ol className="mt-4 list-decimal space-y-3 pl-6 text-[0.98rem]" style={{ fontWeight: 400 }}>
+              <ol dir="ltr" className="mt-4 list-decimal space-y-3 pl-6 text-[0.98rem]" style={{ fontWeight: 400 }}>
                 {a.sources.map((s, i) => (
                   <li key={s.url} id={`src-${i + 1}`}>{s.title}. <span className="text-slate">{s.publisher}{s.year ? `, ${s.year}` : ""}.</span> <a className="link" href={s.url} rel="noopener nofollow">{new URL(s.url).hostname.replace("www.", "")}</a></li>
                 ))}

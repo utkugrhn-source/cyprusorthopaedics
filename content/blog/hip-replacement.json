@@ -1,0 +1,553 @@
+{
+ "id": "hip-replacement",
+ "area": "kalca",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "How a hip replacement is done",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/tests-and-treatments/hip-replacement/how-a-hip-replacement-is-done/",
+   "year": "2024"
+  },
+  {
+   "title": "Recovering from a hip replacement",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/tests-and-treatments/hip-replacement/recovering-from-a-hip-replacement/",
+   "year": "2024"
+  },
+  {
+   "title": "Complications of a hip replacement",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/tests-and-treatments/hip-replacement/complications-of-a-hip-replacement/",
+   "year": "2024"
+  },
+  {
+   "title": "Total Hip Replacement",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/treatment/total-hip-replacement/",
+   "year": "n.d."
+  },
+  {
+   "title": "Joint replacement (primary): hip, knee and shoulder (NG157): Rationale and impact",
+   "publisher": "National Institute for Health and Care Excellence (NICE)",
+   "url": "https://www.nice.org.uk/guidance/ng157/chapter/Rationale-and-impact",
+   "year": "2020"
+  },
+  {
+   "title": "Why a hip replacement is done",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/tests-and-treatments/hip-replacement/why-a-hip-replacement-is-done/",
+   "year": "2024"
+  },
+  {
+   "title": "How long does a hip replacement last? A systematic review and meta-analysis of case series and national registry reports with more than 15 years of follow-up",
+   "publisher": "The Lancet (Evans JT, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30782340/",
+   "year": "2019"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "kalca-protezi-ameliyati",
+   "title": "Kalça protezi ameliyatı: kimlere yapılır, iyileşme nasıl geçer?",
+   "description": "Kalça protezi ameliyatı kimlere yapılır, nasıl hazırlanılır? Ameliyat, hastanede kalış, fizik tedavi, riskler, protezin ömrü ve iyileşme süreci.",
+   "summary": "Kalça protezinde eklemin hasarlı bölümleri metal, plastik ya da seramik parçalarla değiştirilir [1]. Kalça ağrısı ve sertliği yaşamı büyük ölçüde etkiliyorsa ve diğer tedaviler işe yaramamışsa önerilebilir; en sık neden kireçlenmedir [6]. İyileşme birkaç ay sürebilir [2]; kayıt verilerine dayanan bir analize göre hastaların yaklaşık %58'inde kalça protezinin 25 yıl dayanması beklenebilir [7].",
+   "sections": [
+    {
+     "h": "Kalça protezi nedir?",
+     "p": [
+      "Kalça protezi ameliyatında (artroplasti) kalça ekleminin hasarlı bölümleri çıkarılır, yerine metal, plastik ya da seramik parçalar yerleştirilir [1][4]. Kalça bir top-yuva eklemidir: yuva leğen kemiğinde, top ise uyluk kemiğinin üst ucundadır [4]. En sık yapılan tür, ikisinin de değiştirildiği total kalça protezidir [1].",
+      "Parçalar kemiğe çimentoyla (çimentolu) ya da kemiğin parçaya tutunarak büyümesine olanak veren sıkı geçmeyle (çimentosuz) tutturulur; seçim, kemiğin kalitesi ve sağlamlığı gibi etkenlere bağlıdır [4]. Protezin parçaları şunlardır [4]:"
+     ],
+     "list": [
+      "Sap: uyluk kemiğinin içine yerleştirilen metal parça",
+      "Baş: sapın üst ucuna takılan metal ya da seramik top",
+      "Yuva: leğen kemiğindeki çukura yerleştirilen metal parça",
+      "Ara parça: baş ile yuva arasında kaygan bir yüzey sağlayan plastik, seramik ya da metal parça"
+     ]
+    },
+    {
+     "h": "Kimlere yapılır?",
+     "p": [
+      "Ameliyat ilk seçenek değildir. NHS'e göre kalça protezi, kalça ağrısı ve sertliği yaşamı büyük ölçüde etkiliyorsa ve diğer tedaviler işe yaramamışsa önerilebilir; en sık neden kireçlenmedir (osteoartrit), romatoid artrit ile düşme ya da yaralanma sonrası kalçada oluşan hasar da nedenler arasındadır [6]. OrthoInfo, kırık sonrası gelişen artriti ve uyluk başının kanlanmasının bozulmasını (avasküler nekroz) da sayar [4].",
+      "Kesin bir yaş ya da kilo sınırı yoktur; öneri yaşa göre değil, ağrıya ve kısıtlılığa göre yapılır. Ameliyattan yarar görenlerde çoğunlukla şunlar vardır [4]:"
+     ],
+     "list": [
+      "Yürüme ve eğilme gibi günlük etkinlikleri kısıtlayan kalça ağrısı",
+      "Dinlenirken, gündüz ya da gece süren ağrı",
+      "Bacağı hareket ettirmeyi ya da kaldırmayı kısıtlayan sertlik",
+      "İltihap giderici ilaçlardan, fizik tedaviden ya da yürüme desteklerinden yeterli yarar görülmemesi"
+     ]
+    },
+    {
+     "h": "Ameliyat öncesi değerlendirme ve hazırlık",
+     "p": [
+      "Değerlendirmede genel sağlık durumu ve ağrının günlük işleri nasıl etkilediği sorulur, kalça muayene edilir ve röntgen çekilir; MR gibi tetkiklere ara sıra gerek duyulur [4]. Cerrah, protez dışındaki seçenekleri ve olası riskleri hastayla konuşur [4]; NICE de hastaların kendilerine uygun tedavi seçenekleri hakkında özgül bilgiye gereksinim duyduğunu vurgular [5].",
+      "Ameliyattan önce genel sağlık muayenesi ile kan, idrar ve EKG gibi tetkikler istenebilir; hangi ilaçların kesileceğini hekim bildirir, büyük diş tedavilerinin önceden tamamlanması önerilir [4]. NICE'a göre ameliyat öncesi rehabilitasyon; ameliyattan önce ve sonra yapılacak egzersizler ve yaşam tarzı konusunda öneriler içermelidir [5]. Evde ilk haftalar için yardım ayarlamak, tutunma barları ve yükseltilmiş klozet oturağı hazırlamak, kayabilecek halıları kaldırmak işleri kolaylaştırır [4]."
+     ]
+    },
+    {
+     "h": "Ameliyat ve hastanede kalış",
+     "p": [
+      "Ameliyat belden uyuşturmayla (spinal anestezi) ya da genel anesteziyle (uyutularak) yapılır ve genellikle 1–2 saat sürer [1][4]. NICE, kalça protezinde bölgesel ve genel anestezinin eşit derecede etkili olduğunu belirtir ve hastaya seçenek sunulmasını önerir [5].",
+      "NICE'a göre rehabilitasyon ameliyattan sonraki 24 saat içinde, en iyisi ameliyat günü başlamalıdır [5]; ilk adımlar koltuk değneği ya da yürüteçle atılır [2]. Pıhtı riskini azaltmak için kan sulandırıcı ilaçlar, kompresyon çorabı ve erken hareket önerilebilir [3][4].",
+      "Hastanede kalış süresi değişir: NHS, genel durumu iyi olan ve ameliyatı sorunsuz geçen kişilerin genellikle yaklaşık 1–3 gün sonra evine gidebildiğini belirtir [2]; OrthoInfo'ya göre bazı hastalar aynı gün taburcu edilir, bazıları en az bir gece hastanede kalır [4]."
+     ]
+    },
+    {
+     "h": "İyileşme ve fizik tedavi",
+     "p": [
+      "İyileşme birkaç ay sürebilir; süre yaşa ve genel sağlık durumuna göre değişir. Taburcu olmadan önce günlük işlerin nasıl yapılacağı ve evde uygulanacak egzersiz programı anlatılır [2]. NICE'a göre kişinin kendi başına yürüttüğü rehabilitasyon ile gözetimli rehabilitasyon benzer derecede etkilidir; kendi başına sürdürmekte güçlük çekecek kişiler için ayrıca olanak sağlanmalıdır [5]. Kaynakların verdiği süreler genel değerlerdir ve kişiden kişiye değişir:"
+     ],
+     "list": [
+      "Yürüme: başlangıçta koltuk değneği ya da yürüteç gerekir; her gün, rahat edilen mesafe kadar yürümek önerilir [2]",
+      "Günlük işler: hafif günlük etkinliklerin çoğuna 3–6 hafta içinde dönülebilir [4]",
+      "Araba kullanma: NHS en az 6 hafta beklenmesini ve hekime danışılmasını önerir [2]",
+      "İşe dönüş: genellikle yaklaşık 6 hafta sonra, işin türüne göre [2]",
+      "Ağır kaldırma ve taşıma: güvenli olduğu söylenene kadar kaçınılır [2]"
+     ]
+    },
+    {
+     "h": "Riskler ve komplikasyonlar",
+     "p": [
+      "Kalça protezi sık yapılan ve güvenli bir ameliyattır; yine de her ameliyat gibi riskleri vardır [3]. OrthoInfo komplikasyon oranının düşük olduğunu, süregelen hastalıkların ise riski artırabileceğini belirtir [4]. Başlıca riskler şunlardır:"
+     ],
+     "list": [
+      "Çıkık: protezin topu yuvadan çıkabilir; sık görülmez. Risk ilk birkaç ayda en yüksektir, ancak yıllar sonra da olabilir; yineleyen çıkıklarda yeniden ameliyat gerekebilir [3][4]",
+      "Enfeksiyon: yarada ya da protez çevresinde, ameliyattan günler, haftalar, hatta yıllar sonra gelişebilir. Yara enfeksiyonu çoğunlukla antibiyotikle tedavi edilir; derin enfeksiyon yeniden ameliyat gerektirebilir [3][4]",
+      "Kan pıhtısı: bacak toplardamarlarında oluşabilir (derin ven trombozu); akciğere giderse (pulmoner emboli) ciddi sonuçlar doğurabilir [3][4]",
+      "Bacak boyu farkı: ameliyatlı bacak biraz uzun ya da kısa kalabilir; fark çoğunlukla küçüktür, bazen ayakkabıya yükseltme gerekir [3][4]",
+      "Aşınma ve gevşeme: protez yıllar içinde aşınabilir ya da gevşeyebilir; yeniden ameliyat (revizyon) gerekebilir [3][4]",
+      "Sinir ya da damar yaralanması, kanama, kırık ve sertlik: görülebilir [4]; NHS sinir ve damar yaralanmasının sık olmadığını belirtir [3]"
+     ]
+    },
+    {
+     "h": "Protez ne kadar dayanır?",
+     "p": [
+      "Normal kullanımla her kalça protezinde baş ile yuva arasındaki malzeme zamanla aşınır; aşırı yüklenme ve fazla kilo bunu hızlandırabilir [4]. NHS, günümüz protezlerinin en az 15 yıl dayanacak biçimde tasarlandığını belirtir [3]. 2019'da The Lancet'te yayımlanan ve Avustralya ile Finlandiya ulusal protez kayıtlarının verilerini birleştiren bir analizde, kayıt verilerinin yanlılığa daha az açık olduğu varsayımıyla, hastaların yaklaşık %58'inde kalça protezinin 25 yıl dayanmasının beklenebileceği sonucuna varılmıştır; olgu serilerinde bu oran daha yüksek (%77,6) bulunmuştur [7]."
+     ]
+    },
+    {
+     "h": "Protezle yaşam",
+     "p": [
+      "Çoğu kişide ağrı belirgin biçimde azalır ve günlük işler kolaylaşır [4][6]. Yürüyüş, yüzme, golf, bisiklet ve dans gibi düşük etkili etkinlikler uygundur; çoğu cerrah koşu ve sıçrama gibi yüksek etkili etkinliklerden kaçınılmasını önerir [4].",
+      "Çıkığı önlemek için iyileşme döneminde bazı önlemler istenebilir; bunlar kullanılan cerrahi yaklaşıma göre hastadan hastaya değişir [4]. NHS'in saydıkları arasında bacak bacak üstüne atmamak, kalçayı 90 dereceden fazla bükmemek ve alçak sandalyeye oturmamak vardır [2]. Yakınma olmasa da ortopedi kontrollerine gidilmesi önerilir [4]; NICE, protezli ekleminde sorun yaşayan kişilerin ortopedi birimine yönlendirilmesini önerir [5]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Ameliyattan sonra şunlarda gecikmeden bir sağlık kuruluşuna başvurun; enfeksiyon ya da pıhtı belirtisi olabilir [3][4]:"
+     ],
+     "list": [
+      "Yüksek ateş, üşüme ya da titreme",
+      "Yaradan akıntı ya da irin gelmesi",
+      "Kalçada ya da bacakta geçmeyen ya da artan kızarıklık, hassasiyet, şişlik ya da ağrı",
+      "Baldırda hassasiyet ya da kızarıklık, kalçada ya da bacakta zonklayıcı ya da kramp tarzında ağrı",
+      "Ani nefes darlığı ya da göğüs ağrısı (akciğere pıhtı gitmiş olabilir): acil servise başvurun ya da ambulans çağırın"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kalça protezi için yaş sınırı var mı?",
+     "a": "Kesin bir yaş ya da kilo sınırı yoktur; öneri yaşa göre değil, ağrıya ve kısıtlılığa göre yapılır. Ameliyat olanların çoğu 50–80 yaş arasındadır [4]."
+    },
+    {
+     "q": "Hastanede kaç gün kalırım?",
+     "a": "Değişir. NHS, genel durumu iyi olanların genellikle yaklaşık 1–3 gün sonra evine gidebildiğini [2], OrthoInfo bazı hastaların aynı gün taburcu edildiğini belirtir [4]."
+    },
+    {
+     "q": "Ne zaman araba kullanabilirim?",
+     "a": "NHS en az 6 hafta beklenmesini ve araç kullanmaya uygun olup olmadığınızı hekiminize danışmanızı önerir [2]."
+    },
+    {
+     "q": "Kalça protezi kaç yıl dayanır?",
+     "a": "NHS, günümüz protezlerinin en az 15 yıl dayanacak biçimde tasarlandığını belirtir [3]. Ulusal kayıt verilerine dayanan bir analize göre hastaların yaklaşık %58'inde kalça protezinin 25 yıl dayanması beklenebilir [7]."
+    },
+    {
+     "q": "Ameliyattan sonra hangi hareketlerden kaçınmalıyım?",
+     "a": "NHS bacak bacak üstüne atmamayı, kalçayı 90 dereceden fazla bükmemeyi ve alçak sandalyeye oturmamayı önerir [2]. Önlemler kullanılan cerrahi yaklaşıma göre değişir; size uygun olanları cerrahınız ve fizyoterapistiniz bildirir [4]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; kısıtlamaları ve zamanlamayı ameliyatı yapan cerrahın talimatları belirler."
+  },
+  "en": {
+   "slug": "hip-replacement-surgery",
+   "title": "Hip replacement surgery: who is it for and what is recovery like?",
+   "description": "Who is hip replacement surgery for and how do you prepare? The operation, hospital stay, physiotherapy, risks, how long an implant lasts and recovery.",
+   "summary": "In a hip replacement the damaged parts of the joint are replaced with metal, plastic or ceramic parts [1]. It may be recommended when hip pain and stiffness are having a big effect on life and other treatments have not worked; the most common reason is osteoarthritis [6]. Recovery can take several months [2]; according to an analysis of registry data, a hip replacement can be expected to last 25 years in about 58% of patients [7].",
+   "sections": [
+    {
+     "h": "What is a hip replacement?",
+     "p": [
+      "In hip replacement surgery (arthroplasty) the damaged parts of the hip joint are removed and replaced with metal, plastic or ceramic parts [1][4]. The hip is a ball-and-socket joint: the socket is in the pelvis and the ball is at the upper end of the thigh bone [4]. The most common type is a total hip replacement, in which both are replaced [1].",
+      "The parts are fixed to the bone with cement (cemented) or by a tight press fit that allows the bone to grow onto the part (uncemented); the choice depends on factors such as the quality and strength of the bone [4]. The parts of the implant are [4]:"
+     ],
+     "list": [
+      "Stem: a metal part placed inside the thigh bone",
+      "Head: a metal or ceramic ball fitted to the top of the stem",
+      "Cup: a metal part fitted into the socket in the pelvis",
+      "Liner: a plastic, ceramic or metal part that gives a smooth gliding surface between the head and the cup"
+     ]
+    },
+    {
+     "h": "Who is it considered for?",
+     "p": [
+      "Surgery is not the first option. According to the NHS, a hip replacement may be recommended if hip pain and stiffness are having a big effect on life and other treatments have not worked; the most common reason is osteoarthritis, and rheumatoid arthritis and damage to the hip after a fall or injury are among the other reasons [6]. OrthoInfo also lists arthritis that develops after a fracture and loss of blood supply to the head of the thigh bone (avascular necrosis) [4].",
+      "There is no absolute age or weight limit; the recommendation is based on pain and disability rather than age. People who benefit from the operation often have [4]:"
+     ],
+     "list": [
+      "Hip pain that limits everyday activities such as walking and bending",
+      "Pain that continues at rest, by day or by night",
+      "Stiffness that limits the ability to move or lift the leg",
+      "Too little benefit from anti-inflammatory medicines, physiotherapy or walking supports"
+     ]
+    },
+    {
+     "h": "Assessment and getting ready",
+     "p": [
+      "At assessment you are asked about your general health and how the pain affects everyday activities, the hip is examined and X-rays are taken; tests such as an MRI scan are needed occasionally [4]. The surgeon discusses the alternatives to replacement and the possible risks with the patient [4]; NICE likewise stresses that patients need specific information about the treatment options available to them [5].",
+      "A general medical examination and tests such as blood and urine tests and an ECG may be requested before the operation; the doctor says which medicines to stop, and major dental treatment is best completed beforehand [4]. According to NICE, preoperative rehabilitation should include advice on exercises to do before and after surgery and on lifestyle [5]. Arranging help at home for the first weeks, fitting handrails and a raised toilet seat, and removing loose rugs make things easier [4]."
+     ]
+    },
+    {
+     "h": "The operation and hospital stay",
+     "p": [
+      "The operation is done under a spinal anaesthetic (numb from the waist down) or a general anaesthetic (asleep) and usually takes 1 to 2 hours [1][4]. NICE states that regional and general anaesthesia are equally effective for hip replacement and recommends that the patient is offered a choice [5].",
+      "According to NICE, rehabilitation should start within 24 hours of surgery, ideally on the day of surgery [5]; the first steps are taken with crutches or a walking frame [2]. Blood-thinning medicines, compression stockings and early movement may be advised to reduce the risk of blood clots [3][4].",
+      "Length of stay varies: the NHS states that people who are generally fit and whose surgery went well can usually go home after around 1 to 3 days [2]; according to OrthoInfo some patients go home the same day while others stay in hospital for at least one night [4]."
+     ]
+    },
+    {
+     "h": "Recovery and physiotherapy",
+     "p": [
+      "Recovery can take several months; this varies with age and general health. Before you leave hospital you are told how to manage daily activities and given an exercise programme to follow at home [2]. According to NICE, self-directed rehabilitation and supervised rehabilitation are similarly effective; separate provision should be made for people who would find it difficult to continue on their own [5]. The time frames given by the sources are general figures and vary from person to person:"
+     ],
+     "list": [
+      "Walking: crutches or a walking frame are needed at first; walking every day, as far as is comfortable, is advised [2]",
+      "Daily activities: most light everyday activities can be resumed within 3 to 6 weeks [4]",
+      "Driving: the NHS advises waiting at least 6 weeks and checking with your doctor [2]",
+      "Work: usually after about 6 weeks, depending on the type of work [2]",
+      "Heavy lifting and carrying: avoided until you are told it is safe [2]"
+     ]
+    },
+    {
+     "h": "Risks and complications",
+     "p": [
+      "Hip replacement is a common and safe operation; even so, as with any surgery, there are risks [3]. OrthoInfo states that the complication rate is low but that long-term illnesses may increase the risk [4]. The main risks are:"
+     ],
+     "list": [
+      "Dislocation: the ball of the implant can come out of the socket; this is not common. The risk is greatest in the first few months, but it can also happen years later; if it keeps dislocating, further surgery may be needed [3][4]",
+      "Infection: this can develop in the wound or around the implant days, weeks or even years after the operation. Wound infection is usually treated with antibiotics; deep infection may need further surgery [3][4]",
+      "Blood clots: a clot can form in the leg veins (deep vein thrombosis); if it travels to the lungs (pulmonary embolism) the consequences can be serious [3][4]",
+      "Difference in leg length: the operated leg may end up slightly longer or shorter; the difference is usually small, and sometimes a raise in the shoe is needed [3][4]",
+      "Wear and loosening: the implant can wear or loosen over the years; further surgery (revision) may be needed [3][4]",
+      "Injury to a nerve or blood vessel, bleeding, fracture and stiffness: these can occur [4]; the NHS states that nerve and blood vessel damage is not common [3]"
+     ]
+    },
+    {
+     "h": "How long does a hip replacement last?",
+     "p": [
+      "With normal use, the material between the head and the socket of every hip replacement wears over time; excessive loading and excess weight can speed this up [4]. The NHS states that modern hip replacements are designed to last for at least 15 years [3]. An analysis published in The Lancet in 2019, which pooled data from the national joint registries of Australia and Finland, concluded that, assuming registry data are less likely to be biased, a hip replacement can be expected to last 25 years in about 58% of patients; in case series the figure was higher (77.6%) [7]."
+     ]
+    },
+    {
+     "h": "Living with a hip replacement",
+     "p": [
+      "Most people have much less pain and find everyday activities easier [4][6]. Low-impact activities such as walking, swimming, golf, cycling and dancing are suitable; most surgeons advise against high-impact activities such as running and jumping [4].",
+      "To prevent dislocation you may be asked to take certain precautions during recovery; these vary from patient to patient depending on the surgical approach used [4]. Those listed by the NHS include not crossing the legs, not bending the hip more than 90 degrees and not sitting on a low chair [2]. Attending orthopaedic follow-up is advised even when there are no symptoms [4]; NICE recommends that people who have problems with their joint replacement are referred to an orthopaedic service [5]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "After the operation, seek care without delay if you have any of the following; they can be signs of infection or a blood clot [3][4]:"
+     ],
+     "list": [
+      "A high temperature, chills or shivering",
+      "Oozing or pus from the wound",
+      "Redness, tenderness, swelling or pain in the hip or leg that is not settling or is getting worse",
+      "Tenderness or redness of the calf, or throbbing or cramping pain in the hip or leg",
+      "Sudden breathlessness or chest pain (a clot may have travelled to the lungs): go to an emergency department or call an ambulance"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is there an age limit for hip replacement?",
+     "a": "There is no absolute age or weight limit; the recommendation is based on pain and disability rather than age. Most people who have the operation are aged 50 to 80 [4]."
+    },
+    {
+     "q": "How long will I stay in hospital?",
+     "a": "It varies. The NHS states that people who are generally fit can usually go home after around 1 to 3 days [2], while OrthoInfo notes that some patients go home the same day [4]."
+    },
+    {
+     "q": "When can I drive?",
+     "a": "The NHS advises waiting at least 6 weeks and checking with your doctor that you are fit to drive [2]."
+    },
+    {
+     "q": "How many years does a hip replacement last?",
+     "a": "The NHS states that modern hip replacements are designed to last for at least 15 years [3]. According to an analysis of national registry data, a hip replacement can be expected to last 25 years in about 58% of patients [7]."
+    },
+    {
+     "q": "Which movements should I avoid after the operation?",
+     "a": "The NHS advises not crossing your legs, not bending the hip more than 90 degrees and not sitting on a low chair [2]. The precautions vary with the surgical approach used; your surgeon and physiotherapist will tell you which apply to you [4]."
+    }
+   ],
+   "note": "This is a general summary; the restrictions and timing are set by the instructions of the surgeon who operated."
+  },
+  "ru": {
+   "slug": "endoprotezirovanie-tazobedrennogo-sustava",
+   "title": "Эндопротезирование тазобедренного сустава: кому его делают и как проходит восстановление?",
+   "description": "Кому делают эндопротезирование тазобедренного сустава и как готовиться? Операция, больница, лечебная физкультура, риски, срок службы протеза, восстановление.",
+   "summary": "При эндопротезировании тазобедренного сустава повреждённые части сустава заменяют металлическими, пластиковыми или керамическими деталями [1]. Его могут рекомендовать, если боль и скованность в тазобедренном суставе сильно влияют на жизнь, а другие методы лечения не помогли; самая частая причина — артроз [6]. Восстановление может занять несколько месяцев [2]; согласно анализу, основанному на данных регистров, примерно у 58% пациентов можно ожидать, что эндопротез тазобедренного сустава прослужит 25 лет [7].",
+   "sections": [
+    {
+     "h": "Что такое эндопротезирование тазобедренного сустава?",
+     "p": [
+      "При эндопротезировании (артропластике) тазобедренного сустава повреждённые части сустава удаляют, а на их место устанавливают металлические, пластиковые или керамические детали [1][4]. Тазобедренный сустав — шаровидный: впадина находится в тазовой кости, а шар — на верхнем конце бедренной кости [4]. Самый распространённый вид — тотальное эндопротезирование, при котором заменяют и то, и другое [1].",
+      "Детали крепят к кости цементом (цементная фиксация) или плотной посадкой, которая позволяет кости прирастать к детали (бесцементная фиксация); выбор зависит от таких факторов, как качество и прочность кости [4]. Эндопротез состоит из следующих деталей [4]:"
+     ],
+     "list": [
+      "Ножка: металлическая деталь, которую устанавливают внутрь бедренной кости",
+      "Головка: металлический или керамический шар, который надевают на верхний конец ножки",
+      "Чашка: металлическая деталь, которую устанавливают во впадину тазовой кости",
+      "Вкладыш: пластиковая, керамическая или металлическая деталь, которая обеспечивает гладкую поверхность скольжения между головкой и чашкой"
+     ]
+    },
+    {
+     "h": "Кому его делают?",
+     "p": [
+      "Операция — не первый вариант лечения. По данным NHS, эндопротезирование тазобедренного сустава могут рекомендовать, если боль и скованность в суставе сильно влияют на жизнь, а другие методы лечения не помогли; самая частая причина — артроз (остеоартрит), среди других причин — ревматоидный артрит и повреждение тазобедренного сустава после падения или травмы [6]. OrthoInfo называет также артрит, развившийся после перелома, и нарушение кровоснабжения головки бедренной кости (аваскулярный некроз) [4].",
+      "Строгого предела по возрасту или весу нет; рекомендация основывается не на возрасте, а на боли и ограничениях. У тех, кому операция приносит пользу, чаще всего бывает следующее [4]:"
+     ],
+     "list": [
+      "Боль в тазобедренном суставе, которая ограничивает повседневные действия, например ходьбу и наклоны",
+      "Боль, которая сохраняется в покое, днём или ночью",
+      "Скованность, которая мешает двигать ногой или поднимать её",
+      "Недостаточный эффект от противовоспалительных препаратов, лечебной физкультуры или опоры при ходьбе"
+     ]
+    },
+    {
+     "h": "Обследование и подготовка перед операцией",
+     "p": [
+      "При обследовании расспрашивают об общем состоянии здоровья и о том, как боль влияет на повседневные дела, осматривают тазобедренный сустав и делают рентген; такие исследования, как МРТ, требуются изредка [4]. Хирург обсуждает с пациентом другие варианты, помимо эндопротезирования, и возможные риски [4]; NICE также подчёркивает, что пациентам нужна конкретная информация о доступных именно им вариантах лечения [5].",
+      "Перед операцией могут назначить общий медицинский осмотр и такие исследования, как анализы крови и мочи и ЭКГ; какие лекарства нужно отменить, сообщает врач, а серьёзное стоматологическое лечение рекомендуют завершить заранее [4]. Согласно NICE, предоперационная реабилитация должна включать рекомендации по упражнениям до и после операции и по образу жизни [5]. Договориться о помощи дома на первые недели, подготовить поручни и приподнятое сиденье для унитаза, убрать скользящие ковры — всё это облегчает быт [4]."
+     ]
+    },
+    {
+     "h": "Операция и пребывание в больнице",
+     "p": [
+      "Операцию выполняют с обезболиванием ниже пояса (спинальная анестезия) или под общей анестезией (во сне), и обычно она длится 1–2 часа [1][4]. NICE указывает, что при эндопротезировании тазобедренного сустава регионарная и общая анестезия одинаково эффективны, и рекомендует предлагать пациенту выбор [5].",
+      "Согласно NICE, реабилитация должна начинаться в первые 24 часа после операции, лучше всего — в день операции [5]; первые шаги делают на костылях или с ходунками [2]. Чтобы снизить риск образования тромбов, могут быть рекомендованы препараты, разжижающие кровь, компрессионные чулки и раннее начало движения [3][4].",
+      "Срок пребывания в больнице различается: NHS указывает, что люди, у которых хорошее общее состояние и операция прошла без осложнений, обычно могут вернуться домой примерно через 1–3 дня [2]; по данным OrthoInfo, одних пациентов выписывают в тот же день, а другие остаются в больнице как минимум на одну ночь [4]."
+     ]
+    },
+    {
+     "h": "Восстановление и лечебная физкультура",
+     "p": [
+      "Восстановление может занять несколько месяцев; срок зависит от возраста и общего состояния здоровья. Перед выпиской объясняют, как справляться с повседневными делами, и рассказывают о программе упражнений для дома [2]. Согласно NICE, самостоятельная реабилитация и реабилитация под наблюдением примерно одинаково эффективны; для людей, которым будет трудно заниматься самостоятельно, должна быть предусмотрена отдельная возможность [5]. Сроки, которые приводят источники, — это общие значения, и у разных людей они различаются:"
+     ],
+     "list": [
+      "Ходьба: вначале нужны костыли или ходунки; рекомендуется ходить каждый день на такое расстояние, которое не вызывает неудобства [2]",
+      "Повседневные дела: к большинству лёгких повседневных занятий можно вернуться в течение 3–6 недель [4]",
+      "Вождение автомобиля: NHS рекомендует подождать не менее 6 недель и посоветоваться с врачом [2]",
+      "Возвращение на работу: обычно примерно через 6 недель, в зависимости от характера работы [2]",
+      "Подъём и переноска тяжестей: их избегают, пока не скажут, что это безопасно [2]"
+     ]
+    },
+    {
+     "h": "Риски и осложнения",
+     "p": [
+      "Эндопротезирование тазобедренного сустава — часто выполняемая и безопасная операция; тем не менее, как и у любой операции, у неё есть риски [3]. OrthoInfo указывает, что частота осложнений низкая, а хронические заболевания могут повышать риск [4]. Основные риски:"
+     ],
+     "list": [
+      "Вывих: шар эндопротеза может выйти из впадины; это случается нечасто. Риск наиболее высок в первые несколько месяцев, но вывих возможен и спустя годы; при повторяющихся вывихах может потребоваться повторная операция [3][4]",
+      "Инфекция: может развиться в ране или вокруг эндопротеза через дни, недели и даже годы после операции. Инфекцию раны чаще всего лечат антибиотиками; при глубокой инфекции может потребоваться повторная операция [3][4]",
+      "Тромб: может образоваться в венах ноги (тромбоз глубоких вен); если он попадает в лёгкие (тромбоэмболия лёгочной артерии), последствия могут быть серьёзными [3][4]",
+      "Разная длина ног: оперированная нога может оказаться немного длиннее или короче; чаще всего разница невелика, иногда нужна подкладка в обувь [3][4]",
+      "Износ и расшатывание: с годами эндопротез может изнашиваться или расшатываться; может потребоваться повторная (ревизионная) операция [3][4]",
+      "Повреждение нерва или сосуда, кровотечение, перелом и скованность: они возможны [4]; NHS указывает, что повреждение нерва и сосуда встречается нечасто [3]"
+     ]
+    },
+    {
+     "h": "Сколько служит эндопротез?",
+     "p": [
+      "При обычном использовании материал между головкой и впадиной любого эндопротеза тазобедренного сустава со временем изнашивается; чрезмерная нагрузка и избыточный вес могут это ускорить [4]. NHS указывает, что современные эндопротезы рассчитаны на срок службы не менее 15 лет [3]. В анализе, опубликованном в 2019 году в журнале The Lancet и объединившем данные национальных регистров эндопротезирования Австралии и Финляндии, сделан вывод: если исходить из того, что данные регистров менее подвержены систематической ошибке, примерно у 58% пациентов можно ожидать, что эндопротез тазобедренного сустава прослужит 25 лет; в сериях случаев этот показатель оказался выше (77,6%) [7]."
+     ]
+    },
+    {
+     "h": "Жизнь с эндопротезом",
+     "p": [
+      "У большинства людей боль заметно уменьшается, а повседневные дела становятся легче [4][6]. Подходят занятия с низкой ударной нагрузкой — ходьба, плавание, гольф, велосипед и танцы; большинство хирургов советуют избегать занятий с высокой ударной нагрузкой, таких как бег и прыжки [4].",
+      "Чтобы не допустить вывиха, в период восстановления могут попросить соблюдать некоторые меры предосторожности; у разных пациентов они различаются в зависимости от использованного хирургического доступа [4]. Среди мер, которые перечисляет NHS: не класть ногу на ногу, не сгибать тазобедренный сустав более чем на 90 градусов и не садиться на низкий стул [2]. Приходить на осмотры к ортопеду рекомендуют, даже если жалоб нет [4]; NICE рекомендует направлять людей, у которых возникли проблемы с эндопротезом, в ортопедическую службу [5]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "После операции без промедления обратитесь в медицинское учреждение в следующих случаях; это может быть признаком инфекции или тромба [3][4]:"
+     ],
+     "list": [
+      "Высокая температура, озноб или дрожь",
+      "Выделения или гной из раны",
+      "Покраснение, болезненность, отёк или боль в области тазобедренного сустава или в ноге, которые не проходят или усиливаются",
+      "Болезненность или покраснение икры, пульсирующая боль или боль по типу судороги в области тазобедренного сустава или в ноге",
+      "Внезапная одышка или боль в груди (возможно, тромб попал в лёгкие): обратитесь в отделение неотложной помощи или вызовите скорую помощь"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Есть ли возрастной предел для эндопротезирования тазобедренного сустава?",
+     "a": "Строгого предела по возрасту или весу нет; рекомендация основывается не на возрасте, а на боли и ограничениях. Большинству прооперированных от 50 до 80 лет [4]."
+    },
+    {
+     "q": "Сколько дней я проведу в больнице?",
+     "a": "По-разному. NHS указывает, что люди с хорошим общим состоянием обычно могут вернуться домой примерно через 1–3 дня [2], а OrthoInfo — что некоторых пациентов выписывают в тот же день [4]."
+    },
+    {
+     "q": "Когда я смогу водить автомобиль?",
+     "a": "NHS рекомендует подождать не менее 6 недель и уточнить у вашего врача, можно ли вам садиться за руль [2]."
+    },
+    {
+     "q": "Сколько лет служит эндопротез тазобедренного сустава?",
+     "a": "NHS указывает, что современные эндопротезы рассчитаны на срок службы не менее 15 лет [3]. Согласно анализу, основанному на данных национальных регистров, примерно у 58% пациентов можно ожидать, что эндопротез тазобедренного сустава прослужит 25 лет [7]."
+    },
+    {
+     "q": "Каких движений следует избегать после операции?",
+     "a": "NHS рекомендует не класть ногу на ногу, не сгибать тазобедренный сустав более чем на 90 градусов и не садиться на низкий стул [2]. Меры предосторожности зависят от использованного хирургического доступа; какие из них подходят вам, сообщат ваш хирург и физиотерапевт [4]."
+    }
+   ],
+   "note": "Эта статья — общий обзор; ограничения и сроки определяются указаниями хирурга, выполнившего операцию."
+  },
+  "fa": {
+   "slug": "jarrahi-taviz-mafsal-lagan",
+   "title": "جراحی تعویض مفصل لگن: برای چه کسانی انجام می‌شود و بهبودی چگونه می‌گذرد؟",
+   "description": "تعویض مفصل لگن برای چه کسانی انجام می‌شود و چگونه باید آماده شد؟ جراحی، بستری در بیمارستان، فیزیوتراپی، خطرها، عمر پروتز و روند بهبودی.",
+   "summary": "در تعویض مفصل لگن بخش‌های آسیب‌دیدهٔ مفصل با قطعات فلزی، پلاستیکی یا سرامیکی جایگزین می‌شود [1]. این جراحی ممکن است زمانی توصیه شود که درد و خشکی لگن زندگی را به میزان زیادی تحت تأثیر قرار داده و درمان‌های دیگر مؤثر نبوده باشد؛ شایع‌ترین علت آن آرتروز است [6]. بهبودی ممکن است چند ماه طول بکشد [2]؛ بر اساس تحلیلی مبتنی بر داده‌های نظام‌های ثبت، می‌توان انتظار داشت که در حدود ۵۸ درصد از بیماران پروتز لگن ۲۵ سال دوام بیاورد [7].",
+   "sections": [
+    {
+     "h": "تعویض مفصل لگن چیست؟",
+     "p": [
+      "در جراحی تعویض مفصل لگن (آرتروپلاستی) بخش‌های آسیب‌دیدهٔ مفصل لگن برداشته می‌شود و به جای آن‌ها قطعات فلزی، پلاستیکی یا سرامیکی قرار می‌گیرد [1][4]. لگن مفصلی از نوع گوی و کاسه است: کاسه در استخوان لگن و گوی در انتهای بالایی استخوان ران قرار دارد [4]. رایج‌ترین نوع، تعویض کامل مفصل لگن است که در آن هر دو تعویض می‌شود [1].",
+      "قطعات با سیمان (سیمانی) یا با جاگذاری محکم و فشرده که به استخوان امکان می‌دهد روی قطعه رشد کند و به آن بچسبد (بدون سیمان) به استخوان متصل می‌شوند؛ انتخاب به عواملی مانند کیفیت و استحکام استخوان بستگی دارد [4]. قطعات پروتز چنین است [4]:"
+     ],
+     "list": [
+      "ساقه: قطعه‌ای فلزی که درون استخوان ران قرار می‌گیرد",
+      "سر: گوی فلزی یا سرامیکی که روی انتهای بالایی ساقه سوار می‌شود",
+      "کاسه: قطعه‌ای فلزی که در حفرهٔ استخوان لگن قرار می‌گیرد",
+      "قطعهٔ میانی: قطعه‌ای پلاستیکی، سرامیکی یا فلزی که میان سر و کاسه سطحی لغزنده فراهم می‌کند"
+     ]
+    },
+    {
+     "h": "برای چه کسانی انجام می‌شود؟",
+     "p": [
+      "جراحی نخستین گزینه نیست. به گفتهٔ NHS تعویض مفصل لگن ممکن است زمانی توصیه شود که درد و خشکی لگن زندگی را به میزان زیادی تحت تأثیر قرار داده و درمان‌های دیگر مؤثر نبوده باشد؛ شایع‌ترین علت آرتروز (استئوآرتریت) است و آرتریت روماتوئید و آسیب لگن پس از زمین خوردن یا آسیب‌دیدگی نیز از دیگر علت‌هاست [6]. OrthoInfo آرتریتی را که پس از شکستگی پدید می‌آید و اختلال در خون‌رسانی به سر استخوان ران (نکروز آواسکولار) را نیز برمی‌شمارد [4].",
+      "محدودیت قطعی سنی یا وزنی وجود ندارد؛ توصیه نه بر پایهٔ سن، بلکه بر پایهٔ درد و محدودیت است. کسانی که از جراحی سود می‌برند بیشتر این موارد را دارند [4]:"
+     ],
+     "list": [
+      "درد لگن که فعالیت‌های روزمره مانند راه رفتن و خم شدن را محدود می‌کند",
+      "دردی که هنگام استراحت، در روز یا شب، ادامه دارد",
+      "خشکی که حرکت دادن یا بالا آوردن پا را محدود می‌کند",
+      "سود ناکافی از داروهای ضدالتهاب، فیزیوتراپی یا وسایل کمکی راه رفتن"
+     ]
+    },
+    {
+     "h": "ارزیابی و آمادگی پیش از جراحی",
+     "p": [
+      "در ارزیابی دربارهٔ وضعیت سلامت عمومی و تأثیر درد بر کارهای روزمره پرسیده می‌شود، لگن معاینه و عکس رادیولوژی گرفته می‌شود؛ بررسی‌هایی مانند ام‌آرآی گاهی لازم می‌شود [4]. جراح دربارهٔ گزینه‌های دیگر به‌جز تعویض مفصل و خطرهای احتمالی با بیمار گفت‌وگو می‌کند [4]؛ NICE نیز تأکید می‌کند که بیماران به اطلاعات مشخص دربارهٔ گزینه‌های درمانی مناسب خود نیاز دارند [5].",
+      "پیش از جراحی ممکن است معاینهٔ عمومی سلامت و بررسی‌هایی مانند آزمایش خون و ادرار و نوار قلب خواسته شود؛ پزشک اعلام می‌کند کدام داروها باید قطع شود و توصیه می‌شود درمان‌های بزرگ دندان‌پزشکی از پیش کامل شود [4]. به گفتهٔ NICE توان‌بخشی پیش از جراحی باید شامل توصیه‌هایی دربارهٔ ورزش‌های پیش و پس از جراحی و سبک زندگی باشد [5]. هماهنگ کردن کمک در خانه برای هفته‌های نخست، آماده کردن دستگیره و نشیمن بلند برای توالت فرنگی و برداشتن قالیچه‌های لغزنده کارها را آسان‌تر می‌کند [4]."
+     ]
+    },
+    {
+     "h": "جراحی و بستری در بیمارستان",
+     "p": [
+      "جراحی با بی‌حسی از کمر به پایین (بی‌حسی نخاعی) یا با بیهوشی عمومی (در حالت خواب) انجام می‌شود و معمولاً ۱ تا ۲ ساعت طول می‌کشد [1][4]. NICE بیان می‌کند که در تعویض مفصل لگن بی‌حسی ناحیه‌ای و بیهوشی عمومی به یک اندازه مؤثرند و توصیه می‌کند حق انتخاب به بیمار داده شود [5].",
+      "به گفتهٔ NICE توان‌بخشی باید ظرف ۲۴ ساعت پس از جراحی و در بهترین حالت در همان روز جراحی آغاز شود [5]؛ نخستین گام‌ها با عصای زیربغل یا واکر برداشته می‌شود [2]. برای کاهش خطر لخته ممکن است داروهای رقیق‌کنندهٔ خون، جوراب فشاری و حرکت زودهنگام توصیه شود [3][4].",
+      "مدت بستری متفاوت است: NHS بیان می‌کند افرادی که وضعیت عمومی خوبی دارند و جراحی‌شان بدون مشکل انجام شده است معمولاً حدود ۱ تا ۳ روز بعد می‌توانند به خانه بروند [2]؛ به گفتهٔ OrthoInfo برخی بیماران همان روز ترخیص می‌شوند و برخی دست‌کم یک شب در بیمارستان می‌مانند [4]."
+     ]
+    },
+    {
+     "h": "بهبودی و فیزیوتراپی",
+     "p": [
+      "بهبودی ممکن است چند ماه طول بکشد؛ این مدت به سن و وضعیت سلامت عمومی بستگی دارد. پیش از ترخیص، شیوهٔ انجام کارهای روزمره و برنامهٔ ورزشی خانه توضیح داده می‌شود [2]. به گفتهٔ NICE توان‌بخشی‌ای که فرد خودش پیش می‌برد و توان‌بخشیِ تحت نظارت به اندازه‌ای مشابه مؤثرند؛ برای کسانی که ادامهٔ آن به‌تنهایی برایشان دشوار خواهد بود باید امکان جداگانه‌ای فراهم شود [5]. مدت‌هایی که منابع ذکر می‌کنند مقادیر کلی است و از فردی به فرد دیگر فرق می‌کند:"
+     ],
+     "list": [
+      "راه رفتن: در آغاز عصای زیربغل یا واکر لازم است؛ توصیه می‌شود هر روز تا مسافتی که راحت هستید راه بروید [2]",
+      "کارهای روزمره: به بیشتر فعالیت‌های سبک روزانه می‌توان ظرف ۳ تا ۶ هفته بازگشت [4]",
+      "رانندگی: NHS توصیه می‌کند دست‌کم ۶ هفته صبر و با پزشک مشورت شود [2]",
+      "بازگشت به کار: معمولاً پس از حدود ۶ هفته، بسته به نوع کار [2]",
+      "بلند کردن و حمل بار سنگین: تا زمانی که گفته نشده بی‌خطر است از آن پرهیز می‌شود [2]"
+     ]
+    },
+    {
+     "h": "خطرها و عوارض",
+     "p": [
+      "تعویض مفصل لگن جراحی‌ای رایج و ایمن است؛ با این حال مانند هر جراحی دیگری خطرهایی دارد [3]. OrthoInfo بیان می‌کند که میزان عوارض پایین است، اما بیماری‌های مزمن ممکن است خطر را افزایش دهند [4]. خطرهای اصلی چنین است:"
+     ],
+     "list": [
+      "دررفتگی: گوی پروتز ممکن است از کاسه بیرون بیاید؛ شایع نیست. خطر در چند ماه نخست بیشترین است، اما ممکن است سال‌ها بعد نیز رخ دهد؛ در دررفتگی‌های مکرر ممکن است جراحی دوباره لازم شود [3][4]",
+      "عفونت: ممکن است در زخم یا اطراف پروتز، روزها، هفته‌ها و حتی سال‌ها پس از جراحی پدید آید. عفونت زخم بیشتر با آنتی‌بیوتیک درمان می‌شود؛ عفونت عمقی ممکن است به جراحی دوباره نیاز داشته باشد [3][4]",
+      "لختهٔ خون: ممکن است در سیاهرگ‌های پا تشکیل شود (ترومبوز ورید عمقی)؛ اگر به ریه برود (آمبولی ریه) می‌تواند پیامدهای جدی داشته باشد [3][4]",
+      "اختلاف طول پاها: پای جراحی‌شده ممکن است کمی بلندتر یا کوتاه‌تر شود؛ این اختلاف بیشتر اندک است و گاهی به بلند کردن کفش نیاز است [3][4]",
+      "ساییدگی و شل شدن: پروتز ممکن است با گذشت سال‌ها ساییده یا شل شود؛ ممکن است جراحی دوباره (ریویژن) لازم شود [3][4]",
+      "آسیب عصب یا رگ، خون‌ریزی، شکستگی و خشکی: ممکن است دیده شود [4]؛ NHS بیان می‌کند که آسیب عصب و رگ شایع نیست [3]"
+     ]
+    },
+    {
+     "h": "پروتز چقدر دوام می‌آورد؟",
+     "p": [
+      "با استفادهٔ عادی، مادهٔ میان سر و کاسه در هر پروتز لگن با گذشت زمان ساییده می‌شود؛ فشار بیش از اندازه و اضافه‌وزن می‌تواند این روند را تندتر کند [4]. NHS بیان می‌کند که پروتزهای امروزی برای دوام دست‌کم ۱۵ ساله طراحی شده‌اند [3]. در تحلیلی که در سال ۲۰۱۹ در The Lancet منتشر شد و داده‌های نظام‌های ملی ثبت پروتز استرالیا و فنلاند را یکجا بررسی کرد، با این فرض که داده‌های نظام‌های ثبت کمتر در معرض سوگیری‌اند، چنین نتیجه گرفته شد که می‌توان انتظار داشت در حدود ۵۸ درصد از بیماران پروتز لگن ۲۵ سال دوام بیاورد؛ در مجموعه‌های موردی این میزان بالاتر (۷۷٫۶ درصد) به دست آمد [7]."
+     ]
+    },
+    {
+     "h": "زندگی با پروتز",
+     "p": [
+      "در بیشتر افراد درد به‌طور چشمگیر کم می‌شود و کارهای روزمره آسان‌تر می‌شود [4][6]. فعالیت‌های کم‌فشار مانند پیاده‌روی، شنا، گلف، دوچرخه‌سواری و رقص مناسب‌اند؛ بیشتر جراحان توصیه می‌کنند از فعالیت‌های پرفشار مانند دویدن و پریدن پرهیز شود [4].",
+      "برای پیشگیری از دررفتگی ممکن است در دوران بهبودی رعایت احتیاط‌هایی خواسته شود؛ این احتیاط‌ها بسته به رویکرد جراحیِ به‌کاررفته از بیماری به بیمار دیگر فرق می‌کند [4]. از مواردی که NHS برمی‌شمارد می‌توان به روی هم نینداختن پاها، خم نکردن لگن بیش از ۹۰ درجه و ننشستن روی صندلی کوتاه اشاره کرد [2]. توصیه می‌شود حتی اگر ناراحتی ندارید برای معاینه‌های ارتوپدی مراجعه کنید [4]؛ NICE توصیه می‌کند افرادی که با مفصل تعویض‌شدهٔ خود مشکل دارند به واحد ارتوپدی ارجاع شوند [5]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "پس از جراحی در این موارد بدون تأخیر به یک مرکز درمانی مراجعه کنید؛ ممکن است نشانهٔ عفونت یا لخته باشد [3][4]:"
+     ],
+     "list": [
+      "تب بالا، احساس سرما یا لرز",
+      "ترشح یا خروج چرک از زخم",
+      "قرمزی، حساسیت، تورم یا دردی در لگن یا پا که برطرف نمی‌شود یا بیشتر می‌شود",
+      "حساسیت یا قرمزی پشت ساق پا، درد ضربان‌دار یا گرفتگی‌مانند در لگن یا پا",
+      "تنگی نفس ناگهانی یا درد قفسهٔ سینه (ممکن است لخته به ریه رفته باشد): به اورژانس مراجعه کنید یا آمبولانس خبر کنید"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "آیا تعویض مفصل لگن محدودیت سنی دارد؟",
+     "a": "محدودیت قطعی سنی یا وزنی وجود ندارد؛ توصیه نه بر پایهٔ سن، بلکه بر پایهٔ درد و محدودیت است. بیشتر کسانی که جراحی می‌شوند ۵۰ تا ۸۰ سال دارند [4]."
+    },
+    {
+     "q": "چند روز در بیمارستان می‌مانم؟",
+     "a": "متفاوت است. NHS بیان می‌کند افرادی که وضعیت عمومی خوبی دارند معمولاً حدود ۱ تا ۳ روز بعد می‌توانند به خانه بروند [2] و OrthoInfo بیان می‌کند که برخی بیماران همان روز ترخیص می‌شوند [4]."
+    },
+    {
+     "q": "چه زمانی می‌توانم رانندگی کنم؟",
+     "a": "NHS توصیه می‌کند دست‌کم ۶ هفته صبر کنید و دربارهٔ اینکه آیا برای رانندگی آمادگی دارید با پزشکتان مشورت کنید [2]."
+    },
+    {
+     "q": "پروتز لگن چند سال دوام می‌آورد؟",
+     "a": "NHS بیان می‌کند که پروتزهای امروزی برای دوام دست‌کم ۱۵ ساله طراحی شده‌اند [3]. بر اساس تحلیلی مبتنی بر داده‌های نظام‌های ملی ثبت، می‌توان انتظار داشت که در حدود ۵۸ درصد از بیماران پروتز لگن ۲۵ سال دوام بیاورد [7]."
+    },
+    {
+     "q": "پس از جراحی از چه حرکت‌هایی باید پرهیز کنم؟",
+     "a": "NHS توصیه می‌کند پاها را روی هم نیندازید، لگن را بیش از ۹۰ درجه خم نکنید و روی صندلی کوتاه ننشینید [2]. احتیاط‌ها بسته به رویکرد جراحیِ به‌کاررفته فرق می‌کند؛ جراح و فیزیوتراپیست شما اعلام می‌کنند کدام‌یک برای شما مناسب است [4]."
+    }
+   ],
+   "note": "این نوشته خلاصه‌ای کلی است؛ محدودیت‌ها و زمان‌بندی را دستورهای جراحی که عمل را انجام داده است تعیین می‌کند."
+  }
+ }
+}

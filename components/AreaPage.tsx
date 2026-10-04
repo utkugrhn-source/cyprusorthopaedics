@@ -1,12 +1,11 @@
 import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
-import { ui, type Lang, DOCTORS_SEGMENT, SITE, PHONE, PHONE_HREF } from "@/lib/site";
-import { doctors } from "@/lib/doctors";
+import { ui, type Lang, DOCTORS_SEGMENT, SITE, PHONE, PHONE_HREF, alts, fmtDate as fmt } from "@/lib/site";
+import { doctors, docName } from "@/lib/doctors";
 import { allArticles, articlesOfArea, blogUrl, blogUi } from "@/lib/blog";
 import { areas, areaUi, areaUrl, AREAS_UPDATED, type Area } from "@/lib/areas";
 
-const fmt = (iso: string, lang: Lang) => new Date(iso + "T12:00:00Z").toLocaleDateString(lang === "tr" ? "tr-TR" : "en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
 
 export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
   const t = ui[lang];
@@ -38,7 +37,7 @@ export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
-      <Nav lang={lang} t={t} alt={{ tr: areaUrl("tr", a), en: areaUrl("en", a) }} tone="white" />
+      <Nav lang={lang} t={t} alt={alts((l) => areaUrl(l, a))} tone="white" />
       <main className="pt-[8.5rem] md:pt-[9.5rem]">
         <div className="bg-mist">
           <div className="wrap py-12 md:py-20">
@@ -100,7 +99,7 @@ export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
               {doctors.map((o) => (
                 <Link key={o.id} href={`/${lang}/${DOCTORS_SEGMENT[lang]}/${o.slug}`} className="group block rounded-2xl bg-mist p-6 transition-colors hover:bg-turq">
                   <span className="text-[0.9rem] text-tide group-hover:text-deep" style={{ fontWeight: 500 }}>{o.title[lang]}</span>
-                  <span className="mt-1 block text-[1.25rem] leading-tight" style={{ fontWeight: 500 }}>{o.name}</span>
+                  <span className="mt-1 block text-[1.25rem] leading-tight" style={{ fontWeight: 500 }}>{docName(o, lang)}</span>
                 </Link>
               ))}
             </div>

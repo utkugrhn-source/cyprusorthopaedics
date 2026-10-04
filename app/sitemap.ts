@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { SITE, LANGS, DOCTORS_SEGMENT, type Lang } from "@/lib/site";
+import { SITE, LANGS, DOCTORS_SEGMENT, hreflangs, type Lang } from "@/lib/site";
 import { doctors } from "@/lib/doctors";
 import { areas, areaUrl, AREAS_UPDATED } from "@/lib/areas";
 import { allArticles, blogUrl } from "@/lib/blog";
@@ -7,7 +7,7 @@ import { PAGES_UPDATED } from "@/lib/seo";
 
 /** One entry per language version, each listing all of its language alternates. */
 function entries(path: (l: Lang) => string, updated: string, priority: number): MetadataRoute.Sitemap {
-  const languages = { ...Object.fromEntries(LANGS.map((l) => [l, SITE + path(l)])), "x-default": SITE + path("tr") };
+  const languages = hreflangs(path);
   return LANGS.map((l) => ({ url: SITE + path(l), lastModified: new Date(updated), priority, alternates: { languages } }));
 }
 

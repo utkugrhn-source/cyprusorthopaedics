@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import ArticlePage from "@/components/ArticlePage";
-import { LANGS, SITE, type Lang } from "@/lib/site";
+import { LANGS, SITE, hreflangs, type Lang } from "@/lib/site";
 import { pageTitle, clip, share } from "@/lib/seo";
 import { allArticles, findArticle, blogUrl } from "@/lib/blog";
 
@@ -14,7 +14,7 @@ export function generateMetadata({ params }: { params: { lang: string; slug: str
   const title = pageTitle(lang, x.title, false); const description = clip(x.description, 162);
   return {
     title, description,
-    alternates: { canonical: SITE + blogUrl(lang, a), languages: { tr: SITE + blogUrl("tr", a), en: SITE + blogUrl("en", a), "x-default": SITE + blogUrl("tr", a) } },
+    alternates: { canonical: SITE + blogUrl(lang, a), languages: hreflangs((l) => blogUrl(l, a)) },
     ...share(lang, blogUrl(lang, a), x.title, description, { modified: a.updated }),
   };
 }

@@ -18,7 +18,7 @@ export default function Papers({ items, every = 11000 }: { items: Paper[]; every
     return () => window.clearInterval(id);
   }, [items.length, every]);
   return (
-    <div className="grid grid-cols-[minmax(0,1fr)]" onMouseEnter={() => { hold.current = true; }} onMouseLeave={() => { hold.current = false; }} onFocus={() => { hold.current = true; }} onBlur={() => { hold.current = false; }}>
+    <div dir="ltr" lang="en" className="grid grid-cols-[minmax(0,1fr)]" onMouseEnter={() => { hold.current = true; }} onMouseLeave={() => { hold.current = false; }} onFocus={() => { hold.current = true; }} onBlur={() => { hold.current = false; }}>
       {items.map((p, n) => (
         <div key={p.doi} className="paper flex min-w-0 items-start gap-4 md:gap-5" style={{ gridArea: "1 / 1" }} data-on={n === i ? "1" : "0"} aria-hidden={n !== i}>
           {p.cover ? (

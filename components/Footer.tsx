@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { type Lang, type Ui, PHONE, PHONE_HREF, DOCTORS_SEGMENT } from "@/lib/site";
-import { doctors } from "@/lib/doctors";
+import { doctors, docFull } from "@/lib/doctors";
 
 export default function Footer({ lang, t }: { lang: Lang; t: Ui }) {
   return (
@@ -13,7 +13,7 @@ export default function Footer({ lang, t }: { lang: Lang; t: Ui }) {
           <p className="small mt-2 text-white/75">{t.brandSub[0]}<br />{t.brandSub[1]}</p>
         </div>
         <div className="flex flex-col gap-3 text-[0.98rem]">
-          {doctors.map((d) => (<Link key={d.id} href={`/${lang}/${DOCTORS_SEGMENT[lang]}/${d.slug}`} className="hover:text-turq">{d.title[lang]} {d.name}</Link>))}
+          {doctors.map((d) => (<Link key={d.id} href={`/${lang}/${DOCTORS_SEGMENT[lang]}/${d.slug}`} className="hover:text-turq">{docFull(d, lang)}</Link>))}
           <Link href={`/${lang}#tedavi`} className="mt-3 hover:text-turq">{t.nav.areas}</Link>
           <Link href={`/${lang}#surec`} className="hover:text-turq">{t.nav.process}</Link>
         </div>
