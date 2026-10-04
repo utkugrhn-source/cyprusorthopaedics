@@ -4,7 +4,7 @@ import { LANGS, SITE, type Lang } from "./site";
 const BRAND = "Cyprus Orthopaedics";
 /** Share image, 1200×630, one per language. */
 export const OG_IMAGE: Record<Lang, string> = { tr: "/brand/og-tr.jpg", en: "/brand/og-en.jpg", ru: "/brand/og-ru.jpg", fa: "/brand/og-fa.jpg" };
-export const PLACE: Record<Lang, string> = { tr: "Girne", en: "Kyrenia, North Cyprus", ru: "Кирения, Северный Кипр", fa: "گیرنه، قبرس شمالی" };
+export const PLACE: Record<Lang, string> = { tr: "Girne", en: "Kyrenia, North Cyprus", ru: "Гирне, Северный Кипр", fa: "گیرنه، قبرس شمالی" };
 /** Shorter place, tried when the full one does not fit in the title. */
 const PLACE_SHORT: Record<Lang, string> = { tr: "Girne", en: "North Cyprus", ru: "Северный Кипр", fa: "قبرس شمالی" };
 /** og:locale value for each language. */

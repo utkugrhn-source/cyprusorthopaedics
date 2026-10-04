@@ -40,10 +40,10 @@ export function generateMetadata({ params }: { params: P }): Metadata {
   if (!d || params.section !== DOCTORS_SEGMENT[lang]) return {};
   const who = docFull(d, lang);
   // the Russian and Persian pages also carry the Latin spelling, which is what the name is searched by
-  const title = { tr: `${who} · Ortopedi ve Travmatoloji, Girne`, en: `${who} · Orthopaedic Surgeon, Kyrenia`, ru: `${who} · ортопед-травматолог, Кирения`, fa: `${who} · متخصص ارتوپدی، گیرنه` }[lang];
+  const title = { tr: `${who} · Ortopedi ve Travmatoloji, Girne`, en: `${who} · Orthopaedic Surgeon, Kyrenia`, ru: `${who} · ортопед-травматолог, Гирне`, fa: `${who} · ارتوپد در گیرنه، قبرس شمالی` }[lang];
   const description = {
     tr: `${who}, Girne Üniversitesi Tıp Fakültesi Ortopedi ve Travmatoloji Anabilim Dalı öğretim üyesi. Özgeçmiş, yayınlar ve randevu bilgisi.`,
-    en: `${who}, orthopaedic surgeon and faculty member at the University of Kyrenia Faculty of Medicine. Biography, publications, appointments.`,
+    en: `${who}, orthopaedic surgeon in Kyrenia (Girne), University of Kyrenia Faculty of Medicine. Biography, publications, appointments.`,
     ru: `${who} (${d.name}) — ортопед-травматолог, Университет Кирении. Биография, публикации, запись на приём.`,
     fa: `${who} (${d.name})، متخصص ارتوپدی و تروماتولوژی و عضو هیئت علمی دانشکدهٔ پزشکی دانشگاه گیرنه. زندگی‌نامه، مقالات و نوبت‌دهی.`,
   }[lang];

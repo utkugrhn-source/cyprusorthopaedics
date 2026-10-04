@@ -242,8 +242,8 @@ export const ui: Record<Lang, Ui> = {
     },
     profile: { back: "Our doctors", summary: "Biography", focus: "Clinical interests", focusPending: "Clinical interests to be supplied by the doctor.", path: "Training and posts", academic: "Academic work", selected: "Selected publications", books: "Book chapters", courses: "Courses and further training", memberships: "Certification and memberships", langs: "Consultation languages", links: "Academic profiles", others: "Other doctors", book: "Book an appointment", site: "Personal site" },
     meta: {
-      title: "Orthopaedics in Kyrenia, North Cyprus · Cyprus Orthopaedics",
-      desc: "Orthopaedics and traumatology at the University of Kyrenia Faculty of Medicine, North Cyprus: fractures, joint replacement, arthroscopy, hand and foot surgery.",
+      title: "Orthopaedics, Kyrenia (Girne), North Cyprus · Cyprus Orthopaedics",
+      desc: "Orthopaedic surgeons in Kyrenia (Girne), North Cyprus, at the University of Kyrenia Faculty of Medicine: fractures, joint replacement, arthroscopy, hand surgery.",
     },
   },
   ru: {
@@ -252,7 +252,7 @@ export const ui: Record<Lang, Ui> = {
     hero: {
       h1a: "Ортопедия и",
       h1b: "травматология",
-      place: "Университетская больница им. д-ра Суата Гюнселя, Кирения, Северный Кипр",
+      place: "Университетская больница им. д-ра Суата Гюнселя, Гирне (Кирения), Северный Кипр",
       lead: "Клиника кафедры ортопедии и травматологии медицинского факультета Университета Кирении. Диагностика и лечение: от переломов и травм до эндопротезирования суставов, артроскопии и хирургии кисти.",
       cta1: "Записаться на приём",
       cta2: "Наши врачи",
@@ -328,8 +328,8 @@ export const ui: Record<Lang, Ui> = {
     },
     profile: { back: "Наши врачи", summary: "Биография", focus: "Области клинических интересов", focusPending: "Области клинических интересов будут указаны врачом.", path: "Образование и должности", academic: "Научная работа", selected: "Избранные публикации", books: "Главы в книгах", courses: "Курсы и дополнительное обучение", memberships: "Сертификация и членство", langs: "Языки консультаций", links: "Научные профили", others: "Другие врачи", book: "Записаться на приём", site: "Личный сайт" },
     meta: {
-      title: "Ортопед в Кирении, Северный Кипр · Cyprus Orthopaedics",
-      desc: "Ортопед-травматолог в Кирении, Северный Кипр: клиника медицинского факультета Университета Кирении. Переломы, эндопротезирование, артроскопия, хирургия кисти.",
+      title: "Ортопед в Гирне (Кирения), Северный Кипр · Cyprus Orthopaedics",
+      desc: "Ортопед-травматолог в Гирне (Кирения), Северный Кипр: клиника медицинского факультета Университета Кирении. Переломы, эндопротезирование, артроскопия.",
     },
   },
   fa: {
@@ -414,8 +414,8 @@ export const ui: Record<Lang, Ui> = {
     },
     profile: { back: "پزشکان ما", summary: "زندگی‌نامه", focus: "زمینه‌های بالینی مورد علاقه", focusPending: "زمینه‌های بالینی مورد علاقه از پزشک دریافت خواهد شد.", path: "تحصیلات و سمت‌ها", academic: "فعالیت‌های علمی", selected: "مقالات منتخب", books: "فصل‌های کتاب", courses: "دوره‌ها و آموزش‌های تکمیلی", memberships: "گواهی‌نامه‌ها و عضویت‌ها", langs: "زبان‌های مشاوره", links: "پروفایل‌های علمی", others: "پزشکان دیگر", book: "گرفتن نوبت", site: "وب‌سایت شخصی" },
     meta: {
-      title: "ارتوپدی در گیرنه، قبرس شمالی · Cyprus Orthopaedics",
-      desc: "ارتوپدی و تروماتولوژی در گیرنه، قبرس شمالی؛ کلینیک دانشکدهٔ پزشکی دانشگاه گیرنه: شکستگی، تعویض مفصل، آرتروسکوپی، جراحی دست و پا.",
+      title: "دکتر ارتوپد در گیرنه، قبرس شمالی · Cyprus Orthopaedics",
+      desc: "دکتر ارتوپد در گیرنه، قبرس شمالی؛ کلینیک ارتوپدی و تروماتولوژی دانشکدهٔ پزشکی دانشگاه گیرنه: شکستگی، تعویض مفصل، آرتروسکوپی، جراحی دست و پا.",
     },
   },
 };
