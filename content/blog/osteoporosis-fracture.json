@@ -1,0 +1,541 @@
+{
+ "id": "osteoporosis-fracture",
+ "area": "kirik-travma",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Osteoporosis",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/osteoporosis/",
+   "year": "2022"
+  },
+  {
+   "title": "Osteoporosis: Treatment",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/osteoporosis/treatment/",
+   "year": "2022"
+  },
+  {
+   "title": "Osteoporosis: Prevention",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/osteoporosis/prevention/",
+   "year": "2022"
+  },
+  {
+   "title": "Fragility Fractures: Frequently Asked Questions",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/fragility-fractures-frequently-asked-questions/",
+   "year": "n.d."
+  },
+  {
+   "title": "Updated approach for the management of osteoporosis in Turkey: a consensus report",
+   "publisher": "Archives of Osteoporosis (Kirazlı Y, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32860546/",
+   "year": "2020"
+  },
+  {
+   "title": "Alendronate for the primary and secondary prevention of osteoporotic fractures in postmenopausal women",
+   "publisher": "Cochrane Database of Systematic Reviews (Wells GA, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39868546/",
+   "year": "2025"
+  },
+  {
+   "title": "Osteoarthritis",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/osteoarthritis/",
+   "year": "2023"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "kemik-erimesi-osteoporoz-kirik",
+   "title": "Kemik erimesi (osteoporoz): nasıl anlaşılır, kırık nasıl önlenir?",
+   "description": "Kemik erimesi (osteoporoz) nedir, neden olur, belirtileri nelerdir? Kemik ölçümü, iyi gelen besinler, ilaçlar, kırıklar ve hangi bölüme gidilir.",
+   "summary": "Kemik erimesi (osteoporoz), kemikleri zayıflatıp kırılgan hâle getiren ve çoğu zaman bir kemik kırılana kadar belirti vermeyen bir hastalıktır; en sık el bileği, kalça ve omurga kırıklarına yol açar [1]. Kemik yoğunluğu ölçümüyle (DXA) saptanır; basit bir düşmeyle oluşan kırık da kemik sağlığının değerlendirilmesini gerektirir [1][4]. Egzersiz, kalsiyum ve D vitamini, sigarayı bırakmak ve düşmeleri önlemek kemikleri korumaya yardımcı olur; kırık riski yüksek olanlarda ilaç tedavisi bu riski azaltabilir [3][4][6].",
+   "sections": [
+    {
+     "h": "Kemik erimesi nedir?",
+     "p": [
+      "Kemik erimesi, tıptaki adıyla osteoporoz, kemikleri zayıflatan, kırılgan hâle getiren ve kırılma olasılığını artıran bir hastalıktır; yavaş yavaş gelişir [1]. Kemik kaybı yaşlanmanın olağan bir parçasıdır, ancak bazı kişilerde çok daha hızlıdır [1]. Türkiye'de 50 yaş ve üzerindeki erkeklerin yüzde 22,2'sinde, kadınların yüzde 27,2'sinde osteoporoz bulunduğu hesaplanmıştır [5].",
+      "Kemik erimesi, kireçlenme (osteoartrit) ile aynı hastalık değildir. Kireçlenmede eklemdeki koruyucu kıkırdak bozulur, eklemde ağrı ve sertlik olur [7]; kemik erimesi ise kemiğin kendisini zayıflatır ve bir kemik kırılmadıkça genellikle ağrı yapmaz [1]."
+     ]
+    },
+    {
+     "h": "Belirtileri nelerdir, neden geç fark edilir?",
+     "p": [
+      "Kemik erimesi genellikle bir kemik kırılana kadar ağrı yapmaz [1]. Kırık oluşana kadar çoğunlukla hiçbir belirti vermediği için \"sessiz hastalık\" olarak anılır [4]; tanı çoğu zaman ancak bir düşme ya da ani bir darbe kemiği kırdığında konur [1].",
+      "Omurga kemiklerindeki kırıklar çoğu kez belirti vermez [5]; ancak uzun süreli sırt ağrısına, boyda kısalmaya ve sırtın öne doğru eğilmesine (kamburlaşma) yol açabilir [1][4]."
+     ]
+    },
+    {
+     "h": "Neden olur, kimler risk altında?",
+     "p": [
+      "Kadınlar erkeklere göre daha fazla risk altındadır; menopozdan sonraki ilk yıllarda kemik kaybı hızlanır [1]. Riski artıran başlıca etkenler şunlardır [1][4]:"
+     ],
+     "list": [
+      "Erken menopoz ya da yumurtalıkların alınması",
+      "Üç aydan uzun süre yüksek dozda kortizon (steroid) tableti kullanmak",
+      "Ailede kemik erimesi ya da kalça kırığı öyküsü",
+      "Tiroid hastalıkları, romatoid artrit ve besinlerin emilimini bozan hastalıklar",
+      "Yeme bozuklukları ve düşük vücut kitle indeksi",
+      "Yetersiz beslenme ve D vitamini düşüklüğü",
+      "Hareketsiz yaşam, sigara ve fazla alkol"
+     ]
+    },
+    {
+     "h": "Nasıl anlaşılır? Kemik ölçümü (DXA) ve sonucun anlamı",
+     "p": [
+      "Hekim kemik erimesinden kuşkulanırsa ilerideki kırık riskini FRAX gibi araçlarla hesaplayabilir ve kemik yoğunluğu ölçümü isteyebilir [1]. Kemik ölçümü (DXA ya da DEXA), kalça ve omurgada kemik mineral yoğunluğunu ölçen, düşük doz ışın kullanılan bir taramadır [4]; ağrısızdır, 10-20 dakika sürer [1].",
+      "Ölçüm tek ölçüt değildir: düşük enerjili bir kırık geçirilmiş olması da tanının dayanaklarındandır [5].",
+      "Sonuç, sağlıklı genç erişkinlerle karşılaştırılarak T skoru olarak verilir; osteopeni kemik erimesinden önceki evredir ve her zaman kemik erimesine ilerlemez [1]:"
+     ],
+     "list": [
+      "-1'in üzerinde: normal",
+      "-1 ile -2,5 arasında: kemik yoğunluğunda azalma (osteopeni)",
+      "-2,5'in altında: kemik erimesi (osteoporoz)"
+     ]
+    },
+    {
+     "h": "Hangi kırıklara yol açar?",
+     "p": [
+      "Ayakta durma yüksekliğinden düşme gibi, sağlam kemiğin kolayca dayanacağı küçük bir zorlanmayla oluşan kırığa kırılganlık kırığı denir [4]. En sık el bileğinde, kalçada ve omurgada görülür [1]; omuza yakın üst kol kemiği de sık kırılan yerlerdendir [4][5]. Bazen öksürme ya da hapşırma bile kaburgada kırığa ya da bir omurga kemiğinde çökmeye yol açabilir [1].",
+      "Ameliyat gerekip gerekmediği kırığın özelliklerine bağlıdır; kalça kırığında hemen her zaman ameliyat önerilir [4]. Omurga kırıkları ilgili uzmanlık dalınca değerlendirilir.",
+      "Basit bir düşmeyle oluşan kırık, büyük olasılıkla altta yatan bir kemik zayıflığını gösterir ve kemik sağlığının değerlendirilmesini gerektirir; bir kırılganlık kırığı, yeni bir kırık riskini yaklaşık iki katına çıkarır [4]."
+     ]
+    },
+    {
+     "h": "Kemik erimesine ne iyi gelir, nasıl önlenir?",
+     "p": [
+      "Kemik sağlığını beslenme ve egzersiz gibi yaşam biçimi etkenleri de belirler [3]. Başlıca önlemler şunlardır:"
+     ],
+     "list": [
+      "Egzersiz: vücut ağırlığının bacaklarla taşındığı egzersizler (tempolu yürüyüş, dans, tenis gibi) ve direnç egzersizleri kemik yoğunluğu için özellikle önemlidir; yüzme ve bisiklet bu türden sayılmaz [3]. Bu egzersizler dengeyi ve kas gücünü de geliştirerek düşme riskini azaltır [4]",
+      "Kalsiyum: süt, peynir ve yoğurt, yeşil yapraklı sebzeler, fasulye, kuruyemişler ve kuru meyveler kalsiyumdan zengindir [3][5]. Kalsiyumun takviye yerine besinlerle alınması genellikle yeğlenir [5]",
+      "D vitamini: başlıca kaynağı güneş ışığıdır, besinlerdeki kaynakları sınırlıdır [5]. Yağlı balıklar, yumurta sarısı, karaciğer ve kırmızı et D vitamini içerir [3]. Kalsiyum ve D vitamini takviyesi, yetersizlik riski yüksek olanlara ve kemik erimesi ilacı kullananlara önerilir; tek seferde çok yüksek doz D vitamini ise kırık ve düşme riskinde artışla ilişkilendirildiği için önerilmez [5]",
+      "Sigara ve alkol: sigara kemik erimesi riskinde artışla ilişkilidir; sigarayı bırakmak ve alkolü sınırlamak önerilir [3]",
+      "Düşmelerin önlenmesi: kayabilecek küçük halıları kaldırmak, sağlam ayakkabı giymek, yerde eşya bırakmamak, banyo yolunu iyi aydınlatmak, merdivene ve banyoya tutunma barı taktırmak [4]"
+     ]
+    },
+    {
+     "h": "Nasıl tedavi edilir? Kemik erimesi ilaçları",
+     "p": [
+      "İlaç gerekip gerekmediği ilerideki kırık riskine göre belirlenir; herkesin ilaç kullanması gerekmez [1][2]. İlaç, kırılganlık kırığı geçirmiş ya da kırık riski taşıyan kişilere önerilir; kalsiyum ve D vitamini tek başına tedavi için yeterli değildir [5].",
+      "En sık kullanılan ve genellikle ilk seçilen ilaç grubu bifosfonatlardır [5]. Kemik yıkımını yavaşlatırlar; etkileri genellikle 6-12 ayda ortaya çıkar ve 5 yıl ya da daha uzun süre kullanılmaları gerekebilir [2]. Diğer seçenekler östrojene benzer etkili ilaçlar (SERM), paratiroid hormonu tedavileri, iğneyle uygulanan biyolojik ilaçlar ve menopoz dönemindeki kadınlarda hormon tedavisidir [2].",
+      "Bifosfonat grubundan bir ilacı inceleyen Cochrane derlemesine göre bu ilaç, menopoz sonrası dönemdeki kırık riski yüksek kadınlarda omurga kırıklarını muhtemelen azaltır; kalça ve el bileği kırıklarını da azaltabilir. Riski daha düşük kadınlarda kalça ve el bileği kırıklarında çok az fark yaratabilir ya da hiç yaratmayabilir [6].",
+      "Bifosfonat tabletleri yemek borusunu tahriş edebilir; çene kemiğinde hasar (osteonekroz) ve uyluk kemiğinde alışılmadık kırıklar nadir ama ciddi yan etkilerdir [2][5]. İlacın seçimine ve tedavinin süresine, kişinin durumuna ve kırık riskine göre tedaviyi yürüten hekim karar verir [2][5]."
+     ]
+    },
+    {
+     "h": "Hangi bölüme gidilir, hangi doktor bakar?",
+     "p": [
+      "Kırığı ortopedi ve travmatoloji tedavi eder. Kemik erimesinin ilaç tedavisi ve uzun süreli izlemi ise çoğu zaman başka bir bölümde yürütülür: ortopedi uzmanı çoğunlukla kemik sağlığını değerlendirme gereğini saptar, hasta tedavisini bu alanla ilgilenen hekimle sürdürür [4].",
+      "Türkiye'de bu hastaları başlıca fizik tedavi ve rehabilitasyon, endokrinoloji, romatoloji ve iç hastalıkları uzmanları, ayrıca ortopedi ile kadın hastalıkları ve doğum uzmanları izler [5]; hangi bölümün baktığı hastaneye göre değişir."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Şu durumlarda gecikmeden bir sağlık kuruluşuna başvurun; ilk durumda acil servise gidin [1][4][5]:"
+     ],
+     "list": [
+      "Düşme ya da darbeden sonra bilekte, kalçada, omuzda ya da sırtta kırıktan kuşkulanıyorsanız; o bölgeyi hareketsiz tutun",
+      "Öksürme, hapşırma ya da öne eğilme gibi basit bir hareketten sonra başlayan ya da nedeni açıklanamayan sırt ağrınız varsa",
+      "Boyunuz kısaldıysa ya da sırtınız öne doğru eğilmeye başladıysa; bunlar omurga kırığının belirtisi olabilir ve omurga filmi gerektirir",
+      "Basit bir düşmeyle kırık geçirdiyseniz ve kemik sağlığınız henüz değerlendirilmediyse"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kemik erimesi ağrı yapar mı?",
+     "a": "Genellikle hayır; bir kemik kırılmadıkça ağrı yapmaz [1]. Omurga kırıkları ise uzun süreli ağrının sık nedenlerindendir [1]."
+    },
+    {
+     "q": "Kemik erimesi ile kireçlenme aynı şey mi?",
+     "a": "Hayır. Kireçlenmede (osteoartrit) eklemdeki koruyucu kıkırdak bozulur, eklemde ağrı ve sertlik olur [7]; kemik erimesi kemiğin kendisini zayıflatır ve kırık olmadıkça genellikle ağrı yapmaz [1]."
+    },
+    {
+     "q": "Kemik erimesine iyi gelen besinler nelerdir?",
+     "a": "Süt, peynir, yoğurt, yeşil yapraklı sebzeler, fasulye ve kuruyemişler kalsiyumdan zengindir; yağlı balıklar, yumurta sarısı ve karaciğer D vitamini içerir [3][5]. D vitamininin besinlerdeki kaynakları sınırlıdır, başlıca kaynağı güneş ışığıdır [5]."
+    },
+    {
+     "q": "Kemik erimesi ilaçları kırığı önler mi?",
+     "a": "Kırık riski yüksek kişilerde riski azaltabilir: bir Cochrane derlemesine göre bifosfonat grubundan bir ilaç, kırık riski yüksek kadınlarda omurga kırıklarını muhtemelen azaltır, kalça ve el bileği kırıklarını da azaltabilir [6]. İlacın seçimine ve süresine tedaviyi yürüten hekim karar verir [2]."
+    },
+    {
+     "q": "Kırık geçirdim; kemik ölçümü yaptırmalı mıyım?",
+     "a": "Basit bir düşmeyle oluşan kırık büyük olasılıkla altta yatan kemik zayıflığını gösterir ve yeni kırık riskini yaklaşık iki katına çıkarır; bu nedenle kemik sağlığının değerlendirilmesi gerekir [4]. Değerlendirmede hekim kemik yoğunluğu ölçümü (DXA) isteyebilir [1][4]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "osteoporosis-bone-thinning-fractures",
+   "title": "Osteoporosis (bone thinning): how is it detected and how are fractures prevented?",
+   "description": "What is osteoporosis, what causes it and what are the symptoms? Bone density scan, foods that help, medicines, fractures and which doctor to see.",
+   "summary": "Osteoporosis (bone thinning) is a condition that weakens bones and makes them fragile, and it often gives no symptoms until a bone breaks; it most often leads to fractures of the wrist, hip and spine [1]. It is detected with a bone density scan (DXA), and a fracture after a simple fall is also a reason to have bone health assessed [1][4]. Exercise, calcium and vitamin D, stopping smoking and preventing falls help protect the bones; in people at high risk of fracture, medicines can reduce that risk [3][4][6].",
+   "sections": [
+    {
+     "h": "What is osteoporosis?",
+     "p": [
+      "Osteoporosis, often called bone thinning, is a condition that weakens bones, making them fragile and more likely to break; it develops gradually [1]. Losing bone is a normal part of ageing, but in some people it happens much faster [1]. In Türkiye, osteoporosis has been calculated to be present in 22.2% of men and 27.2% of women aged 50 and over [5].",
+      "Osteoporosis is not the same condition as osteoarthritis. In osteoarthritis the protective cartilage in the joint breaks down and the joint becomes painful and stiff [7]; osteoporosis weakens the bone itself and is not usually painful unless a bone breaks [1]."
+     ]
+    },
+    {
+     "h": "What are the symptoms, and why is it noticed late?",
+     "p": [
+      "Osteoporosis is not usually painful until a bone breaks [1]. Because it typically causes no symptoms until a fracture occurs, it is called a \"silent disease\" [4]; it is often diagnosed only when a fall or a sudden impact breaks a bone [1].",
+      "Fractures of the spinal bones mostly cause no symptoms [5]; however, they can lead to long-term back pain, loss of height and a stooped (bent forward) posture [1][4]."
+     ]
+    },
+    {
+     "h": "What causes it and who is at risk?",
+     "p": [
+      "Women are more at risk than men; bone is lost rapidly in the first few years after the menopause [1]. The main factors that increase the risk are [1][4]:"
+     ],
+     "list": [
+      "Early menopause or removal of the ovaries",
+      "Taking high-dose steroid (cortisone) tablets for more than three months",
+      "A family history of osteoporosis or of hip fracture",
+      "Thyroid disorders, rheumatoid arthritis and conditions that impair the absorption of nutrients",
+      "Eating disorders and a low body mass index",
+      "Poor nutrition and low vitamin D",
+      "An inactive lifestyle, smoking and heavy drinking"
+     ]
+    },
+    {
+     "h": "How is it detected? The bone density scan (DXA) and what the result means",
+     "p": [
+      "If a doctor suspects osteoporosis, they can work out the future risk of fracture with a tool such as FRAX and may request a bone density scan [1]. The bone density scan (DXA or DEXA) is a low-radiation scan that measures bone mineral density at the hip and spine [4]; it is painless and takes 10 to 20 minutes [1].",
+      "The scan is not the only criterion: having had a low-energy fracture is also one of the grounds for the diagnosis [5].",
+      "The result is compared with healthy young adults and given as a T score; osteopenia is the stage before osteoporosis and does not always lead to it [1]:"
+     ],
+     "list": [
+      "Above -1: normal",
+      "Between -1 and -2.5: reduced bone density (osteopenia)",
+      "Below -2.5: osteoporosis"
+     ]
+    },
+    {
+     "h": "Which fractures does it cause?",
+     "p": [
+      "A fracture caused by a minor force that a healthy bone would easily withstand, such as a fall from standing height, is called a fragility fracture [4]. It is most common in the wrist, hip and spine [1]; the upper arm bone near the shoulder is another common site [4][5]. Sometimes even a cough or a sneeze can cause a broken rib or the partial collapse of one of the bones of the spine [1].",
+      "Whether surgery is needed depends on the features of the fracture; for a hip fracture, surgery is almost always recommended [4]. Fractures of the spine are assessed by the relevant specialty.",
+      "A fracture after a simple fall most likely points to underlying bone weakness and calls for an assessment of bone health; one fragility fracture approximately doubles the risk of another [4]."
+     ]
+    },
+    {
+     "h": "What helps osteoporosis, and how is it prevented?",
+     "p": [
+      "Lifestyle factors such as diet and exercise also influence bone health [3]. The main measures are:"
+     ],
+     "list": [
+      "Exercise: weight-bearing exercise, in which the legs support the body's weight (such as brisk walking, dancing or tennis), and resistance exercise are particularly important for bone density; swimming and cycling do not count as weight-bearing [3]. These exercises also improve balance and muscle strength, which reduces the risk of falling [4]",
+      "Calcium: milk, cheese and yoghurt, leafy green vegetables, beans, nuts and dried fruit are rich in calcium [3][5]. Getting calcium from food is generally preferred over supplements [5]",
+      "Vitamin D: its main source is sunlight, and food sources are limited [5]. Oily fish, egg yolks, liver and red meat contain vitamin D [3]. Calcium and vitamin D supplements are recommended for people at high risk of insufficiency and for those taking osteoporosis medicine; a very large dose of vitamin D taken at one time is not advised, because it has been associated with an increased risk of fractures and falls [5]",
+      "Smoking and alcohol: smoking is associated with an increased risk of osteoporosis; stopping smoking and limiting alcohol are recommended [3]",
+      "Preventing falls: removing loose rugs, wearing stable shoes, keeping the floor clear of objects, lighting the way to the bathroom well, and fitting handrails on the stairs and in the bathroom [4]"
+     ]
+    },
+    {
+     "h": "How is it treated? Osteoporosis medicines",
+     "p": [
+      "Whether medicine is needed depends on the future risk of fracture; not everyone needs it [1][2]. Medicine is recommended for people who have had a fragility fracture or who are at risk of fracture; calcium and vitamin D alone are not sufficient as treatment [5].",
+      "The most commonly used group, and usually the first choice, is the bisphosphonates [5]. They slow the rate at which bone is broken down; they usually take 6 to 12 months to work and may need to be taken for 5 years or longer [2]. Other options are medicines with an oestrogen-like effect (SERMs), parathyroid hormone treatments, biological medicines given by injection, and hormone replacement therapy for women around the menopause [2].",
+      "According to a Cochrane review of one medicine from the bisphosphonate group, in postmenopausal women at higher risk of fracture it probably reduces fractures of the spine and may also reduce hip and wrist fractures. In women at lower risk it may make little or no difference to hip and wrist fractures [6].",
+      "Bisphosphonate tablets can irritate the food pipe; damage to the jaw bone (osteonecrosis) and unusual fractures of the thigh bone are rare but serious side effects [2][5]. The choice of medicine and the length of treatment are decided by the treating doctor according to the person's condition and fracture risk [2][5]."
+     ]
+    },
+    {
+     "h": "Which department and which doctor deals with it?",
+     "p": [
+      "The fracture is treated by orthopaedics and traumatology. The medical treatment and long-term follow-up of osteoporosis are most often run by another department: the orthopaedic surgeon often identifies the need for a bone health assessment, and the patient continues treatment with a doctor who works in this field [4].",
+      "In Türkiye these patients are mainly managed by specialists in physical medicine and rehabilitation, endocrinology, rheumatology and internal medicine, and also by specialists in orthopaedics and in gynaecology [5]; which department deals with it varies from hospital to hospital."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "In the following situations seek care without delay; in the first one go to an emergency department [1][4][5]:"
+     ],
+     "list": [
+      "You suspect a fracture in the wrist, hip, shoulder or back after a fall or a blow; keep the area still",
+      "Back pain that began after a simple movement such as coughing, sneezing or bending forward, or back pain with no explanation",
+      "You have lost height or your back has begun to bend forward; these can be signs of a fracture of the spine and call for an X-ray of the spine",
+      "You have had a fracture after a simple fall and your bone health has not yet been assessed"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does osteoporosis cause pain?",
+     "a": "Usually not; it is not painful unless a bone breaks [1]. Fractures of the spine, however, are a common cause of long-term pain [1]."
+    },
+    {
+     "q": "Are osteoporosis and osteoarthritis the same thing?",
+     "a": "No. In osteoarthritis the protective cartilage in the joint breaks down and the joint becomes painful and stiff [7]; osteoporosis weakens the bone itself and is not usually painful unless a bone breaks [1]."
+    },
+    {
+     "q": "Which foods are good for osteoporosis?",
+     "a": "Milk, cheese, yoghurt, leafy green vegetables, beans and nuts are rich in calcium; oily fish, egg yolks and liver contain vitamin D [3][5]. Food sources of vitamin D are limited, and its main source is sunlight [5]."
+    },
+    {
+     "q": "Do osteoporosis medicines prevent fractures?",
+     "a": "They can reduce the risk in people at high risk of fracture: according to a Cochrane review, one medicine from the bisphosphonate group probably reduces fractures of the spine in women at higher risk and may also reduce hip and wrist fractures [6]. The choice of medicine and the length of treatment are decided by the treating doctor [2]."
+    },
+    {
+     "q": "I have had a fracture; should I have a bone density scan?",
+     "a": "A fracture after a simple fall most likely means there is underlying bone weakness and approximately doubles the risk of another fracture, so bone health needs to be assessed [4]. As part of the assessment the doctor may request a bone density scan (DXA) [1][4]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "osteoporoz-kak-vyyavit-i-predupredit-perelomy",
+   "title": "Остеопороз: как его выявить и как предупредить переломы?",
+   "description": "Остеопороз: что это, причины и симптомы. Денситометрия, полезные для костей продукты, лекарства, переломы и к какому врачу обращаться.",
+   "summary": "Остеопороз (снижение плотности костей) — заболевание, при котором кости слабеют и становятся хрупкими; как правило, оно не даёт симптомов, пока не сломается кость, и чаще всего приводит к переломам запястья, бедра и позвоночника [1]. Его выявляют с помощью измерения плотности костей — денситометрии (DXA); перелом после простого падения — тоже повод оценить здоровье костей [1][4]. Упражнения, кальций и витамин D, отказ от курения и профилактика падений помогают защитить кости; у людей с высоким риском переломов лекарственное лечение может этот риск снизить [3][4][6].",
+   "sections": [
+    {
+     "h": "Что такое остеопороз?",
+     "p": [
+      "Остеопороз, то есть снижение плотности костей, — заболевание, при котором кости слабеют, становятся хрупкими и легче ломаются; развивается оно постепенно [1]. Потеря костной ткани — обычная часть старения, но у некоторых людей она идёт намного быстрее [1]. По расчётам, в Турции остеопороз есть у 22,2% мужчин и 27,2% женщин в возрасте 50 лет и старше [5].",
+      "Остеопороз и артроз (остеоартрит) — не одно и то же заболевание. При артрозе разрушается защитный хрящ в суставе, сустав болит и становится скованным [7]; остеопороз же ослабляет саму кость и обычно не вызывает боли, пока кость не сломается [1]."
+     ]
+    },
+    {
+     "h": "Какие бывают симптомы и почему его замечают поздно?",
+     "p": [
+      "Остеопороз обычно не вызывает боли, пока не сломается кость [1]. Поскольку до перелома он чаще всего не даёт никаких симптомов, его называют «тихой болезнью» [4]; диагноз нередко ставят лишь тогда, когда кость ломается при падении или внезапном ударе [1].",
+      "Переломы позвонков чаще всего не дают симптомов [5]; однако они могут приводить к длительной боли в спине, уменьшению роста и сутулости — наклону спины вперёд [1][4]."
+     ]
+    },
+    {
+     "h": "Почему он возникает и кто в группе риска?",
+     "p": [
+      "У женщин риск выше, чем у мужчин; в первые годы после менопаузы потеря костной ткани ускоряется [1]. Основные факторы, повышающие риск [1][4]:"
+     ],
+     "list": [
+      "Ранняя менопауза или удаление яичников",
+      "Приём кортикостероидов (стероидов) в таблетках в высокой дозе дольше трёх месяцев",
+      "Остеопороз или перелом бедра у близких родственников",
+      "Болезни щитовидной железы, ревматоидный артрит и заболевания, при которых нарушено всасывание питательных веществ",
+      "Расстройства пищевого поведения и низкий индекс массы тела",
+      "Недостаточное питание и низкий уровень витамина D",
+      "Малоподвижный образ жизни, курение и избыточное употребление алкоголя"
+     ]
+    },
+    {
+     "h": "Как его выявляют? Денситометрия (DXA) и что означает результат",
+     "p": [
+      "Если врач подозревает остеопороз, он может рассчитать риск будущих переломов с помощью таких инструментов, как FRAX, и назначить измерение плотности костей [1]. Денситометрия (DXA, или DEXA) — исследование с низкой дозой облучения, при котором измеряют минеральную плотность кости в области бедра и позвоночника [4]; оно безболезненно и занимает 10–20 минут [1].",
+      "Денситометрия — не единственный критерий: перенесённый низкоэнергетический перелом тоже служит одним из оснований для диагноза [5].",
+      "Результат сравнивают с показателями здоровых молодых взрослых и выражают в виде Т-критерия; остеопения — стадия, предшествующая остеопорозу, и она не всегда переходит в остеопороз [1]:"
+     ],
+     "list": [
+      "Выше -1: норма",
+      "От -1 до -2,5: снижение плотности костей (остеопения)",
+      "Ниже -2,5: остеопороз"
+     ]
+    },
+    {
+     "h": "К каким переломам он приводит?",
+     "p": [
+      "Перелом, который возникает при небольшой нагрузке, легко переносимой здоровой костью, — например, при падении с высоты собственного роста, — называют низкоэнергетическим переломом, или переломом при минимальной травме [4]. Чаще всего он случается в области запястья, бедра и позвоночника [1]; ещё одно частое место — плечевая кость вблизи плечевого сустава [4][5]. Иногда даже кашель или чихание могут привести к перелому ребра или к оседанию одного из позвонков [1].",
+      "Нужна ли операция, зависит от особенностей перелома; при переломе бедра (шейки бедра) операцию рекомендуют почти всегда [4]. Переломы позвоночника оценивают специалисты соответствующего профиля.",
+      "Перелом после простого падения, скорее всего, говорит об ослаблении кости и требует оценки здоровья костей; один перелом при минимальной травме повышает риск нового перелома примерно вдвое [4]."
+     ]
+    },
+    {
+     "h": "Что помогает при остеопорозе и как его предупредить?",
+     "p": [
+      "На здоровье костей влияют и факторы образа жизни, такие как питание и физическая нагрузка [3]. Основные меры:"
+     ],
+     "list": [
+      "Упражнения: для плотности костей особенно важны нагрузки, при которых вес тела приходится на ноги (например, быстрая ходьба, танцы, теннис), и силовые упражнения с сопротивлением; плавание и езда на велосипеде к таким нагрузкам не относятся [3]. Эти упражнения также улучшают равновесие и мышечную силу, а значит, снижают риск падений [4]",
+      "Кальций: им богаты молоко, сыр и йогурт, зелёные листовые овощи, фасоль, орехи и сухофрукты [3][5]. Получать кальций с пищей, как правило, предпочтительнее, чем из добавок [5]",
+      "Витамин D: его главный источник — солнечный свет, а пищевых источников немного [5]. Витамин D содержат жирная рыба, яичный желток, печень и красное мясо [3]. Добавки кальция и витамина D рекомендуют людям с высоким риском их недостатка и тем, кто принимает лекарства от остеопороза; принимать очень большую дозу витамина D за один раз не советуют, поскольку это связывают с повышением риска переломов и падений [5]",
+      "Курение и алкоголь: курение связано с повышенным риском остеопороза; рекомендуют отказаться от курения и ограничить алкоголь [3]",
+      "Профилактика падений: убрать небольшие скользящие коврики, носить устойчивую обувь, не оставлять вещи на полу, хорошо освещать путь в ванную, установить поручни на лестнице и в ванной [4]"
+     ]
+    },
+    {
+     "h": "Как его лечат? Лекарства от остеопороза",
+     "p": [
+      "Нужны ли лекарства, определяют по риску будущих переломов; требуются они не всем [1][2]. Лекарства рекомендуют людям, перенёсшим перелом при минимальной травме, и тем, у кого есть риск переломов; одних только кальция и витамина D для лечения недостаточно [5].",
+      "Чаще всего применяют бисфосфонаты, и обычно именно с них начинают лечение [5]. Они замедляют разрушение кости; действие обычно проявляется через 6–12 месяцев, а принимать их может понадобиться 5 лет и дольше [2]. Другие варианты — препараты с действием, подобным эстрогену (СМЭР), препараты паратиреоидного гормона, биологические препараты в виде инъекций и заместительная гормональная терапия у женщин в период менопаузы [2].",
+      "По данным Кокрейновского обзора, посвящённого одному препарату из группы бисфосфонатов, у женщин после менопаузы с повышенным риском переломов он, вероятно, снижает число переломов позвонков, а также может снижать число переломов бедра и запястья. У женщин с более низким риском он может мало влиять или совсем не влиять на число переломов бедра и запястья [6].",
+      "Таблетки бисфосфонатов могут раздражать пищевод; повреждение челюстной кости (остеонекроз) и нетипичные переломы бедренной кости — редкие, но серьёзные побочные эффекты [2][5]. Выбор лекарства и длительность лечения определяет лечащий врач с учётом состояния человека и риска переломов [2][5]."
+     ]
+    },
+    {
+     "h": "В какое отделение и к какому врачу обращаться?",
+     "p": [
+      "Перелом лечат ортопеды-травматологи. Лекарственным лечением остеопороза и длительным наблюдением чаще всего занимается другое отделение: ортопед обычно выявляет необходимость оценить здоровье костей, а лечение пациент продолжает у врача, который занимается этой областью [4].",
+      "В Турции таких пациентов ведут главным образом специалисты по физической медицине и реабилитации, эндокринологи, ревматологи и терапевты, а также ортопеды и гинекологи [5]; какое отделение этим занимается, зависит от больницы."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "В следующих случаях обратитесь за медицинской помощью без промедления; в первом случае — в отделение неотложной помощи [1][4][5]:"
+     ],
+     "list": [
+      "После падения или удара вы подозреваете перелом в области запястья, бедра, плеча или спины; держите эту область неподвижно",
+      "Боль в спине, которая появилась после простого движения — кашля, чихания или наклона вперёд — либо не имеет понятной причины",
+      "Вы стали ниже ростом или спина начала сгибаться вперёд; это может быть признаком перелома позвонка и требует рентгена позвоночника",
+      "У вас был перелом после простого падения, а здоровье костей ещё не оценивали"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Болит ли что-нибудь при остеопорозе?",
+     "a": "Обычно нет: он не вызывает боли, пока не сломается кость [1]. А вот переломы позвонков — частая причина длительной боли [1]."
+    },
+    {
+     "q": "Остеопороз и артроз — одно и то же?",
+     "a": "Нет. При артрозе (остеоартрите) разрушается защитный хрящ в суставе, сустав болит и становится скованным [7]; остеопороз ослабляет саму кость и обычно не вызывает боли, пока нет перелома [1]."
+    },
+    {
+     "q": "Какие продукты полезны при остеопорозе?",
+     "a": "Кальцием богаты молоко, сыр, йогурт, зелёные листовые овощи, фасоль и орехи; витамин D содержат жирная рыба, яичный желток и печень [3][5]. Пищевых источников витамина D немного, его главный источник — солнечный свет [5]."
+    },
+    {
+     "q": "Предупреждают ли лекарства от остеопороза переломы?",
+     "a": "У людей с высоким риском переломов они могут снижать этот риск: по данным Кокрейновского обзора, один препарат из группы бисфосфонатов у женщин с повышенным риском, вероятно, снижает число переломов позвонков и может снижать число переломов бедра и запястья [6]. Выбор лекарства и длительность лечения определяет лечащий врач [2]."
+    },
+    {
+     "q": "У меня был перелом — нужно ли делать денситометрию?",
+     "a": "Перелом после простого падения, скорее всего, говорит об ослаблении кости и повышает риск нового перелома примерно вдвое, поэтому здоровье костей нужно оценить [4]. В рамках такой оценки врач может назначить денситометрию (DXA) [1][4]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "pooki-ostokhan-osteoporoz-shekastegi",
+   "title": "پوکی استخوان (استئوپروز): چگونه تشخیص داده می‌شود و چگونه از شکستگی پیشگیری می‌شود؟",
+   "description": "پوکی استخوان چیست، چرا ایجاد می‌شود و چه علائمی دارد؟ سنجش تراکم استخوان، غذاهای مفید، داروها، شکستگی‌ها و اینکه به کدام پزشک مراجعه کنید.",
+   "summary": "پوکی استخوان (استئوپروز) بیماری‌ای است که استخوان‌ها را ضعیف و شکننده می‌کند و بیشتر وقت‌ها تا زمانی که استخوانی نشکند علامتی ندارد؛ بیشتر به شکستگی مچ دست، لگن و ستون فقرات می‌انجامد [1]. این بیماری با سنجش تراکم استخوان (DXA) شناخته می‌شود؛ شکستگی پس از یک زمین خوردن ساده نیز دلیلی برای ارزیابی سلامت استخوان است [1][4]. ورزش، کلسیم و ویتامین D، ترک سیگار و پیشگیری از زمین خوردن به محافظت از استخوان‌ها کمک می‌کنند؛ در کسانی که خطر شکستگی در آن‌ها بالاست، درمان دارویی می‌تواند این خطر را کاهش دهد [3][4][6].",
+   "sections": [
+    {
+     "h": "پوکی استخوان چیست؟",
+     "p": [
+      "پوکی استخوان، که نام پزشکی آن استئوپروز است، بیماری‌ای است که استخوان‌ها را ضعیف و شکننده می‌کند و احتمال شکستن آن‌ها را بالا می‌برد؛ این بیماری به‌تدریج پدید می‌آید [1]. از دست دادن بافت استخوان بخشی عادی از بالا رفتن سن است، اما در برخی افراد بسیار سریع‌تر رخ می‌دهد [1]. برآورد شده است که در ترکیه ۲۲٫۲ درصد مردان و ۲۷٫۲ درصد زنانِ ۵۰ ساله و بالاتر پوکی استخوان دارند [5].",
+      "پوکی استخوان با آرتروز (استئوآرتریت) یکی نیست. در آرتروز غضروف محافظ درون مفصل تخریب می‌شود و مفصل دردناک و خشک می‌شود [7]؛ اما پوکی استخوان خودِ استخوان را ضعیف می‌کند و تا زمانی که استخوانی نشکند معمولاً دردی ایجاد نمی‌کند [1]."
+     ]
+    },
+    {
+     "h": "چه علائمی دارد و چرا دیر متوجه آن می‌شوند؟",
+     "p": [
+      "پوکی استخوان معمولاً تا زمانی که استخوانی نشکند دردی ایجاد نمی‌کند [1]. چون تا پیش از شکستگی بیشتر وقت‌ها هیچ علامتی ندارد، به آن «بیماری خاموش» می‌گویند [4]؛ تشخیص بیشتر وقت‌ها تنها زمانی داده می‌شود که زمین خوردن یا ضربه‌ای ناگهانی استخوانی را بشکند [1].",
+      "شکستگی مهره‌های ستون فقرات بیشتر وقت‌ها علامتی ندارد [5]؛ اما ممکن است به کمردرد و پشت‌درد طولانی‌مدت، کوتاه شدن قد و خمیدگی پشت به جلو (قوز) بینجامد [1][4]."
+     ]
+    },
+    {
+     "h": "چرا ایجاد می‌شود و چه کسانی در خطرند؟",
+     "p": [
+      "زنان بیش از مردان در خطرند؛ در چند سال نخست پس از یائسگی از دست رفتن استخوان سرعت می‌گیرد [1]. مهم‌ترین عواملی که خطر را افزایش می‌دهند این‌ها هستند [1][4]:"
+     ],
+     "list": [
+      "یائسگی زودرس یا برداشتن تخمدان‌ها",
+      "مصرف قرص کورتون (استروئید) با دوز بالا به مدت بیش از سه ماه",
+      "سابقهٔ پوکی استخوان یا شکستگی لگن در خانواده",
+      "بیماری‌های تیروئید، آرتریت روماتوئید و بیماری‌هایی که جذب مواد غذایی را مختل می‌کنند",
+      "اختلالات خوردن و پایین بودن شاخص تودهٔ بدنی",
+      "تغذیهٔ ناکافی و پایین بودن ویتامین D",
+      "زندگی کم‌تحرک، سیگار و مصرف زیاد الکل"
+     ]
+    },
+    {
+     "h": "چگونه تشخیص داده می‌شود؟ سنجش تراکم استخوان (DXA) و معنای نتیجهٔ آن",
+     "p": [
+      "اگر پزشک به پوکی استخوان مشکوک شود، می‌تواند خطر شکستگی در آینده را با ابزارهایی مانند FRAX محاسبه کند و سنجش تراکم استخوان درخواست کند [1]. سنجش تراکم استخوان (DXA یا DEXA) اسکنی با پرتوِ کم است که تراکم معدنی استخوان را در لگن و ستون فقرات اندازه می‌گیرد [4]؛ بدون درد است و ۱۰ تا ۲۰ دقیقه طول می‌کشد [1].",
+      "سنجش تراکم تنها معیار نیست: داشتن سابقهٔ شکستگی با ضربهٔ کم‌انرژی نیز یکی از پایه‌های تشخیص است [5].",
+      "نتیجه با بزرگسالان جوان و سالم مقایسه و به‌صورت نمرهٔ T بیان می‌شود؛ استئوپنی مرحلهٔ پیش از پوکی استخوان است و همیشه به پوکی استخوان نمی‌انجامد [1]:"
+     ],
+     "list": [
+      "بالاتر از منفی ۱: طبیعی",
+      "میان منفی ۱ و منفی ۲٫۵: کاهش تراکم استخوان (استئوپنی)",
+      "پایین‌تر از منفی ۲٫۵: پوکی استخوان (استئوپروز)"
+     ]
+    },
+    {
+     "h": "به چه شکستگی‌هایی می‌انجامد؟",
+     "p": [
+      "شکستگی‌ای که با نیرویی اندک رخ می‌دهد، نیرویی که استخوان سالم به‌آسانی تاب می‌آورد، مانند زمین خوردن از حالت ایستاده، شکستگی ناشی از شکنندگی استخوان نامیده می‌شود [4]. این شکستگی بیشتر در مچ دست، لگن و ستون فقرات دیده می‌شود [1]؛ استخوان بازو در نزدیکی شانه نیز از جاهای شایع شکستگی است [4][5]. گاهی حتی سرفه یا عطسه می‌تواند به شکستگی دنده یا فرو نشستن یکی از مهره‌های ستون فقرات بینجامد [1].",
+      "نیاز یا عدم نیاز به جراحی به ویژگی‌های شکستگی بستگی دارد؛ در شکستگی لگن تقریباً همیشه جراحی توصیه می‌شود [4]. شکستگی‌های ستون فقرات را رشتهٔ تخصصی مربوط ارزیابی می‌کند.",
+      "شکستگی پس از یک زمین خوردن ساده به احتمال زیاد نشان‌دهندهٔ ضعف زمینه‌ای استخوان است و ارزیابی سلامت استخوان را لازم می‌کند؛ یک شکستگی ناشی از شکنندگی، خطر شکستگی تازه را تقریباً دو برابر می‌کند [4]."
+     ]
+    },
+    {
+     "h": "چه چیزی برای پوکی استخوان خوب است و چگونه پیشگیری می‌شود؟",
+     "p": [
+      "عوامل سبک زندگی مانند تغذیه و ورزش نیز بر سلامت استخوان‌ها اثر می‌گذارند [3]. مهم‌ترین اقدام‌ها این‌ها هستند:"
+     ],
+     "list": [
+      "ورزش: ورزش‌هایی که در آن‌ها وزن بدن روی پاها قرار می‌گیرد (مانند پیاده‌روی تند، رقص یا تنیس) و ورزش‌های مقاومتی برای تراکم استخوان اهمیت ویژه دارند؛ شنا و دوچرخه‌سواری از این دسته به شمار نمی‌آیند [3]. این ورزش‌ها تعادل و قدرت عضلانی را هم بهتر می‌کنند و از این راه خطر زمین خوردن را کاهش می‌دهند [4]",
+      "کلسیم: شیر، پنیر و ماست، سبزی‌های برگ‌سبز، لوبیا، مغزها و میوه‌های خشک سرشار از کلسیم‌اند [3][5]. دریافت کلسیم از غذا معمولاً بر مکمل ترجیح داده می‌شود [5]",
+      "ویتامین D: منبع اصلی آن نور خورشید است و منابع غذایی آن محدود است [5]. ماهی‌های چرب، زردهٔ تخم‌مرغ، جگر و گوشت قرمز ویتامین D دارند [3]. مکمل کلسیم و ویتامین D برای کسانی که خطر کمبود در آن‌ها بالاست و کسانی که داروی پوکی استخوان مصرف می‌کنند توصیه می‌شود؛ اما مصرف یک‌بارهٔ دوز بسیار بالای ویتامین D توصیه نمی‌شود، زیرا با افزایش خطر شکستگی و زمین خوردن همراه دانسته شده است [5]",
+      "سیگار و الکل: سیگار با افزایش خطر پوکی استخوان همراه است؛ ترک سیگار و محدود کردن الکل توصیه می‌شود [3]",
+      "پیشگیری از زمین خوردن: برداشتن قالیچه‌هایی که ممکن است سُر بخورند، پوشیدن کفش پایدار، نگذاشتن وسایل روی زمین، روشنایی خوب مسیر دستشویی و حمام و نصب دستگیره در راه‌پله و حمام [4]"
+     ]
+    },
+    {
+     "h": "چگونه درمان می‌شود؟ داروهای پوکی استخوان",
+     "p": [
+      "نیاز به دارو بر اساس خطر شکستگی در آینده تعیین می‌شود؛ همه به دارو نیاز ندارند [1][2]. دارو برای کسانی توصیه می‌شود که شکستگی ناشی از شکنندگی داشته‌اند یا در خطر شکستگی‌اند؛ کلسیم و ویتامین D به‌تنهایی برای درمان کافی نیست [5].",
+      "پرکاربردترین گروه دارویی، که معمولاً نخستین انتخاب هم هست، بیس‌فسفونات‌ها هستند [5]. این داروها تخریب استخوان را کند می‌کنند؛ اثرشان معمولاً پس از ۶ تا ۱۲ ماه آشکار می‌شود و ممکن است لازم باشد ۵ سال یا بیشتر مصرف شوند [2]. گزینه‌های دیگر عبارت‌اند از داروهایی با اثر شبیه استروژن (SERM)، درمان‌های هورمون پاراتیروئید، داروهای بیولوژیک تزریقی و هورمون‌درمانی در زنان در دوران یائسگی [2].",
+      "بر اساس یک مرور کاکرین دربارهٔ یکی از داروهای گروه بیس‌فسفونات، این دارو در زنان پس از یائسگی که خطر شکستگی در آن‌ها بالاتر است احتمالاً شکستگی مهره‌ها را کاهش می‌دهد و ممکن است شکستگی لگن و مچ دست را هم کاهش دهد. در زنانی که خطر در آن‌ها کمتر است، ممکن است در شکستگی لگن و مچ دست تفاوتی اندک ایجاد کند یا هیچ تفاوتی ایجاد نکند [6].",
+      "قرص‌های بیس‌فسفونات ممکن است مری را تحریک کنند؛ آسیب استخوان فک (استئونکروز) و شکستگی‌های غیرمعمول استخوان ران عوارضی نادر اما جدی‌اند [2][5]. انتخاب دارو و مدت درمان را پزشک معالج با توجه به وضعیت فرد و خطر شکستگی تعیین می‌کند [2][5]."
+     ]
+    },
+    {
+     "h": "به کدام بخش و کدام پزشک باید مراجعه کرد؟",
+     "p": [
+      "شکستگی را ارتوپدی و تروماتولوژی درمان می‌کند. اما درمان دارویی و پیگیری درازمدت پوکی استخوان بیشتر وقت‌ها در بخش دیگری انجام می‌شود: متخصص ارتوپدی بیشتر وقت‌ها نیاز به ارزیابی سلامت استخوان را تشخیص می‌دهد و بیمار درمان را با پزشکی که در این زمینه کار می‌کند ادامه می‌دهد [4].",
+      "در ترکیه این بیماران را بیشتر متخصصان طب فیزیکی و توان‌بخشی، غدد، روماتولوژی و داخلی و نیز متخصصان ارتوپدی و زنان و زایمان پیگیری می‌کنند [5]؛ اینکه کدام بخش به آن رسیدگی می‌کند از بیمارستانی به بیمارستان دیگر فرق دارد."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "در موارد زیر بدون معطلی به مرکز درمانی مراجعه کنید؛ در مورد نخست به اورژانس بروید [1][4][5]:"
+     ],
+     "list": [
+      "پس از زمین خوردن یا ضربه به شکستگی در مچ دست، لگن، شانه یا پشت مشکوک هستید؛ آن ناحیه را بی‌حرکت نگه دارید",
+      "کمردرد یا پشت‌دردی که پس از حرکتی ساده مانند سرفه، عطسه یا خم شدن به جلو شروع شده یا علت روشنی ندارد",
+      "قدتان کوتاه شده یا پشتتان رو به جلو خمیده شده است؛ این‌ها ممکن است نشانهٔ شکستگی مهره باشند و عکس رادیولوژی ستون فقرات را لازم می‌کنند",
+      "پس از یک زمین خوردن ساده دچار شکستگی شده‌اید و سلامت استخوانتان هنوز ارزیابی نشده است"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "آیا پوکی استخوان درد دارد؟",
+     "a": "معمولاً نه؛ تا زمانی که استخوانی نشکند دردی ایجاد نمی‌کند [1]. اما شکستگی مهره‌های ستون فقرات از علت‌های شایع درد طولانی‌مدت است [1]."
+    },
+    {
+     "q": "آیا پوکی استخوان و آرتروز یکی هستند؟",
+     "a": "نه. در آرتروز (استئوآرتریت) غضروف محافظ درون مفصل تخریب می‌شود و مفصل دردناک و خشک می‌شود [7]؛ پوکی استخوان خودِ استخوان را ضعیف می‌کند و تا زمانی که شکستگی رخ ندهد معمولاً دردی ندارد [1]."
+    },
+    {
+     "q": "چه غذاهایی برای پوکی استخوان مفیدند؟",
+     "a": "شیر، پنیر، ماست، سبزی‌های برگ‌سبز، لوبیا و مغزها سرشار از کلسیم‌اند؛ ماهی‌های چرب، زردهٔ تخم‌مرغ و جگر ویتامین D دارند [3][5]. منابع غذایی ویتامین D محدود است و منبع اصلی آن نور خورشید است [5]."
+    },
+    {
+     "q": "آیا داروهای پوکی استخوان از شکستگی پیشگیری می‌کنند؟",
+     "a": "در کسانی که خطر شکستگی در آن‌ها بالاست می‌توانند این خطر را کاهش دهند: بر اساس یک مرور کاکرین، یکی از داروهای گروه بیس‌فسفونات در زنانی که خطر شکستگی در آن‌ها بالاتر است احتمالاً شکستگی مهره‌ها را کاهش می‌دهد و ممکن است شکستگی لگن و مچ دست را هم کاهش دهد [6]. انتخاب دارو و مدت درمان را پزشک معالج تعیین می‌کند [2]."
+    },
+    {
+     "q": "دچار شکستگی شده‌ام؛ آیا باید سنجش تراکم استخوان انجام دهم؟",
+     "a": "شکستگی پس از یک زمین خوردن ساده به احتمال زیاد نشان‌دهندهٔ ضعف زمینه‌ای استخوان است و خطر شکستگی تازه را تقریباً دو برابر می‌کند؛ از این رو سلامت استخوان باید ارزیابی شود [4]. در این ارزیابی پزشک ممکن است سنجش تراکم استخوان (DXA) درخواست کند [1][4]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

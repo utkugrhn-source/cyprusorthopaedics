@@ -1,0 +1,585 @@
+{
+ "id": "ingrown-toenail",
+ "area": "ayak-bilek",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Ingrown toenail",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/ingrown-toenail/",
+   "year": "2025"
+  },
+  {
+   "title": "Ingrown Toenail",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/ingrown-toenail/",
+   "year": "n.d."
+  },
+  {
+   "title": "Ingrown toenail",
+   "publisher": "MedlinePlus Medical Encyclopedia (U.S. National Library of Medicine)",
+   "url": "https://medlineplus.gov/ency/article/001237.htm",
+   "year": "2025"
+  },
+  {
+   "title": "Interventions for ingrowing toenails",
+   "publisher": "Cochrane Database of Systematic Reviews (Eekhof JA, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22513901/",
+   "year": "2012"
+  },
+  {
+   "title": "A systematic review and meta-analysis of randomised controlled trials on surgical treatments for ingrown toenails part I: recurrence and relief of symptoms",
+   "publisher": "Journal of Foot and Ankle Research (Exley V, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37301845/",
+   "year": "2023"
+  },
+  {
+   "title": "Ingrown Toenail Management",
+   "publisher": "American Family Physician (Mayeaux EJ, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31361106/",
+   "year": "2019"
+  },
+  {
+   "title": "Nail Surgery (patient information leaflet PIL1199)",
+   "publisher": "North Tees and Hartlepool NHS Foundation Trust",
+   "url": "https://www.nth.nhs.uk/resources/nail-surgery/",
+   "year": "n.d."
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "tirnak-batmasi",
+   "title": "Tırnak batması: neden olur, nasıl geçer, ne zaman ameliyat gerekir?",
+   "description": "Tırnak batması neden olur, evde ne iyi gelir? Tırnak kesimi, krem, aparat, hangi doktor bakar, tırnak batması ameliyatı nasıl olur ve kaç günde iyileşir?",
+   "summary": "Tırnak batması, tırnak kenarının yanındaki deriye doğru büyümesiyle ortaya çıkar; çoğunlukla ayak başparmağında görülür ve en sık nedenleri uygun olmayan ayakkabı ile tırnağın yanlış kesilmesidir [1][2][3]. Erken dönemde ayağı ılık suda bekletmek ve geniş ayakkabı giymek gibi önlemler yeterli olabilir; enfeksiyon geliştiğinde ya da evde bakım yetmediğinde tırnağın batan kenarı lokal anesteziyle alınır [1][2][3]. Bir Cochrane derlemesine göre cerrahi girişimler, tekrarlamayı önlemede ameliyatsız yöntemlerden daha etkilidir [4].",
+   "sections": [
+    {
+     "h": "Tırnak batması nedir, neden olur?",
+     "p": [
+      "Tırnak batması (onikokriptoz), tırnak kenarının yanındaki deri kıvrımına, yani \"ete\" doğru büyüyerek ağrılı bir bölge oluşturduğu, sık görülen bir sorundur [1][4]. Her ayak parmağında olabilir, ancak çoğunlukla başparmakta görülür [1][2]. En sık ergenlerde ve genç erişkinlerde görülür, ancak her yaşta ortaya çıkabilir [5].",
+      "Başlıca nedenler şunlardır [2][3][6]:"
+     ],
+     "list": [
+      "Tırnağı çok kısa kesmek ya da köşelerini yuvarlamak",
+      "Parmakları sıkıştıran dar ya da kısa ayakkabılar",
+      "Tırnak köşeleriyle oynamak, tırnağı koparmak",
+      "Parmağa darbe gelmesi ya da koşu gibi tekrarlayan zorlanmalar",
+      "Doğuştan kıvrık ya da parmağa göre büyük tırnak"
+     ]
+    },
+    {
+     "h": "Belirtileri ve evreleri nelerdir?",
+     "p": [
+      "Başlangıçta tırnak kenarındaki deri sert, şiş ve hassas olabilir [2]. Parmak kızarır, ağrır ve şişer; tırnak parmağın içine doğru kıvrılmış görünebilir [1].",
+      "Sınıflandırmaların çoğu sorunu hafif, orta ve ağır olmak üzere üç evreye ayırır [5]. Kızarıklık, ağrı ve şişliğin ardından kısa sürede enfeksiyon gelişebilir; parmaktan iltihap (irin) gelmesi ya da ateş, üşüme ve titreme enfeksiyonu düşündürür [1][2]. En ağır olguların çoğunda tırnak kenarında süregen bir \"et\" dokusu (granülasyon dokusu) oluşur ve deri kıvrımı kalınlaşır [6]."
+     ]
+    },
+    {
+     "h": "Evde ne iyi gelir, hangi krem kullanılır?",
+     "p": [
+      "Erken dönemde, enfeksiyon yerleşmeden önce evde bakım başka bir tedaviye gerek kalmasını önleyebilir [2]. 2–3 gün içinde düzelme olmazsa ya da durum kötüleşirse hekime başvurun [2].",
+      "Şeker hastalığı (diyabet), bacakta ya da ayakta sinir sorunu veya ayakta dolaşım bozukluğu olanlar ile tırnak çevresinde enfeksiyon bulunanlar, evde tedaviyle vakit geçirmeden hemen hekime başvurmalıdır [3].",
+      "Krem konusunda eczacı, ağrıyı hafifletmeye ve enfeksiyonu önlemeye yardımcı ürünler için yol gösterebilir [1]. Parmak enfekte olduğunda hekim antibiyotik yazabilir [1][3]. Bununla birlikte hekimlere yönelik bir derlemeye göre girişimden önce ya da sonra verilen ağızdan ya da sürülen antibiyotikler sonucu iyileştirmez [6].",
+      "Evde yapılabilecekler şunlardır [1][2][3]:"
+     ],
+     "list": [
+      "Ayağı günde 3–4 kez ılık suda bekletmek; suya tuz eklenebilir",
+      "Günün geri kalanında ayağı kuru tutmak",
+      "Geniş, rahat ayakkabı ya da sandalet giymek; dar ve sivri burunlu ayakkabılardan kaçınmak",
+      "Batan tırnak kenarını nazikçe kaldırıp altına küçük bir parça pamuk ya da mumlu diş ipi yerleştirmek ve her gün değiştirmek",
+      "Ağrı kesici gerekiyorsa hangisinin uygun olduğunu eczacıya ya da hekime sormak",
+      "Tırnağı kesmemek, uzamaya bırakmak; batan parçayı kendiniz kesip çıkarmaya çalışmamak"
+     ]
+    },
+    {
+     "h": "Aparat (tırnak teli) ve tüp yöntemleri işe yarar mı?",
+     "p": [
+      "Ameliyatsız yöntemler genellikle hafif ve orta evrelerde kullanılır [5][6]. Halk arasında \"aparat\" denen tırnak teli uygulamasında (ortoniksi) tırnağın üzerine küçük bir metal tel takılır [4][6]. Tüp (oluk) yönteminde boyuna yarılmış ince bir plastik tüp, parmak uyuşturulduktan sonra batan tırnak kenarına geçirilir; hastalar çoğu zaman ağrıda rahatlama bildirir [6].",
+      "Bu yöntemlerin başarı oranları ve kanıt kalitesi değişkendir [5]. Cochrane derlemesine göre cerrahi girişimler tekrarlamayı önlemede tüp yönteminden daha iyi, tırnak telinden ise muhtemelen daha iyidir [4]. 2023'te yayımlanan bir sistematik derleme ise cerrahi ile ameliyatsız yöntemler arasında tekrarlama bakımından anlamlı bir fark saptamamış, bu kanıtın kesinliğini düşük ya da çok düşük bulmuştur [5]."
+     ]
+    },
+    {
+     "h": "Ne zaman girişim gerekir, hangi doktor bakar?",
+     "p": [
+      "Evde bakım işe yaramıyorsa hekime başvurmak gerekir [1][3]. Belirgin iltihaplanma, şişlik, ağrı ve akıntı varsa tırnak büyük olasılıkla enfektedir; antibiyotik ve tırnağın bir bölümünün ya da tamamının alınması gerekebilir [2].",
+      "Cerrahi yöntemler orta ve ağır evrelerde tercih edilir; ameliyatsız tedaviden sonuç alınamadığında da çoğunlukla cerrahi önerilir [5][6]. Tedavi edilmeyen tırnak batması belirgin ağrıya ve iltihaplanmaya yol açar, enfeksiyon riskini artırır [5].",
+      "Tırnak cerrahisini aile hekimleri, ortopedi cerrahları, dermatologlar ve podiatristler (ayak sağlığı uzmanları) gibi farklı sağlık çalışanları yapar [5]. Bu klinikte tırnak batmasını ortopedi ve travmatoloji hekimleri değerlendirir ve tedavi eder."
+     ]
+    },
+    {
+     "h": "Tırnak batması ameliyatı nasıl yapılır?",
+     "p": [
+      "Girişim lokal anesteziyle yapılır; uyuşturucu iğne parmağın dibine uygulanır [2][3][7]. En sık uygulanan yöntem, tırnağın yalnızca batan yan kenarının alınmasıdır [3][6]; bazı durumlarda tırnağın tamamı alınır [1][2][7]. İngiltere'deki bir NHS hastanesinin hasta broşürüne göre işlem genellikle 10–15 dakika sürer ve ardından eve gidilir [7].",
+      "Yalnızca batan kenar alındığında tırnağın yeniden uzaması 2–4 ay sürer [3]. Aynı kenarın yeniden çıkıp batmasını önlemek için tırnak kökü (matriks) de tedavi edilebilir; bu işlem cerrahi olarak, kimyasal bir maddeyle (örneğin fenol) ya da elektrik akımıyla yapılabilir [6][7].",
+      "Cochrane derlemesine göre girişime fenol eklenmesi, tekrarlamayı önlemede muhtemelen daha etkilidir; ancak iki grupta da aynı cerrahinin uygulandığı yalnızca bir çalışma bulunduğundan bu sonucun doğrulanması gerekir [4]. O çalışmada tekrarlama, fenol eklenen grupta yüzde 14, eklenmeyen grupta yüzde 41 olmuştur [4]. 2023 tarihli derleme de fenolün tekrarlama riskini azalttığı sonucuna varmış, ancak bu kanıtı çok düşük kalitede bulmuştur [5]."
+     ]
+    },
+    {
+     "h": "Ameliyat sonrası: iyileşme, banyo ve işe dönüş",
+     "p": [
+      "Kök tedavisi yapıldığında ağrı genellikle hafiftir [6]. Pansuman 24–48 saat içinde değiştirilir ve normal yürüyüşe dönülebilir; tırnak yatağından 2–3 hafta akıntı gelmesi beklenir [6]. Fenol uygulanan parmağın iyileşmesi yaklaşık 6–8 hafta sürer, 12 haftayı bulabilir [7]. Nadiren tırnak kalıcı olarak kaybedilebilir ya da şekli bozulabilir [6].",
+      "Bakım talimatlarını girişimi yapan hekim verir. Bir NHS hastanesinin hasta broşüründe şunlar önerilir [7]:"
+     ],
+     "list": [
+      "İlk 24 saat ayağı olabildiğince yukarıda tutmak",
+      "Banyo ya da duş, pansuman parmakta bırakılarak her zamanki gibi yapılabilir; sonrasında pansuman yenilenir",
+      "Ayak yukarıda tutulabiliyorsa ertesi gün işe ya da okula dönülebilir",
+      "Parmak iyileşene kadar spor yapmamak"
+     ]
+    },
+    {
+     "h": "Tekrarlar mı, nasıl önlenir?",
+     "p": [
+      "Ayak bakımına özen gösterilmezse tırnak batması büyük olasılıkla tekrarlar [3]. Fenol uygulanan girişimden sonra tırnağın yeniden çıkması 100 kişiden 10'undan azında görülür [7]; hekimlere yönelik derleme, fenolden sonra tekrarlama oranını yüzde 5'in altında bildirir [6].",
+      "Önlemek için şunlar önerilir [1][2][3]:"
+     ],
+     "list": [
+      "Tırnakları düz kesmek; köşeleri yuvarlamamak",
+      "Tırnakları parmak ucundan daha kısa kesmemek",
+      "Temiz ve keskin bir tırnak makası kullanmak",
+      "Parmaklara yeterince yer bırakan ayakkabı ve çorap giymek",
+      "Ayakları temiz tutmak ve iyice kurulamak",
+      "Diyabetiniz varsa düzenli ayak muayenesi ve tırnak bakımı yaptırmak"
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Şu durumlarda beklemeden hekime başvurun [1][2][3][7]:"
+     ],
+     "list": [
+      "Parmak ağrılı ve şişse, parmaktan iltihap (irin) geliyorsa",
+      "Ateşiniz yüksekse ya da üşüme, titreme varsa",
+      "Diyabetiniz, bacakta ya da ayakta sinir hasarınız veya ayakta dolaşım bozukluğunuz varsa",
+      "2–3 gün içinde düzelme yoksa ya da durum kötüleşiyorsa",
+      "Girişimden sonra parmakta ısı artışı, şişlik ve ağrı ortaya çıktıysa"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Tırnak batmasına hangi bölüm, hangi doktor bakar?",
+     "a": "Tırnak cerrahisini aile hekimleri, ortopedi cerrahları, dermatologlar ve podiatristler gibi farklı sağlık çalışanları yapar [5]. Bu klinikte tırnak batmasını ortopedi ve travmatoloji hekimleri tedavi eder."
+    },
+    {
+     "q": "Tırnak batması ameliyatı ne kadar sürer, ağrılı mıdır?",
+     "a": "İşlem lokal anesteziyle yapılır ve genellikle 10–15 dakika sürer [7]. Uyuşukluk geçince bir miktar ağrı olabilir, ağrı kesiciler yardımcı olur [7]; kök tedavisi yapıldığında ağrı genellikle hafiftir [6]."
+    },
+    {
+     "q": "Ameliyattan sonra kaç günde iyileşir, ne zaman banyo yapılır?",
+     "a": "Ayak yukarıda tutulabiliyorsa ertesi gün işe ya da okula dönülebilir; fenol uygulanan parmağın iyileşmesi ise yaklaşık 6–8 hafta sürer, 12 haftayı bulabilir [7]. Pansuman parmakta bırakılarak her zamanki gibi banyo yapılabilir ya da duş alınabilir; sonrasında pansuman yenilenir [7]."
+    },
+    {
+     "q": "Tırnak batmasına hangi krem iyi gelir?",
+     "a": "Eczacı, ağrıyı hafifletmeye ve enfeksiyonu önlemeye yardımcı ürünler konusunda yol gösterebilir [1]. Girişim öncesinde ya da sonrasında kullanılan antibiyotikli kremlerin ve ağızdan antibiyotiklerin sonucu iyileştirmediği bildirilmiştir [4][6]."
+    },
+    {
+     "q": "Tırnak batması ameliyatsız geçer mi, tedavi edilmezse ne olur?",
+     "a": "Erken dönemde, enfeksiyon yerleşmeden önce evde bakım başka bir tedaviye gerek kalmasını önleyebilir [2]. Tedavi edilmediğinde ise belirgin ağrı ve iltihaplanma olur, enfeksiyon riski artar [5]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "ingrown-toenail",
+   "title": "Ingrown toenail: what causes it, how does it heal, and when is a procedure needed?",
+   "description": "What causes an ingrown toenail and what helps at home? Nail cutting, creams, nail braces, which doctor to see, what the procedure involves and healing time.",
+   "summary": "An ingrown toenail develops when the edge of the nail grows into the skin beside it; it usually affects the big toe, and its commonest causes are poorly fitting shoes and toenails that are not trimmed properly [1][2][3]. In the early stage, measures such as soaking the foot in warm water and wearing wide shoes may be enough; when infection develops or home care does not help, the ingrown edge of the nail is removed under local anaesthetic [1][2][3]. According to a Cochrane review, surgical interventions are more effective than non-surgical methods in preventing recurrence [4].",
+   "sections": [
+    {
+     "h": "What is an ingrown toenail and what causes it?",
+     "p": [
+      "An ingrown toenail (onychocryptosis) is a common problem in which the edge of the nail grows into the fold of skin beside it, the flesh at the side of the nail, and creates a painful area [1][4]. Any toe can be affected, but it is usually the big toe [1][2]. It is seen most often in teenagers and young adults, although it can occur at any age [5].",
+      "The main causes are [2][3][6]:"
+     ],
+     "list": [
+      "Cutting the nail too short or rounding off its corners",
+      "Tight or short shoes that squeeze the toes",
+      "Picking at the corners of the nail or tearing the nail",
+      "An injury to the toe, or repeated stress such as running",
+      "A nail that is naturally curved or too large for the toe"
+     ]
+    },
+    {
+     "h": "What are the symptoms and stages?",
+     "p": [
+      "At first the skin at the edge of the nail may be hard, swollen and tender [2]. The toe becomes red, painful and swollen, and the nail may look as if it curves into the toe [1].",
+      "Most classifications divide the problem into three stages: mild, moderate and severe [5]. Redness, pain and swelling may soon be followed by infection; pus coming from the toe, or feeling hot, cold or shivery, suggests infection [1][2]. In most of the severest cases, chronic overgrown tissue (granulation tissue) forms at the edge of the nail and the skin fold thickens [6]."
+     ]
+    },
+    {
+     "h": "What helps at home, and which cream should be used?",
+     "p": [
+      "In the early stage, before infection sets in, home care may prevent the need for further treatment [2]. If there is no improvement within 2 to 3 days, or if the condition gets worse, see a doctor [2].",
+      "People who have diabetes, nerve problems in the leg or foot, or poor blood circulation to the foot, and those with an infection around the nail, should see a doctor right away rather than spending time on home treatment [3].",
+      "As for creams, a pharmacist can advise on products that help to ease the pain and prevent infection [1]. If the toe is infected, a doctor may prescribe antibiotics [1][3]. However, according to a review written for doctors, antibiotics taken by mouth or applied to the skin before or after a procedure do not improve the outcome [6].",
+      "What you can do at home [1][2][3]:"
+     ],
+     "list": [
+      "Soak the foot in warm water 3 to 4 times a day; salt can be added to the water",
+      "Keep the foot dry for the rest of the day",
+      "Wear wide, comfortable shoes or sandals; avoid tight, pointed shoes",
+      "Gently lift the ingrown edge of the nail, place a small piece of cotton or waxed dental floss under it, and change it every day",
+      "If you need a painkiller, ask a pharmacist or doctor which one is suitable",
+      "Do not cut the nail, leave it to grow out; do not try to cut out the ingrown part yourself"
+     ]
+    },
+    {
+     "h": "Do nail braces and tube (gutter) methods work?",
+     "p": [
+      "Non-surgical methods are generally used in the mild and moderate stages [5][6]. With a nail brace (orthonyxia), a small metal brace is fitted onto the nail [4][6]. In the tube (gutter) method, a thin plastic tube slit lengthwise is slipped over the ingrown edge of the nail after the toe has been numbed; patients frequently report pain relief [6].",
+      "The success rates of these methods and the quality of the evidence vary [5]. According to the Cochrane review, surgical interventions are better at preventing recurrence than the gutter method and probably better than nail braces [4]. A systematic review published in 2023, however, found no significant difference in recurrence between surgical and non-surgical methods, and rated the certainty of this evidence as low or very low [5]."
+     ]
+    },
+    {
+     "h": "When is a procedure needed, and which doctor treats it?",
+     "p": [
+      "If home care is not helping, you need to see a doctor [1][3]. If there is marked inflammation, swelling, pain and discharge, the nail is probably infected; antibiotics, and removal of part or all of the nail, may be needed [2].",
+      "Surgical methods are preferred in the moderate and severe stages; surgery is also often recommended when non-surgical treatment has not worked [5][6]. An untreated ingrown toenail causes substantial pain and inflammation and increases the risk of infection [5].",
+      "Nail surgery is performed by a range of health professionals, such as family doctors, orthopaedic surgeons, dermatologists and podiatrists (foot health specialists) [5]. At this clinic, ingrown toenails are assessed and treated by the orthopaedics and traumatology doctors."
+     ]
+    },
+    {
+     "h": "How is ingrown toenail surgery done?",
+     "p": [
+      "The procedure is done under local anaesthetic; the numbing injection is given at the base of the toe [2][3][7]. The most common method is to remove only the ingrown side edge of the nail [3][6]; in some cases the whole nail is removed [1][2][7]. According to the patient leaflet of an NHS hospital in England, the operation usually takes about 10 to 15 minutes, after which you go home [7].",
+      "When only the ingrown edge is removed, it takes 2 to 4 months for the nail to regrow [3]. To stop the same edge from growing back and digging in again, the nail root (matrix) can also be treated; this can be done surgically, with a chemical (for example phenol) or with an electric current [6][7].",
+      "According to the Cochrane review, adding phenol to the procedure is probably more effective in preventing recurrence; however, because there is only one study in which the same surgery was used in both groups, this result needs to be confirmed [4]. In that study, recurrence was 14% in the group that received phenol and 41% in the group that did not [4]. The 2023 review also concluded that phenol reduces the risk of recurrence, but it rated this evidence as very low quality [5]."
+     ]
+    },
+    {
+     "h": "After the procedure: healing, bathing and going back to work",
+     "p": [
+      "When the nail root is treated, pain is generally minor [6]. The dressing is changed within 24 to 48 hours and normal walking can be resumed; a discharge from the nail bed is to be expected for 2 to 3 weeks [6]. A toe treated with phenol takes approximately 6 to 8 weeks to heal, and may take as long as 12 weeks [7]. Rarely, permanent loss of the nail or a misshapen nail may occur [6].",
+      "Care instructions are given by the doctor who carries out the procedure. The patient leaflet of an NHS hospital advises the following [7]:"
+     ],
+     "list": [
+      "Keep the foot raised as much as possible for the first 24 hours",
+      "You can have a bath or shower as normal with the dressing left on the toe; the dressing is renewed afterwards",
+      "You can go back to work or school the next day if you can keep the foot raised",
+      "Do not take part in sport until the toe has healed"
+     ]
+    },
+    {
+     "h": "Does it come back, and how can it be prevented?",
+     "p": [
+      "An ingrown toenail is likely to return if good foot care is not practised [3]. After a procedure with phenol, the nail grows back in fewer than 10 out of 100 people [7]; the review written for doctors reports a recurrence rate of less than 5% after phenol [6].",
+      "The following are recommended for prevention [1][2][3]:"
+     ],
+     "list": [
+      "Cut the nails straight across; do not round off the corners",
+      "Do not cut the nails shorter than the tip of the toe",
+      "Use clean, sharp nail clippers",
+      "Wear shoes and socks that leave enough room for the toes",
+      "Keep the feet clean and dry them thoroughly",
+      "If you have diabetes, have regular foot examinations and nail care"
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "In the following situations see a doctor without waiting [1][2][3][7]:"
+     ],
+     "list": [
+      "The toe is painful and swollen and pus is coming out of it",
+      "You have a high temperature, or feel cold or shivery",
+      "You have diabetes, nerve damage in the leg or foot, or poor circulation to the foot",
+      "There is no improvement within 2 to 3 days, or the condition is getting worse",
+      "Heat, swelling and pain have developed in the toe after a procedure"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Which department or doctor treats an ingrown toenail?",
+     "a": "Nail surgery is performed by a range of health professionals such as family doctors, orthopaedic surgeons, dermatologists and podiatrists [5]. At this clinic, ingrown toenails are treated by the orthopaedics and traumatology doctors."
+    },
+    {
+     "q": "How long does ingrown toenail surgery take, and is it painful?",
+     "a": "The procedure is done under local anaesthetic and usually takes about 10 to 15 minutes [7]. There may be some pain once the numbness wears off, and painkillers help [7]; when the nail root is treated, pain is generally minor [6]."
+    },
+    {
+     "q": "How many days does it take to heal after surgery, and when can I bathe?",
+     "a": "You can go back to work or school the next day if you can keep the foot raised; a toe treated with phenol, however, takes approximately 6 to 8 weeks to heal and may take as long as 12 weeks [7]. You can have a bath or shower as normal with the dressing left on the toe; the dressing is renewed afterwards [7]."
+    },
+    {
+     "q": "Which cream is good for an ingrown toenail?",
+     "a": "A pharmacist can advise on products that help to ease the pain and prevent infection [1]. Antibiotic creams and antibiotics taken by mouth, used before or after a procedure, have been reported not to improve the outcome [4][6]."
+    },
+    {
+     "q": "Can an ingrown toenail settle without surgery, and what happens if it is not treated?",
+     "a": "In the early stage, before infection sets in, home care may prevent the need for further treatment [2]. If it is left untreated, however, there is substantial pain and inflammation, and the risk of infection increases [5]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "vrosshij-nogot",
+   "title": "Вросший ноготь: почему возникает, как проходит и когда нужна операция?",
+   "description": "Почему врастает ноготь и что помогает дома? Стрижка ногтей, мази, скобы, к какому врачу идти, как проходит операция при вросшем ногте и сколько заживает палец.",
+   "summary": "Вросший ноготь возникает, когда край ногтя врастает в кожу рядом с ним; чаще всего страдает большой палец стопы, а самые частые причины — неподходящая обувь и неправильная стрижка ногтей [1][2][3]. На ранней стадии может быть достаточно таких мер, как тёплые ванночки для стопы и просторная обувь; если развивается инфекция или домашний уход не помогает, врастающий край ногтя удаляют под местной анестезией [1][2][3]. По данным Кокрейновского обзора, хирургические вмешательства эффективнее безоперационных методов в предотвращении рецидива [4].",
+   "sections": [
+    {
+     "h": "Что такое вросший ноготь и почему он возникает?",
+     "p": [
+      "Вросший ноготь (онихокриптоз) — частая проблема, при которой край ногтя врастает в кожную складку рядом с ним, то есть в мягкие ткани у края ногтя, и образуется болезненный участок [1][4]. Врасти может ноготь на любом пальце стопы, но чаще всего это большой палец [1][2]. Особенно часто проблема встречается у подростков и молодых взрослых, хотя может возникнуть в любом возрасте [5].",
+      "Основные причины таковы [2][3][6]:"
+     ],
+     "list": [
+      "Слишком короткая стрижка ногтя или закругление его уголков",
+      "Тесная или короткая обувь, сдавливающая пальцы",
+      "Привычка ковырять уголки ногтя или обрывать ноготь",
+      "Травма пальца или повторяющаяся нагрузка, например при беге",
+      "Ноготь, который от рождения изогнут или слишком велик для пальца"
+     ]
+    },
+    {
+     "h": "Каковы симптомы и стадии?",
+     "p": [
+      "Вначале кожа у края ногтя может быть плотной, отёчной и болезненной при прикосновении [2]. Палец краснеет, болит и отекает; ноготь может выглядеть так, будто он загибается внутрь пальца [1].",
+      "Большинство классификаций делит проблему на три стадии: лёгкую, среднюю и тяжёлую [5]. Вслед за покраснением, болью и отёком вскоре может развиться инфекция; на неё указывают выделение гноя из пальца либо жар, озноб и дрожь [1][2]. В большинстве самых тяжёлых случаев у края ногтя образуется хроническое разрастание ткани (грануляционная ткань), а кожная складка утолщается [6]."
+     ]
+    },
+    {
+     "h": "Что помогает дома и какую мазь использовать?",
+     "p": [
+      "На ранней стадии, пока не присоединилась инфекция, домашний уход может избавить от необходимости в другом лечении [2]. Если за 2–3 дня улучшения нет или состояние ухудшается, обратитесь к врачу [2].",
+      "Людям с сахарным диабетом, поражением нервов ноги или стопы либо нарушением кровообращения в стопе, а также тем, у кого есть инфекция вокруг ногтя, следует сразу обратиться к врачу, не тратя время на домашнее лечение [3].",
+      "Что касается мазей и кремов, фармацевт может подсказать средства, которые помогают уменьшить боль и предотвратить инфекцию [1]. Если палец инфицирован, врач может назначить антибиотики [1][3]. Вместе с тем, согласно обзору для врачей, антибиотики, принимаемые внутрь или наносимые местно до или после вмешательства, не улучшают результат [6].",
+      "Что можно делать дома [1][2][3]:"
+     ],
+     "list": [
+      "Держать стопу в тёплой воде 3–4 раза в день; в воду можно добавить соль",
+      "В остальное время дня держать стопу сухой",
+      "Носить широкую, удобную обувь или сандалии; избегать тесной обуви с узким носком",
+      "Осторожно приподнять врастающий край ногтя, подложить под него небольшой кусочек ваты или вощёной зубной нити и менять его каждый день",
+      "Если нужно обезболивающее, спросить у фармацевта или врача, какое подходит",
+      "Не стричь ноготь, дать ему отрасти; не пытаться самостоятельно вырезать вросшую часть"
+     ]
+    },
+    {
+     "h": "Помогают ли скобы и трубочки для ногтя?",
+     "p": [
+      "Безоперационные методы обычно применяют при лёгкой и средней стадиях [5][6]. При установке скобы (ортониксия) на ноготь крепят небольшую металлическую скобу [4][6]. При методе трубочки (желобка) тонкую пластиковую трубочку, разрезанную вдоль, после обезболивания пальца надевают на врастающий край ногтя; пациенты часто отмечают уменьшение боли [6].",
+      "Успешность этих методов и качество доказательств различаются [5]. По данным Кокрейновского обзора, хирургические вмешательства лучше предотвращают рецидив, чем метод трубочки, и, вероятно, лучше, чем скобы [4]. Однако систематический обзор, опубликованный в 2023 году, не выявил значимой разницы в частоте рецидивов между хирургическими и безоперационными методами и оценил достоверность этих доказательств как низкую или очень низкую [5]."
+     ]
+    },
+    {
+     "h": "Когда нужно вмешательство и к какому врачу обращаться?",
+     "p": [
+      "Если домашний уход не помогает, нужно обратиться к врачу [1][3]. Если есть выраженное воспаление, отёк, боль и выделения, ноготь, скорее всего, инфицирован; могут понадобиться антибиотики и удаление части ногтя или всего ногтя [2].",
+      "Хирургические методы предпочтительны при средней и тяжёлой стадиях; операцию часто рекомендуют и тогда, когда безоперационное лечение не дало результата [5][6]. Вросший ноготь без лечения вызывает выраженную боль и воспаление и повышает риск инфекции [5].",
+      "Операции на ногтях выполняют разные медицинские специалисты — семейные врачи, хирурги-ортопеды, дерматологи и подиатры (специалисты по здоровью стопы) [5]. В этой клинике вросший ноготь оценивают и лечат врачи — ортопеды-травматологи."
+     ]
+    },
+    {
+     "h": "Как проходит операция при вросшем ногте?",
+     "p": [
+      "Вмешательство выполняют под местной анестезией; обезболивающий укол делают в основание пальца [2][3][7]. Чаще всего удаляют только врастающий боковой край ногтя [3][6]; в некоторых случаях удаляют весь ноготь [1][2][7]. Согласно памятке для пациентов одной из больниц NHS в Англии, операция обычно занимает около 10–15 минут, после чего можно идти домой [7].",
+      "Если удалён только врастающий край, ноготь отрастает за 2–4 месяца [3]. Чтобы тот же край не вырос и не врос снова, можно обработать и корень ногтя (матрикс); это делают хирургически, химическим веществом (например, фенолом) или электрическим током [6][7].",
+      "По данным Кокрейновского обзора, добавление фенола к вмешательству, вероятно, эффективнее предотвращает рецидив; однако, поскольку есть лишь одно исследование, в котором в обеих группах выполняли одну и ту же операцию, этот результат требует подтверждения [4]. В этом исследовании рецидив возник у 14% в группе с фенолом и у 41% в группе без него [4]. Обзор 2023 года также пришёл к выводу, что фенол снижает риск рецидива, но оценил качество этих доказательств как очень низкое [5]."
+     ]
+    },
+    {
+     "h": "После операции: заживление, мытьё и возвращение к работе",
+     "p": [
+      "Если обработан корень ногтя, боль обычно незначительна [6]. Повязку меняют через 24–48 часов, и можно вернуться к обычной ходьбе; в течение 2–3 недель следует ожидать выделений из ногтевого ложа [6]. Палец, обработанный фенолом, заживает примерно 6–8 недель, а иногда до 12 недель [7]. В редких случаях возможны необратимая утрата ногтя или его деформация [6].",
+      "Указания по уходу даёт врач, который выполнил вмешательство. В памятке для пациентов одной из больниц NHS рекомендовано следующее [7]:"
+     ],
+     "list": [
+      "Первые 24 часа как можно больше держать стопу в приподнятом положении",
+      "Ванну или душ можно принимать как обычно, не снимая повязку с пальца; после этого повязку меняют",
+      "Если есть возможность держать стопу приподнятой, на работу или в школу можно вернуться на следующий день",
+      "Не заниматься спортом, пока палец не заживёт"
+     ]
+    },
+    {
+     "h": "Возвращается ли вросший ноготь и как его предотвратить?",
+     "p": [
+      "Если не уделять внимания уходу за стопами, вросший ноготь, скорее всего, возникнет снова [3]. После вмешательства с фенолом ноготь отрастает менее чем у 10 человек из 100 [7]; в обзоре для врачей частота рецидивов после применения фенола указана как менее 5% [6].",
+      "Для профилактики рекомендуют следующее [1][2][3]:"
+     ],
+     "list": [
+      "Стричь ногти прямо; не закруглять уголки",
+      "Не стричь ногти короче кончика пальца",
+      "Пользоваться чистыми и острыми кусачками для ногтей",
+      "Носить обувь и носки, в которых пальцам достаточно места",
+      "Держать стопы в чистоте и тщательно их вытирать",
+      "Если у вас диабет, регулярно проходить осмотр стоп и уход за ногтями"
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "В следующих случаях обратитесь к врачу без промедления [1][2][3][7]:"
+     ],
+     "list": [
+      "Палец болит и отёк, из него выделяется гной",
+      "У вас высокая температура, озноб или дрожь",
+      "У вас диабет, поражение нервов ноги или стопы либо нарушение кровообращения в стопе",
+      "За 2–3 дня улучшения нет или состояние ухудшается",
+      "После вмешательства палец стал горячим, появились отёк и боль"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "К какому врачу, в какое отделение идти с вросшим ногтем?",
+     "a": "Операции на ногтях выполняют разные медицинские специалисты — семейные врачи, хирурги-ортопеды, дерматологи и подиатры [5]. В этой клинике вросший ноготь лечат врачи — ортопеды-травматологи."
+    },
+    {
+     "q": "Сколько длится операция при вросшем ногте и больно ли это?",
+     "a": "Вмешательство выполняют под местной анестезией, и обычно оно занимает около 10–15 минут [7]. Когда онемение пройдёт, возможна некоторая боль, помогают обезболивающие [7]; если обработан корень ногтя, боль обычно незначительна [6]."
+    },
+    {
+     "q": "За сколько дней заживает палец после операции и когда можно мыться?",
+     "a": "Если есть возможность держать стопу приподнятой, на работу или в школу можно вернуться на следующий день; палец, обработанный фенолом, заживает примерно 6–8 недель, а иногда до 12 недель [7]. Ванну или душ можно принимать как обычно, не снимая повязку с пальца; после этого повязку меняют [7]."
+    },
+    {
+     "q": "Какая мазь помогает при вросшем ногте?",
+     "a": "Фармацевт может подсказать средства, которые помогают уменьшить боль и предотвратить инфекцию [1]. Сообщается, что мази с антибиотиком и антибиотики для приёма внутрь, применяемые до или после вмешательства, не улучшают результат [4][6]."
+    },
+    {
+     "q": "Пройдёт ли вросший ноготь без операции и что будет, если его не лечить?",
+     "a": "На ранней стадии, пока не присоединилась инфекция, домашний уход может избавить от необходимости в другом лечении [2]. Без лечения возникают выраженная боль и воспаление, а риск инфекции повышается [5]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "foro-raftan-nakhon-dar-gusht",
+   "title": "فرورفتن ناخن در گوشت: چرا ایجاد می‌شود، چگونه خوب می‌شود و چه زمانی جراحی لازم است؟",
+   "description": "فرورفتن ناخن پا در گوشت چرا ایجاد می‌شود و در خانه چه کمکی می‌کند؟ کوتاه کردن ناخن، پماد، گیرهٔ ناخن، کدام پزشک، جراحی ناخن و مدت بهبود.",
+   "summary": "فرورفتن ناخن در گوشت زمانی پدید می‌آید که لبهٔ ناخن به درون پوستِ کنار آن رشد کند؛ بیشتر در شست پا دیده می‌شود و شایع‌ترین علت‌های آن کفش نامناسب و نادرست کوتاه کردن ناخن است [1][2][3]. در مرحلهٔ اولیه اقدام‌هایی مانند گذاشتن پا در آب ولرم و پوشیدن کفش پهن ممکن است کافی باشد؛ اگر عفونت ایجاد شود یا مراقبت خانگی کافی نباشد، لبهٔ فرورفتهٔ ناخن با بی‌حسی موضعی برداشته می‌شود [1][2][3]. بر پایهٔ یک مرور کاکرین، مداخله‌های جراحی در پیشگیری از عود مؤثرتر از روش‌های غیرجراحی هستند [4].",
+   "sections": [
+    {
+     "h": "فرورفتن ناخن در گوشت چیست و چرا ایجاد می‌شود؟",
+     "p": [
+      "فرورفتن ناخن در گوشت (اُنیکوکریپتوز) مشکل شایعی است که در آن لبهٔ ناخن به درون چین پوستیِ کنار خود، یعنی گوشتِ کنار ناخن، رشد می‌کند و ناحیه‌ای دردناک پدید می‌آورد [1][4]. در هر یک از انگشتان پا ممکن است رخ دهد، اما بیشتر در شست پا دیده می‌شود [1][2]. بیشتر در نوجوانان و جوانان دیده می‌شود، هرچند در هر سنی ممکن است پدید آید [5].",
+      "علت‌های اصلی این‌ها هستند [2][3][6]:"
+     ],
+     "list": [
+      "خیلی کوتاه کردن ناخن یا گرد کردن گوشه‌های آن",
+      "کفش‌های تنگ یا کوتاه که انگشتان را زیر فشار می‌گذارند",
+      "ور رفتن با گوشه‌های ناخن یا کندن ناخن",
+      "ضربه خوردن انگشت یا فشارهای تکراری مانند دویدن",
+      "ناخنی که به‌طور مادرزادی خمیده یا برای انگشت بیش از اندازه بزرگ است"
+     ]
+    },
+    {
+     "h": "علائم و مراحل آن چیست؟",
+     "p": [
+      "در آغاز ممکن است پوست لبهٔ ناخن سفت، متورم و حساس باشد [2]. انگشت قرمز، دردناک و متورم می‌شود و ممکن است ناخن چنان دیده شود که به درون انگشت خم شده است [1].",
+      "بیشتر طبقه‌بندی‌ها این مشکل را به سه مرحلهٔ خفیف، متوسط و شدید تقسیم می‌کنند [5]. در پی قرمزی، درد و تورم ممکن است به‌زودی عفونت ایجاد شود؛ بیرون آمدن چرک از انگشت یا تب و لرز نشانهٔ احتمال عفونت است [1][2]. در بیشترِ شدیدترین موارد، در لبهٔ ناخن بافت اضافهٔ مزمن (بافت گرانولاسیون) شکل می‌گیرد و چین پوستی ضخیم می‌شود [6]."
+     ]
+    },
+    {
+     "h": "در خانه چه کمکی می‌کند و کدام پماد به کار می‌رود؟",
+     "p": [
+      "در مرحلهٔ اولیه، پیش از آنکه عفونت جا بیفتد، مراقبت خانگی ممکن است نیاز به درمان دیگر را از میان ببرد [2]. اگر طی ۲ تا ۳ روز بهبودی حاصل نشد یا وضعیت بدتر شد، به پزشک مراجعه کنید [2].",
+      "کسانی که دیابت (بیماری قند)، مشکل عصبی در ساق یا پا یا اختلال گردش خون در پا دارند و نیز کسانی که اطراف ناخنشان عفونت کرده است، باید بدون صرف وقت برای درمان خانگی فوراً به پزشک مراجعه کنند [3].",
+      "دربارهٔ پماد و کرم، داروساز می‌تواند دربارهٔ فراورده‌هایی که به کم شدن درد و پیشگیری از عفونت کمک می‌کنند راهنمایی کند [1]. اگر انگشت عفونت کرده باشد، پزشک ممکن است آنتی‌بیوتیک تجویز کند [1][3]. با این حال، بر پایهٔ یک مقالهٔ مروری برای پزشکان، آنتی‌بیوتیک خوراکی یا موضعی پیش یا پس از عمل نتیجه را بهتر نمی‌کند [6].",
+      "کارهایی که می‌توان در خانه انجام داد این‌ها هستند [1][2][3]:"
+     ],
+     "list": [
+      "گذاشتن پا در آب ولرم ۳ تا ۴ بار در روز؛ می‌توان به آب نمک افزود",
+      "خشک نگه داشتن پا در بقیهٔ روز",
+      "پوشیدن کفش پهن و راحت یا صندل؛ پرهیز از کفش تنگ و نوک‌تیز",
+      "بلند کردن آرامِ لبهٔ فرورفتهٔ ناخن و گذاشتن تکه‌ای کوچک پنبه یا نخ دندان موم‌دار زیر آن، و عوض کردن هرروزهٔ آن",
+      "اگر مسکّن لازم است، از داروساز یا پزشک بپرسید کدام مناسب است",
+      "کوتاه نکردن ناخن و گذاشتن آن تا بلند شود؛ خودتان برای بریدن و درآوردن بخش فرورفته تلاش نکنید"
+     ]
+    },
+    {
+     "h": "آیا گیرهٔ ناخن و روش لوله مؤثر است؟",
+     "p": [
+      "روش‌های غیرجراحی معمولاً در مراحل خفیف و متوسط به کار می‌روند [5][6]. در روش گیرهٔ ناخن (ارتونیکسی) یک گیرهٔ فلزی کوچک روی ناخن نصب می‌شود [4][6]. در روش لوله (ناودانی)، لولهٔ پلاستیکی نازکی که از درازا شکافته شده است پس از بی‌حس کردن انگشت روی لبهٔ فرورفتهٔ ناخن قرار داده می‌شود؛ بیماران بیشتر وقت‌ها از کم شدن درد خبر می‌دهند [6].",
+      "میزان موفقیت این روش‌ها و کیفیت شواهد متفاوت است [5]. بر پایهٔ مرور کاکرین، مداخله‌های جراحی در پیشگیری از عود بهتر از روش لوله و احتمالاً بهتر از گیرهٔ ناخن هستند [4]. اما یک مرور نظام‌مند که در سال ۲۰۲۳ منتشر شده است، میان روش‌های جراحی و غیرجراحی از نظر عود تفاوت معناداری نیافته و قطعیت این شواهد را پایین یا بسیار پایین ارزیابی کرده است [5]."
+     ]
+    },
+    {
+     "h": "چه زمانی عمل لازم است و کدام پزشک آن را درمان می‌کند؟",
+     "p": [
+      "اگر مراقبت خانگی نتیجه نمی‌دهد، باید به پزشک مراجعه کرد [1][3]. اگر التهاب، تورم، درد و ترشح آشکار وجود داشته باشد، ناخن به احتمال زیاد عفونت کرده است؛ ممکن است آنتی‌بیوتیک و برداشتن بخشی از ناخن یا همهٔ آن لازم شود [2].",
+      "روش‌های جراحی در مراحل متوسط و شدید ترجیح داده می‌شوند؛ هنگامی که درمان غیرجراحی نتیجه نداده است نیز بیشتر وقت‌ها جراحی توصیه می‌شود [5][6]. فرورفتن ناخن در گوشت اگر درمان نشود درد و التهاب چشمگیری ایجاد می‌کند و خطر عفونت را بالا می‌برد [5].",
+      "جراحی ناخن را کارکنان گوناگون حوزهٔ سلامت مانند پزشکان خانواده، جراحان ارتوپدی، متخصصان پوست و پودیاتریست‌ها (متخصصان سلامت پا) انجام می‌دهند [5]. در این کلینیک فرورفتن ناخن در گوشت را پزشکان ارتوپدی و تروماتولوژی ارزیابی و درمان می‌کنند."
+     ]
+    },
+    {
+     "h": "جراحی فرورفتن ناخن در گوشت چگونه انجام می‌شود؟",
+     "p": [
+      "این عمل با بی‌حسی موضعی انجام می‌شود؛ آمپول بی‌حسی در پایهٔ انگشت تزریق می‌شود [2][3][7]. رایج‌ترین روش برداشتنِ تنها لبهٔ کناریِ فرورفتهٔ ناخن است [3][6]؛ در برخی موارد همهٔ ناخن برداشته می‌شود [1][2][7]. بر پایهٔ برگهٔ اطلاعات بیمارِ یکی از بیمارستان‌های NHS در انگلستان، عمل معمولاً حدود ۱۰ تا ۱۵ دقیقه طول می‌کشد و پس از آن بیمار به خانه می‌رود [7].",
+      "هنگامی که تنها لبهٔ فرورفته برداشته شود، دوباره بلند شدن ناخن ۲ تا ۴ ماه طول می‌کشد [3]. برای آنکه همان لبه دوباره نروید و فرو نرود، می‌توان ریشهٔ ناخن (ماتریکس) را نیز درمان کرد؛ این کار ممکن است با جراحی، با یک مادهٔ شیمیایی (برای نمونه فنول) یا با جریان برق انجام شود [6][7].",
+      "بر پایهٔ مرور کاکرین، افزودن فنول به عمل احتمالاً در پیشگیری از عود مؤثرتر است؛ اما چون تنها یک مطالعه وجود دارد که در هر دو گروه آن جراحی یکسانی انجام شده است، این نتیجه نیاز به تأیید دارد [4]. در آن مطالعه، عود در گروهی که فنول دریافت کرده بود ۱۴ درصد و در گروهی که دریافت نکرده بود ۴۱ درصد بود [4]. مرور سال ۲۰۲۳ نیز به این نتیجه رسیده است که فنول خطر عود را کم می‌کند، اما کیفیت این شواهد را بسیار پایین دانسته است [5]."
+     ]
+    },
+    {
+     "h": "پس از عمل: بهبود، حمام و بازگشت به کار",
+     "p": [
+      "هنگامی که ریشهٔ ناخن درمان می‌شود، درد معمولاً خفیف است [6]. پانسمان طی ۲۴ تا ۴۸ ساعت عوض می‌شود و می‌توان به راه رفتن عادی بازگشت؛ ترشح از بستر ناخن به مدت ۲ تا ۳ هفته قابل انتظار است [6]. بهبود انگشتی که فنول روی آن به کار رفته است حدود ۶ تا ۸ هفته طول می‌کشد و ممکن است به ۱۲ هفته برسد [7]. به‌ندرت ممکن است ناخن برای همیشه از دست برود یا بدشکل شود [6].",
+      "دستورهای مراقبت را پزشکی می‌دهد که عمل را انجام داده است. در برگهٔ اطلاعات بیمارِ یکی از بیمارستان‌های NHS این موارد توصیه شده است [7]:"
+     ],
+     "list": [
+      "در ۲۴ ساعت نخست پا را تا جای ممکن بالا نگه دارید",
+      "می‌توانید مثل همیشه حمام کنید یا دوش بگیرید و پانسمان را روی انگشت نگه دارید؛ پس از آن پانسمان عوض می‌شود",
+      "اگر بتوانید پا را بالا نگه دارید، می‌توانید روز بعد به کار یا مدرسه برگردید",
+      "تا زمانی که انگشت بهبود نیافته است ورزش نکنید"
+     ]
+    },
+    {
+     "h": "آیا عود می‌کند و چگونه می‌توان از آن پیشگیری کرد؟",
+     "p": [
+      "اگر به مراقبت از پا توجه نشود، فرورفتن ناخن در گوشت به احتمال زیاد عود می‌کند [3]. پس از عملی که در آن فنول به کار رفته است، رویش دوبارهٔ ناخن در کمتر از ۱۰ نفر از هر ۱۰۰ نفر دیده می‌شود [7]؛ مقالهٔ مروری برای پزشکان میزان عود پس از فنول را کمتر از ۵ درصد گزارش می‌کند [6].",
+      "برای پیشگیری این موارد توصیه می‌شود [1][2][3]:"
+     ],
+     "list": [
+      "ناخن‌ها را صاف کوتاه کنید؛ گوشه‌ها را گرد نکنید",
+      "ناخن‌ها را کوتاه‌تر از نوک انگشت نکنید",
+      "از ناخن‌گیر تمیز و تیز استفاده کنید",
+      "کفش و جورابی بپوشید که برای انگشتان جای کافی بگذارد",
+      "پاها را تمیز نگه دارید و خوب خشک کنید",
+      "اگر دیابت دارید، به‌طور منظم برای معاینهٔ پا و مراقبت از ناخن مراجعه کنید"
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "در موارد زیر بدون تأخیر به پزشک مراجعه کنید [1][2][3][7]:"
+     ],
+     "list": [
+      "اگر انگشت دردناک و متورم است و از آن چرک بیرون می‌آید",
+      "اگر تب بالا دارید یا دچار لرز هستید",
+      "اگر دیابت، آسیب عصبی در ساق یا پا یا اختلال گردش خون در پا دارید",
+      "اگر طی ۲ تا ۳ روز بهبودی حاصل نشده یا وضعیت بدتر می‌شود",
+      "اگر پس از عمل، انگشت گرم، متورم و دردناک شده است"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "برای فرورفتن ناخن در گوشت به کدام بخش و کدام پزشک باید مراجعه کرد؟",
+     "a": "جراحی ناخن را کارکنان گوناگون حوزهٔ سلامت مانند پزشکان خانواده، جراحان ارتوپدی، متخصصان پوست و پودیاتریست‌ها انجام می‌دهند [5]. در این کلینیک فرورفتن ناخن در گوشت را پزشکان ارتوپدی و تروماتولوژی درمان می‌کنند."
+    },
+    {
+     "q": "جراحی فرورفتن ناخن در گوشت چقدر طول می‌کشد و آیا دردناک است؟",
+     "a": "عمل با بی‌حسی موضعی انجام می‌شود و معمولاً حدود ۱۰ تا ۱۵ دقیقه طول می‌کشد [7]. پس از برطرف شدن بی‌حسی ممکن است کمی درد وجود داشته باشد و مسکّن کمک می‌کند [7]؛ هنگامی که ریشهٔ ناخن درمان می‌شود، درد معمولاً خفیف است [6]."
+    },
+    {
+     "q": "پس از عمل چند روزه خوب می‌شود و چه زمانی می‌توان حمام کرد؟",
+     "a": "اگر بتوانید پا را بالا نگه دارید، می‌توانید روز بعد به کار یا مدرسه برگردید؛ اما بهبود انگشتی که فنول روی آن به کار رفته است حدود ۶ تا ۸ هفته طول می‌کشد و ممکن است به ۱۲ هفته برسد [7]. می‌توان مثل همیشه حمام کرد یا دوش گرفت و پانسمان را روی انگشت نگه داشت؛ پس از آن پانسمان عوض می‌شود [7]."
+    },
+    {
+     "q": "کدام پماد برای فرورفتن ناخن در گوشت خوب است؟",
+     "a": "داروساز می‌تواند دربارهٔ فراورده‌هایی که به کم شدن درد و پیشگیری از عفونت کمک می‌کنند راهنمایی کند [1]. گزارش شده است که پمادهای آنتی‌بیوتیک و آنتی‌بیوتیک‌های خوراکی که پیش یا پس از عمل به کار می‌روند نتیجه را بهتر نمی‌کنند [4][6]."
+    },
+    {
+     "q": "آیا فرورفتن ناخن در گوشت بدون جراحی خوب می‌شود و اگر درمان نشود چه می‌شود؟",
+     "a": "در مرحلهٔ اولیه، پیش از آنکه عفونت جا بیفتد، مراقبت خانگی ممکن است نیاز به درمان دیگر را از میان ببرد [2]. اما اگر درمان نشود، درد و التهاب چشمگیری پدید می‌آید و خطر عفونت بالا می‌رود [5]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

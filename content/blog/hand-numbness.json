@@ -1,0 +1,545 @@
+{
+ "id": "hand-numbness",
+ "area": "el-bilek",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Pins and needles",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/pins-and-needles/",
+   "year": "2024"
+  },
+  {
+   "title": "Carpal Tunnel Syndrome",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/carpal-tunnel-syndrome/",
+   "year": "n.d."
+  },
+  {
+   "title": "Carpal tunnel syndrome",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/carpal-tunnel-syndrome/",
+   "year": "2024"
+  },
+  {
+   "title": "Ulnar Nerve Entrapment at the Elbow (Cubital Tunnel Syndrome)",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/ulnar-nerve-entrapment-at-the-elbow",
+   "year": "n.d."
+  },
+  {
+   "title": "Cervical Radiculopathy (Pinched Nerve)",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/cervical-radiculopathy-pinched-nerve",
+   "year": "n.d."
+  },
+  {
+   "title": "Peripheral neuropathy - Causes",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/peripheral-neuropathy/causes/",
+   "year": "2022"
+  },
+  {
+   "title": "Symptoms of a stroke",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/stroke/symptoms/",
+   "year": "2024"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "el-uyusmasi-parmak-uyusmasi-neden-olur",
+   "title": "El ve parmak uyuşması: neden olur, ne iyi gelir, kime gidilir?",
+   "description": "El uyuşması, parmak uyuşması ve elde karıncalanma neden olur, neyin belirtisi? Gece uyuşması, serçe parmak uyuşması, ne iyi gelir, hangi doktora gidilir?",
+   "summary": "Kolun üzerine yatmak gibi bir basıyla ortaya çıkan uyuşma birkaç dakika sürer ve bası kalkınca genellikle geçer; sürekli olan ya da tekrarlayan el ve parmak uyuşması ise değerlendirilmelidir [1]. Hangi parmakların uyuştuğu nedeni düşündürür: başparmak, işaret ve orta parmakta, özellikle geceleri olan uyuşma bilekte median sinirin sıkışmasını (karpal tünel sendromu) [2][3], serçe ve yüzük parmağındaki uyuşma dirsekte ulnar sinirin sıkışmasını [4], boyundan kola yayılan ağrıyla birlikte olan uyuşma boyunda bir sinir kökünün sıkışmasını [5], ellerde ve ayaklarda birlikte olan uyuşma ise şeker hastalığı gibi genel bir nedeni akla getirir [1][6]. Aniden başlayan ve yüzde sarkma, konuşma bozukluğu ya da vücudun bir yarısında güçsüzlükle birlikte olan uyuşma inme belirtisi olabilir; hemen acil yardım çağrılmalıdır [7].",
+   "sections": [
+    {
+     "h": "El ve parmak uyuşması neden olur?",
+     "p": [
+      "Uyuşma ve karıncalanma, sinirlere giden kan akımı kesildiğinde ortaya çıkar; çoğunlukla vücudun bir bölümünün üzerine oturulduğunda ya da yatıldığında olur, yalnızca birkaç dakika sürer ve ağırlık kalkınca genellikle geçer [1].",
+      "Sürekli olan ya da tekrarlayan uyuşmanın ise tıbbi bir nedeni olabilir [1]. Elde ve parmaklarda başlıca nedenler şunlardır:"
+     ],
+     "list": [
+      "Bilekte median sinirin sıkışması (karpal tünel sendromu) [2][3]",
+      "Dirsekte ulnar sinirin sıkışması (kubital tünel sendromu) [4]",
+      "Boyunda bir sinir kökünün sıkışması (servikal radikülopati) [1][5]",
+      "Şeker hastalığı (diyabet) [1][6]",
+      "B12 vitamini ya da başka vitaminlerin düşüklüğü, uzun süreli aşırı alkol kullanımı, tiroid bezinin az çalışması ve bazı ilaçlar [1][6]",
+      "Bir yaralanma ya da hastalıktan sonra gelişen sinir hasarı [1]"
+     ]
+    },
+    {
+     "h": "Uyuşma neyin belirtisi: hangi parmak, ne zaman?",
+     "p": [
+      "Uyuşmanın hangi parmaklarda, ne zaman ve hangi duruşta ortaya çıktığı, nedenin nerede aranacağını gösterir:"
+     ],
+     "list": [
+      "Başparmak, işaret parmağı, orta parmak ve yüzük parmağının başparmağa bakan yarısı: bu parmakların duyusunu median sinir sağlar; karpal tünel sendromunu düşündürür [2]",
+      "Serçe parmak ve yüzük parmağının yarısı: bu parmakların duyusunu ulnar sinir sağlar; sinirin en sık sıkıştığı yer dirseğin iç yanının arkasıdır [4]",
+      "Gece el uyuşması: karpal tünel sendromunda çok sıktır, çünkü pek çok kişi bileği bükülü uyur; eli sallamak birçok kişiyi rahatlatır [2]",
+      "Telefon tutarken, araç kullanırken ya da kitap okurken uyuşma: bilek uzun süre bükülü kalınca karpal tünel [2], dirsek bükülü kalınca ulnar sinir yakınmaları ortaya çıkar [4]",
+      "Boyundan kola yayılan yanıcı ya da keskin ağrıyla birlikte karıncalanma: boyunda sinir kökü sıkışmasını düşündürür [5]",
+      "Ellerde ve ayaklarda birlikte uyuşma, karıncalanma ya da ağrı: şeker hastalığında görülebilir [1]"
+     ]
+    },
+    {
+     "h": "Karpal tünel sendromu",
+     "p": [
+      "Karpal tünel sendromunda median sinir bilekteki dar bir kanalda sıkışır [2][3]. Uyuşma, karıncalanma ve ağrıya elde güçsüzlük, beceriksizlik ve elden eşya düşürme eklenebilir [2]. Yakınmalar çoğu zaman yavaş başlar, gelip gider ve genellikle geceleri daha kötüdür [3].",
+      "Amerikan Ortopedi Cerrahları Akademisi'ne (AAOS) göre hastaların çoğunda zamanla kötüleşir; uzun süre tedavi edilmezse his kaybı ve güçsüzlük kalıcı olabilir [2]. Atel, steroid iğnesi ve ameliyat seçenekleri bu rehberdeki karpal tünel sendromu yazısında ayrıntılı olarak anlatılmıştır."
+     ]
+    },
+    {
+     "h": "Serçe parmak uyuşması: dirsekte ulnar sinir sıkışması",
+     "p": [
+      "Ulnar sinir, dirseğin iç yanındaki kemik çıkıntının arkasında dar bir tünelden (kubital tünel) geçer; burada üzerini örten koruyucu doku azdır ve dirsek büküldüğünde sinir hem gerilir hem sıkışır [4].",
+      "Yüzük ve serçe parmakta uyuşma ve karıncalanma sık görülen belirtilerdir; çoğu zaman gelip gider ve dirsek bükülüyken daha sık ortaya çıkar [4]. Daha ağır olgularda kavrama zayıflar; sıkışma şiddetli ya da uzun süreliyse elde kas erimesi gelişebilir ve bu erime geri döndürülemez [4]. Bu yüzden yakınma şiddetliyse ya da daha hafif olsa bile altı haftadan uzun sürüyorsa hekime başvurmak önemlidir [4]."
+     ]
+    },
+    {
+     "h": "Boyundan kaynaklanan uyuşma",
+     "p": [
+      "Boyunda omurilikten ayrılan bir sinir kökünün sıkışması ya da tahriş olması (servikal radikülopati) da elde uyuşma yapabilir; yaşla gelen yıpranma ve disk fıtığı (boyun fıtığı) başlıca nedenleridir [5]. Ağrı çoğu zaman boyundan başlar ve kola yayılır; parmaklarda ya da elde karıncalanma, his kaybı ve kas güçsüzlüğü eşlik edebilir [5].",
+      "AAOS, bu hastaların çoğunun zamanla düzeldiğini bildirir [5]. Boyundan kaynaklandığı düşünülen uyuşma, omurga hastalıklarıyla ilgilenen uzmanlık dallarınca değerlendirilir."
+     ]
+    },
+    {
+     "h": "Şeker hastalığı, vitamin eksikliği ve diğer genel nedenler",
+     "p": [
+      "Ellerde ve ayaklarda uyuşma, karıncalanma ya da ağrı şeker hastalığında görülebilir [1]. İngiltere Ulusal Sağlık Hizmeti'ne (NHS) göre uçlardaki sinirlerin hasarının (periferik nöropati) Birleşik Krallık'taki en sık nedeni diyabettir [6].",
+      "Diğer nedenler arasında B12 vitamini ya da başka vitaminlerin düşüklüğü, yıllarca süren aşırı alkol kullanımı, tiroid bezinin az çalışması ve bazı ilaçlar sayılır [6]. Bu nedenlerde sorun elde ya da bilekte değildir; değerlendirme iç hastalıkları ya da nöroloji gibi ilgili dallarca yapılır ve tedavi nedene göre belirlenir [1]."
+     ]
+    },
+    {
+     "h": "El uyuşmasına ne iyi gelir?",
+     "p": [
+      "Tedavi nedene bağlıdır [1]. NHS'e göre ağrı kesiciler karpal tünel ağrısını kısa süreli hafifletebilir, ancak nedeni tedavi ettiklerine ilişkin kanıt azdır [3]; hangisinin uygun olduğu eczacıya ya da hekime sorulabilir. Karpal tünel sendromu bazen, özellikle gebelikte ortaya çıkmışsa, birkaç ay içinde kendiliğinden düzelir [3].",
+      "Ameliyatsız yöntemler yeterli olmadığında, sinir çok sıkışmışsa ya da kas güçsüzlüğü gelişmişse sinirin üzerindeki baskıyı kaldıran ameliyat önerilebilir [2][4]. Evde uygulanabilecek önlemler şunlardır [3][4]:"
+     ],
+     "list": [
+      "Karpal tünel sendromunda bileği düz tutan bir ateli gece takmak; düzelmenin hissedilmesi altı haftayı bulabilir",
+      "Bileği sık sık bükmeyi ya da sıkı kavramayı gerektiren işleri bırakmak ya da azaltmak",
+      "Dirseği uzun süre bükülü tutmaktan kaçınmak, dirseğe yaslanmamak",
+      "Gece uyurken dirseği düz tutmak; bunun için dirseğin çevresine bir havlu sarılabilir"
+     ]
+    },
+    {
+     "h": "El uyuşması için hangi doktora gidilir, nasıl değerlendirilir?",
+     "p": [
+      "Uyuşma bilekte ya da dirsekte bir sinirin dağılımına uyuyorsa değerlendirme ortopedi ve travmatoloji ya da el cerrahisi tarafından yapılır.",
+      "Muayenede elin ve parmakların duyusu ile kas gücü değerlendirilir, sinirin üzerine hafifçe vurulduğunda parmaklarda karıncalanma olup olmadığına bakılır [2][4].",
+      "Sinir iletim çalışması ve EMG, sinirin ne kadar iyi çalıştığını ölçer, sıkışmanın yerini belirlemeye ve kasta hasar olup olmadığını görmeye yardım eder [2][4]; boyundaki sinir kökü sıkışmasını benzer yakınma yapan diğer durumlardan ayırmaya da yarar [5]. Karpal tünel sendromunda ek testler her hastada değil, bazı hastalarda gerekir [2]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "İnme belirtileri aniden ortaya çıkabilir: yüzün bir yanında sarkma ve gülümsemede güçlük, bir koldaki güçsüzlük ya da uyuşma nedeniyle iki kolu birden kaldırıp tutamama, konuşmanın peltekleşmesi ya da anlamsızlaşması, vücudun bir yarısında güçsüzlük ya da uyuşma [7]. Bu belirtilerden biri varsa ya da son 24 saat içinde olup geçmişse hemen acil yardım çağırın (Kuzey Kıbrıs ve Türkiye'de 112); hastaneye kendiniz araç kullanarak gitmeyin [7].",
+      "Şu durumlarda da muayeneyi geciktirmeyin [1][2][3][4]:"
+     ],
+     "list": [
+      "Uyuşma sürekli hale geldiyse ya da tekrarlayıp duruyorsa",
+      "Elde güçsüzlük ya da beceriksizlik başladıysa, elinizden eşya düşürüyorsanız",
+      "Başparmak kökündeki ya da eldeki kaslarda incelme fark ettiyseniz",
+      "Yakınma şiddetliyse, altı haftadan uzun sürüyorsa ya da evdeki önlemlere rağmen kötüleşiyorsa",
+      "Uyuşma bir yaralanmadan sonra başladıysa"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Gece el uyuşması neden olur?",
+     "a": "Karpal tünel sendromunda gece yakınmaları çok sıktır; pek çok kişi bileği bükülü uyuduğu için uyuşma uykudan uyandırabilir ve eli sallamak birçok kişiyi rahatlatır [2]. Dirsek bükülü uyumak da ulnar sinir yakınmalarını artırabilir [4]."
+    },
+    {
+     "q": "Serçe parmak uyuşması neyin belirtisi?",
+     "a": "Serçe parmağın ve yüzük parmağının yarısının duyusunu ulnar sinir sağlar; bu parmaklardaki uyuşma ve karıncalanma, sinirin dirsekte sıkışmasının sık görülen belirtisidir [4]."
+    },
+    {
+     "q": "Sol elde ya da sağ elde karıncalanma tehlikeli mi?",
+     "a": "Yalnızca elde olan ve belirli parmakları tutan karıncalanma, bilekte ya da dirsekte bir sinir sıkışmasında görülür [2][4]. Aniden başlayan ve yüzde sarkma, konuşma bozukluğu ya da vücudun bir yarısında güçsüzlük veya uyuşmayla birlikte olan yakınma ise inme belirtisi olabilir; hemen acil yardım çağırın [7]."
+    },
+    {
+     "q": "Parmak uyuşması neden geçmez?",
+     "a": "Birkaç dakikada geçmeyen, sürekli olan ya da tekrarlayan uyuşmanın tıbbi bir nedeni olabilir [1]. AAOS'a göre karpal tünel sendromu hastaların çoğunda zamanla kötüleşir; yakınma geçmiyor ya da artıyorsa hekime başvurun [2][3]."
+    },
+    {
+     "q": "Parmak uyuşmasına hangi bölüm bakar?",
+     "a": "Uyuşma bilekte ya da dirsekte bir sinirin dağılımına uyuyorsa ortopedi ve travmatoloji ya da el cerrahisi bakar; muayenede his ve kas gücü değerlendirilir, bazı hastalarda sinir iletim çalışması istenir [2][4]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "hand-numbness-tingling-fingers-causes",
+   "title": "Numbness and tingling in the hand and fingers: causes, what helps, who to see",
+   "description": "Why do your hand and fingers go numb or tingle? Numbness at night, a numb little finger, carpal tunnel, what helps, which doctor to see and when it is urgent.",
+   "summary": "Numbness brought on by pressure, such as lying on your arm, lasts a few minutes and usually stops once the pressure is taken off; numbness in the hand and fingers that is constant or keeps coming back should be assessed [1]. Which fingers go numb points to the cause: numbness in the thumb, index and middle fingers, especially at night, suggests compression of the median nerve at the wrist (carpal tunnel syndrome) [2][3]; numbness in the little and ring fingers suggests compression of the ulnar nerve at the elbow [4]; numbness together with pain travelling from the neck down the arm suggests a trapped nerve root in the neck [5]; and numbness in both the hands and the feet suggests a general cause such as diabetes [1][6]. Numbness that starts suddenly together with drooping of the face, a change in speech or weakness down one side of the body can be a sign of a stroke; emergency help should be called at once [7].",
+   "sections": [
+    {
+     "h": "What causes numbness in the hand and fingers?",
+     "p": [
+      "Numbness and tingling (pins and needles) come on when the blood supply to the nerves is cut off; this usually happens when you sit or lie on part of your body, lasts only a few minutes and usually stops once the weight is taken off [1].",
+      "Numbness that is constant or keeps coming back, however, may have a medical cause [1]. The main causes in the hand and fingers are:"
+     ],
+     "list": [
+      "Compression of the median nerve at the wrist (carpal tunnel syndrome) [2][3]",
+      "Compression of the ulnar nerve at the elbow (cubital tunnel syndrome) [4]",
+      "A trapped nerve root in the neck (cervical radiculopathy) [1][5]",
+      "Diabetes [1][6]",
+      "Low levels of vitamin B12 or other vitamins, heavy drinking over a long period, an underactive thyroid gland and some medicines [1][6]",
+      "Nerve damage after an injury or illness [1]"
+     ]
+    },
+    {
+     "h": "What is numbness a sign of: which fingers, and when?",
+     "p": [
+      "Which fingers go numb, when, and in which position shows where the cause should be looked for:"
+     ],
+     "list": [
+      "Thumb, index finger, middle finger and the thumb-side half of the ring finger: the median nerve supplies feeling to these fingers; this suggests carpal tunnel syndrome [2]",
+      "Little finger and half of the ring finger: the ulnar nerve supplies feeling to these fingers; the commonest place for this nerve to be compressed is behind the inner side of the elbow [4]",
+      "Numbness in the hand at night: very common in carpal tunnel syndrome, because many people sleep with their wrists bent; shaking the hand brings relief for many people [2]",
+      "Numbness while holding a phone, driving or reading a book: carpal tunnel symptoms come on when the wrist stays bent for a long time [2], and ulnar nerve symptoms when the elbow stays bent [4]",
+      "Tingling together with burning or sharp pain that travels from the neck down the arm: this suggests a trapped nerve root in the neck [5]",
+      "Numbness, tingling or pain in both the hands and the feet: this can be seen in diabetes [1]"
+     ]
+    },
+    {
+     "h": "Carpal tunnel syndrome",
+     "p": [
+      "In carpal tunnel syndrome the median nerve is compressed in a narrow passage at the wrist [2][3]. Weakness and clumsiness of the hand and dropping things may be added to the numbness, tingling and pain [2]. The symptoms often start slowly, come and go, and are usually worse at night [3].",
+      "According to the American Academy of Orthopaedic Surgeons (AAOS), it gets worse over time in most patients; if it is left untreated for too long, the loss of feeling and the weakness can become permanent [2]. Splinting, steroid injection and surgery are described in detail in the carpal tunnel syndrome article in this guide."
+     ]
+    },
+    {
+     "h": "A numb little finger: compression of the ulnar nerve at the elbow",
+     "p": [
+      "The ulnar nerve passes through a narrow tunnel (the cubital tunnel) behind the bony bump on the inner side of the elbow; there is little protective tissue over it there, and when the elbow is bent the nerve is both stretched and compressed [4].",
+      "Numbness and tingling in the ring finger and little finger are common symptoms; they often come and go and happen more often when the elbow is bent [4]. In more severe cases the grip weakens; if the compression is severe or long-standing, muscle wasting can develop in the hand, and this wasting cannot be reversed [4]. It is therefore important to see a doctor if the symptoms are severe, or if they are less severe but have lasted more than six weeks [4]."
+     ]
+    },
+    {
+     "h": "Numbness that comes from the neck",
+     "p": [
+      "Compression or irritation of a nerve root where it branches away from the spinal cord in the neck (cervical radiculopathy) can also cause numbness in the hand; its main causes are age-related wear and tear and a herniated (slipped) disc [5]. The pain usually starts at the neck and travels down the arm; it may be accompanied by tingling in the fingers or hand, loss of feeling and muscle weakness [5].",
+      "The AAOS reports that the majority of these patients get better over time [5]. Numbness thought to come from the neck is assessed by the specialties that deal with disorders of the spine."
+     ]
+    },
+    {
+     "h": "Diabetes, vitamin deficiency and other general causes",
+     "p": [
+      "Numbness, tingling or pain in the hands and feet can be seen in diabetes [1]. According to the UK National Health Service (NHS), diabetes is the most common cause in the United Kingdom of damage to the nerves in the extremities (peripheral neuropathy) [6].",
+      "Other causes include low levels of vitamin B12 or other vitamins, excessive drinking for years, an underactive thyroid gland and some medicines [6]. With these causes the problem is not in the hand or wrist; assessment is carried out by the relevant specialties, such as internal medicine or neurology, and treatment depends on the cause [1]."
+     ]
+    },
+    {
+     "h": "What helps hand numbness?",
+     "p": [
+      "Treatment depends on the cause [1]. According to the NHS, painkillers may ease carpal tunnel pain in the short term, but there is little evidence that they treat the cause [3]; a pharmacist or doctor can advise which one is suitable. Carpal tunnel syndrome sometimes gets better by itself within a few months, particularly when it has come on in pregnancy [3].",
+      "When non-surgical methods are not enough, when the nerve is very compressed or when muscle weakness has developed, an operation that relieves the pressure on the nerve may be recommended [2][4]. The measures that can be applied at home are [3][4]:"
+     ],
+     "list": [
+      "In carpal tunnel syndrome, wearing a splint that keeps the wrist straight at night; it may take up to six weeks before an improvement is felt",
+      "Stopping or cutting down on work that involves frequently bending the wrist or gripping hard",
+      "Avoiding keeping the elbow bent for long periods, and not leaning on the elbow",
+      "Keeping the elbow straight while sleeping at night; a towel can be wrapped around the elbow for this"
+     ]
+    },
+    {
+     "h": "Which doctor should you see for hand numbness, and how is it assessed?",
+     "p": [
+      "If the numbness follows the territory of a nerve at the wrist or elbow, it is assessed by orthopaedics and traumatology or hand surgery.",
+      "At the examination, feeling and muscle strength in the hand and fingers are assessed, and the doctor checks whether lightly tapping over the nerve produces tingling in the fingers [2][4].",
+      "A nerve conduction study and EMG measure how well the nerve is working and help to identify where it is compressed and whether there is muscle damage [2][4]; they also help to distinguish a trapped nerve root in the neck from other conditions that cause similar symptoms [5]. In carpal tunnel syndrome additional tests are needed in some patients, not in every patient [2]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "The symptoms of a stroke can come on suddenly: drooping of one side of the face and difficulty smiling, not being able to lift both arms and keep them there because of weakness or numbness in one arm, slurred or confused speech, and weakness or numbness down one side of the body [7]. If any of these is present, or has occurred within the last 24 hours and has now stopped, call emergency services at once (112 in North Cyprus and Türkiye); do not drive yourself to hospital [7].",
+      "Do not delay being examined in the following situations either [1][2][3][4]:"
+     ],
+     "list": [
+      "The numbness has become constant or keeps coming back",
+      "Weakness or clumsiness has started in the hand, or you are dropping things",
+      "You have noticed thinning of the muscles at the base of the thumb or in the hand",
+      "The symptoms are severe, have lasted more than six weeks or are getting worse despite measures at home",
+      "The numbness started after an injury"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Why does my hand go numb at night?",
+     "a": "Night-time symptoms are very common in carpal tunnel syndrome; because many people sleep with their wrists bent, the numbness can wake them from sleep, and shaking the hand brings relief for many people [2]. Sleeping with the elbows bent can also aggravate ulnar nerve symptoms [4]."
+    },
+    {
+     "q": "What is a numb little finger a sign of?",
+     "a": "The ulnar nerve supplies feeling to the little finger and half of the ring finger; numbness and tingling in these fingers are a common symptom of compression of this nerve at the elbow [4]."
+    },
+    {
+     "q": "Is tingling in the left hand or the right hand dangerous?",
+     "a": "Tingling that is confined to the hand and affects particular fingers is seen with compression of a nerve at the wrist or elbow [2][4]. Symptoms that start suddenly, together with drooping of the face, a change in speech, or weakness or numbness down one side of the body, can be a sign of a stroke; call emergency services at once [7]."
+    },
+    {
+     "q": "Why does the numbness in my fingers not go away?",
+     "a": "Numbness that does not pass within a few minutes, is constant or keeps coming back may have a medical cause [1]. According to the AAOS, carpal tunnel syndrome gets worse over time in most patients; if the symptoms are not going away or are increasing, see a doctor [2][3]."
+    },
+    {
+     "q": "Which specialty deals with numb fingers?",
+     "a": "If the numbness follows the territory of a nerve at the wrist or elbow, orthopaedics and traumatology or hand surgery deals with it; feeling and muscle strength are assessed at the examination, and a nerve conduction study is requested in some patients [2][4]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "onemenie-ruk-i-paltsev-prichiny",
+   "title": "Онемение рук и пальцев: причины, что помогает и к какому врачу обращаться",
+   "description": "Почему немеют руки и пальцы? Онемение по ночам, онемение мизинца, покалывание в кисти: причины, что помогает, к какому врачу идти и когда это срочно.",
+   "summary": "Онемение, возникающее от давления, например если лежать на руке, длится несколько минут и обычно проходит, когда давление прекращается; постоянное или повторяющееся онемение кисти и пальцев требует оценки [1]. На причину указывает то, какие именно пальцы немеют: онемение большого, указательного и среднего пальцев, особенно по ночам, заставляет думать о сдавлении срединного нерва на запястье (синдром запястного канала) [2][3], онемение мизинца и безымянного пальца — о сдавлении локтевого нерва в области локтя [4], онемение вместе с болью, идущей от шеи в руку, — о сдавлении нервного корешка в шее [5], а онемение одновременно в кистях и стопах — об общей причине, например о сахарном диабете [1][6]. Онемение, которое началось внезапно и сопровождается опущением лица, нарушением речи или слабостью в одной половине тела, может быть признаком инсульта; нужно немедленно вызвать скорую помощь [7].",
+   "sections": [
+    {
+     "h": "Почему немеют кисть и пальцы?",
+     "p": [
+      "Онемение и покалывание («мурашки») возникают, когда прекращается приток крови к нервам; чаще всего это происходит, когда человек сидит или лежит на какой-то части тела, длится всего несколько минут и обычно проходит, когда давление веса прекращается [1].",
+      "У постоянного или повторяющегося онемения, напротив, может быть медицинская причина [1]. Основные причины в кисти и пальцах:"
+     ],
+     "list": [
+      "Сдавление срединного нерва на запястье (синдром запястного канала) [2][3]",
+      "Сдавление локтевого нерва в области локтя (синдром кубитального канала) [4]",
+      "Сдавление нервного корешка в шее (шейная радикулопатия) [1][5]",
+      "Сахарный диабет [1][6]",
+      "Низкий уровень витамина B12 или других витаминов, длительное злоупотребление алкоголем, сниженная функция щитовидной железы и некоторые лекарства [1][6]",
+      "Повреждение нерва после травмы или болезни [1]"
+     ]
+    },
+    {
+     "h": "Признаком чего бывает онемение: какие пальцы и когда",
+     "p": [
+      "То, в каких пальцах, когда и в каком положении возникает онемение, показывает, где искать причину:"
+     ],
+     "list": [
+      "Большой, указательный, средний пальцы и половина безымянного пальца со стороны большого: чувствительность этих пальцев обеспечивает срединный нерв; это заставляет думать о синдроме запястного канала [2]",
+      "Мизинец и половина безымянного пальца: чувствительность этих пальцев обеспечивает локтевой нерв; чаще всего этот нерв сдавливается позади внутренней стороны локтя [4]",
+      "Онемение кисти по ночам: очень характерно для синдрома запястного канала, потому что многие спят с согнутыми запястьями; многим становится легче, если встряхнуть кистью [2]",
+      "Онемение, когда вы держите телефон, ведёте машину или читаете книгу: жалобы при синдроме запястного канала появляются, если запястье долго остаётся согнутым [2], а жалобы, связанные с локтевым нервом, — если согнутым остаётся локоть [4]",
+      "Покалывание вместе с жгучей или острой болью, которая идёт от шеи по руке: заставляет думать о сдавлении нервного корешка в шее [5]",
+      "Онемение, покалывание или боль одновременно в кистях и стопах: может встречаться при сахарном диабете [1]"
+     ]
+    },
+    {
+     "h": "Синдром запястного канала",
+     "p": [
+      "При синдроме запястного (карпального) канала срединный нерв сдавливается в узком канале на запястье [2][3]. К онемению, покалыванию и боли могут присоединяться слабость и неловкость кисти, предметы выпадают из рук [2]. Жалобы чаще всего начинаются медленно, то появляются, то проходят и обычно усиливаются по ночам [3].",
+      "По данным Американской академии хирургов-ортопедов (AAOS), у большинства пациентов состояние со временем ухудшается; при слишком долгом отсутствии лечения потеря чувствительности и слабость могут стать необратимыми [2]. Шина, укол стероида и операция подробно описаны в статье о синдроме запястного канала в этом руководстве."
+     ]
+    },
+    {
+     "h": "Онемение мизинца: сдавление локтевого нерва в области локтя",
+     "p": [
+      "Локтевой нерв проходит через узкий канал (кубитальный канал) позади костного выступа на внутренней стороне локтя; здесь его прикрывает мало защитной ткани, а при сгибании локтя нерв одновременно натягивается и сдавливается [4].",
+      "Частые симптомы — онемение и покалывание в безымянном пальце и мизинце; они нередко то появляются, то проходят и чаще возникают при согнутом локте [4]. В более тяжёлых случаях ослабевает хват; если сдавление сильное или существует давно, в кисти может развиться атрофия мышц, и эта атрофия необратима [4]. Поэтому важно обратиться к врачу, если жалобы выражены или если они менее выражены, но сохраняются дольше шести недель [4]."
+     ]
+    },
+    {
+     "h": "Онемение, причина которого в шее",
+     "p": [
+      "Сдавление или раздражение нервного корешка там, где он отходит от спинного мозга в шее (шейная радикулопатия), тоже может вызывать онемение кисти; основные причины — возрастной износ и грыжа диска [5]. Боль чаще всего начинается в шее и распространяется по руке; могут присоединяться покалывание в пальцах или кисти, потеря чувствительности и слабость мышц [5].",
+      "AAOS сообщает, что у большинства таких пациентов состояние со временем улучшается [5]. Онемение, причина которого предположительно в шее, оценивают специалисты, занимающиеся заболеваниями позвоночника."
+     ]
+    },
+    {
+     "h": "Сахарный диабет, дефицит витаминов и другие общие причины",
+     "p": [
+      "Онемение, покалывание или боль в кистях и стопах могут встречаться при сахарном диабете [1]. По данным Национальной службы здравоохранения Великобритании (NHS), самая частая причина повреждения нервов в дальних отделах конечностей (периферической нейропатии) в Великобритании — диабет [6].",
+      "К другим причинам относятся низкий уровень витамина B12 или других витаминов, многолетнее злоупотребление алкоголем, сниженная функция щитовидной железы и некоторые лекарства [6]. При этих причинах проблема находится не в кисти и не в запястье; оценку проводят профильные специалисты, например терапевт или невролог, а лечение зависит от причины [1]."
+     ]
+    },
+    {
+     "h": "Что помогает при онемении рук?",
+     "p": [
+      "Лечение зависит от причины [1]. По данным NHS, обезболивающие могут ненадолго облегчить боль при синдроме запястного канала, но доказательств того, что они устраняют причину, мало [3]; какое средство подходит, можно уточнить у фармацевта или врача. Синдром запястного канала иногда проходит сам за несколько месяцев, особенно если он возник во время беременности [3].",
+      "Когда методов без операции недостаточно, когда нерв сдавлен сильно или развилась слабость мышц, может быть рекомендована операция, устраняющая давление на нерв [2][4]. Меры, которые можно применять дома [3][4]:"
+     ],
+     "list": [
+      "При синдроме запястного канала — носить по ночам шину, удерживающую запястье прямым; до заметного улучшения может пройти до шести недель",
+      "Прекратить или сократить работу, при которой приходится часто сгибать запястье или сильно сжимать кисть",
+      "Не держать локоть подолгу согнутым и не опираться на локоть",
+      "Во время ночного сна держать локоть прямым; для этого локоть можно обернуть полотенцем"
+     ]
+    },
+    {
+     "h": "К какому врачу обращаться при онемении рук и как проводят обследование?",
+     "p": [
+      "Если онемение соответствует зоне нерва, сдавленного на запястье или в области локтя, обследование проводит ортопед-травматолог или кистевой хирург.",
+      "При осмотре оценивают чувствительность и силу мышц кисти и пальцев, проверяют, появляется ли покалывание в пальцах при лёгком постукивании над нервом [2][4].",
+      "Исследование проводимости нерва и ЭМГ показывают, насколько хорошо работает нерв, и помогают определить место сдавления и наличие повреждения мышцы [2][4]; они помогают также отличить сдавление нервного корешка в шее от других состояний с похожими жалобами [5]. При синдроме запястного канала дополнительные исследования нужны не каждому пациенту, а лишь некоторым [2]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Признаки инсульта могут появиться внезапно: опущение одной стороны лица и трудности с улыбкой, невозможность поднять и удержать обе руки из-за слабости или онемения в одной руке, невнятная или спутанная речь, слабость или онемение в одной половине тела [7]. Если есть хотя бы один из этих признаков или он был в последние 24 часа и уже прошёл, немедленно вызовите скорую помощь (на Северном Кипре и в Турции — 112); не садитесь за руль сами, чтобы доехать до больницы [7].",
+      "Не откладывайте осмотр и в следующих случаях [1][2][3][4]:"
+     ],
+     "list": [
+      "Онемение стало постоянным или возвращается снова и снова",
+      "В кисти появилась слабость или неловкость, предметы выпадают из рук",
+      "Вы заметили истончение мышц у основания большого пальца или в кисти",
+      "Жалобы выражены, сохраняются дольше шести недель или усиливаются, несмотря на домашние меры",
+      "Онемение началось после травмы"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Почему рука немеет по ночам?",
+     "a": "При синдроме запястного канала ночные жалобы очень характерны; многие спят с согнутыми запястьями, поэтому онемение может будить, а встряхивание кисти многим приносит облегчение [2]. Сон с согнутыми локтями тоже может усиливать жалобы, связанные с локтевым нервом [4]."
+    },
+    {
+     "q": "Признаком чего бывает онемение мизинца?",
+     "a": "Чувствительность мизинца и половины безымянного пальца обеспечивает локтевой нерв; онемение и покалывание в этих пальцах — частый симптом сдавления этого нерва в области локтя [4]."
+    },
+    {
+     "q": "Опасно ли покалывание в левой или в правой руке?",
+     "a": "Покалывание, которое ограничено кистью и затрагивает определённые пальцы, встречается при сдавлении нерва на запястье или в области локтя [2][4]. Жалобы, которые начались внезапно и сопровождаются опущением лица, нарушением речи либо слабостью или онемением в одной половине тела, могут быть признаком инсульта; немедленно вызовите скорую помощь [7]."
+    },
+    {
+     "q": "Почему онемение пальцев не проходит?",
+     "a": "У онемения, которое не проходит за несколько минут, держится постоянно или повторяется, может быть медицинская причина [1]. По данным AAOS, синдром запястного канала у большинства пациентов со временем усиливается; если жалобы не проходят или нарастают, обратитесь к врачу [2][3]."
+    },
+    {
+     "q": "Какой специалист занимается онемением пальцев?",
+     "a": "Если онемение соответствует зоне нерва, сдавленного на запястье или в области локтя, им занимается ортопед-травматолог или кистевой хирург; при осмотре оценивают чувствительность и силу мышц, некоторым пациентам назначают исследование проводимости нерва [2][4]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "bi-hessi-va-gezgez-dast-va-angoshtan",
+   "title": "بی‌حسی و گزگز دست و انگشتان: علت چیست، چه چیزی کمک می‌کند، به کدام پزشک مراجعه شود؟",
+   "description": "بی‌حسی، گزگز و خواب رفتن دست و انگشتان چه علتی دارد؟ بی‌حسی شبانهٔ دست، بی‌حسی انگشت کوچک، چه چیزی کمک می‌کند و به کدام پزشک باید مراجعه کرد؟",
+   "summary": "بی‌حسی‌ای که بر اثر فشار، مثلاً خوابیدن روی دست، ایجاد می‌شود چند دقیقه طول می‌کشد و معمولاً با برداشته شدن فشار برطرف می‌شود؛ اما بی‌حسی دست و انگشتان که دائمی است یا مدام تکرار می‌شود باید ارزیابی شود [1]. اینکه کدام انگشتان بی‌حس می‌شوند علت را مطرح می‌کند: بی‌حسی انگشت شست، اشاره و میانی، به‌ویژه شب‌ها، فشرده شدن عصب مدیان در مچ دست (سندرم تونل کارپ) را [2][3]، بی‌حسی انگشت کوچک و انگشت حلقه فشرده شدن عصب اولنار در آرنج را [4]، بی‌حسی همراه با دردی که از گردن به دست کشیده می‌شود فشرده شدن یک ریشهٔ عصبی در گردن را [5] و بی‌حسی هم‌زمان در دست‌ها و پاها علتی عمومی مانند دیابت را به ذهن می‌آورد [1][6]. بی‌حسی‌ای که ناگهان شروع شود و با افتادگی صورت، اختلال گفتار یا ضعف در یک نیمهٔ بدن همراه باشد ممکن است نشانهٔ سکتهٔ مغزی باشد؛ باید فوراً با اورژانس تماس گرفت [7].",
+   "sections": [
+    {
+     "h": "بی‌حسی دست و انگشتان چرا ایجاد می‌شود؟",
+     "p": [
+      "بی‌حسی و گزگز (سوزن‌سوزن شدن) زمانی پدید می‌آید که خون‌رسانی به اعصاب قطع شود؛ این حالت بیشتر وقتی رخ می‌دهد که فرد روی بخشی از بدنش بنشیند یا بخوابد، تنها چند دقیقه طول می‌کشد و معمولاً با برداشته شدن وزن برطرف می‌شود [1].",
+      "اما بی‌حسی‌ای که دائمی است یا مدام تکرار می‌شود ممکن است علت پزشکی داشته باشد [1]. علت‌های اصلی در دست و انگشتان عبارت‌اند از:"
+     ],
+     "list": [
+      "فشرده شدن عصب مدیان در مچ دست (سندرم تونل کارپ) [2][3]",
+      "فشرده شدن عصب اولنار در آرنج (سندرم تونل کوبیتال) [4]",
+      "فشرده شدن یک ریشهٔ عصبی در گردن (رادیکولوپاتی گردنی) [1][5]",
+      "دیابت [1][6]",
+      "پایین بودن ویتامین B12 یا ویتامین‌های دیگر، مصرف زیاد و طولانی‌مدت الکل، کم‌کاری غدهٔ تیروئید و برخی داروها [1][6]",
+      "آسیب عصب پس از یک آسیب‌دیدگی یا بیماری [1]"
+     ]
+    },
+    {
+     "h": "بی‌حسی نشانهٔ چیست: کدام انگشت و چه زمانی؟",
+     "p": [
+      "اینکه بی‌حسی در کدام انگشتان، چه زمانی و در چه وضعیتی پدید می‌آید نشان می‌دهد علت را کجا باید جست‌وجو کرد:"
+     ],
+     "list": [
+      "انگشت شست، اشاره، میانی و نیمی از انگشت حلقه که به سمت شست است: حس این انگشتان را عصب مدیان تأمین می‌کند؛ سندرم تونل کارپ را مطرح می‌کند [2]",
+      "انگشت کوچک و نیمی از انگشت حلقه: حس این انگشتان را عصب اولنار تأمین می‌کند؛ شایع‌ترین محل فشرده شدن این عصب پشتِ سمت داخلی آرنج است [4]",
+      "بی‌حسی شبانهٔ دست: در سندرم تونل کارپ بسیار شایع است، زیرا بسیاری از افراد با مچ خمیده می‌خوابند؛ تکان دادن دست بسیاری را آرام می‌کند [2]",
+      "بی‌حسی هنگام نگه داشتن تلفن، رانندگی یا خواندن کتاب: ناراحتی‌های تونل کارپ وقتی پدید می‌آید که مچ مدت طولانی خمیده بماند [2] و ناراحتی‌های عصب اولنار وقتی که آرنج خمیده بماند [4]",
+      "گزگز همراه با درد سوزشی یا تیز که از گردن به دست کشیده می‌شود: فشرده شدن ریشهٔ عصبی در گردن را مطرح می‌کند [5]",
+      "بی‌حسی، گزگز یا درد هم‌زمان در دست‌ها و پاها: ممکن است در دیابت دیده شود [1]"
+     ]
+    },
+    {
+     "h": "سندرم تونل کارپ",
+     "p": [
+      "در سندرم تونل کارپ عصب مدیان در کانالی باریک در مچ دست فشرده می‌شود [2][3]. ضعف دست، دست‌وپاچلفتگی و افتادن اشیا از دست ممکن است به بی‌حسی، گزگز و درد افزوده شود [2]. ناراحتی‌ها بیشتر اوقات آهسته شروع می‌شوند، می‌آیند و می‌روند و معمولاً شب‌ها بدترند [3].",
+      "به گفتهٔ آکادمی جراحان ارتوپدی آمریکا (AAOS)، این بیماری در بیشتر بیماران با گذشت زمان بدتر می‌شود؛ اگر مدت زیادی درمان نشود، از دست رفتن حس و ضعف ممکن است دائمی شود [2]. آتل، تزریق استروئید و جراحی در نوشتهٔ سندرم تونل کارپ در همین راهنما به‌تفصیل شرح داده شده است."
+     ]
+    },
+    {
+     "h": "بی‌حسی انگشت کوچک: فشرده شدن عصب اولنار در آرنج",
+     "p": [
+      "عصب اولنار از تونلی باریک (تونل کوبیتال) در پشت برجستگی استخوانیِ سمت داخلی آرنج می‌گذرد؛ در اینجا بافت محافظ کمی روی آن را پوشانده است و با خم شدن آرنج، عصب هم کشیده و هم فشرده می‌شود [4].",
+      "بی‌حسی و گزگز در انگشت حلقه و انگشت کوچک از علائم شایع است؛ این علائم اغلب می‌آیند و می‌روند و وقتی آرنج خمیده است بیشتر پدید می‌آیند [4]. در موارد شدیدتر قدرت گرفتن اشیا کم می‌شود؛ اگر فشردگی شدید یا طولانی‌مدت باشد، ممکن است در دست تحلیل عضله ایجاد شود و این تحلیل برگشت‌پذیر نیست [4]. از این رو اگر ناراحتی شدید است، یا خفیف‌تر است اما بیش از شش هفته ادامه یافته، مراجعه به پزشک اهمیت دارد [4]."
+     ]
+    },
+    {
+     "h": "بی‌حسی با منشأ گردن",
+     "p": [
+      "فشرده شدن یا تحریک یک ریشهٔ عصبی در جایی که در گردن از نخاع جدا می‌شود (رادیکولوپاتی گردنی) نیز می‌تواند باعث بی‌حسی دست شود؛ علت‌های اصلی آن فرسایش ناشی از افزایش سن و فتق دیسک (دیسک گردن) است [5]. درد بیشتر اوقات از گردن شروع می‌شود و به دست کشیده می‌شود؛ گزگز انگشتان یا دست، از دست رفتن حس و ضعف عضلات ممکن است همراه آن باشد [5].",
+      "AAOS گزارش می‌کند که بیشتر این بیماران با گذشت زمان بهتر می‌شوند [5]. بی‌حسی‌ای که گمان می‌رود منشأ آن گردن باشد، توسط رشته‌های تخصصی مرتبط با بیماری‌های ستون فقرات ارزیابی می‌شود."
+     ]
+    },
+    {
+     "h": "دیابت، کمبود ویتامین و سایر علت‌های عمومی",
+     "p": [
+      "بی‌حسی، گزگز یا درد در دست‌ها و پاها ممکن است در دیابت دیده شود [1]. به گفتهٔ خدمات ملی سلامت بریتانیا (NHS)، شایع‌ترین علت آسیب اعصابِ بخش‌های انتهایی اندام‌ها (نوروپاتی محیطی) در بریتانیا دیابت است [6].",
+      "از علت‌های دیگر می‌توان پایین بودن ویتامین B12 یا ویتامین‌های دیگر، مصرف زیاد الکل طی سال‌ها، کم‌کاری غدهٔ تیروئید و برخی داروها را نام برد [6]. در این علت‌ها مشکل در دست یا مچ نیست؛ ارزیابی را رشته‌های مرتبط مانند داخلی یا مغز و اعصاب انجام می‌دهند و درمان به علت بستگی دارد [1]."
+     ]
+    },
+    {
+     "h": "برای بی‌حسی دست چه چیزی خوب است؟",
+     "p": [
+      "درمان به علت بستگی دارد [1]. به گفتهٔ NHS، مسکن‌ها ممکن است درد تونل کارپ را در کوتاه‌مدت کم کنند، اما شواهد اندکی وجود دارد که علت را درمان کنند [3]؛ دربارهٔ اینکه کدام مسکن مناسب است می‌توان از داروساز یا پزشک پرسید. سندرم تونل کارپ گاهی، به‌ویژه اگر در بارداری پدید آمده باشد، طی چند ماه خودبه‌خود بهتر می‌شود [3].",
+      "هنگامی که روش‌های غیرجراحی کافی نباشد، عصب بسیار فشرده شده باشد یا ضعف عضله ایجاد شده باشد، ممکن است جراحی برای برداشتن فشار از روی عصب توصیه شود [2][4]. اقداماتی که می‌توان در خانه انجام داد عبارت‌اند از [3][4]:"
+     ],
+     "list": [
+      "در سندرم تونل کارپ، بستن آتلی در شب که مچ را صاف نگه می‌دارد؛ ممکن است تا شش هفته طول بکشد تا بهبود احساس شود",
+      "کنار گذاشتن یا کم کردن کارهایی که نیاز به خم کردن مکرر مچ یا محکم گرفتن اشیا دارند",
+      "پرهیز از خمیده نگه داشتن طولانی‌مدت آرنج و تکیه ندادن روی آرنج",
+      "صاف نگه داشتن آرنج هنگام خواب شبانه؛ برای این کار می‌توان حوله‌ای دور آرنج پیچید"
+     ]
+    },
+    {
+     "h": "برای بی‌حسی دست به کدام پزشک مراجعه شود و ارزیابی چگونه است؟",
+     "p": [
+      "اگر بی‌حسی با محدودهٔ یک عصب در مچ یا آرنج مطابقت داشته باشد، ارزیابی را ارتوپدی و تروماتولوژی یا جراحی دست انجام می‌دهد.",
+      "در معاینه، حس و قدرت عضلات دست و انگشتان ارزیابی می‌شود و بررسی می‌شود که آیا با ضربهٔ آرام روی عصب در انگشتان گزگز ایجاد می‌شود یا نه [2][4].",
+      "بررسی هدایت عصبی و نوار عضله (EMG) نشان می‌دهند عصب تا چه اندازه خوب کار می‌کند و به تعیین محل فشردگی و وجود آسیب عضله کمک می‌کنند [2][4]؛ همچنین به افتراق فشردگی ریشهٔ عصبی در گردن از وضعیت‌های دیگری که ناراحتی مشابه ایجاد می‌کنند کمک می‌کنند [5]. در سندرم تونل کارپ آزمون‌های تکمیلی نه برای همهٔ بیماران، بلکه برای برخی بیماران لازم است [2]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "علائم سکتهٔ مغزی ممکن است ناگهان پدید آید: افتادگی یک طرف صورت و دشواری در لبخند زدن، ناتوانی در بالا بردن و نگه داشتن هر دو دست به دلیل ضعف یا بی‌حسی یک دست، نامفهوم یا آشفته شدن گفتار، و ضعف یا بی‌حسی در یک نیمهٔ بدن [7]. اگر یکی از این علائم وجود دارد یا در ۲۴ ساعت گذشته رخ داده و برطرف شده است، فوراً با اورژانس تماس بگیرید (در قبرس شمالی و ترکیه: 112)؛ خودتان تا بیمارستان رانندگی نکنید [7].",
+      "در این موارد نیز معاینه را به تأخیر نیندازید [1][2][3][4]:"
+     ],
+     "list": [
+      "بی‌حسی دائمی شده باشد یا مدام تکرار شود",
+      "ضعف دست یا دست‌وپاچلفتگی شروع شده باشد یا اشیا از دستتان بیفتد",
+      "متوجه لاغر شدن عضلات قاعدهٔ شست یا عضلات دست شده باشید",
+      "ناراحتی شدید باشد، بیش از شش هفته ادامه یافته باشد یا با وجود اقدامات خانگی بدتر شود",
+      "بی‌حسی پس از یک آسیب‌دیدگی شروع شده باشد"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "چرا دست شب‌ها بی‌حس می‌شود؟",
+     "a": "در سندرم تونل کارپ ناراحتی شبانه بسیار شایع است؛ چون بسیاری از افراد با مچ خمیده می‌خوابند، بی‌حسی ممکن است از خواب بیدارشان کند و تکان دادن دست بسیاری را آرام می‌کند [2]. خوابیدن با آرنج خمیده نیز می‌تواند ناراحتی‌های عصب اولنار را بیشتر کند [4]."
+    },
+    {
+     "q": "بی‌حسی انگشت کوچک نشانهٔ چیست؟",
+     "a": "حس انگشت کوچک و نیمی از انگشت حلقه را عصب اولنار تأمین می‌کند؛ بی‌حسی و گزگز در این انگشتان از علائم شایع فشرده شدن این عصب در آرنج است [4]."
+    },
+    {
+     "q": "آیا گزگز دست چپ یا دست راست خطرناک است؟",
+     "a": "گزگزی که فقط در دست است و انگشتان مشخصی را درگیر می‌کند، در فشرده شدن یک عصب در مچ یا آرنج دیده می‌شود [2][4]. اما ناراحتی‌ای که ناگهان شروع شود و با افتادگی صورت، اختلال گفتار، یا ضعف یا بی‌حسی در یک نیمهٔ بدن همراه باشد ممکن است نشانهٔ سکتهٔ مغزی باشد؛ فوراً با اورژانس تماس بگیرید [7]."
+    },
+    {
+     "q": "چرا بی‌حسی انگشتان برطرف نمی‌شود؟",
+     "a": "بی‌حسی‌ای که ظرف چند دقیقه برطرف نمی‌شود، دائمی است یا مدام تکرار می‌شود ممکن است علت پزشکی داشته باشد [1]. به گفتهٔ AAOS، سندرم تونل کارپ در بیشتر بیماران با گذشت زمان بدتر می‌شود؛ اگر ناراحتی برطرف نمی‌شود یا بیشتر می‌شود، به پزشک مراجعه کنید [2][3]."
+    },
+    {
+     "q": "بی‌حسی انگشتان مربوط به کدام تخصص است؟",
+     "a": "اگر بی‌حسی با محدودهٔ یک عصب در مچ یا آرنج مطابقت داشته باشد، ارتوپدی و تروماتولوژی یا جراحی دست به آن رسیدگی می‌کند؛ در معاینه حس و قدرت عضلات ارزیابی می‌شود و برای برخی بیماران بررسی هدایت عصبی درخواست می‌شود [2][4]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

@@ -1,0 +1,541 @@
+{
+ "id": "knee-pain",
+ "area": "diz",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Knee pain",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/knee-pain/",
+   "year": "2023"
+  },
+  {
+   "title": "Knee Pain in Adults and Adolescents: The Initial Evaluation",
+   "publisher": "American Family Physician (Bunt CW, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30325638/",
+   "year": "2018"
+  },
+  {
+   "title": "Patellofemoral Pain Syndrome",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/patellofemoral-pain-syndrome/",
+   "year": "n.d."
+  },
+  {
+   "title": "Adolescent Anterior Knee Pain",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/adolescent-anterior-knee-pain/",
+   "year": "n.d."
+  },
+  {
+   "title": "Topical NSAIDs for chronic musculoskeletal pain in adults",
+   "publisher": "Cochrane Database of Systematic Reviews (Derry S, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27103611/",
+   "year": "2016"
+  },
+  {
+   "title": "Knee orthoses for treating patellofemoral pain syndrome",
+   "publisher": "Cochrane Database of Systematic Reviews (Smith TO, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26645724/",
+   "year": "2015"
+  },
+  {
+   "title": "Braces and orthoses for treating osteoarthritis of the knee",
+   "publisher": "Cochrane Database of Systematic Reviews (Duivenvoorden T, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25773267/",
+   "year": "2015"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "diz-agrisi-neden-olur-ne-iyi-gelir",
+   "title": "Diz ağrısı: neden olur, ne iyi gelir, hangi bölüm bakar?",
+   "description": "Diz ağrısı neden olur, nasıl geçer? Genç yaşta diz kapağı ağrısı, dizde şişlik ve çıtırtı, evde ne iyi gelir, dizlik ve krem, hangi bölüme gidilir?",
+   "summary": "Diz ağrısının nedeni yaşa ve ağrının bir yaralanmadan sonra başlayıp başlamadığına göre değişir: gençlerde diz kapağı çevresindeki ağrı, 50 yaşın üzerinde kireçlenme (osteoartrit), yaralanma sonrasında bağ ve menisküs hasarı öne çıkar [1][2][3]. Çoğu zaman evde alınan önlemlerle birkaç günde hafiflemeye başlar; birkaç haftada düzelmezse hekime başvurmak gerekir [1]. Dize basılamıyor, diz kilitleniyor, çok şişmiş ya da kızarıklığa ateş eşlik ediyorsa beklenmemelidir [1].",
+   "sections": [
+    {
+     "h": "Diz ağrısı neden olur, neyin belirtisi olabilir?",
+     "p": [
+      "Diz ağrısı yetişkinlerin yaklaşık yüzde 25'ini etkiler [2]. Tek bir nedeni yoktur: burkulmadan bağ ve menisküs yırtığına, diz kapağı çevresindeki ağrıdan kireçlenmeye, bursitten gut ve eklem enfeksiyonuna kadar pek çok durumun belirtisi olabilir [1][2]."
+     ]
+    },
+    {
+     "h": "Yaralanmadan sonra başlayan diz ağrısı",
+     "p": [
+      "Şişliğin zamanı yol göstericidir: yaralanmadan sonraki dakikalar ya da birkaç saat içinde gelişen şişlik bağ kopmasını, eklem içi kırığı ya da diz kapağı çıkığını; saatler ya da birkaç gün içinde gelişen şişlik menisküs yırtığını düşündürür [2]. Başlıca olasılıklar şunlardır [1]:"
+     ],
+     "list": [
+      "Burkulma ve zorlanma: çoğunlukla egzersiz sırasında dizin aşırı gerilmesi, aşırı kullanılması ya da dönmesinden sonra başlayan ağrı",
+      "Tendon iltihabı (tendinit): diz kapağı ile kaval kemiği arasında, çoğu zaman tekrarlayan koşu ya da sıçramayla ilişkili ağrı",
+      "Bağ, tendon ya da menisküs yırtığı, kıkırdak hasarı: dizin boşalması, düzleştirilememesi; yaralanma anında 'pat' sesi duyulabilir",
+      "Diz kapağı çıkığı: çarpışma ya da ani yön değiştirmeden sonra diz kapağının şeklinin değişmesi"
+     ]
+    },
+    {
+     "h": "Yaralanma olmadan başlayan diz ağrısı",
+     "p": [
+      "50 yaşın üzerinde süregen ve yaygın diz ağrısı çoğunlukla kireçlenmeye (osteoartrit) bağlıdır; özellikle ağrı gün sonunda artıyor, yük vermekle kötüleşiyor ve dinlenmekle hafifliyorsa [2].",
+      "Namaz kılarken olduğu gibi diz çökülen ve dizin derin büküldüğü durumlarda ortaya çıkan ağrıda akla gelenler arasında bursit ve diz kapağı çevresi ağrısı vardır: diz çökmek ve dizi bükmek bursitte ağrıyı ve şişliği artırır [1]; diz kapağı çevresi ağrısında da diz çökmek ve çömelmek güçleşebilir [3]. Başlıca olasılıklar şunlardır:"
+     ],
+     "list": [
+      "Kireçlenme (osteoartrit): iki dizde ağrı ve sertlik, hafif şişlik; ileri yaşta daha sıktır [1]",
+      "Bursit (diz çevresindeki kesenin iltihabı): dizde sıcaklık, kızarıklık ve şişlik [1]",
+      "Gut ya da eklem enfeksiyonu (septik artrit): sıcak ve kızarık diz, ani başlayan çok şiddetli ağrı [1]",
+      "Eklem içine kanama: şişlik, sıcaklık ve morarma; kan sulandırıcı ilaç kullananlarda olasılığı daha yüksektir [1]",
+      "Diz arkasındaki kist (Baker kisti): daha seyrek görülen diz arkası ağrısının nedeni olabilir [2]"
+     ]
+    },
+    {
+     "h": "Genç yaşta diz ağrısı ve diz kapağı ağrısı",
+     "p": [
+      "Gençlerde ve genç yetişkinlerde sık görülen bir tablo, dizin önünde, diz kapağının çevresinde ya da altında hissedilen ağrıdır (patellofemoral ağrı sendromu, 'koşucu dizi') [3][4]. Spor yapanlarda, özellikle kadınlarda ve genç yetişkinlerde sıktır, ancak spor yapmayanlarda da görülebilir [3].",
+      "Ağrı künt ve sızlayıcıdır, yavaş başlar; merdiven çıkmak, koşmak, sıçramak, çömelmek ve dizler bükülü uzun süre oturmak ağrıyı artırır [3][4]. Ergenlerde bu ağrı genellikle dizde yapısal bir bozukluktan kaynaklanmaz [4].",
+      "Çoğunlukla basit önlemlerle ya da fizyoterapiyle tümüyle geçer [3][4]. Ameliyat çok nadiren gerekir; antrenman düzeni değiştirilmezse ağrı yineleyebilir [3].",
+      "Büyüme çağındaki gençlerde diz kapağının altında ağrı ve şişlik Osgood-Schlatter hastalığını düşündürür; hızlı büyüme dönemlerinde, aşırı kullanımla birlikte yavaş yavaş başlar [1][2]."
+     ]
+    },
+    {
+     "h": "Dizde şişlik, çıtırtı (kıtlama) ve takılma ne anlama gelir?",
+     "p": [
+      "Dizden gelen ağrısız çıtırtı normaldir [1]. Diz kapağı çevresi ağrısında merdiven çıkarken ya da uzun süre oturduktan sonra kalkarken çıtırtı duyulabilir [3]. Ağrılı çıtırtı, kilitlenme, takılma ya da boşalma ise eklem içinde mekanik bir soruna işaret eder; menisküs ya da bağ yırtığında görülebilir ve hekim değerlendirmesi gerektirir [1][2][4].",
+      "Hafif şişlik kireçlenmede görülebilir; sıcak, kızarık ve çok ağrılı diz gut ya da eklem enfeksiyonunu düşündürür [1]. Ergenlerdeki ön diz ağrısı genellikle şişlik yapmaz [4]."
+     ]
+    },
+    {
+     "h": "Diz ağrısına evde ne iyi gelir?",
+     "p": [
+      "Diz ağrısı çoğu zaman evde tedavi edilebilir ve birkaç gün içinde hafiflemeye başlar [1]. Ağrı kesici gerekiyorsa tablet ya da jel biçiminde kullanılabilir [1]; hangisinin size uygun olduğunu eczacınıza ya da hekiminize sorun.",
+      "Bu yazının dayandığı kaynaklar bitkisel karışımlar ya da halk arasında bilinen diğer yöntemler için bir öneride bulunmaz [1][3]. Önerdikleri önlemler şunlardır; son üçü diz kapağı çevresi ağrısı için bildirilmiştir:"
+     ],
+     "list": [
+      "Dize olabildiğince az yük vermek; örneğin uzun süre ayakta durmamak [1]",
+      "Havluya sarılı buz torbasını 2–3 saatte bir, 20 dakikaya kadar uygulamak [1]",
+      "Ağrıyı artıran etkinliklere ara vermek; sabit bisiklet ve yüzme gibi dize daha az yük bindiren etkinliklere geçmek [3]",
+      "Fazla kilo varsa kilo vermek; dize binen yükü azaltır [3]",
+      "Uyluk ve kalça kaslarını güçlendiren egzersizler [3]"
+     ]
+    },
+    {
+     "h": "Dizlik ve krem işe yarar mı?",
+     "p": [
+      "Diz kapağı çevresi ağrısında dizlik ve diz bandajlarını inceleyen bir Cochrane derlemesi, egzersiz de yapan yetişkinlerde dizliğin kısa vadede (üç aydan kısa sürede) ağrıyı azaltmadığına ve işlevi iyileştirmediğine ilişkin çok düşük kaliteli kanıt bulmuştur [6]. Diz kireçlenmesinde de dizliğin ağrı, sertlik ve işlev üzerindeki yararına ilişkin kanıtlar kesin sonuç vermemiştir [7].",
+      "İltihap giderici ağrı kesici (NSAİİ) içeren krem ve jelleri inceleyen bir Cochrane derlemesine göre bunların bazıları, çoğu diz kireçlenmesi olan kişilerde yapılan 6–12 haftalık çalışmalarda ilaçsız jele kıyasla ağrıyı daha fazla azaltmıştır; ancak bu ek yarar hastaların azınlığında görülmüştür [5]. Kireçlenme dışındaki süregen ağrılı durumlar için kanıt yoktur [5]."
+     ]
+    },
+    {
+     "h": "Diz ağrısına hangi bölüm bakar, nasıl değerlendirilir?",
+     "p": [
+      "Diz ağrısına ortopedi ve travmatoloji bölümü bakar. Değerlendirme öyküyle başlar: yaş, ağrının yeri, başlangıcı ve süresi, eşlik eden yakınmalar, şişlik ve önceki yaralanmalar sorulur; ardından diz muayene edilir, hareket açıklığı, kas gücü, bağlar ve menisküsler özel testlerle değerlendirilir [2].",
+      "Her diz ağrısında görüntüleme gerekmez: röntgen altı haftadan uzun süren ağrıda ya da yaralanmadan sonra belirli ölçütler varsa, örneğin dört adım atacak kadar yük verilemiyorsa istenir [2]. MR genellikle ameliyat düşünüldüğünde ya da yeterli ameliyatsız tedaviye rağmen ağrı sürdüğünde gündeme gelir [2]. Enfeksiyon ya da iltihabi bir hastalık kuşkusunda kan tetkikleri istenebilir, eklem sıvısından örnek alınabilir [2].",
+      "Tedavi nedene göre belirlenir: hekim ilaç ya da fizyoterapi önerebilir, ileri görüntüleme ya da ameliyat gibi tedaviler için yönlendirebilir [1]. Sık görülen nedenler bu rehberde ayrı yazılarda anlatılmıştır: diz kireçlenmesinin tedavisi, menisküs yırtığında egzersiz ile artroskopi arasındaki seçim, ön çapraz bağ yırtığında ameliyat kararı ve diz protezi ameliyatı."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Ağrı birkaç hafta içinde düzelmiyorsa hekime başvurun; şu durumlarda ise beklemeden bir sağlık kuruluşuna başvurun [1][2]:"
+     ],
+     "list": [
+      "Diz çok ağrılıysa, hareket ettirilemiyor ya da üzerine hiç basılamıyorsa",
+      "Diz çok şişmiş ya da şekli değişmişse",
+      "Yaralanmadan hemen sonra, dakikalar ya da birkaç saat içinde şişlik geliştiyse",
+      "Diz kilitleniyor, boşalıyor ya da ağrılı biçimde çıtırdıyorsa",
+      "Yüksek ateş ve titremeyle birlikte dizde kızarıklık ya da sıcaklık varsa (enfeksiyon belirtisi olabilir)",
+      "Ergenlik çağındaki bir gençte ağrı dinlenirken de sürüyor ya da gece artıyorsa (tümör dahil başka nedenler araştırılır)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Diz ağrısı için hangi doktora gidilir?",
+     "a": "Ortopedi ve travmatoloji uzmanına. Değerlendirme öykü ve muayeneyle başlar; röntgen ve MR her diz ağrısında gerekmez, belirli durumlarda istenir [2]."
+    },
+    {
+     "q": "Diz ağrısı nasıl geçer?",
+     "a": "Çoğu zaman dize az yük vermek, buz uygulamak ve gerekirse ağrı kesici kullanmakla birkaç gün içinde hafiflemeye başlar [1]. Birkaç hafta içinde düzelmezse hekime başvurun [1]."
+    },
+    {
+     "q": "Diz ağrısı neden geçmez?",
+     "a": "Birkaç hafta içinde düzelmeyen diz ağrısı hekim değerlendirmesi gerektirir [1]. 50 yaşın üzerinde süregen ağrı çoğunlukla kireçlenmeye bağlıdır [2]; diz kapağı çevresi ağrısı ise antrenman düzeni değiştirilmezse yineleyebilir [3]."
+    },
+    {
+     "q": "Dizden ses gelmesi (kıtlama) zararlı mı?",
+     "a": "Ağrısız çıtırtı normaldir [1]. Ağrılı çıtırtı, kilitlenme ya da boşalma varsa beklemeden değerlendirme gerekir [1]."
+    },
+    {
+     "q": "Namaz kılarken ya da diz çökerken diz neden ağrır?",
+     "a": "Diz çökmek ve dizi bükmek bursitte ağrıyı ve şişliği artırır [1]; diz kapağı çevresi ağrısında da diz çökmek ve çömelmek güçleşebilir [3]. Ağrı birkaç hafta içinde düzelmezse hekime başvurun [1]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "knee-pain-causes-home-care-who-to-see",
+   "title": "Knee pain: what causes it, what helps and who should you see?",
+   "description": "What causes knee pain and what helps? Kneecap pain in young people, swelling and clicking, home care, knee braces and creams, and which specialty to see.",
+   "summary": "The cause of knee pain depends on age and on whether the pain began after an injury: pain around the kneecap stands out in young people, osteoarthritis over the age of 50, and ligament and meniscus damage after an injury [1][2][3]. It often starts to ease within a few days with measures taken at home; if it has not improved within a few weeks, you should see a doctor [1]. Do not wait if you cannot put weight on the knee, if it locks, is badly swollen, or if redness comes with a fever [1].",
+   "sections": [
+    {
+     "h": "What causes knee pain and what can it be a sign of?",
+     "p": [
+      "Knee pain affects approximately 25% of adults [2]. It has no single cause: it can be a sign of many conditions, from a sprain to a ligament or meniscus tear, from pain around the kneecap to osteoarthritis, and from bursitis to gout and joint infection [1][2]."
+     ]
+    },
+    {
+     "h": "Knee pain that starts after an injury",
+     "p": [
+      "The timing of the swelling is a useful guide: swelling that develops within minutes to a few hours of an injury suggests a ligament rupture, a fracture inside the joint or a dislocated kneecap; swelling that appears within hours to a few days suggests a meniscus tear [2]. The main possibilities are [1]:"
+     ],
+     "list": [
+      "Sprains and strains: pain after overstretching, overusing or twisting the knee, often during exercise",
+      "Tendonitis: pain between the kneecap and the shin, often linked to repetitive running or jumping",
+      "A torn ligament, tendon or meniscus, or cartilage damage: the knee gives way or cannot be straightened; a popping sound may be heard at the time of injury",
+      "Dislocated kneecap: the kneecap changes shape after a collision or a sudden change of direction"
+     ]
+    },
+    {
+     "h": "Knee pain that starts without an injury",
+     "p": [
+      "Over the age of 50, long-standing, diffuse knee pain is commonly due to osteoarthritis, particularly when the pain is worse at the end of the day, is aggravated by weight-bearing and is relieved by rest [2].",
+      "Bursitis and pain around the kneecap are among the conditions that come to mind when pain appears in positions where you kneel and the knee is bent deeply, as in kneeling for prayer: kneeling and bending the knee make the pain and swelling of bursitis worse [1]; pain around the kneecap can also make kneeling and squatting difficult [3]. The main possibilities are:"
+     ],
+     "list": [
+      "Osteoarthritis: pain and stiffness in both knees with mild swelling; more common in older people [1]",
+      "Bursitis (inflammation of a sac around the knee): warmth, redness and swelling of the knee [1]",
+      "Gout or joint infection (septic arthritis): a hot, red knee with sudden attacks of very bad pain [1]",
+      "Bleeding into the joint: swelling, warmth and bruising; more likely in people taking blood-thinning medicines [1]",
+      "A cyst behind the knee (Baker's cyst): may be the cause of pain at the back of the knee, which is less common [2]"
+     ]
+    },
+    {
+     "h": "Knee pain at a young age and kneecap pain",
+     "p": [
+      "A common picture in teenagers and young adults is pain felt at the front of the knee, around or underneath the kneecap (patellofemoral pain syndrome, 'runner's knee') [3][4]. It is common in people who take part in sport, especially women and young adults, but it can also occur in people who do not [3].",
+      "The pain is dull and aching and begins gradually; climbing stairs, running, jumping, squatting and sitting for a long time with the knees bent make it worse [3][4]. In adolescents this pain is not usually caused by a structural abnormality in the knee [4].",
+      "It is usually fully relieved with simple measures or physiotherapy [3][4]. Surgery is very rarely needed; the pain may come back if the training routine is not adjusted [3].",
+      "In growing teenagers, pain and swelling below the kneecap suggest Osgood-Schlatter disease; it comes on gradually during periods of rapid growth, together with overuse [1][2]."
+     ]
+    },
+    {
+     "h": "What do swelling, clicking and catching in the knee mean?",
+     "p": [
+      "Painless clicking from the knee is normal [1]. In pain around the kneecap, popping or crackling may be heard when climbing stairs or when standing up after sitting for a long time [3]. Painful clicking, locking, catching or giving way, on the other hand, points to a mechanical problem inside the joint; it can be seen with a meniscus or ligament tear and needs to be assessed by a doctor [1][2][4].",
+      "Mild swelling can be seen in osteoarthritis; a hot, red and very painful knee suggests gout or a joint infection [1]. Anterior knee pain in adolescents does not usually cause swelling [4]."
+     ]
+    },
+    {
+     "h": "What helps knee pain at home?",
+     "p": [
+      "Knee pain can often be treated at home and starts to ease within a few days [1]. If a painkiller is needed, it can be used as tablets or as a gel [1]; ask your pharmacist or doctor which one is suitable for you.",
+      "The sources this article is based on make no recommendation for herbal mixtures or other popular home remedies [1][3]. The measures they do recommend are listed below; the last three are reported for pain around the kneecap:"
+     ],
+     "list": [
+      "Putting as little weight as possible on the knee; for example, not standing for a long time [1]",
+      "An ice pack wrapped in a towel on the knee for up to 20 minutes every 2 to 3 hours [1]",
+      "Stopping the activities that bring on the pain; switching to activities that put less load on the knee, such as a stationary bike or swimming [3]",
+      "Losing weight if you are overweight; this reduces the load on the knee [3]",
+      "Exercises that strengthen the thigh and hip muscles [3]"
+     ]
+    },
+    {
+     "h": "Do knee braces and creams work?",
+     "p": [
+      "A Cochrane review of knee braces, sleeves and bandages for pain around the kneecap found very low-quality evidence that, in adults who were also exercising, a brace did not reduce pain or improve function in the short term (under three months) [6]. In knee osteoarthritis, too, the evidence on the benefit of a brace for pain, stiffness and function was inconclusive [7].",
+      "According to a Cochrane review of creams and gels that contain an anti-inflammatory painkiller (NSAID), in studies lasting 6 to 12 weeks, carried out mostly in people with knee osteoarthritis, some of these reduced pain more than a gel without the medicine; however, this additional benefit was seen in a minority of people [5]. There is no evidence for chronic painful conditions other than osteoarthritis [5]."
+     ]
+    },
+    {
+     "h": "Which specialty sees knee pain and how is it assessed?",
+     "p": [
+      "Knee pain is seen by orthopaedics and traumatology. The assessment begins with the history: age, the location, onset and duration of the pain, accompanying symptoms, swelling and earlier injuries; the knee is then examined, and range of movement, muscle strength, the ligaments and the menisci are assessed with special tests [2].",
+      "Not every painful knee needs imaging: an X-ray is requested for pain that has lasted more than six weeks or, after an injury, when certain criteria are met, for example being unable to bear weight for four steps [2]. MRI generally comes up when surgery is being considered or when pain continues despite adequate non-surgical treatment [2]. If an infection or an inflammatory disease is suspected, blood tests may be requested and a sample of joint fluid may be taken [2].",
+      "Treatment depends on the cause: the doctor may suggest medicine or physiotherapy, and may refer you for further imaging or for treatment such as surgery [1]. The common causes are described in separate articles in this guide: the treatment of knee osteoarthritis, the choice between exercise and arthroscopy in a meniscus tear, the decision about surgery in an anterior cruciate ligament tear, and knee replacement surgery."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "See a doctor if the pain has not improved within a few weeks; in the following situations seek care without waiting [1][2]:"
+     ],
+     "list": [
+      "The knee is very painful, cannot be moved or cannot take any weight",
+      "The knee is badly swollen or has changed shape",
+      "Swelling developed straight after an injury, within minutes to a few hours",
+      "The knee locks, gives way or clicks painfully",
+      "There is redness or heat around the knee together with a very high temperature and shivering (this can be a sign of infection)",
+      "In an adolescent, the pain persists at rest or gets worse at night (other causes, including a tumour, are looked for)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Which doctor should I see for knee pain?",
+     "a": "An orthopaedics and traumatology specialist. The assessment begins with the history and examination; X-rays and MRI are not needed for every painful knee and are requested in specific situations [2]."
+    },
+    {
+     "q": "How does knee pain go away?",
+     "a": "It often starts to ease within a few days with putting less weight on the knee, applying ice and, if needed, taking a painkiller [1]. See a doctor if it has not improved within a few weeks [1]."
+    },
+    {
+     "q": "Why won't my knee pain go away?",
+     "a": "Knee pain that has not improved within a few weeks needs to be assessed by a doctor [1]. Over the age of 50, long-standing pain is commonly due to osteoarthritis [2]; pain around the kneecap may come back if the training routine is not adjusted [3]."
+    },
+    {
+     "q": "Is a noisy (clicking) knee harmful?",
+     "a": "Painless clicking is normal [1]. If there is painful clicking, locking or giving way, assessment without delay is needed [1]."
+    },
+    {
+     "q": "Why does my knee hurt when I kneel, for example during prayer?",
+     "a": "Kneeling and bending the knee make the pain and swelling of bursitis worse [1]; pain around the kneecap can also make kneeling and squatting difficult [3]. See a doctor if the pain has not improved within a few weeks [1]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "bol-v-kolene-prichiny-chto-pomogaet",
+   "title": "Боль в колене: причины, что помогает и к какому врачу обращаться",
+   "description": "Почему болит колено и что помогает? Боль в области надколенника у молодых, отёк и хруст, что делать дома, наколенники и мази, к какому врачу идти.",
+   "summary": "Причина боли в колене зависит от возраста и от того, началась ли боль после травмы: у молодых на первый план выходит боль вокруг надколенника, после 50 лет — артроз (остеоартрит), после травмы — повреждения связок и мениска [1][2][3]. Чаще всего боль начинает ослабевать в течение нескольких дней при мерах, принятых дома; если она не проходит в течение нескольких недель, нужно обратиться к врачу [1]. Не следует ждать, если на ногу невозможно наступить, колено блокируется, сильно отекло или покраснение сопровождается высокой температурой [1].",
+   "sections": [
+    {
+     "h": "Почему болит колено и признаком чего это может быть?",
+     "p": [
+      "Боль в колене встречается примерно у 25% взрослых [2]. Единой причины нет: она может быть признаком многих состояний — от растяжения до разрыва связки или мениска, от боли вокруг надколенника до артроза, от бурсита до подагры и инфекции сустава [1][2]."
+     ]
+    },
+    {
+     "h": "Боль в колене, начавшаяся после травмы",
+     "p": [
+      "Важно, когда появился отёк: отёк, развившийся в течение минут или нескольких часов после травмы, указывает на разрыв связки, внутрисуставной перелом или вывих надколенника; отёк, появившийся в течение нескольких часов или дней, — на разрыв мениска [2]. Основные возможные причины [1]:"
+     ],
+     "list": [
+      "Растяжение связок и мышц: боль после перерастяжения, перегрузки или подворачивания колена, чаще всего во время физической нагрузки",
+      "Воспаление сухожилия (тендинит): боль между надколенником и большеберцовой костью; часто связана с повторяющимся бегом или прыжками",
+      "Разрыв связки, сухожилия или мениска, повреждение хряща: колено подкашивается, его не удаётся разогнуть; в момент травмы может быть слышен «хлопок»",
+      "Вывих надколенника: изменение формы надколенника после столкновения или резкой смены направления"
+     ]
+    },
+    {
+     "h": "Боль в колене, начавшаяся без травмы",
+     "p": [
+      "После 50 лет хроническая разлитая боль в колене чаще всего связана с артрозом (остеоартритом), особенно если боль усиливается к концу дня, нарастает при нагрузке на ногу и ослабевает в покое [2].",
+      "Когда боль возникает в положениях, в которых человек стоит на коленях и колено глубоко согнуто, например во время намаза, среди возможных причин — бурсит и боль вокруг надколенника: стояние на коленях и сгибание колена усиливают боль и отёк при бурсите [1]; при боли вокруг надколенника тоже может быть трудно вставать на колени и приседать [3]. Основные возможные причины:"
+     ],
+     "list": [
+      "Артроз (остеоартрит): боль и скованность в обоих коленях, небольшой отёк; чаще встречается в пожилом возрасте [1]",
+      "Бурсит (воспаление сумки возле колена): жар, покраснение и отёк колена [1]",
+      "Подагра или инфекция сустава (септический артрит): горячее и покрасневшее колено, внезапные приступы очень сильной боли [1]",
+      "Кровоизлияние в сустав: отёк, жар и кровоподтёк; более вероятно у тех, кто принимает препараты, разжижающие кровь [1]",
+      "Киста под коленом (киста Бейкера): может быть причиной боли в задней части колена, которая встречается реже [2]"
+     ]
+    },
+    {
+     "h": "Боль в колене в молодом возрасте и боль в области надколенника",
+     "p": [
+      "У подростков и молодых взрослых часто встречается боль в передней части колена, вокруг надколенника или под ним (пателлофеморальный болевой синдром, «колено бегуна») [3][4]. Она часто встречается у людей, занимающихся спортом, особенно у женщин и молодых взрослых, но может возникать и у тех, кто спортом не занимается [3].",
+      "Боль тупая и ноющая, начинается постепенно; её усиливают подъём по лестнице, бег, прыжки, приседания и долгое сидение с согнутыми коленями [3][4]. У подростков эта боль обычно не связана со структурным нарушением в колене [4].",
+      "В большинстве случаев она полностью проходит при простых мерах или физиотерапии [3][4]. Операция требуется очень редко; если не изменить режим тренировок, боль может вернуться [3].",
+      "У подростков в период роста боль и отёк ниже надколенника указывают на болезнь Осгуда — Шлаттера; она начинается постепенно в периоды быстрого роста на фоне перегрузки [1][2]."
+     ]
+    },
+    {
+     "h": "Что означают отёк, хруст и заедание в колене?",
+     "p": [
+      "Безболезненный хруст в колене — это нормально [1]. При боли вокруг надколенника хруст может быть слышен при подъёме по лестнице или при вставании после долгого сидения [3]. Болезненные щелчки, блокировка, заедание или подкашивание колена, напротив, указывают на механическую проблему внутри сустава; они встречаются при разрыве мениска или связки и требуют осмотра врача [1][2][4].",
+      "Небольшой отёк может наблюдаться при артрозе; горячее, покрасневшее и очень болезненное колено указывает на подагру или инфекцию сустава [1]. Боль в передней части колена у подростков обычно не сопровождается отёком [4]."
+     ]
+    },
+    {
+     "h": "Что помогает при боли в колене дома?",
+     "p": [
+      "Боль в колене часто можно лечить дома, и она начинает ослабевать в течение нескольких дней [1]. Если нужно обезболивающее, его можно применять в виде таблеток или геля [1]; какое средство подходит вам, спросите у фармацевта или врача.",
+      "Источники, на которых основан этот текст, не дают рекомендаций в отношении травяных смесей и других народных средств [1][3]. Рекомендуемые ими меры перечислены ниже; последние три указаны для боли вокруг надколенника:"
+     ],
+     "list": [
+      "Как можно меньше нагружать колено; например, не стоять подолгу [1]",
+      "Прикладывать пакет со льдом, завёрнутый в полотенце, на время до 20 минут каждые 2–3 часа [1]",
+      "На время прекратить занятия, вызывающие боль; перейти к нагрузкам, меньше нагружающим колено, таким как велотренажёр и плавание [3]",
+      "При избыточном весе — снизить его; это уменьшает нагрузку на колено [3]",
+      "Упражнения, укрепляющие мышцы бедра и таза [3]"
+     ]
+    },
+    {
+     "h": "Помогают ли наколенники, кремы и мази?",
+     "p": [
+      "Кокрейновский обзор, посвящённый наколенникам и повязкам при боли вокруг надколенника, нашёл доказательства очень низкого качества в пользу того, что у взрослых, выполнявших также упражнения, наколенник в краткосрочной перспективе (менее трёх месяцев) не уменьшал боль и не улучшал функцию [6]. При артрозе коленного сустава доказательства пользы наколенника в отношении боли, скованности и функции также не позволили сделать определённый вывод [7].",
+      "По данным Кокрейновского обзора, посвящённого кремам и гелям с противовоспалительным обезболивающим средством (НПВП), в исследованиях длительностью 6–12 недель, проведённых в основном у людей с артрозом коленного сустава, некоторые из них уменьшали боль сильнее, чем гель без лекарства; однако эта дополнительная польза отмечалась у меньшинства пациентов [5]. Для других хронических болевых состояний, помимо артроза, доказательств нет [5]."
+     ]
+    },
+    {
+     "h": "К какому врачу обращаться при боли в колене и как проходит обследование?",
+     "p": [
+      "Болью в колене занимается ортопедия и травматология. Обследование начинается с расспроса: выясняют возраст, место боли, её начало и длительность, сопутствующие жалобы, наличие отёка и перенесённые травмы; затем колено осматривают, а объём движений, силу мышц, связки и мениски оценивают с помощью специальных тестов [2].",
+      "Визуализирующие исследования нужны не при каждой боли в колене: рентген назначают при боли, длящейся более шести недель, или после травмы при наличии определённых критериев, например при невозможности сделать четыре шага с опорой на ногу [2]. К МРТ обычно прибегают, когда рассматривается операция или когда боль сохраняется, несмотря на достаточное безоперационное лечение [2]. При подозрении на инфекцию или воспалительное заболевание могут быть назначены анализы крови и взята проба суставной жидкости [2].",
+      "Лечение определяется причиной: врач может назначить лекарства или физиотерапию, направить на дополнительное обследование или на такое лечение, как операция [1]. Частые причины описаны в отдельных текстах этого раздела: лечение артроза коленного сустава, выбор между упражнениями и артроскопией при разрыве мениска, решение об операции при разрыве передней крестообразной связки и эндопротезирование коленного сустава."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Если боль не проходит в течение нескольких недель, обратитесь к врачу; в следующих случаях обратитесь в медицинское учреждение без промедления [1][2]:"
+     ],
+     "list": [
+      "Колено очень болит, им невозможно двигать или на ногу совсем нельзя наступить",
+      "Колено сильно отекло или изменило форму",
+      "Отёк развился сразу после травмы, в течение минут или нескольких часов",
+      "Колено блокируется, подкашивается или болезненно щёлкает",
+      "Покраснение или жар в области колена сопровождаются высокой температурой и ознобом (это может быть признаком инфекции)",
+      "У подростка боль сохраняется в покое или усиливается ночью (ищут другие причины, включая опухоль)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "К какому врачу идти при боли в колене?",
+     "a": "К травматологу-ортопеду. Обследование начинается с расспроса и осмотра; рентген и МРТ нужны не при каждой боли в колене, их назначают в определённых ситуациях [2]."
+    },
+    {
+     "q": "Как проходит боль в колене?",
+     "a": "Чаще всего она начинает ослабевать в течение нескольких дней, если меньше нагружать колено, прикладывать лёд и при необходимости принимать обезболивающее [1]. Если боль не проходит в течение нескольких недель, обратитесь к врачу [1]."
+    },
+    {
+     "q": "Почему боль в колене не проходит?",
+     "a": "Боль в колене, которая не проходит в течение нескольких недель, требует осмотра врача [1]. После 50 лет хроническая боль чаще всего связана с артрозом [2]; боль вокруг надколенника может вернуться, если не изменить режим тренировок [3]."
+    },
+    {
+     "q": "Вреден ли хруст в колене?",
+     "a": "Безболезненный хруст — это нормально [1]. При болезненных щелчках, блокировке или подкашивании колена нужно обследоваться без промедления [1]."
+    },
+    {
+     "q": "Почему колено болит, когда стоишь на коленях, например во время намаза?",
+     "a": "Стояние на коленях и сгибание колена усиливают боль и отёк при бурсите [1]; при боли вокруг надколенника тоже может быть трудно вставать на колени и приседать [3]. Если боль не проходит в течение нескольких недель, обратитесь к врачу [1]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "dard-zanoo-ellat-darman-khanegi",
+   "title": "درد زانو: علت چیست، چه چیزی کمک می‌کند و به کدام پزشک مراجعه کنیم؟",
+   "description": "درد زانو چرا ایجاد می‌شود و چه چیزی کمک می‌کند؟ درد کشکک در جوانان، تورم و صدای زانو، مراقبت در خانه، زانوبند و کرم، و مراجعه به کدام تخصص.",
+   "summary": "علت درد زانو به سن و به این بستگی دارد که درد پس از آسیب شروع شده است یا نه: در جوانان درد اطراف کشکک، پس از ۵۰ سالگی آرتروز (استئوآرتریت) و پس از آسیب، صدمهٔ رباط و منیسک بیشتر مطرح است [1][2][3]. این درد اغلب با اقداماتی که در خانه انجام می‌شود ظرف چند روز رو به کاهش می‌گذارد؛ اگر ظرف چند هفته بهتر نشد باید به پزشک مراجعه کرد [1]. اگر نمی‌توان روی زانو وزن گذاشت، زانو قفل می‌شود، بسیار متورم است یا قرمزی با تب همراه است، نباید منتظر ماند [1].",
+   "sections": [
+    {
+     "h": "درد زانو چرا ایجاد می‌شود و نشانهٔ چیست؟",
+     "p": [
+      "درد زانو حدود ۲۵ درصد بزرگسالان را درگیر می‌کند [2]. علت واحدی ندارد: می‌تواند نشانهٔ وضعیت‌های بسیاری باشد، از پیچ‌خوردگی تا پارگی رباط و منیسک، از درد اطراف کشکک تا آرتروز، و از بورسیت تا نقرس و عفونت مفصل [1][2]."
+     ]
+    },
+    {
+     "h": "درد زانو که پس از آسیب شروع می‌شود",
+     "p": [
+      "زمان پیدایش تورم راهنماست: تورمی که ظرف چند دقیقه تا چند ساعت پس از آسیب ایجاد شود، پارگی رباط، شکستگی داخل مفصل یا دررفتگی کشکک را مطرح می‌کند؛ تورمی که ظرف چند ساعت تا چند روز پدید آید، پارگی منیسک را [2]. احتمال‌های اصلی این‌هاست [1]:"
+     ],
+     "list": [
+      "پیچ‌خوردگی و کشیدگی: دردی که پس از کشش بیش از حد، استفادهٔ بیش از حد یا چرخش زانو، اغلب هنگام ورزش، شروع می‌شود",
+      "التهاب تاندون (تاندونیت): درد میان کشکک و استخوان ساق؛ اغلب با دویدن یا پریدن مکرر ارتباط دارد",
+      "پارگی رباط، تاندون یا منیسک، آسیب غضروف: خالی کردن زانو، ناتوانی در صاف کردن آن؛ ممکن است در لحظهٔ آسیب صدای «تَق» شنیده شود",
+      "دررفتگی کشکک: تغییر شکل کشکک پس از برخورد یا تغییر جهت ناگهانی"
+     ]
+    },
+    {
+     "h": "درد زانو که بدون آسیب شروع می‌شود",
+     "p": [
+      "پس از ۵۰ سالگی، درد مزمن و منتشر زانو بیشتر ناشی از آرتروز (استئوآرتریت) است؛ به‌ویژه اگر درد در پایان روز بیشتر شود، با وزن گذاشتن بدتر شود و با استراحت کاهش یابد [2].",
+      "در دردی که در حالت‌هایی پدید می‌آید که فرد زانو می‌زند و زانو عمیقاً خم می‌شود، مانند هنگام نماز، بورسیت و درد اطراف کشکک از جمله وضعیت‌هایی است که به ذهن می‌رسد: زانو زدن و خم کردن زانو در بورسیت درد و تورم را بیشتر می‌کند [1]؛ در درد اطراف کشکک نیز زانو زدن و چمباتمه زدن ممکن است دشوار شود [3]. احتمال‌های اصلی این‌هاست:"
+     ],
+     "list": [
+      "آرتروز (استئوآرتریت): درد و خشکی در هر دو زانو، تورم خفیف؛ در سن بالا شایع‌تر است [1]",
+      "بورسیت (التهاب کیسهٔ اطراف زانو): گرمی، قرمزی و تورم زانو [1]",
+      "نقرس یا عفونت مفصل (آرتریت سپتیک): زانوی داغ و قرمز، حمله‌های ناگهانی درد بسیار شدید [1]",
+      "خونریزی داخل مفصل: تورم، گرمی و کبودی؛ در کسانی که داروی رقیق‌کنندهٔ خون مصرف می‌کنند محتمل‌تر است [1]",
+      "کیست پشت زانو (کیست بیکر): ممکن است علت درد پشت زانو باشد که کمتر شایع است [2]"
+     ]
+    },
+    {
+     "h": "درد زانو در سن جوانی و درد کشکک",
+     "p": [
+      "وضعیتی که در نوجوانان و جوانان شایع است دردی است که در جلوی زانو، اطراف کشکک یا زیر آن حس می‌شود (سندرم درد پاتلوفمورال، «زانوی دونده») [3][4]. این درد در کسانی که ورزش می‌کنند، به‌ویژه در زنان و جوانان، شایع است، اما در افرادی که ورزش نمی‌کنند نیز دیده می‌شود [3].",
+      "درد مبهم و گنگ است و به‌تدریج شروع می‌شود؛ بالا رفتن از پله، دویدن، پریدن، چمباتمه زدن و نشستن طولانی با زانوهای خم آن را بیشتر می‌کند [3][4]. در نوجوانان این درد معمولاً ناشی از اختلال ساختاری در زانو نیست [4].",
+      "این درد بیشتر با اقدامات ساده یا فیزیوتراپی کاملاً برطرف می‌شود [3][4]. جراحی بسیار به‌ندرت لازم می‌شود؛ اگر برنامهٔ تمرین تغییر نکند، درد ممکن است بازگردد [3].",
+      "در نوجوانانِ در سن رشد، درد و تورم زیر کشکک بیماری ازگود-اشلاتر را مطرح می‌کند؛ این بیماری در دوره‌های رشد سریع و همراه با استفادهٔ بیش از حد، به‌تدریج شروع می‌شود [1][2]."
+     ]
+    },
+    {
+     "h": "تورم، صدای تق‌تق و گیر کردن زانو چه معنایی دارد؟",
+     "p": [
+      "صدای تق‌تقِ بدون درد در زانو طبیعی است [1]. در درد اطراف کشکک ممکن است هنگام بالا رفتن از پله یا برخاستن پس از نشستن طولانی صدای تق‌تق شنیده شود [3]. اما صدای تق‌تقِ دردناک، قفل شدن، گیر کردن یا خالی کردن زانو به مشکلی مکانیکی در داخل مفصل اشاره دارد؛ این علائم ممکن است در پارگی منیسک یا رباط دیده شود و نیاز به ارزیابی پزشک دارد [1][2][4].",
+      "تورم خفیف ممکن است در آرتروز دیده شود؛ زانوی داغ، قرمز و بسیار دردناک نقرس یا عفونت مفصل را مطرح می‌کند [1]. درد جلوی زانو در نوجوانان معمولاً تورم ایجاد نمی‌کند [4]."
+     ]
+    },
+    {
+     "h": "برای درد زانو در خانه چه چیزی کمک می‌کند؟",
+     "p": [
+      "درد زانو را اغلب می‌توان در خانه درمان کرد و ظرف چند روز رو به کاهش می‌گذارد [1]. اگر مسکن لازم باشد، می‌توان آن را به شکل قرص یا ژل به کار برد [1]؛ اینکه کدام برای شما مناسب است را از داروساز یا پزشک خود بپرسید.",
+      "منابعی که این نوشته بر آن‌ها تکیه دارد توصیه‌ای دربارهٔ ترکیب‌های گیاهی یا دیگر روش‌های رایج خانگی ندارند [1][3]. اقداماتی که توصیه می‌کنند در زیر آمده است؛ سه مورد آخر برای درد اطراف کشکک ذکر شده است:"
+     ],
+     "list": [
+      "تا حد ممکن وزن کمتری روی زانو گذاشتن؛ برای نمونه، نایستادن به مدت طولانی [1]",
+      "گذاشتن کیسهٔ یخِ پیچیده در حوله روی زانو، هر ۲ تا ۳ ساعت و تا ۲۰ دقیقه [1]",
+      "کنار گذاشتن موقت فعالیت‌هایی که درد را بیشتر می‌کنند؛ روی آوردن به فعالیت‌هایی که بار کمتری بر زانو می‌گذارند، مانند دوچرخهٔ ثابت و شنا [3]",
+      "کاهش وزن در صورت اضافه‌وزن؛ این کار بار وارد بر زانو را کم می‌کند [3]",
+      "ورزش‌هایی که عضلات ران و لگن را تقویت می‌کنند [3]"
+     ]
+    },
+    {
+     "h": "آیا زانوبند و کرم مؤثرند؟",
+     "p": [
+      "یک مرور کاکرین که زانوبند و بانداژ زانو را در درد اطراف کشکک بررسی کرده است، شواهدی با کیفیت بسیار پایین یافته است مبنی بر اینکه در بزرگسالانی که ورزش نیز می‌کردند، زانوبند در کوتاه‌مدت (کمتر از سه ماه) درد را کاهش نداده و عملکرد را بهبود نبخشیده است [6]. در آرتروز زانو نیز شواهد دربارهٔ فایدهٔ زانوبند برای درد، خشکی و عملکرد به نتیجهٔ قطعی نرسیده است [7].",
+      "بر پایهٔ یک مرور کاکرین دربارهٔ کرم‌ها و ژل‌های حاوی مسکن ضدالتهابی (NSAID)، در مطالعات ۶ تا ۱۲ هفته‌ای که بیشتر در افراد دچار آرتروز زانو انجام شده بود، برخی از آن‌ها در مقایسه با ژلِ بدون دارو درد را بیشتر کاهش دادند؛ اما این فایدهٔ افزوده در اقلیتی از بیماران دیده شد [5]. برای وضعیت‌های دردناک مزمنِ غیر از آرتروز شواهدی وجود ندارد [5]."
+     ]
+    },
+    {
+     "h": "درد زانو را کدام تخصص بررسی می‌کند و ارزیابی چگونه انجام می‌شود؟",
+     "p": [
+      "درد زانو را ارتوپدی و تروماتولوژی بررسی می‌کند. ارزیابی با شرح حال آغاز می‌شود: سن، محل درد، شروع و مدت آن، علائم همراه، تورم و آسیب‌های قبلی پرسیده می‌شود؛ سپس زانو معاینه می‌شود و دامنهٔ حرکت، قدرت عضلات، رباط‌ها و منیسک‌ها با آزمون‌های ویژه ارزیابی می‌شوند [2].",
+      "هر درد زانویی به تصویربرداری نیاز ندارد: عکس رادیولوژی در دردی که بیش از شش هفته طول کشیده باشد یا پس از آسیب در صورت وجود معیارهایی مشخص، برای نمونه ناتوانی در تحمل وزن برای چهار قدم، درخواست می‌شود [2]. ام‌آرآی معمولاً زمانی مطرح می‌شود که جراحی در نظر باشد یا درد با وجود درمان غیرجراحیِ کافی ادامه یابد [2]. اگر به عفونت یا بیماری التهابی شک برود، ممکن است آزمایش خون درخواست شود و از مایع مفصل نمونه گرفته شود [2].",
+      "درمان بر اساس علت تعیین می‌شود: پزشک ممکن است دارو یا فیزیوتراپی توصیه کند و برای تصویربرداری بیشتر یا درمانی مانند جراحی ارجاع دهد [1]. علت‌های شایع در نوشته‌های جداگانهٔ این راهنما شرح داده شده‌اند: درمان آرتروز زانو، انتخاب میان ورزش و آرتروسکوپی در پارگی منیسک، تصمیم دربارهٔ جراحی در پارگی رباط صلیبی قدامی و جراحی تعویض مفصل زانو."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "اگر درد ظرف چند هفته بهتر نشد به پزشک مراجعه کنید؛ در این موارد بدون تأخیر به یک مرکز درمانی مراجعه کنید [1][2]:"
+     ],
+     "list": [
+      "اگر زانو بسیار دردناک است، نمی‌توان آن را حرکت داد یا اصلاً نمی‌توان روی آن وزن گذاشت",
+      "اگر زانو بسیار متورم است یا تغییر شکل داده است",
+      "اگر بلافاصله پس از آسیب، ظرف چند دقیقه تا چند ساعت، تورم ایجاد شده است",
+      "اگر زانو قفل می‌شود، خالی می‌کند یا با درد صدای تق می‌دهد",
+      "اگر همراه با تب بالا و لرز، قرمزی یا گرمی در اطراف زانو وجود دارد (می‌تواند نشانهٔ عفونت باشد)",
+      "اگر در نوجوان درد در حال استراحت نیز ادامه دارد یا شب‌ها بیشتر می‌شود (علت‌های دیگر، از جمله تومور، بررسی می‌شود)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "برای درد زانو به کدام پزشک مراجعه کنیم؟",
+     "a": "به متخصص ارتوپدی و تروماتولوژی. ارزیابی با شرح حال و معاینه آغاز می‌شود؛ عکس رادیولوژی و ام‌آرآی برای هر درد زانویی لازم نیست و در شرایط مشخصی درخواست می‌شود [2]."
+    },
+    {
+     "q": "درد زانو چگونه خوب می‌شود؟",
+     "a": "اغلب با کمتر وزن گذاشتن روی زانو، گذاشتن یخ و در صورت نیاز مصرف مسکن ظرف چند روز رو به کاهش می‌گذارد [1]. اگر ظرف چند هفته بهتر نشد به پزشک مراجعه کنید [1]."
+    },
+    {
+     "q": "چرا درد زانو خوب نمی‌شود؟",
+     "a": "درد زانویی که ظرف چند هفته بهتر نشود نیاز به ارزیابی پزشک دارد [1]. پس از ۵۰ سالگی درد مزمن بیشتر ناشی از آرتروز است [2]؛ درد اطراف کشکک نیز اگر برنامهٔ تمرین تغییر نکند ممکن است بازگردد [3]."
+    },
+    {
+     "q": "آیا صدای تق‌تق زانو زیان‌آور است؟",
+     "a": "صدای تق‌تقِ بدون درد طبیعی است [1]. اگر صدای دردناک، قفل شدن یا خالی کردن زانو وجود دارد، ارزیابی بدون تأخیر لازم است [1]."
+    },
+    {
+     "q": "چرا هنگام زانو زدن، مثلاً در نماز، زانو درد می‌گیرد؟",
+     "a": "زانو زدن و خم کردن زانو در بورسیت درد و تورم را بیشتر می‌کند [1]؛ در درد اطراف کشکک نیز زانو زدن و چمباتمه زدن ممکن است دشوار شود [3]. اگر درد ظرف چند هفته بهتر نشد به پزشک مراجعه کنید [1]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

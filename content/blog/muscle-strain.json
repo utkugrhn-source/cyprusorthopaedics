@@ -1,0 +1,545 @@
+{
+ "id": "muscle-strain",
+ "area": "kirik-travma",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Sprains and strains",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/sprains-and-strains/",
+   "year": "2024"
+  },
+  {
+   "title": "Muscle Strains in the Thigh",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/muscle-strains-in-the-thigh",
+   "year": "n.d."
+  },
+  {
+   "title": "Hamstring Muscle Injuries",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/hamstring-muscle-injuries/",
+   "year": "n.d."
+  },
+  {
+   "title": "Terminology and classification of muscle injuries in sport: the Munich consensus statement",
+   "publisher": "British Journal of Sports Medicine (Mueller-Wohlfahrt HW, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23080315/",
+   "year": "2012"
+  },
+  {
+   "title": "Soft-tissue injuries simply need PEACE and LOVE",
+   "publisher": "British Journal of Sports Medicine (Dubois B, Esculier JF)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31377722/",
+   "year": "2019"
+  },
+  {
+   "title": "Topical NSAIDs for acute musculoskeletal pain in adults",
+   "publisher": "Cochrane Database of Systematic Reviews (Derry S, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26068955/",
+   "year": "2015"
+  },
+  {
+   "title": "Achilles Tendon Rupture (Tear)",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/achilles-tendon-rupture-tear/",
+   "year": "n.d."
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "kas-yirtilmasi-lif-kopmasi",
+   "title": "Kas yırtılması ve lif kopması: nasıl anlaşılır, ne kadar sürede geçer?",
+   "description": "Kas yırtılması ve lif kopması nedir, belirtileri nelerdir? Ne iyi gelir, hangi krem kullanılır, ne kadar sürede iyileşir, ameliyat ne zaman gerekir?",
+   "summary": "Kas yırtılması, kasın sınırının ötesinde gerilmesiyle liflerinin yırtılmasıdır; liflerin bir bölümünün yırtıldığı kısmi yırtığa halk arasında lif kopması denir [2][4]. Tedavi çoğunlukla ameliyatsızdır: ilk günlerde koruma, soğuk uygulama, bandaj ve yükseltme, ardından kademeli hareket ve güçlendirme uygulanır [1][2][3]. Spora dönüş hafif yırtıklarda 10 gün ile 3 hafta, ağır yırtıklarda 6 aya kadar sürebilir [2].",
+   "sections": [
+    {
+     "h": "Kas yırtılması ve lif kopması nedir?",
+     "p": [
+      "Kas sınırının ötesinde gerildiğinde lifleri yırtılır; buna kas yırtılması, kas zedelenmesi ya da kas zorlanması (tıp dilinde strain) denir [1][2]. Yırtık çoğunlukla kasın tendonla, yani kası kemiğe bağlayan dokuyla birleştiği yerin yakınında olur [2][4].",
+      "Halk arasında \"lif kopması\" denen durum, liflerin bir bölümünün yırtıldığı kısmi yırtıktır; kas yırtıklarının çoğu bu türdendir, kasın tümüyle yırtılması ise çok nadirdir [4]. En ağır yaralanmalarda tendon kemiğe yapıştığı yerden tümüyle kopar (avülsiyon) [3].",
+      "Burkulma, eklemi bir arada tutan bağların gerilmesi ya da yırtılmasıdır [1]. Kas yırtılmasında ise zarar gören, kasın kendisi ya da kasın tendonla birleştiği yerdir [1][2]."
+     ]
+    },
+    {
+     "h": "Neden olur, en sık hangi kaslarda görülür?",
+     "p": [
+      "Yaralanma çoğunlukla, kas güçlü biçimde kasılırken aniden ve zorla uzadığında olur; hızlı koşu tipik örnektir [3][4]. Isınmadan egzersiz yapmak, yorgun kaslar ve spor sık nedenlerdir [1]. Kasların gergin ya da zayıf olması, karşılıklı çalışan kaslar arasındaki güç dengesizliği ve yorgunluk riski artırır [2][3].",
+      "Futbolda kas yaralanmalarının yüzde 92'si bacaktaki dört kas grubundadır: arka uyluk kasları (hamstring) yüzde 37, kasığa uzanan iç uyluk kasları (adduktörler) yüzde 23, ön uyluk kası (kuadriseps) yüzde 19 ve baldır kasları yüzde 13 [4]."
+     ]
+    },
+    {
+     "h": "Belirtiler: dereceye göre ne hissedilir?",
+     "p": [
+      "Yaralanma anında ani ve keskin bir ağrı duyulur; kimi zaman kasta bir kopma ya da \"çıt\" hissi olur [2][3][4]. İlk saatlerde şişlik, ilk günlerde morarma ortaya çıkabilir; morluk bir iki gün içinde baldıra ve ayak bileğine doğru yayılabilir [2][3]. Kas spazmı, güçsüzlük ve yaralı bölgeyi kullanmakta güçlük de görülebilir [1][3].",
+      "Hissedilenler yırtığın derecesine göre değişir [2][3][4]:"
+     ],
+     "list": [
+      "Birinci derece (hafif): belirgin bir yırtık ve güç kaybı yoktur; genellikle çabuk iyileşir [2][4]",
+      "İkinci derece (kısmi yırtık, \"lif kopması\"): batıcı, keskin bir ağrı ve çoğu kez \"çıt\" hissi olur; ağrı belirli bir noktadadır, kas gerilince artar ve kas gücü azalır [4]",
+      "Üçüncü derece (tam ya da tama yakın yırtık, tendonun kemikten kopması): yırtılma hissedilir, kişi çoğu kez yere düşer; kasta elle hissedilen bir boşluk, geniş morluk ve işlev kaybı vardır [3][4]"
+     ]
+    },
+    {
+     "h": "Nasıl anlaşılır: ultrason ve MR ne zaman gerekir?",
+     "p": [
+      "Tanı öncelikle öyküye ve muayeneye dayanır: kas hassasiyet, şişlik ve morluk yönünden elle muayene edilir; büyük yırtıklar elle hissedilebilir [2][3][4]. Görüntüleme muayeneyi tamamlar, tanı yalnızca görüntülemeye dayandırılmaz [4].",
+      "Kırık ya da tendonun bir kemik parçasıyla birlikte kopması olasılığı varsa röntgen çekilir [2][3]. Ultrason, yaralanmadan sonraki 2–48 saat içinde yapıldığında kas yapısındaki bozulmayı ve kan toplanmasını (hematom) gösterir [4]. MR, yapısal bir yırtıktan kuşkulanıldığında istenebilir; yırtığın yerini, yaklaşık büyüklüğünü ve tendonun etkilenip etkilenmediğini ortaya koyar [2][3][4].",
+      "Arka uyluk ya da baldır ağrısı belden kaynaklanan sinir sorunlarına da bağlı olabilir; böyle bir kuşkuda değerlendirme ilgili uzmanlık dalınca yapılır [4]."
+     ]
+    },
+    {
+     "h": "İlk günlerde ne yapılır, ne iyi gelir?",
+     "p": [
+      "İlk yardım uzun süredir dinlenme, buz, bası (bandaj) ve yükseltmeye dayanır; İngiltere Ulusal Sağlık Servisi (NHS) bunlara korumayı ekler ve ilk iki üç gün uygulanmasını önerir [1][2][3].",
+      "British Journal of Sports Medicine'de yayımlanan bir görüş yazısı 1–3 gün koruma önerir; uzun süren dinlenmenin dokuyu zayıflatabileceğini ve buzun etkinliğine ilişkin yüksek kaliteli kanıt bulunmadığını belirtir [5]. Kaynaklar buz konusunda aynı görüşte değildir; bandaj, yükseltme ve ağrıyı artırmayan erken hareket konusunda birleşirler [1][2][5].",
+      "Evde uygulanabilecek önlemler şunlardır [1][2][3]:"
+     ],
+     "list": [
+      "Yaralanmaya yol açan etkinliği bırakmak ve yaralı bölgeye yük vermemeye çalışmak",
+      "Havluya sarılı buz torbasını 2–3 saatte bir, 20 dakikaya kadar uygulamak; buzu doğrudan cilde koymamak",
+      "Bölgeyi elastik bandajla hafifçe sarmak",
+      "Yaralı bölgeyi olabildiğince yüksekte tutmak",
+      "İlk birkaç gün sıcak uygulamadan, alkolden ve masajdan kaçınmak",
+      "Ağrı engel olmadığında bölgeyi hareket ettirmeye başlamak"
+     ]
+    },
+    {
+     "h": "Hangi krem iyi gelir, ağrı kesici kullanılır mı?",
+     "p": [
+      "NHS, eczacıya danışılmasını; başlangıçta ağrı için basit bir ağrı kesicinin, şişlik için cilde sürülen iltihap giderici (antienflamatuvar) jel ya da spreyin denenmesini önerir [1]. Bir Cochrane derlemesine göre bu tür jel, krem ve spreyler, burkulma ve kas zorlanması gibi akut yaralanmalarda ilaçsız jele (plasebo) kıyasla daha fazla kişide ağrıyı en az yüzde 50 azaltmıştır; cilt tepkileri genellikle hafif ve geçici olmuştur [6].",
+      "Ağızdan alınan iltihap giderici ağrı kesiciler hekim tarafından önerilebilir [2]. Öte yandan, iltihabın ilaçla baskılanmasının, özellikle yüksek dozlarda, iyileşmeyi olumsuz etkileyebileceği ileri sürülmüştür [5]. Size uygun ilacı ya da kremi eczacınıza ya da hekiminize danışın [1]."
+     ]
+    },
+    {
+     "h": "Nasıl iyileşir, ne kadar sürer?",
+     "p": [
+      "Ağrı ve şişlik azaldıkça fizik tedaviye başlanır: önce nazik germe yapılır, ardından güçlendirme egzersizleri kademeli olarak eklenir [2][3].",
+      "Burkulma ve kas zorlanmalarının çoğu iki hafta sonra daha iyi hissedilir; koşu gibi zorlayıcı egzersizlerden sekiz haftaya kadar kaçınılması önerilir [1]. Uyluk kaslarında spora dönüş hafif bir yırtıktan sonra 10 gün ile 3 hafta, ağır bir yırtıktan sonra 6 aya kadar sürebilir [2].",
+      "Küçük kısmi yırtıklar genellikle tam olarak iyileşir, daha büyükleri kasta yara dokusu bırakabilir [4]. Arka uyluk kası yırtıklarının çoğu basit, ameliyatsız tedaviyle çok iyi iyileşir [3].",
+      "Spora dönmeden önce kasın tam gücüne kavuşmuş ve ağrısız olması gerekir [2]. Profesyonel futbolda kas yaralanmalarının yüzde 16'sı tekrarlayan yaralanmadır [4]; yeniden yaralanma kalıcı hasar riskini artırır [3]."
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman gündeme gelir?",
+     "p": [
+      "Kasın gövdesindeki yırtıklarda ameliyat yaygın olarak uygulanmaz; ameliyat en sık, tendonun kemiğe yapıştığı yerden tümüyle koptuğu yaralanmalarda (avülsiyon) yapılır [3]. Bu tür kopmalar en çok ön, arka ve iç uyluk kaslarının üst uçlarında görülür [4].",
+      "Ameliyatta tendon yeniden kemiğe tespit edilir; spora dönüşe kadar geçen rehabilitasyon, arka uyluk tendonu leğen kemiğinden kopmuşsa en az 6 ay, diz tarafında kopmuşsa yaklaşık 3 ay sürer [3].",
+      "Arka uyluk yaralanmasından sonra ağrı oturma kemiğine yakınsa tendon kopması yönünden değerlendirilmeniz gerekir; bu tür kopmalar zamana duyarlıdır ve ameliyattan yarar görebilir [2]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Aşağıdaki durumlarda beklemeden başvurun; ağır bir yırtık, tendon kopması, kırık ya da dolaşım ve sinir sorunu söz konusu olabilir. İlk dört durumda acil servise gidin [1]:"
+     ],
+     "list": [
+      "Yaralanma anında çatırtı sesi duyduysanız",
+      "Yaralı bölgenin şekli değiştiyse",
+      "Uyuşma, karıncalanma ya da iğnelenme varsa",
+      "Cilt mavi ya da gri olduysa veya dokununca soğuksa",
+      "Bacağa basamıyor ya da birkaç adımdan fazla yürüyemiyorsanız",
+      "Şişlik ya da morluk çok fazlaysa veya giderek artıyorsa; ağrı çok şiddetliyse",
+      "Kasta elle hissedilen bir boşluk varsa ya da kası hiç kullanamıyorsanız [4]",
+      "Topuk yakınında \"pat\" sesiyle başlayan şiddetli ağrı varsa ve parmak ucuna yükselemiyorsanız: Aşil tendonu kopması olabilir [7]",
+      "Evde bakıma rağmen düzelme olmuyorsa"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kas zedelenmesi kaç günde geçer?",
+     "a": "Hafif bir zedelenmede spora dönüş 10 gün ile 3 hafta sürebilir; kas zorlanmalarının çoğu iki hafta sonra daha iyi hissedilir [1][2]. Ağır yırtıklarda iyileşme 6 aya kadar uzayabilir [2]."
+    },
+    {
+     "q": "Lif kopması kendi kendine iyileşir mi?",
+     "a": "Çoğu zaman evet: küçük kısmi yırtıklar genellikle tam olarak iyileşir ve arka uyluk kası yırtıklarının çoğu ameliyatsız tedaviyle çok iyi iyileşir [3][4]. Daha büyük yırtıklar kasta yara dokusu bırakabilir; bu nedenle iyileşme tamamlanmadan spora dönülmemelidir [2][4]."
+    },
+    {
+     "q": "Kas yırtılmasına hangi krem iyi gelir?",
+     "a": "Cilde sürülen iltihap giderici (antienflamatuvar) jel, krem ve spreylerin burkulma ve kas zorlanmalarında ağrıyı azalttığı gösterilmiştir; yan etkileri genellikle hafif cilt tepkileriyle sınırlıdır [6]. Hangisinin size uygun olduğunu eczacınıza ya da hekiminize danışın [1]."
+    },
+    {
+     "q": "Kas yırtılmasına ne iyi gelir?",
+     "a": "İlk iki üç gün koruma, dinlenme, havluya sarılı buz, bandaj ve yükseltme önerilir; ilk birkaç gün sıcak uygulamadan ve masajdan kaçınmak yerinde olur [1]. Ağrı izin verdiğinde hareket etmeye başlamak kasın sertleşmesini önler [1][5]."
+    },
+    {
+     "q": "Lif kopmasında ameliyat gerekir mi?",
+     "a": "Çoğunlukla hayır; kasın gövdesindeki yırtıklarda ameliyat yaygın olarak uygulanmaz [3]. Ameliyat en sık, tendonun kemikten tümüyle koptuğu yaralanmalarda yapılır [3]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "muscle-strain-tear",
+   "title": "Muscle strains and tears: how to recognise one and how long it takes to heal",
+   "description": "What is a pulled or torn muscle? Symptoms by grade, first aid, which creams help, how long recovery takes, and when a scan or surgery is needed.",
+   "summary": "A muscle tear happens when a muscle is stretched beyond its limit and its fibres tear; a partial tear, in which some of the fibres are torn, is what people usually mean by a pulled muscle or a torn muscle fibre [2][4]. Treatment is mostly non-surgical: protection, cold, a bandage and elevation in the first days, followed by gradual movement and strengthening [1][2][3]. Return to sport can take 10 days to 3 weeks after a mild tear and up to 6 months after a severe one [2].",
+   "sections": [
+    {
+     "h": "What is a muscle strain or a torn muscle fibre?",
+     "p": [
+      "When a muscle is stretched beyond its limit, its fibres tear; this is called a muscle tear, a pulled muscle or a muscle strain (the medical term) [1][2]. The tear usually happens near the point where the muscle joins its tendon, the tissue that attaches it to bone [2][4].",
+      "What is commonly called a \"torn muscle fibre\" (in Turkish, lif kopması) is a partial tear, in which some of the fibres are torn; most muscle tears are of this kind, and a tear through the whole muscle is very rare [4]. In the most severe injuries the tendon tears completely away from the bone where it attaches (an avulsion) [3].",
+      "A sprain is a stretch or tear of the ligaments that hold a joint together [1]. In a muscle strain, what is damaged is the muscle itself or the place where the muscle joins its tendon [1][2]."
+     ]
+    },
+    {
+     "h": "What causes it, and which muscles are affected most often?",
+     "p": [
+      "The injury usually happens when a muscle is suddenly and forcibly lengthened while it is contracting powerfully; sprinting is the typical example [3][4]. Exercising without warming up, tired muscles and playing sport are common causes [1]. Tight or weak muscles, an imbalance of strength between opposing muscles and fatigue increase the risk [2][3].",
+      "In football, 92% of muscle injuries affect four muscle groups of the leg: the muscles at the back of the thigh (hamstrings) 37%, the inner thigh muscles that run up to the groin (adductors) 23%, the muscle at the front of the thigh (quadriceps) 19% and the calf muscles 13% [4]."
+     ]
+    },
+    {
+     "h": "Symptoms: what do you feel at each grade?",
+     "p": [
+      "At the moment of injury there is a sudden, sharp pain, sometimes with a snapping or popping sensation in the muscle [2][3][4]. Swelling can appear in the first hours and bruising over the first days; the bruising may spread towards the calf and ankle within a day or two [2][3]. Muscle spasm, weakness and difficulty using the injured part can also occur [1][3].",
+      "What you feel depends on the grade of the tear [2][3][4]:"
+     ],
+     "list": [
+      "Grade 1 (mild): there is no appreciable tear and no loss of strength; it usually heals quickly [2][4]",
+      "Grade 2 (partial tear, the \"torn fibre\"): a sharp, stabbing pain, often with a snap; the pain is at one well-defined spot and increases when the muscle is stretched, and the muscle is weaker [4]",
+      "Grade 3 (complete or near-complete tear, or a tendon torn away from the bone): tearing is felt and the person often falls; there is a gap in the muscle that can be felt, extensive bruising and loss of function [3][4]"
+     ]
+    },
+    {
+     "h": "How is it diagnosed: when are ultrasound and MRI needed?",
+     "p": [
+      "The diagnosis rests first on the history and the examination: the muscle is felt for tenderness, swelling and bruising; larger tears can be felt by hand [2][3][4]. Imaging complements the examination, and the diagnosis is not based on imaging alone [4].",
+      "An X-ray is taken if there may be a fracture or if the tendon may have torn away with a piece of bone [2][3]. Ultrasound performed between 2 and 48 hours after the injury shows disruption of the muscle structure and any collection of blood (haematoma) [4]. MRI may be requested when a structural tear is suspected; it reveals where the tear is, its approximate size and whether the tendon is involved [2][3][4].",
+      "Pain in the back of the thigh or in the calf can also come from nerve problems arising in the lower back; if this is suspected, the assessment is carried out by the relevant specialty [4]."
+     ]
+    },
+    {
+     "h": "What should be done in the first days, and what helps?",
+     "p": [
+      "First aid has long been based on rest, ice, compression (a bandage) and elevation; the National Health Service in England (NHS) adds protection and advises these measures for the first two to three days [1][2][3].",
+      "An editorial published in the British Journal of Sports Medicine recommends protection for 1 to 3 days; it states that prolonged rest can weaken the tissue and that there is no high-quality evidence for the efficacy of ice [5]. The sources do not agree about ice; they do agree on a bandage, elevation and early movement that does not increase the pain [1][2][5].",
+      "The measures that can be applied at home are [1][2][3]:"
+     ],
+     "list": [
+      "Stopping the activity that caused the injury and trying not to put weight on the injured part",
+      "An ice pack wrapped in a towel for up to 20 minutes every 2 to 3 hours; ice should not be placed directly on the skin",
+      "Wrapping the area lightly with an elastic bandage",
+      "Keeping the injured part raised as much as possible",
+      "Avoiding heat, alcohol and massage for the first couple of days",
+      "Starting to move the area once pain no longer prevents it"
+     ]
+    },
+    {
+     "h": "Which cream helps, and should painkillers be used?",
+     "p": [
+      "The NHS advises speaking to a pharmacist and, at first, trying a simple painkiller for pain and an anti-inflammatory gel or spray applied to the skin for swelling [1]. According to a Cochrane review, in acute injuries such as sprains and strains, gels, creams and sprays of this kind reduced pain by at least 50% in more people than a gel without the drug (placebo); skin reactions were generally mild and transient [6].",
+      "Anti-inflammatory painkillers taken by mouth may be recommended by a doctor [2]. On the other hand, it has been suggested that suppressing inflammation with medication, especially at higher doses, may adversely affect healing [5]. Ask your pharmacist or doctor which medicine or cream is suitable for you [1]."
+     ]
+    },
+    {
+     "h": "How does it heal, and how long does it take?",
+     "p": [
+      "As pain and swelling settle, physiotherapy begins: gentle stretching comes first, and strengthening exercises are added gradually [2][3].",
+      "Most sprains and strains feel better after two weeks; it is advised to avoid strenuous exercise such as running for up to eight weeks [1]. For the thigh muscles, return to sport can take 10 days to 3 weeks after a mild tear and up to 6 months after a severe one [2].",
+      "Small partial tears usually heal completely, whereas larger ones can leave scar tissue in the muscle [4]. Most hamstring tears heal very well with simple, non-surgical treatment [3].",
+      "Before a return to sport the muscle should be at full strength and pain-free [2]. In professional football 16% of muscle injuries are re-injuries [4]; re-injury increases the risk of permanent damage [3]."
+     ]
+    },
+    {
+     "h": "When is surgery considered?",
+     "p": [
+      "Surgery is not commonly performed for tears within the body of the muscle; it is most often performed for injuries in which the tendon has torn completely away from the bone where it attaches (avulsion) [3]. Such avulsions are seen most often at the upper ends of the front, back and inner thigh muscles [4].",
+      "In the operation the tendon is reattached to the bone; rehabilitation before a return to sport takes at least 6 months if the hamstring tendon was torn from the pelvis and about 3 months if it was torn at the knee end [3].",
+      "If, after a hamstring injury, the pain is close to the sitting bone, you need to be assessed for a tendon tear; such tears are time-sensitive and may benefit from surgery [2]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "In the following situations seek care without waiting; there may be a severe tear, a torn tendon, a fracture or a circulation or nerve problem. In the first four, go to an emergency department [1]:"
+     ],
+     "list": [
+      "You heard a crack at the moment of injury",
+      "The injured part has changed shape",
+      "There is numbness, tingling or pins and needles",
+      "The skin has turned blue or grey, or is cold to touch",
+      "You cannot put weight on the leg or cannot walk more than a few steps",
+      "There is a large amount of swelling or bruising, or it is getting worse; the pain is very severe",
+      "There is a gap in the muscle that you can feel, or you cannot use the muscle at all [4]",
+      "Severe pain near the heel that began with a \"pop\", and you cannot rise onto your toes: this may be a ruptured Achilles tendon [7]",
+      "There is no improvement despite care at home"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "How many days does a pulled muscle take to get better?",
+     "a": "After a mild injury, return to sport can take 10 days to 3 weeks; most strains feel better after two weeks [1][2]. After a severe tear, recovery can take up to 6 months [2]."
+    },
+    {
+     "q": "Does a torn muscle fibre heal on its own?",
+     "a": "Most of the time, yes: small partial tears usually heal completely, and most hamstring tears heal very well with non-surgical treatment [3][4]. Larger tears can leave scar tissue in the muscle, so sport should not be resumed before healing is complete [2][4]."
+    },
+    {
+     "q": "Which cream is good for a muscle tear?",
+     "a": "Anti-inflammatory gels, creams and sprays applied to the skin have been shown to reduce pain in sprains and strains; their side effects are generally limited to mild skin reactions [6]. Ask your pharmacist or doctor which one is suitable for you [1]."
+    },
+    {
+     "q": "What helps a muscle tear?",
+     "a": "For the first two to three days protection, rest, ice wrapped in a towel, a bandage and elevation are recommended; heat and massage are best avoided for the first couple of days [1]. Starting to move once pain allows keeps the muscle from becoming stiff [1][5]."
+    },
+    {
+     "q": "Is surgery needed for a torn muscle fibre?",
+     "a": "Usually not; surgery is not commonly performed for tears within the body of the muscle [3]. It is most often performed for injuries in which the tendon has torn completely away from the bone [3]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "rastyazhenie-i-razryv-myshtsy",
+   "title": "Растяжение и разрыв мышцы: как распознать и сколько заживает?",
+   "description": "Растяжение, надрыв и разрыв мышцы: симптомы, первая помощь, какая мазь помогает, сколько длится восстановление, когда нужны УЗИ, МРТ и операция.",
+   "summary": "Разрыв мышцы — это разрыв её волокон при растяжении сверх предела; частичный разрыв, при котором рвётся часть волокон, в быту называют надрывом мышцы [2][4]. Лечение чаще всего безоперационное: в первые дни — защита, холод, повязка и возвышенное положение, затем — постепенное возвращение к движениям и укрепление мышцы [1][2][3]. Возвращение к спорту может занять от 10 дней до 3 недель после лёгкого разрыва и до 6 месяцев после тяжёлого [2].",
+   "sections": [
+    {
+     "h": "Что такое растяжение, надрыв и разрыв мышцы?",
+     "p": [
+      "Когда мышца растягивается сверх своего предела, её волокна рвутся; это называют разрывом, повреждением или растяжением мышцы (медицинский термин — strain) [1][2]. Разрыв чаще всего происходит вблизи места, где мышца переходит в сухожилие — ткань, прикрепляющую её к кости [2][4].",
+      "То, что в быту называют «надрывом мышцы» (по-турецки — lif kopması), — это частичный разрыв, при котором рвётся часть волокон; большинство разрывов мышц относятся именно к этому виду, а полный разрыв всей мышцы встречается очень редко [4]. При самых тяжёлых травмах сухожилие полностью отрывается от места прикрепления к кости (авульсия) [3].",
+      "Растяжение связок — это растяжение или разрыв связок, которые удерживают сустав [1]. При разрыве мышцы страдает сама мышца или место её перехода в сухожилие [1][2]."
+     ]
+    },
+    {
+     "h": "Почему это происходит и какие мышцы страдают чаще?",
+     "p": [
+      "Травма чаще всего возникает, когда мышца резко и с силой удлиняется в момент мощного сокращения; типичный пример — быстрый бег [3][4]. Частые причины — нагрузка без разминки, усталость мышц и занятия спортом [1]. Риск повышают тугие или слабые мышцы, дисбаланс силы между мышцами-антагонистами и усталость [2][3].",
+      "В футболе 92% повреждений мышц приходится на четыре группы мышц ноги: мышцы задней поверхности бедра (хамстринг) — 37%, мышцы внутренней поверхности бедра, идущие к паху (приводящие), — 23%, мышца передней поверхности бедра (четырёхглавая) — 19% и икроножные мышцы — 13% [4]."
+     ]
+    },
+    {
+     "h": "Симптомы: что ощущается при разной степени?",
+     "p": [
+      "В момент травмы возникает внезапная острая боль, иногда с ощущением разрыва или щелчка в мышце [2][3][4]. В первые часы может появиться отёк, в первые дни — кровоподтёк; за день–два он может распространиться к голени и голеностопу [2][3]. Возможны также мышечный спазм, слабость и трудности при использовании повреждённой части тела [1][3].",
+      "Ощущения зависят от степени разрыва [2][3][4]:"
+     ],
+     "list": [
+      "Первая степень (лёгкая): заметного разрыва и потери силы нет; обычно заживает быстро [2][4]",
+      "Вторая степень (частичный разрыв, «надрыв»): острая колющая боль, часто с ощущением щелчка; боль чётко локализована, усиливается при растяжении мышцы, сила мышцы снижена [4]",
+      "Третья степень (полный или почти полный разрыв, отрыв сухожилия от кости): ощущается разрыв, человек часто падает; в мышце прощупывается провал, есть обширный кровоподтёк и утрата функции [3][4]"
+     ]
+    },
+    {
+     "h": "Как ставят диагноз: когда нужны УЗИ и МРТ?",
+     "p": [
+      "Диагноз основывается прежде всего на расспросе и осмотре: врач ощупывает мышцу, проверяя болезненность, отёк и кровоподтёк; крупные разрывы можно прощупать рукой [2][3][4]. Визуализация дополняет осмотр, и диагноз не ставят только по снимкам [4].",
+      "Рентген делают, если возможен перелом или отрыв сухожилия вместе с костным фрагментом [2][3]. УЗИ, выполненное в период от 2 до 48 часов после травмы, показывает нарушение структуры мышцы и скопление крови (гематому) [4]. МРТ могут назначить при подозрении на структурный разрыв; она показывает место разрыва, его примерный размер и то, затронуто ли сухожилие [2][3][4].",
+      "Боль по задней поверхности бедра или в икре может быть связана и с поражением нервов, исходящим из поясницы; при таком подозрении обследование проводит профильный специалист [4]."
+     ]
+    },
+    {
+     "h": "Что делать в первые дни и что помогает?",
+     "p": [
+      "Первая помощь давно строится на покое, холоде, сдавливающей повязке и возвышенном положении; Национальная служба здравоохранения Англии (NHS) добавляет к ним защиту и советует применять эти меры в первые два–три дня [1][2][3].",
+      "В редакционной статье, опубликованной в British Journal of Sports Medicine, рекомендуют защиту в течение 1–3 дней; в ней указано, что длительный покой может ослабить ткань и что доказательств высокого качества в пользу эффективности льда нет [5]. В отношении льда источники расходятся; в отношении повязки, возвышенного положения и ранних движений, не усиливающих боль, они сходятся [1][2][5].",
+      "Меры, которые можно применять дома [1][2][3]:"
+     ],
+     "list": [
+      "Прекратить занятие, вызвавшее травму, и стараться не нагружать повреждённое место",
+      "Прикладывать пакет со льдом, завёрнутый в полотенце, до 20 минут каждые 2–3 часа; лёд не кладут прямо на кожу",
+      "Слегка забинтовать область эластичным бинтом",
+      "Как можно больше держать повреждённое место приподнятым",
+      "В первые пару дней избегать тепла, алкоголя и массажа",
+      "Начинать двигать повреждённой областью, когда боль перестаёт этому мешать"
+     ]
+    },
+    {
+     "h": "Какая мазь помогает и нужны ли обезболивающие?",
+     "p": [
+      "NHS советует посоветоваться с фармацевтом и для начала попробовать простое обезболивающее от боли, а от отёка — противовоспалительный гель или спрей, наносимый на кожу [1]. По данным Кокрейновского обзора, при острых травмах, таких как растяжения связок и мышц, такие гели, кремы и спреи уменьшали боль не менее чем на 50% у большего числа людей, чем гель без лекарства (плацебо); кожные реакции обычно были лёгкими и преходящими [6].",
+      "Противовоспалительные обезболивающие для приёма внутрь может порекомендовать врач [2]. С другой стороны, высказывалось мнение, что подавление воспаления лекарствами, особенно в высоких дозах, может неблагоприятно сказаться на заживлении [5]. Какое лекарство или какая мазь подходит именно вам, уточните у фармацевта или врача [1]."
+     ]
+    },
+    {
+     "h": "Как идёт заживление и сколько оно длится?",
+     "p": [
+      "По мере того как боль и отёк уменьшаются, начинают физиотерапию: сначала выполняют щадящую растяжку, затем постепенно добавляют укрепляющие упражнения [2][3].",
+      "При большинстве растяжений связок и мышц через две недели становится легче; до восьми недель рекомендуют избегать интенсивных нагрузок, таких как бег [1]. При повреждении мышц бедра возвращение к спорту может занять от 10 дней до 3 недель после лёгкого разрыва и до 6 месяцев после тяжёлого [2].",
+      "Небольшие частичные разрывы обычно заживают полностью, тогда как более крупные могут оставить в мышце рубец [4]. Большинство разрывов мышц задней поверхности бедра очень хорошо заживают при простом безоперационном лечении [3].",
+      "Перед возвращением к спорту мышца должна полностью восстановить силу и не болеть [2]. В профессиональном футболе 16% повреждений мышц — повторные [4]; повторная травма повышает риск стойкого повреждения [3]."
+     ]
+    },
+    {
+     "h": "Когда встаёт вопрос об операции?",
+     "p": [
+      "При разрывах в толще мышцы операцию обычно не делают; чаще всего её выполняют при травмах, когда сухожилие полностью оторвалось от места прикрепления к кости (авульсия) [3]. Такие отрывы чаще всего встречаются у верхних концов мышц передней, задней и внутренней поверхности бедра [4].",
+      "Во время операции сухожилие вновь фиксируют к кости; реабилитация до возвращения к спорту занимает не менее 6 месяцев, если сухожилие мышц задней поверхности бедра оторвалось от таза, и около 3 месяцев, если отрыв произошёл у колена [3].",
+      "Если после травмы задней поверхности бедра боль ощущается ближе к седалищной кости, вам нужно обследование на предмет отрыва сухожилия; при таких отрывах важно не упустить время, и операция может принести пользу [2]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "В перечисленных ниже случаях обращайтесь за медицинской помощью без промедления: речь может идти о тяжёлом разрыве, отрыве сухожилия, переломе либо о нарушении кровообращения или повреждении нерва. В первых четырёх случаях нужно сразу ехать в отделение неотложной помощи [1]:"
+     ],
+     "list": [
+      "В момент травмы вы услышали хруст",
+      "Повреждённая часть тела изменила форму",
+      "Есть онемение, покалывание или ощущение «мурашек»",
+      "Кожа стала синеватой или сероватой либо холодная на ощупь",
+      "Вы не можете опереться на ногу или пройти больше нескольких шагов",
+      "Отёк или кровоподтёк очень большие либо нарастают; боль очень сильная",
+      "В мышце прощупывается провал или вы совсем не можете пользоваться мышцей [4]",
+      "Сильная боль возле пятки, начавшаяся с «хлопка», и вы не можете подняться на носок: это может быть разрыв ахиллова сухожилия [7]",
+      "Несмотря на домашние меры, улучшения нет"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "За сколько дней проходит растяжение мышцы?",
+     "a": "После лёгкого повреждения возвращение к спорту может занять от 10 дней до 3 недель; при большинстве растяжений мышц через две недели становится легче [1][2]. При тяжёлых разрывах восстановление может затянуться до 6 месяцев [2]."
+    },
+    {
+     "q": "Заживает ли надрыв мышцы сам?",
+     "a": "Чаще всего да: небольшие частичные разрывы обычно заживают полностью, а большинство разрывов мышц задней поверхности бедра очень хорошо заживают при безоперационном лечении [3][4]. Более крупные разрывы могут оставить в мышце рубец, поэтому возвращаться к спорту до полного заживления не следует [2][4]."
+    },
+    {
+     "q": "Какая мазь помогает при разрыве мышцы?",
+     "a": "Показано, что противовоспалительные гели, кремы и спреи, наносимые на кожу, уменьшают боль при растяжениях связок и мышц; их побочные эффекты обычно ограничиваются лёгкими кожными реакциями [6]. Какое средство подходит именно вам, уточните у фармацевта или врача [1]."
+    },
+    {
+     "q": "Что помогает при разрыве мышцы?",
+     "a": "В первые два–три дня рекомендуют защиту, покой, лёд, завёрнутый в полотенце, повязку и возвышенное положение; в первые пару дней лучше избегать тепла и массажа [1]. Если начать двигаться, когда позволит боль, мышца не утратит подвижность [1][5]."
+    },
+    {
+     "q": "Нужна ли операция при надрыве мышцы?",
+     "a": "Чаще всего нет; при разрывах в толще мышцы операцию обычно не делают [3]. Чаще всего её выполняют при травмах, когда сухожилие полностью оторвалось от кости [3]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "keshidegi-va-paregi-azole",
+   "title": "کشیدگی و پارگی عضله: چگونه تشخیص داده می‌شود و چقدر طول می‌کشد؟",
+   "description": "کشیدگی و پارگی عضله چیست و چه علائمی دارد؟ کمک‌های اولیه، پماد و ژل، مدت بهبودی، زمان نیاز به سونوگرافی و ام‌آرآی و جایگاه جراحی.",
+   "summary": "پارگی عضله یعنی پاره شدن تارهای عضله هنگامی که عضله بیش از حد توانش کشیده می‌شود؛ به پارگی نسبی که در آن بخشی از تارها پاره می‌شود، در گفتار روزمره «پارگی تارهای عضله» می‌گویند [2][4]. درمان بیشتر وقت‌ها بدون جراحی است: در روزهای نخست محافظت، سرما، بانداژ و بالا نگه داشتن، و پس از آن حرکت و تقویت تدریجی به کار می‌رود [1][2][3]. بازگشت به ورزش پس از پارگی خفیف ممکن است ۱۰ روز تا ۳ هفته و پس از پارگی شدید تا ۶ ماه طول بکشد [2].",
+   "sections": [
+    {
+     "h": "کشیدگی و پارگی عضله چیست؟",
+     "p": [
+      "هنگامی که عضله بیش از حد توانش کشیده شود، تارهای آن پاره می‌شود؛ به این حالت پارگی عضله، آسیب‌دیدگی عضله یا کشیدگی عضله (در اصطلاح پزشکی: strain) می‌گویند [1][2]. پارگی بیشتر در نزدیکی جایی رخ می‌دهد که عضله به تاندون، یعنی بافتی که آن را به استخوان وصل می‌کند، می‌پیوندد [2][4].",
+      "آنچه در گفتار روزمره «پارگی تارهای عضله» نامیده می‌شود (در ترکی: lif kopması)، پارگی نسبی است که در آن بخشی از تارها پاره می‌شود؛ بیشتر پارگی‌های عضله از این نوع‌اند و پارگی کامل تمام عضله بسیار نادر است [4]. در شدیدترین آسیب‌ها تاندون از محل اتصالش به استخوان به‌طور کامل کنده می‌شود (کنده‌شدگی؛ avulsion) [3].",
+      "پیچ‌خوردگی، کشیدگی یا پارگی رباط‌هایی است که مفصل را کنار هم نگه می‌دارند [1]. اما در پارگی عضله، آنچه آسیب می‌بیند خودِ عضله یا محل پیوستن عضله به تاندون است [1][2]."
+     ]
+    },
+    {
+     "h": "چرا رخ می‌دهد و در کدام عضلات شایع‌تر است؟",
+     "p": [
+      "این آسیب بیشتر زمانی رخ می‌دهد که عضله در حال انقباض قوی، ناگهان و با نیرو کشیده شود؛ دویدن سرعتی نمونهٔ معمول آن است [3][4]. ورزش بدون گرم کردن، خستگی عضلات و ورزش کردن از علت‌های شایع‌اند [1]. سفت یا ضعیف بودن عضلات، نبود تعادل قدرت میان عضلات مقابل هم و خستگی خطر را افزایش می‌دهد [2][3].",
+      "در فوتبال ۹۲ درصد آسیب‌های عضلانی در چهار گروه عضلانی پا رخ می‌دهد: عضلات پشت ران (همسترینگ) ۳۷ درصد، عضلات داخل ران که تا کشالهٔ ران ادامه دارند (نزدیک‌کننده‌ها) ۲۳ درصد، عضلهٔ جلوی ران (چهارسر) ۱۹ درصد و عضلات پشت ساق ۱۳ درصد [4]."
+     ]
+    },
+    {
+     "h": "علائم: در هر درجه چه احساسی ایجاد می‌شود؟",
+     "p": [
+      "در لحظهٔ آسیب دردی ناگهانی و تیز احساس می‌شود و گاهی حس پاره شدن یا «تَق» در عضله وجود دارد [2][3][4]. در ساعت‌های نخست ممکن است تورم و در روزهای نخست کبودی پدید آید؛ کبودی ممکن است ظرف یکی دو روز به سمت ساق و مچ پا گسترش یابد [2][3]. اسپاسم عضله، ضعف و دشواری در استفاده از عضو آسیب‌دیده نیز ممکن است دیده شود [1][3].",
+      "آنچه احساس می‌شود به درجهٔ پارگی بستگی دارد [2][3][4]:"
+     ],
+     "list": [
+      "درجهٔ یک (خفیف): پارگی آشکار و کاهش قدرت وجود ندارد؛ معمولاً زود بهبود می‌یابد [2][4]",
+      "درجهٔ دو (پارگی نسبی، «پارگی تارهای عضله»): دردی تیز و سوزنی و اغلب حس «تَق» وجود دارد؛ درد در یک نقطهٔ مشخص است، با کشیده شدن عضله بیشتر می‌شود و قدرت عضله کاهش می‌یابد [4]",
+      "درجهٔ سه (پارگی کامل یا نزدیک به کامل، کنده شدن تاندون از استخوان): پاره شدن حس می‌شود و فرد اغلب زمین می‌خورد؛ فرورفتگی‌ای در عضله لمس می‌شود و کبودی گسترده و از دست رفتن عملکرد دیده می‌شود [3][4]"
+     ]
+    },
+    {
+     "h": "چگونه تشخیص داده می‌شود: سونوگرافی و ام‌آرآی چه زمانی لازم است؟",
+     "p": [
+      "تشخیص پیش از هر چیز بر شرح حال و معاینه استوار است: عضله از نظر حساسیت، تورم و کبودی با دست معاینه می‌شود؛ پارگی‌های بزرگ با دست لمس می‌شوند [2][3][4]. تصویربرداری معاینه را کامل می‌کند و تشخیص تنها بر پایهٔ تصویربرداری گذاشته نمی‌شود [4].",
+      "اگر احتمال شکستگی یا کنده شدن تاندون همراه با تکه‌ای از استخوان مطرح باشد، عکس رادیولوژی گرفته می‌شود [2][3]. سونوگرافی اگر ۲ تا ۴۸ ساعت پس از آسیب انجام شود، به‌هم‌خوردگی ساختار عضله و تجمع خون (هماتوم) را نشان می‌دهد [4]. ام‌آرآی ممکن است هنگامی درخواست شود که به پارگی ساختاری شک باشد؛ محل پارگی، اندازهٔ تقریبی آن و درگیر بودن یا نبودن تاندون را آشکار می‌کند [2][3][4].",
+      "درد پشت ران یا پشت ساق ممکن است از مشکلات عصبیِ برخاسته از کمر نیز ناشی شود؛ اگر چنین احتمالی مطرح باشد، ارزیابی را رشتهٔ تخصصی مربوط انجام می‌دهد [4]."
+     ]
+    },
+    {
+     "h": "در روزهای نخست چه باید کرد و چه چیزی مفید است؟",
+     "p": [
+      "کمک‌های اولیه از دیرباز بر استراحت، یخ، فشار (بانداژ) و بالا نگه داشتن استوار بوده است؛ نظام سلامت ملی انگلستان (NHS) محافظت را هم به آن‌ها می‌افزاید و انجام این اقدام‌ها را در دو تا سه روز نخست توصیه می‌کند [1][2][3].",
+      "سرمقاله‌ای که در British Journal of Sports Medicine منتشر شده است ۱ تا ۳ روز محافظت را توصیه می‌کند؛ در آن آمده است که استراحت طولانی می‌تواند بافت را ضعیف کند و شواهد باکیفیتی برای اثربخشی یخ وجود ندارد [5]. منابع دربارهٔ یخ هم‌نظر نیستند؛ اما دربارهٔ بانداژ، بالا نگه داشتن و حرکت زودهنگامی که درد را بیشتر نکند هم‌نظرند [1][2][5].",
+      "اقدام‌هایی که در خانه می‌توان انجام داد این‌ها هستند [1][2][3]:"
+     ],
+     "list": [
+      "کنار گذاشتن فعالیتی که باعث آسیب شده و تلاش برای وزن نگذاشتن روی عضو آسیب‌دیده",
+      "گذاشتن کیسهٔ یخ پیچیده در حوله، هر ۲ تا ۳ ساعت یک بار و هر بار تا ۲۰ دقیقه؛ یخ را نباید مستقیم روی پوست گذاشت",
+      "بستن ملایم ناحیه با باند کشی",
+      "بالا نگه داشتن عضو آسیب‌دیده تا جای ممکن",
+      "پرهیز از گرما، الکل و ماساژ در یکی دو روز نخست",
+      "شروع حرکت دادن ناحیه هنگامی که درد دیگر مانع نیست"
+     ]
+    },
+    {
+     "h": "کدام پماد یا ژل مفید است و آیا مسکّن مصرف شود؟",
+     "p": [
+      "NHS توصیه می‌کند با داروساز مشورت شود و در آغاز برای درد یک مسکّن ساده و برای تورم ژل یا اسپری ضدالتهابی که روی پوست زده می‌شود امتحان شود [1]. بر اساس یک مرور کاکرین، در آسیب‌های حاد مانند پیچ‌خوردگی و کشیدگی عضله، این‌گونه ژل‌ها، کرم‌ها و اسپری‌ها در مقایسه با ژل بدون دارو (دارونما) در شمار بیشتری از افراد درد را دست‌کم ۵۰ درصد کاهش داده‌اند؛ واکنش‌های پوستی معمولاً خفیف و گذرا بوده است [6].",
+      "ممکن است پزشک مسکّن‌های ضدالتهاب خوراکی توصیه کند [2]. از سوی دیگر، این نظر مطرح شده است که مهار التهاب با دارو، به‌ویژه با دوزهای بالاتر، ممکن است بر بهبود اثر نامطلوب بگذارد [5]. اینکه کدام دارو یا پماد برای شما مناسب است را از داروساز یا پزشک خود بپرسید [1]."
+     ]
+    },
+    {
+     "h": "چگونه بهبود می‌یابد و چقدر طول می‌کشد؟",
+     "p": [
+      "با کم شدن درد و تورم، فیزیوتراپی آغاز می‌شود: نخست کشش ملایم انجام می‌شود و سپس تمرین‌های تقویتی به‌تدریج افزوده می‌شود [2][3].",
+      "بیشتر پیچ‌خوردگی‌ها و کشیدگی‌های عضله پس از دو هفته بهتر می‌شوند؛ توصیه می‌شود تا هشت هفته از ورزش‌های سنگین مانند دویدن پرهیز شود [1]. در عضلات ران، بازگشت به ورزش پس از پارگی خفیف ممکن است ۱۰ روز تا ۳ هفته و پس از پارگی شدید تا ۶ ماه طول بکشد [2].",
+      "پارگی‌های نسبی کوچک معمولاً به‌طور کامل خوب می‌شوند، اما پارگی‌های بزرگ‌تر ممکن است در عضله بافت اسکار بر جا بگذارند [4]. بیشتر پارگی‌های عضلات پشت ران با درمان سادهٔ بدون جراحی بسیار خوب بهبود می‌یابند [3].",
+      "پیش از بازگشت به ورزش، عضله باید قدرت کامل خود را بازیافته و بدون درد باشد [2]. در فوتبال حرفه‌ای ۱۶ درصد آسیب‌های عضلانی آسیب دوباره‌اند [4]؛ آسیب دوباره خطر آسیب ماندگار را افزایش می‌دهد [3]."
+     ]
+    },
+    {
+     "h": "چه زمانی جراحی مطرح می‌شود؟",
+     "p": [
+      "در پارگی‌های درون بدنهٔ عضله، جراحی معمولاً انجام نمی‌شود؛ جراحی بیشتر در آسیب‌هایی انجام می‌شود که تاندون از محل اتصالش به استخوان به‌طور کامل کنده شده است (کنده‌شدگی) [3]. این کنده‌شدگی‌ها بیشتر در سرِ بالاییِ عضلات جلو، پشت و داخل ران دیده می‌شوند [4].",
+      "در جراحی، تاندون دوباره به استخوان ثابت می‌شود؛ توان‌بخشی تا بازگشت به ورزش، اگر تاندون عضلات پشت ران از استخوان لگن کنده شده باشد دست‌کم ۶ ماه و اگر در سمت زانو کنده شده باشد حدود ۳ ماه طول می‌کشد [3].",
+      "اگر پس از آسیب پشت ران، درد به استخوان نشیمنگاهی نزدیک باشد، باید از نظر کنده شدن تاندون ارزیابی شوید؛ این نوع کنده‌شدگی به زمان حساس است و ممکن است از جراحی سود ببرد [2]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "در موارد زیر بدون معطلی به یک مرکز درمانی مراجعه کنید؛ ممکن است پارگی شدید، کنده شدن تاندون، شکستگی یا مشکلی در گردش خون یا عصب در کار باشد. در چهار مورد نخست به اورژانس بروید [1]:"
+     ],
+     "list": [
+      "در لحظهٔ آسیب صدای ترک خوردن شنیده‌اید",
+      "عضو آسیب‌دیده تغییر شکل داده است",
+      "بی‌حسی، گزگز یا سوزن‌سوزن شدن وجود دارد",
+      "پوست آبی یا خاکستری شده یا در لمس سرد است",
+      "نمی‌توانید روی پا وزن بگذارید یا بیش از چند قدم راه بروید",
+      "تورم یا کبودی بسیار زیاد است یا رو به افزایش است؛ درد بسیار شدید است",
+      "فرورفتگی‌ای در عضله لمس می‌شود یا اصلاً نمی‌توانید از عضله استفاده کنید [4]",
+      "درد شدید نزدیک پاشنه که با صدای «تَق» آغاز شده است و نمی‌توانید روی پنجهٔ پا بلند شوید: ممکن است پارگی تاندون آشیل باشد [7]",
+      "با وجود مراقبت در خانه بهبودی دیده نمی‌شود"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "کشیدگی عضله چند روزه خوب می‌شود؟",
+     "a": "در آسیب خفیف، بازگشت به ورزش ممکن است ۱۰ روز تا ۳ هفته طول بکشد؛ بیشتر کشیدگی‌های عضله پس از دو هفته بهتر می‌شوند [1][2]. در پارگی‌های شدید، بهبودی ممکن است تا ۶ ماه طول بکشد [2]."
+    },
+    {
+     "q": "آیا پارگی تارهای عضله خودبه‌خود خوب می‌شود؟",
+     "a": "بیشتر وقت‌ها بله: پارگی‌های نسبی کوچک معمولاً به‌طور کامل خوب می‌شوند و بیشتر پارگی‌های عضلات پشت ران با درمان بدون جراحی بسیار خوب بهبود می‌یابند [3][4]. پارگی‌های بزرگ‌تر ممکن است در عضله بافت اسکار بر جا بگذارند؛ از این رو نباید پیش از کامل شدن بهبودی به ورزش بازگشت [2][4]."
+    },
+    {
+     "q": "کدام پماد برای پارگی عضله مفید است؟",
+     "a": "نشان داده شده است که ژل‌ها، کرم‌ها و اسپری‌های ضدالتهابی که روی پوست زده می‌شوند درد را در پیچ‌خوردگی و کشیدگی عضله کاهش می‌دهند؛ عوارض جانبی آن‌ها معمولاً به واکنش‌های پوستی خفیف محدود است [6]. اینکه کدام‌یک برای شما مناسب است را از داروساز یا پزشک خود بپرسید [1]."
+    },
+    {
+     "q": "چه چیزی برای پارگی عضله خوب است؟",
+     "a": "در دو تا سه روز نخست محافظت، استراحت، یخِ پیچیده در حوله، بانداژ و بالا نگه داشتن توصیه می‌شود و بهتر است در یکی دو روز نخست از گرما و ماساژ پرهیز شود [1]. شروع حرکت هنگامی که درد اجازه می‌دهد از خشک شدن عضله جلوگیری می‌کند [1][5]."
+    },
+    {
+     "q": "آیا پارگی تارهای عضله به جراحی نیاز دارد؟",
+     "a": "بیشتر وقت‌ها نه؛ در پارگی‌های درون بدنهٔ عضله، جراحی معمولاً انجام نمی‌شود [3]. جراحی بیشتر در آسیب‌هایی انجام می‌شود که تاندون به‌طور کامل از استخوان کنده شده است [3]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

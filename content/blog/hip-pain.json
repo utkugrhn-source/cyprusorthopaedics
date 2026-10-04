@@ -1,0 +1,541 @@
+{
+ "id": "hip-pain",
+ "area": "kalca",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Hip pain in adults",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/hip-pain/",
+   "year": "2025"
+  },
+  {
+   "title": "Hip Bursitis",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/hip-bursitis/",
+   "year": "n.d."
+  },
+  {
+   "title": "Hip Pain in Adults: Evaluation and Differential Diagnosis",
+   "publisher": "American Family Physician (Chamberlain R)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33448767/",
+   "year": "2021"
+  },
+  {
+   "title": "Education plus exercise versus corticosteroid injection use versus a wait and see approach on global outcome and pain from gluteal tendinopathy: prospective, single blinded, randomised clinical trial",
+   "publisher": "BMJ (Mellor R, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29720374/",
+   "year": "2018"
+  },
+  {
+   "title": "Sciatica",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/sciatica/",
+   "year": "2024"
+  },
+  {
+   "title": "Hip pain in children (irritable hip)",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/hip-pain-children-irritable-hip/",
+   "year": "2024"
+  },
+  {
+   "title": "Transient Osteoporosis of the Hip",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/transient-osteoporosis-of-the-hip/",
+   "year": "n.d."
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "kalca-agrisi",
+   "title": "Kalça ağrısı: neden olur, ne iyi gelir, hangi doktora gidilir?",
+   "description": "Kalça ağrısı neden olur, nereye vurur, evde nasıl geçer? Kasık, kalçanın dış yanı ve kaba et ağrısının nedenleri, hangi bölüme gidilir, ne zaman acildir?",
+   "summary": "Kalça ekleminin kendisinden kaynaklanan ağrı çoğunlukla önde, kasıkta hissedilir; dış yandaki ağrının en sık nedeni trokanterik ağrı sendromudur (bursit), kaba etteki ağrı ise belden yansıyor olabilir [3]. İki haftada düzelmeyen, kötüleşen ya da uykuyu ve günlük işleri bozan ağrıda hekime başvurulur [1]. Düşme sonrası şiddetli ağrı ve yürüyememe ile ateşin eşlik ettiği sıcak, şiş kalça beklemeden değerlendirilmelidir [1].",
+   "sections": [
+    {
+     "h": "Kalça ağrısı nerede hissedilir, nereye vurur?",
+     "p": [
+      "\"Kalça ağrısı\" denince herkes aynı yeri kastetmez; ağrının yeri, nedeni konusunda ipucu verir [3]. Ağrı başka yere de vurabilir: kalça sorunları bazen uylukta ya da dizde hissedilir [6]; belden kaynaklanan siyatik ağrısı ise kaba etten bacağın arkasına, çoğu zaman ayağa kadar iner [5]. Ağrı çoğunlukla şu üç bölgeden birindedir [3]:"
+     ],
+     "list": [
+      "Önde, kasıkta: kalça ekleminin kendisinden kaynaklanan ağrı çoğunlukla buradadır [3]",
+      "Dış yanda, kalça kemiğinin çıkıntısı üzerinde: en sık neden trokanterik ağrı sendromudur; ağrı uyluğun dış yüzüne yayılabilir [2][3]",
+      "Arkada, kaba ette: belden yansıyan ağrı, siyatik sinirin sıkışması ya da uyluk arkası kas tendonlarının sorunları [3]"
+     ]
+    },
+    {
+     "h": "Kalça ağrısı neden olur?",
+     "p": [
+      "Kalça ağrısının pek çok olası nedeni vardır; ani bir yaralanmadan ya da eklem hastalığı (artrit) gibi uzun süren bir sorundan kaynaklanabilir [1]. Genç yetişkinlerde eklem içi ağrı çoğu zaman kalça kemiklerinin sıkışmasına (femoroasetabüler sıkışma) ya da eklem dudağı (labrum) yırtığına bağlıdır; ileri yaşta öndeki kalça ağrısının en sık nedeni kireçlenmedir (osteoartrit) [3]. Başlıca nedenler:"
+     ],
+     "list": [
+      "Kireçlenme: 45 yaşın üzerinde, yürürken artan ağrı ve hareketten sonra sertlik [1]",
+      "Kas ya da bağ zorlanması, tendon iltihabı: yoğun ya da tekrarlayan egzersizden sonra ağrı, şişlik ya da morarma [1]",
+      "Bursit: uyluğa yayılabilen, hareketle ya da o tarafa yatınca artabilen ağrı [1]",
+      "Romatoid artrit: hareketsiz kaldıktan sonra, örneğin sabah uyanınca artan ağrı ve sertlik [1]",
+      "Eklem enfeksiyonu (septik artrit): sıcak, şiş kalça ve yüksek ateş [1]",
+      "Kalça kırığı: düşme ya da yaralanmadan sonra şiddetli ağrı ve yürüyememe [1]",
+      "Uyluk başının kanlanmasının bozulması (avasküler nekroz) ve aşırı kullanıma bağlı stres kırığı [3]",
+      "Yansıyan ağrı: bel omurgası sorunları arkada; karın fıtığı ya da mesane ve kadın üreme organları gibi karın içi sorunlar önde ağrı yapabilir [3]"
+     ]
+    },
+    {
+     "h": "Kalçanın dış yanında ağrı ve kalça bursiti",
+     "p": [
+      "Kalçanın dış yanındaki ağrının en sık nedeni büyük trokanter ağrı sendromudur; kalça yan kasının tendon sorunlarını, bursiti ve uyluğun dış yanındaki bandın sürtünmesini kapsar [3] ve çoğu zaman \"trokanterik bursit\" olarak da adlandırılır [4]. Kadınlarda ve orta ya da ileri yaşta daha sıktır [2]; en çok 40–60 yaş arasındaki kadınları etkiler [3].",
+      "Ağrı kalça kemiğinin dış çıkıntısı üzerindedir ve genellikle uyluğun dış yüzüne yayılır; gece, o tarafa yatınca, bir süre oturduktan sonra kalkarken, uzun yürüyüşte, merdiven çıkarken ve çömelirken artar [2].",
+      "Birçok kişi ağrıyı artıran etkinliklerden kaçınmak, iltihap giderici ağrı kesiciler ve fizik tedaviyle rahatlayabilir; kortizon iğnesi geçici (birkaç ay) ya da kalıcı rahatlama sağlayabilir, ameliyat nadiren gerekir [2]. Dış yan ağrısı üç aydan uzun süren 204 kişilik bir çalışmada eğitim ve egzersiz programı, sekizinci haftada tek kortizon iğnesinden ve bekleyip izlemekten daha iyi sonuç vermiş; bir yıl sonunda genel düzelme yine daha yüksek, ağrı şiddeti ise iğneyle benzer bulunmuştur [4]."
+     ]
+    },
+    {
+     "h": "Belden ve kaba etten gelen ağrı",
+     "p": [
+      "Kaba ette hissedilen ağrı başka bir yerden yansıyor olabilir: bel omurgası sorunlarında ağrı genellikle hem belde hem kaba ettedir [3]. Siyatik, belden ayağa uzanan siyatik sinirin tahriş olması ya da sıkışmasıdır; genellikle kaba eti ve yalnızca bir bacağın (sağ ya da sol) arkasını, çoğu zaman ayağı da etkiler; keskin, yanıcı ağrı, karıncalanma, uyuşma ya da güçsüzlük yapabilir [5]. Belden kaynaklanan ağrıyı omurga hastalıklarıyla ilgilenen uzmanlık dalları değerlendirir."
+     ]
+    },
+    {
+     "h": "Kalça ağrısına ne iyi gelir? Evde yapılabilecekler",
+     "p": [
+      "Yaralanma ya da son bölümdeki uyarı belirtileri yoksa şu önlemler ağrıyı hafifletmeye yardımcı olabilir; bitkisel karışımlar bu öneriler arasında yer almaz [1]:"
+     ],
+     "list": [
+      "Kalçayı fazla zorlamamak, ama aşırıya kaçmadan hareket etmeyi sürdürmek",
+      "Havluya sarılı buz torbasını ağrılı bölgeye 2–3 saatte bir, 20 dakikaya kadar uygulamak",
+      "Gerektiğinde ağrı kesici (jel ya da tablet); hangisinin uygun olduğunu eczacıya ya da hekime sorabilirsiniz",
+      "Yumuşak tabanlı, darbeyi emen rahat ayakkabılar",
+      "Fazla kilo varsa kilo vermeye çalışmak",
+      "Kalçaya yönelik hafif germe egzersizleri",
+      "Ağır yük taşımamak ve alçak sandalyeye oturmamak"
+     ]
+    },
+    {
+     "h": "Hangi doktora gidilir, nasıl değerlendirilir?",
+     "p": [
+      "Ağrı günlük işleri ya da uykuyu bozuyorsa, kötüleşiyor ya da tekrarlıyorsa, evde iki haftalık önlemlere rağmen düzelmediyse ya da sabah uyandıktan sonra kalçadaki sertlik 30 dakikadan uzun sürüyorsa hekime başvurun [1]. Kalça eklemi ile çevresindeki kemik, kas ve tendon sorunlarına ortopedi ve travmatoloji bölümü bakar.",
+      "Değerlendirme öykü ve muayeneyle başlar; yansıyan ağrı açısından karın da muayene edilir [3]. Görüntüleme yapılacaksa ilk tetkik genellikle ayakta çekilen kalça ve leğen röntgenidir; kesin tanı için ultrason ya da MR gerekebilir [3].",
+      "MR raporlarındaki \"kemik iliği ödemi\", kemik iliğinin iltihaplanıp sıvıyla dolması demektir [7]. Örneğin kalçanın geçici osteoporozunda görülür: uyluk kemiğinin üst bölümünde geçici kemik kaybı yapan nadir bir durumdur; ağrı yük verince artar ve genellikle 6–12 ay içinde geçer [7]."
+     ]
+    },
+    {
+     "h": "Tedavi nedene göre değişir",
+     "p": [
+      "Tedavi nedene bağlıdır; ağrı kesiciler, egzersiz, fizyoterapi, baston gibi yürüme yardımcıları, kortizon iğnesi ve ameliyat gibi seçeneklerin konuşulduğu uzman değerlendirmesi bunlar arasındadır [1]. Hasarlı kalça eklemine bağlı ağrısı olan bazı kişilerde, diğer tedaviler yarar sağlamazsa sonunda kalça protezi gerekebilir [1]. Kireçlenme, kalça protezi ve kalça kırığı ayrı konulardır; burada yalnızca olası nedenler arasında anılmıştır."
+     ]
+    },
+    {
+     "h": "Çocukta kalça ağrısı ve topallama",
+     "p": [
+      "Çocuklarda kalça ağrısının en sık nedeni, kalça ekleminin ağrılı ve iltihaplı hâle geldiği, genellikle 1–2 haftada düzelen ve kalıcı sorun bırakmayan bir durumdur (İngilizcede \"irritable hip\") [6]. Daha seyrek ama daha ciddi nedenler eklem enfeksiyonu (septik artrit), kırık gibi yaralanmalar ve Perthes hastalığıdır [6].",
+      "Bu nedenle çocukta aniden başlayan ağrı ya da topallama gecikmeden hekime gösterilmelidir; muayenenin yanında röntgen, bazen kan tetkiki ya da başka görüntülemeler istenebilir [6]. Bebeklerdeki gelişimsel kalça displazisi bu yazının kapsamı dışındadır."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Şu durumlarda bir sağlık kuruluşuna gecikmeden başvurun; ilk üç durumda acil servise gidin ya da ambulans çağırın [1][5][6]:"
+     ],
+     "list": [
+      "Düşme ya da yaralanmadan sonra şiddetli kalça ağrısı varsa, yürüyemiyor ya da bacağınıza basamıyorsanız (kalça kırığı olabilir); yaşlı bir yakınınız düştükten sonra ayağa kalkamıyorsa da aynı şekilde davranın [1]",
+      "Yaralanmadan sonra kalçada ya da bacakta karıncalanma ya da his kaybı varsa [1]",
+      "Siyatik ağrısı iki tarafta birdense, iki bacakta şiddetli ya da artan güçsüzlük ya da uyuşma, cinsel organlar ya da makat çevresinde uyuşma varsa, idrar ya da dışkı kontrolü yeni bozulduysa [5]",
+      "Düşme ya da yaralanma olmadan aniden başlayan şiddetli kalça ağrısı varsa [1]",
+      "Kalça şiş ve sıcaksa, çevresindeki ciltte renk değişikliği varsa ya da ağrıya yüksek ateş ve genel kırgınlık eşlik ediyorsa (eklem enfeksiyonu olabilir) [1]",
+      "Çocukta aniden başlayan kalça, uyluk ya da diz ağrısı, topallama ya da bir bacağa basamama varsa [6]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kalça ağrısına hangi bölüm bakar?",
+     "a": "Kalça eklemi ile çevresindeki kemik, kas ve tendon sorunlarına ortopedi ve travmatoloji bölümü bakar. Ağrı belden ya da karın içi organlardan yansıyorsa değerlendirmeyi ilgili uzmanlık dalı yapar [3]."
+    },
+    {
+     "q": "Kalça ağrısı evde nasıl geçer?",
+     "a": "Kalçayı fazla zorlamadan hareket etmeyi sürdürmek, 2–3 saatte bir 20 dakikaya kadar buz uygulamak, gerektiğinde ağrı kesici, yumuşak tabanlı ayakkabı ve hafif germe egzersizleri ağrıyı hafifletmeye yardımcı olabilir [1]. İki hafta içinde düzelme olmazsa hekime başvurun [1]."
+    },
+    {
+     "q": "Kadınlarda kalça ağrısı neden olur?",
+     "a": "Kalçanın dış yanındaki ağrı (trokanterik ağrı sendromu) kadınlarda daha sıktır ve en çok 40–60 yaş arasındaki kadınları etkiler [2][3]. Kadın üreme organlarından kaynaklanan ağrı da kalçanın ön tarafında hissedilebilir [3]."
+    },
+    {
+     "q": "Yürürken kalça ağrısı neye işaret eder?",
+     "a": "45 yaşın üzerinde yürürken artan ağrı ve hareketten sonra sertlik kireçlenmeyi düşündürür [1]. Kalçanın dış yanındaki ağrı da uzun yürüyüşte ve merdiven çıkarken artabilir [2]. Düşme ya da yaralanmadan sonra yürüyemiyorsanız acil servise başvurun [1]."
+    },
+    {
+     "q": "MR'da kalça ekleminde ödem ne anlama gelir?",
+     "a": "Kemik iliği ödemi, kemik iliğinin iltihaplanıp sıvıyla dolmasıdır [7]. Örneğin kalçanın geçici osteoporozunda MR'da görülür; bu durumda ağrı genellikle 6–12 ay içinde geçer [7]. Bulgunun sizin için ne anlama geldiğini sizi muayene eden hekim değerlendirir."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "hip-pain",
+   "title": "Hip pain: what causes it, what helps and which doctor should you see?",
+   "description": "What causes hip pain, where does it spread and how can it be eased at home? Causes of groin, outer hip and buttock pain, who to see and when it is urgent.",
+   "summary": "Pain that comes from the hip joint itself is mostly felt at the front, in the groin; the most common cause of pain on the outer side is greater trochanteric pain syndrome (bursitis), while pain in the buttock may be referred from the lower back [3]. See a doctor if the pain has not improved in two weeks, is getting worse, or is disturbing sleep and daily activities [1]. Severe pain and inability to walk after a fall, and a hot, swollen hip with a high temperature, need to be assessed without waiting [1].",
+   "sections": [
+    {
+     "h": "Where is hip pain felt and where does it spread?",
+     "p": [
+      "People do not all mean the same place when they say \"hip pain\"; where the pain is gives a clue to its cause [3]. Pain can also spread elsewhere: hip problems are sometimes felt in the thigh or knee [6], while sciatica, which arises from the lower back, runs from the buttock down the back of the leg, often as far as the foot [5]. The pain is usually in one of three areas [3]:"
+     ],
+     "list": [
+      "At the front, in the groin: pain that comes from the hip joint itself is mostly felt here [3]",
+      "On the outer side, over the bony point of the hip: the most common cause is greater trochanteric pain syndrome; the pain can spread down the outside of the thigh [2][3]",
+      "At the back, in the buttock: pain referred from the lower back, entrapment of the sciatic nerve, or problems of the hamstring tendons [3]"
+     ]
+    },
+    {
+     "h": "What causes hip pain?",
+     "p": [
+      "There are many possible causes of hip pain; it may be caused by a sudden injury or by a longer-lasting problem such as a joint disease (arthritis) [1]. In younger adults, pain from inside the joint is often due to the hip bones pinching against each other (femoroacetabular impingement) or a tear of the rim of the socket (the labrum); in older adults the most common cause of pain at the front of the hip is osteoarthritis [3]. The main causes are:"
+     ],
+     "list": [
+      "Osteoarthritis: over 45 years of age, pain that is worse when walking and stiffness after moving [1]",
+      "Sprain or strain, or tendonitis: pain, swelling or bruising after intense or repetitive exercise [1]",
+      "Bursitis: pain that may spread to the thigh and may feel worse when moving or lying on that side [1]",
+      "Rheumatoid arthritis: pain and stiffness that are worse after not moving, for example on waking [1]",
+      "Joint infection (septic arthritis): a hot, swollen hip and a high temperature [1]",
+      "Hip fracture: severe pain and being unable to walk after a fall or injury [1]",
+      "Loss of blood supply to the head of the thigh bone (avascular necrosis) and stress fracture from overuse [3]",
+      "Referred pain: problems of the lumbar spine can cause pain at the back; problems inside the abdomen, such as a hernia or pain arising from the bladder or the female reproductive organs, can cause pain at the front [3]"
+     ]
+    },
+    {
+     "h": "Pain on the outer side of the hip and hip bursitis",
+     "p": [
+      "The most common cause of pain on the outer side of the hip is greater trochanteric pain syndrome; it covers tendon problems of the muscle at the side of the hip, bursitis and friction of the band that runs down the outside of the thigh [3], and it is often also called \"trochanteric bursitis\" [4]. It is more common in women and in middle-aged or older people [2]; it most commonly affects women aged 40 to 60 [3].",
+      "The pain is over the bony point on the outside of the hip and usually spreads down the outside of the thigh; it gets worse at night, when lying on that side, when getting up after sitting for a while, with prolonged walking, when climbing stairs and when squatting [2].",
+      "Many people can get relief by avoiding the activities that make the pain worse, with anti-inflammatory painkillers and with physiotherapy; a cortisone injection may give temporary (a few months) or permanent relief, and surgery is rarely needed [2]. In a trial of 204 people whose outer hip pain had lasted more than three months, a programme of education and exercise gave better results at eight weeks than a single cortisone injection or a wait-and-see approach; at one year overall improvement was still higher, while pain intensity was similar to that after the injection [4]."
+     ]
+    },
+    {
+     "h": "Pain coming from the lower back and the buttock",
+     "p": [
+      "Pain felt in the buttock may be referred from somewhere else: with problems of the lumbar spine the pain is usually in both the lower back and the buttock [3]. Sciatica is irritation or compression of the sciatic nerve, which runs from the lower back to the feet; it usually affects the buttock and the back of one leg only (right or left), often including the foot, and can cause a sharp, burning pain, tingling, numbness or weakness [5]. Pain that arises from the back is assessed by the specialties that deal with disorders of the spine."
+     ]
+    },
+    {
+     "h": "What helps hip pain? What you can do at home",
+     "p": [
+      "If there has been no injury and none of the warning signs in the last section are present, the following measures can help to ease the pain; herbal mixtures are not among these recommendations [1]:"
+     ],
+     "list": [
+      "Avoiding too much strain on the hip, while keeping moving without overdoing it",
+      "An ice pack wrapped in a towel on the painful area for up to 20 minutes every 2 to 3 hours",
+      "A painkiller if needed (gel or tablets); a pharmacist or doctor can advise which one is suitable",
+      "Comfortable, shock-absorbing shoes with a soft sole",
+      "Trying to lose weight if you are overweight",
+      "Gentle stretching exercises for the hip",
+      "Not carrying anything heavy and not sitting in low chairs"
+     ]
+    },
+    {
+     "h": "Which doctor should you see and how is it assessed?",
+     "p": [
+      "See a doctor if the pain is stopping normal activities or affecting sleep, is getting worse or keeps coming back, has not improved after two weeks of measures at home, or if the hip is stiff for more than 30 minutes after waking [1]. Problems of the hip joint and of the bones, muscles and tendons around it are dealt with by the orthopaedics and trauma department.",
+      "The assessment starts with the history and an examination; the abdomen is also examined in case the pain is referred [3]. If imaging is done, the first test is usually an X-ray of the hip and pelvis taken standing; ultrasound or MRI may be needed for a definite diagnosis [3].",
+      "\"Bone marrow oedema\" in an MRI report means that the bone marrow is inflamed and full of fluid [7]. It is seen, for example, in transient osteoporosis of the hip: a rare condition that causes temporary bone loss in the upper part of the thigh bone; the pain increases with weight bearing and usually goes away within 6 to 12 months [7]."
+     ]
+    },
+    {
+     "h": "Treatment depends on the cause",
+     "p": [
+      "Treatment depends on the cause; it can include painkillers, exercises, physiotherapy, walking aids such as a stick, cortisone injections and assessment by a specialist who discusses options such as surgery [1]. Some people with pain caused by a damaged hip joint may eventually need a hip replacement if other treatments do not help [1]. Osteoarthritis, hip replacement and hip fracture are separate topics; here they are mentioned only among the possible causes."
+     ]
+    },
+    {
+     "h": "Hip pain and limping in a child",
+     "p": [
+      "The most common cause of hip pain in children is a condition in which the hip joint becomes sore and inflamed, which usually gets better in 1 to 2 weeks and does not cause lasting problems (known in English as \"irritable hip\") [6]. Less common but more serious causes are joint infection (septic arthritis), an injury such as a broken bone, and Perthes' disease [6].",
+      "For this reason, sudden pain or limping in a child should be seen by a doctor without delay; in addition to the examination, an X-ray and sometimes a blood test or other scans may be requested [6]. Developmental dysplasia of the hip in babies is outside the scope of this article."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "In the following situations seek care without delay; in the first three go to the emergency department or call an ambulance [1][5][6]:"
+     ],
+     "list": [
+      "Severe hip pain after a fall or injury, or you cannot walk or put weight on the leg (this may be a hip fracture); do the same if an elderly relative cannot get up after a fall [1]",
+      "Tingling or loss of feeling in the hip or leg after an injury [1]",
+      "Sciatica on both sides, severe or worsening weakness or numbness in both legs, numbness around the genitals or anus, or a new loss of bladder or bowel control [5]",
+      "Severe hip pain that started suddenly without a fall or injury [1]",
+      "The hip is swollen and hot, the skin around it has changed colour, or the pain comes with a high temperature and feeling generally unwell (this may be a joint infection) [1]",
+      "A child with sudden pain in the hip, thigh or knee, a limp, or who cannot put weight on one leg [6]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Which department deals with hip pain?",
+     "a": "Problems of the hip joint and of the bones, muscles and tendons around it are dealt with by the orthopaedics and trauma department. If the pain is referred from the lower back or from organs inside the abdomen, it is assessed by the relevant specialty [3]."
+    },
+    {
+     "q": "How can hip pain be eased at home?",
+     "a": "Keeping moving without straining the hip, applying ice for up to 20 minutes every 2 to 3 hours, a painkiller if needed, soft-soled shoes and gentle stretching exercises can help to ease the pain [1]. See a doctor if there is no improvement within two weeks [1]."
+    },
+    {
+     "q": "What causes hip pain in women?",
+     "a": "Pain on the outer side of the hip (greater trochanteric pain syndrome) is more common in women and most commonly affects women aged 40 to 60 [2][3]. Pain arising from the female reproductive organs can also be felt at the front of the hip [3]."
+    },
+    {
+     "q": "What does hip pain when walking point to?",
+     "a": "Over the age of 45, pain that is worse when walking, with stiffness after moving, suggests osteoarthritis [1]. Pain on the outer side of the hip can also get worse with prolonged walking and climbing stairs [2]. If you cannot walk after a fall or injury, go to the emergency department [1]."
+    },
+    {
+     "q": "What does oedema in the hip joint on an MRI mean?",
+     "a": "Bone marrow oedema means that the bone marrow is inflamed and full of fluid [7]. It is seen on MRI in, for example, transient osteoporosis of the hip, in which the pain usually goes away within 6 to 12 months [7]. What the finding means for you is assessed by the doctor who examines you."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "bol-v-tazobedrennom-sustave",
+   "title": "Боль в тазобедренном суставе: отчего возникает, что помогает и к какому врачу идти?",
+   "description": "Отчего болит тазобедренный сустав, куда отдаёт боль и как облегчить её дома? Боль в паху, сбоку бедра и в ягодице, к какому врачу идти и когда это срочно.",
+   "summary": "Боль, исходящая из самого тазобедренного сустава, чаще всего ощущается спереди, в паху; самая частая причина боли по наружной стороне — болевой синдром большого вертела (бурсит), а боль в ягодице может отдавать из поясницы [3]. Если боль не проходит за две недели, усиливается либо нарушает сон и повседневные дела, обращаются к врачу [1]. Сильная боль и невозможность ходить после падения, а также горячий, отёкший сустав при повышенной температуре требуют оценки без промедления [1].",
+   "sections": [
+    {
+     "h": "Где ощущается боль в тазобедренном суставе и куда она отдаёт?",
+     "p": [
+      "Под «болью в тазобедренном суставе» люди понимают разные места; расположение боли подсказывает её причину [3]. Боль может отдавать и в другие места: проблемы тазобедренного сустава иногда ощущаются в бедре или колене [6], а боль при ишиасе, идущая от поясницы, спускается от ягодицы по задней поверхности ноги, часто до стопы [5]. Чаще всего боль находится в одной из трёх областей [3]:"
+     ],
+     "list": [
+      "Спереди, в паху: здесь чаще всего ощущается боль, исходящая из самого тазобедренного сустава [3]",
+      "Снаружи, над костным выступом бедра: самая частая причина — болевой синдром большого вертела; боль может распространяться по наружной поверхности бедра [2][3]",
+      "Сзади, в ягодице: боль, отдающая из поясницы, ущемление седалищного нерва или проблемы сухожилий мышц задней поверхности бедра [3]"
+     ]
+    },
+    {
+     "h": "Отчего возникает боль в тазобедренном суставе?",
+     "p": [
+      "У боли в тазобедренном суставе много возможных причин; она может быть вызвана внезапной травмой или длительно существующей проблемой, например заболеванием сустава (артритом) [1]. У молодых взрослых боль, исходящая из самого сустава, часто связана с соударением костей тазобедренного сустава (фемороацетабулярным импинджментом) или разрывом суставной губы; в пожилом возрасте самая частая причина боли спереди — артроз (остеоартрит) [3]. Основные причины:"
+     ],
+     "list": [
+      "Артроз: возраст старше 45 лет, боль, усиливающаяся при ходьбе, и скованность после движения [1]",
+      "Растяжение мышц или связок, воспаление сухожилия: боль, отёк или синяк после интенсивной или повторяющейся нагрузки [1]",
+      "Бурсит: боль, которая может отдавать в бедро и усиливаться при движении или в положении лёжа на этом боку [1]",
+      "Ревматоидный артрит: боль и скованность, усиливающиеся после неподвижности, например утром после пробуждения [1]",
+      "Инфекция сустава (септический артрит): горячий, отёкший сустав и высокая температура [1]",
+      "Перелом бедра: сильная боль и невозможность ходить после падения или травмы [1]",
+      "Нарушение кровоснабжения головки бедренной кости (аваскулярный некроз) и стрессовый перелом от перегрузки [3]",
+      "Отражённая боль: проблемы поясничного отдела позвоночника могут вызывать боль сзади; проблемы органов брюшной полости, например грыжа либо заболевания мочевого пузыря или женских половых органов, — боль спереди [3]"
+     ]
+    },
+    {
+     "h": "Боль по наружной стороне бедра и бурсит тазобедренного сустава",
+     "p": [
+      "Самая частая причина боли по наружной стороне тазобедренного сустава — болевой синдром большого вертела; он включает проблемы сухожилия мышцы, расположенной сбоку от сустава, бурсит и трение тяжа, идущего по наружной поверхности бедра [3], и его часто называют также «вертельным бурситом» [4]. Он чаще встречается у женщин и у людей среднего или пожилого возраста [2]; чаще всего им страдают женщины 40–60 лет [3].",
+      "Боль находится над наружным костным выступом бедра и обычно распространяется по наружной поверхности бедра; она усиливается ночью, в положении лёжа на этом боку, при вставании после некоторого времени сидения, при длительной ходьбе, подъёме по лестнице и приседании [2].",
+      "Многим людям могут помочь отказ от нагрузок, усиливающих боль, противовоспалительные обезболивающие и физиотерапия; укол кортизона может дать временное (на несколько месяцев) или стойкое облегчение, операция требуется редко [2]. В исследовании с участием 204 человек, у которых боль по наружной стороне длилась более трёх месяцев, программа обучения и упражнений на восьмой неделе дала лучший результат, чем однократный укол кортизона и выжидательная тактика; через год общее улучшение по-прежнему было выше, а интенсивность боли оказалась сходной с результатом после укола [4]."
+     ]
+    },
+    {
+     "h": "Боль, идущая от поясницы и ягодицы",
+     "p": [
+      "Боль, ощущаемая в ягодице, может отдавать из другого места: при проблемах поясничного отдела позвоночника боль обычно есть и в пояснице, и в ягодице [3]. Ишиас — это раздражение или сдавление седалищного нерва, идущего от поясницы к стопам; обычно он затрагивает ягодицу и заднюю поверхность только одной ноги (правой или левой), часто и стопу, и может вызывать острую, жгучую боль, покалывание, онемение или слабость [5]. Боль, исходящую из поясницы, оценивают специалисты, занимающиеся заболеваниями позвоночника."
+     ]
+    },
+    {
+     "h": "Что помогает при боли в тазобедренном суставе? Что можно сделать дома",
+     "p": [
+      "Если не было травмы и нет тревожных признаков, перечисленных в последнем разделе, облегчить боль могут помочь следующие меры; травяные смеси в число этих рекомендаций не входят [1]:"
+     ],
+     "list": [
+      "Не перегружать тазобедренный сустав, но продолжать двигаться, не переусердствуя",
+      "Прикладывать к болезненному месту пакет со льдом, завёрнутый в полотенце, каждые 2–3 часа на время до 20 минут",
+      "При необходимости обезболивающее (гель или таблетки); какое подходит, можно спросить у фармацевта или врача",
+      "Удобная обувь на мягкой подошве, смягчающая удары",
+      "Постараться снизить вес при избыточном весе",
+      "Лёгкие упражнения на растяжку для тазобедренного сустава",
+      "Не носить тяжести и не сидеть на низких стульях"
+     ]
+    },
+    {
+     "h": "К какому врачу идти и как проводят обследование?",
+     "p": [
+      "Обратитесь к врачу, если боль мешает повседневным делам или сну, усиливается или возвращается, не уменьшилась за две недели домашних мер либо если скованность в тазобедренном суставе после пробуждения длится дольше 30 минут [1]. Проблемами тазобедренного сустава и окружающих его костей, мышц и сухожилий занимается отделение ортопедии и травматологии.",
+      "Обследование начинается с расспроса и осмотра; осматривают и живот — на случай отражённой боли [3]. Если проводят визуализацию, первым исследованием обычно бывает рентген тазобедренного сустава и таза в положении стоя; для точного диагноза может понадобиться УЗИ или МРТ [3].",
+      "«Отёк костного мозга» в заключении МРТ означает, что костный мозг воспалён и наполнен жидкостью [7]. Он встречается, например, при транзиторном остеопорозе тазобедренного сустава: это редкое состояние, вызывающее временную потерю костной ткани в верхнем отделе бедренной кости; боль усиливается при нагрузке на ногу и обычно проходит в течение 6–12 месяцев [7]."
+     ]
+    },
+    {
+     "h": "Лечение зависит от причины",
+     "p": [
+      "Лечение зависит от причины; оно может включать обезболивающие, упражнения, физиотерапию, вспомогательные средства для ходьбы, например трость, уколы кортизона и консультацию специалиста, на которой обсуждают такие варианты, как операция [1]. Некоторым людям с болью из-за повреждённого тазобедренного сустава, если другие методы не помогают, со временем может понадобиться эндопротезирование тазобедренного сустава [1]. Артроз, эндопротезирование и перелом бедра — отдельные темы; здесь они лишь упомянуты среди возможных причин."
+     ]
+    },
+    {
+     "h": "Боль в тазобедренном суставе и хромота у ребёнка",
+     "p": [
+      "Самая частая причина боли в тазобедренном суставе у детей — состояние, при котором сустав становится болезненным и воспалённым; оно обычно проходит за 1–2 недели и не оставляет стойких последствий (по-английски — «irritable hip») [6]. Более редкие, но более серьёзные причины — инфекция сустава (септический артрит), травма, например перелом, и болезнь Пертеса [6].",
+      "Поэтому при внезапной боли или хромоте ребёнка нужно без промедления показать врачу; помимо осмотра, могут назначить рентген, иногда анализ крови или другие исследования [6]. Дисплазия тазобедренного сустава у младенцев выходит за рамки этой статьи."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "В следующих случаях без промедления обратитесь в медицинское учреждение; в первых трёх случаях поезжайте в отделение неотложной помощи или вызовите скорую помощь [1][5][6]:"
+     ],
+     "list": [
+      "Сильная боль в тазобедренном суставе после падения или травмы, вы не можете ходить или опереться на ногу (возможен перелом бедра); так же действуйте, если пожилой близкий человек после падения не может встать [1]",
+      "После травмы появились покалывание или потеря чувствительности в области тазобедренного сустава или в ноге [1]",
+      "Ишиас с обеих сторон, сильная или нарастающая слабость либо онемение в обеих ногах, онемение в области половых органов или заднего прохода, впервые возникшее нарушение контроля мочеиспускания или дефекации [5]",
+      "Сильная боль в тазобедренном суставе, возникшая внезапно без падения или травмы [1]",
+      "Область сустава отёкшая и горячая, изменился цвет кожи вокруг него либо боль сопровождается высокой температурой и общим недомоганием (возможна инфекция сустава) [1]",
+      "У ребёнка внезапно появилась боль в тазобедренном суставе, бедре или колене, хромота либо он не может опереться на одну ногу [6]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Какое отделение занимается болью в тазобедренном суставе?",
+     "a": "Проблемами тазобедренного сустава и окружающих его костей, мышц и сухожилий занимается отделение ортопедии и травматологии. Если боль отдаёт из поясницы или от органов брюшной полости, её оценивает соответствующий специалист [3]."
+    },
+    {
+     "q": "Как облегчить боль в тазобедренном суставе дома?",
+     "a": "Облегчить боль могут помочь движение без перегрузки сустава, лёд на время до 20 минут каждые 2–3 часа, при необходимости обезболивающее, обувь на мягкой подошве и лёгкие упражнения на растяжку [1]. Если за две недели улучшения нет, обратитесь к врачу [1]."
+    },
+    {
+     "q": "Отчего болит тазобедренный сустав у женщин?",
+     "a": "Боль по наружной стороне тазобедренного сустава (болевой синдром большого вертела) чаще встречается у женщин, чаще всего в возрасте 40–60 лет [2][3]. Боль, исходящая от женских половых органов, также может ощущаться спереди, в области тазобедренного сустава [3]."
+    },
+    {
+     "q": "На что указывает боль в тазобедренном суставе при ходьбе?",
+     "a": "В возрасте старше 45 лет боль, усиливающаяся при ходьбе, и скованность после движения позволяют заподозрить артроз [1]. Боль по наружной стороне также может усиливаться при длительной ходьбе и подъёме по лестнице [2]. Если после падения или травмы вы не можете ходить, обратитесь в отделение неотложной помощи [1]."
+    },
+    {
+     "q": "Что означает отёк в тазобедренном суставе на МРТ?",
+     "a": "Отёк костного мозга означает, что костный мозг воспалён и наполнен жидкостью [7]. На МРТ он виден, например, при транзиторном остеопорозе тазобедренного сустава; при этом состоянии боль обычно проходит в течение 6–12 месяцев [7]. Что эта находка означает для вас, оценивает врач, который вас осматривает."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "dard-lagan",
+   "title": "درد لگن: چرا ایجاد می‌شود، چه چیزی کمک می‌کند و به کدام پزشک باید مراجعه کرد؟",
+   "description": "درد لگن چرا ایجاد می‌شود، به کجا می‌زند و در خانه چگونه کم می‌شود؟ علت‌های درد کشالهٔ ران، سمت بیرونی لگن و باسن، کدام پزشک و چه زمانی فوری است؟",
+   "summary": "دردی که از خودِ مفصل لگن سرچشمه می‌گیرد بیشتر در جلو، در کشالهٔ ران، حس می‌شود؛ شایع‌ترین علت درد سمت بیرونی لگن سندرم درد تروکانتر بزرگ (بورسیت) است و درد باسن ممکن است از کمر انتشار یافته باشد [3]. اگر درد طی دو هفته بهتر نشود، بدتر شود یا خواب و کارهای روزمره را مختل کند، به پزشک مراجعه می‌شود [1]. درد شدید و ناتوانی در راه رفتن پس از زمین خوردن، و نیز لگنِ گرم و متورم همراه با تب، باید بدون انتظار ارزیابی شود [1].",
+   "sections": [
+    {
+     "h": "درد لگن کجا حس می‌شود و به کجا می‌زند؟",
+     "p": [
+      "همه از «درد لگن» یک جا را در نظر ندارند؛ محل درد دربارهٔ علت آن سرنخ می‌دهد [3]. درد ممکن است به جای دیگری هم بزند: مشکلات لگن گاهی در ران یا زانو حس می‌شود [6]؛ درد سیاتیک که از کمر سرچشمه می‌گیرد از باسن به پشت پا و بیشتر وقت‌ها تا کف پا پایین می‌رود [5]. درد بیشتر در یکی از این سه ناحیه است [3]:"
+     ],
+     "list": [
+      "جلو، در کشالهٔ ران: دردی که از خودِ مفصل لگن سرچشمه می‌گیرد بیشتر اینجا است [3]",
+      "سمت بیرونی، روی برآمدگی استخوانی لگن: شایع‌ترین علت سندرم درد تروکانتر بزرگ است؛ درد ممکن است به سطح بیرونی ران انتشار یابد [2][3]",
+      "پشت، در باسن: دردی که از کمر انتشار می‌یابد، گیرافتادگی عصب سیاتیک یا مشکلات تاندون عضلات پشت ران [3]"
+     ]
+    },
+    {
+     "h": "درد لگن چرا ایجاد می‌شود؟",
+     "p": [
+      "درد لگن علت‌های احتمالی فراوانی دارد؛ ممکن است از یک آسیب ناگهانی یا از مشکلی طولانی‌مدت مانند بیماری مفصل (آرتریت) ناشی شود [1]. در بزرگسالان جوان درد درون‌مفصلی بیشتر وقت‌ها به گیرافتادگی استخوان‌های مفصل لگن (گیرافتادگی فمورواستابولار) یا پارگی لبهٔ حفرهٔ مفصل (لابروم) مربوط است؛ در سنین بالا شایع‌ترین علت درد جلوی لگن آرتروز (استئوآرتریت) است [3]. علت‌های اصلی:"
+     ],
+     "list": [
+      "آرتروز: سن بالای ۴۵ سال، دردی که هنگام راه رفتن بیشتر می‌شود و خشکی پس از حرکت [1]",
+      "کشیدگی عضله یا رباط، التهاب تاندون: درد، تورم یا کبودی پس از ورزش شدید یا تکراری [1]",
+      "بورسیت: دردی که ممکن است به ران انتشار یابد و با حرکت یا خوابیدن روی همان پهلو بیشتر شود [1]",
+      "آرتریت روماتوئید: درد و خشکی‌ای که پس از بی‌حرکتی، مثلاً صبح هنگام بیدار شدن، بیشتر است [1]",
+      "عفونت مفصل (آرتریت سپتیک): لگن گرم و متورم و تب بالا [1]",
+      "شکستگی لگن: درد شدید و ناتوانی در راه رفتن پس از زمین خوردن یا آسیب [1]",
+      "اختلال خون‌رسانی سرِ استخوان ران (نکروز آواسکولار) و شکستگی استرسی ناشی از استفادهٔ بیش از حد [3]",
+      "درد انتشاری: مشکلات ستون فقرات کمری ممکن است در پشت درد ایجاد کنند؛ مشکلات درون شکم، مانند فتق یا مشکلات مثانه یا اندام‌های تناسلی زنان، در جلو [3]"
+     ]
+    },
+    {
+     "h": "درد سمت بیرونی لگن و بورسیت لگن",
+     "p": [
+      "شایع‌ترین علت درد سمت بیرونی لگن سندرم درد تروکانتر بزرگ است؛ این سندرم مشکلات تاندون عضلهٔ کناری لگن، بورسیت و اصطکاک نوار بافتیِ سطح بیرونی ران را در بر می‌گیرد [3] و بیشتر وقت‌ها «بورسیت تروکانتریک» نیز نامیده می‌شود [4]. در زنان و در میانسالی یا سالمندی شایع‌تر است [2]؛ بیشتر زنان ۴۰ تا ۶۰ ساله را درگیر می‌کند [3].",
+      "درد روی برآمدگی استخوانی بیرونی لگن است و معمولاً به سطح بیرونی ران انتشار می‌یابد؛ شب‌ها، هنگام خوابیدن روی همان پهلو، هنگام برخاستن پس از مدتی نشستن، در راه رفتن طولانی، بالا رفتن از پله و چمباتمه زدن بیشتر می‌شود [2].",
+      "بسیاری از افراد ممکن است با پرهیز از فعالیت‌هایی که درد را بیشتر می‌کنند، مسکّن‌های ضدالتهاب و فیزیوتراپی بهتر شوند؛ تزریق کورتون ممکن است تسکین موقت (چند ماه) یا پایدار ایجاد کند و جراحی به‌ندرت لازم می‌شود [2]. در پژوهشی روی ۲۰۴ نفر که درد سمت بیرونی لگنشان بیش از سه ماه ادامه داشت، برنامهٔ آموزش و ورزش در هفتهٔ هشتم نتیجهٔ بهتری از یک بار تزریق کورتون و از صبر و پیگیری داشت؛ پس از یک سال بهبود کلی همچنان بیشتر بود، اما شدت درد با گروه تزریق مشابه بود [4]."
+     ]
+    },
+    {
+     "h": "دردی که از کمر و باسن می‌آید",
+     "p": [
+      "دردی که در باسن حس می‌شود ممکن است از جای دیگری انتشار یافته باشد: در مشکلات ستون فقرات کمری درد معمولاً هم در کمر و هم در باسن است [3]. سیاتیک یعنی تحریک یا فشرده شدن عصب سیاتیک که از کمر تا پاها امتداد دارد؛ معمولاً باسن و پشتِ تنها یک پا (راست یا چپ) و بیشتر وقت‌ها کف پا را نیز درگیر می‌کند و ممکن است درد تیز و سوزشی، گزگز، بی‌حسی یا ضعف ایجاد کند [5]. دردی را که از کمر سرچشمه می‌گیرد رشته‌های تخصصیِ مرتبط با بیماری‌های ستون فقرات ارزیابی می‌کنند."
+     ]
+    },
+    {
+     "h": "چه چیزی برای درد لگن خوب است؟ کارهایی که در خانه می‌توان انجام داد",
+     "p": [
+      "اگر آسیبی در کار نبوده و نشانه‌های هشدارِ بخش پایانی وجود ندارد، این اقدام‌ها می‌توانند به کم شدن درد کمک کنند؛ ترکیب‌های گیاهی در میان این توصیه‌ها نیست [1]:"
+     ],
+     "list": [
+      "فشار زیاد نیاوردن به لگن، اما ادامه دادن حرکت بدون زیاده‌روی",
+      "گذاشتن کیسهٔ یخِ پیچیده در حوله روی ناحیهٔ دردناک، هر ۲ تا ۳ ساعت یک بار و تا ۲۰ دقیقه",
+      "در صورت نیاز مسکّن (ژل یا قرص)؛ می‌توانید از داروساز یا پزشک بپرسید کدام مناسب است",
+      "کفش راحت با زیرهٔ نرم که ضربه را می‌گیرد",
+      "تلاش برای کم کردن وزن در صورت اضافه‌وزن",
+      "ورزش‌های کششی ملایم برای لگن",
+      "حمل نکردن بار سنگین و ننشستن روی صندلی کوتاه"
+     ]
+    },
+    {
+     "h": "به کدام پزشک باید مراجعه کرد و ارزیابی چگونه است؟",
+     "p": [
+      "اگر درد کارهای روزمره یا خواب را مختل می‌کند، بدتر می‌شود یا عود می‌کند، با وجود دو هفته اقدام‌های خانگی بهتر نشده است یا خشکی لگن پس از بیدار شدن بیش از ۳۰ دقیقه طول می‌کشد، به پزشک مراجعه کنید [1]. رسیدگی به مشکلات مفصل لگن و استخوان‌ها، عضلات و تاندون‌های اطراف آن با بخش ارتوپدی و تروماتولوژی است.",
+      "ارزیابی با شرح حال و معاینه آغاز می‌شود؛ از نظر درد انتشاری، شکم نیز معاینه می‌شود [3]. اگر تصویربرداری انجام شود، نخستین بررسی معمولاً عکس رادیولوژی مفصل لگن و لگن خاصره در حالت ایستاده است؛ برای تشخیص قطعی ممکن است سونوگرافی یا ام‌آرآی لازم شود [3].",
+      "«ادم مغز استخوان» در گزارش ام‌آرآی یعنی مغز استخوان ملتهب و پر از مایع است [7]. این یافته برای نمونه در پوکی استخوان گذرای لگن دیده می‌شود: وضعیتی نادر که در بخش بالایی استخوان ران کاهش موقت تودهٔ استخوان ایجاد می‌کند؛ درد با وزن گذاشتن روی پا بیشتر می‌شود و معمولاً طی ۶ تا ۱۲ ماه برطرف می‌شود [7]."
+     ]
+    },
+    {
+     "h": "درمان به علت بستگی دارد",
+     "p": [
+      "درمان به علت بستگی دارد و می‌تواند شامل مسکّن، ورزش، فیزیوتراپی، وسایل کمکی راه رفتن مانند عصا، تزریق کورتون و ارزیابی متخصصی باشد که دربارهٔ گزینه‌هایی مانند جراحی گفت‌وگو می‌کند [1]. برخی از کسانی که دردشان ناشی از آسیب‌دیدگی مفصل لگن است، اگر درمان‌های دیگر سودی نداشته باشد، ممکن است سرانجام به تعویض مفصل لگن نیاز پیدا کنند [1]. آرتروز، تعویض مفصل لگن و شکستگی لگن موضوع‌هایی جداگانه‌اند؛ در اینجا تنها در میان علت‌های احتمالی از آن‌ها نام برده شده است."
+     ]
+    },
+    {
+     "h": "درد لگن و لنگیدن در کودک",
+     "p": [
+      "شایع‌ترین علت درد لگن در کودکان وضعیتی است که در آن مفصل لگن دردناک و ملتهب می‌شود، معمولاً طی ۱ تا ۲ هفته بهتر می‌شود و مشکل ماندگاری بر جا نمی‌گذارد (در انگلیسی «irritable hip») [6]. علت‌های کمتر شایع اما جدی‌تر عبارت‌اند از عفونت مفصل (آرتریت سپتیک)، آسیب‌هایی مانند شکستگی و بیماری پرتس [6].",
+      "از این رو درد ناگهانی یا لنگیدن در کودک باید بدون تأخیر به پزشک نشان داده شود؛ در کنار معاینه ممکن است عکس رادیولوژی و گاهی آزمایش خون یا تصویربرداری‌های دیگر درخواست شود [6]. دیسپلازی تکاملی لگن در شیرخواران بیرون از موضوع این نوشته است."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "در موارد زیر بدون تأخیر به یک مرکز درمانی مراجعه کنید؛ در سه مورد نخست به اورژانس بروید یا آمبولانس خبر کنید [1][5][6]:"
+     ],
+     "list": [
+      "اگر پس از زمین خوردن یا آسیب درد شدید لگن دارید، نمی‌توانید راه بروید یا روی پا وزن بگذارید (ممکن است شکستگی لگن باشد)؛ اگر یکی از نزدیکان سالمندتان پس از زمین خوردن نمی‌تواند برخیزد نیز همین کار را بکنید [1]",
+      "اگر پس از آسیب در لگن یا پا گزگز یا بی‌حسی دارید [1]",
+      "اگر درد سیاتیک در هر دو طرف است، در هر دو پا ضعف یا بی‌حسیِ شدید یا رو به افزایش دارید، اطراف اندام تناسلی یا مقعد بی‌حس است، یا کنترل ادرار یا مدفوع به‌تازگی مختل شده است [5]",
+      "اگر درد شدید لگن بدون زمین خوردن یا آسیب، ناگهان شروع شده است [1]",
+      "اگر لگن متورم و گرم است، رنگ پوست اطراف آن تغییر کرده است یا درد با تب بالا و بدحالی عمومی همراه است (ممکن است عفونت مفصل باشد) [1]",
+      "اگر کودک ناگهان دچار درد لگن، ران یا زانو شده است، می‌لنگد یا نمی‌تواند روی یک پا وزن بگذارد [6]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "کدام بخش به درد لگن رسیدگی می‌کند؟",
+     "a": "رسیدگی به مشکلات مفصل لگن و استخوان‌ها، عضلات و تاندون‌های اطراف آن با بخش ارتوپدی و تروماتولوژی است. اگر درد از کمر یا اندام‌های درون شکم انتشار یافته باشد، رشتهٔ تخصصی مربوط آن را ارزیابی می‌کند [3]."
+    },
+    {
+     "q": "درد لگن در خانه چگونه کم می‌شود؟",
+     "a": "ادامه دادن حرکت بدون فشار زیاد به لگن، گذاشتن یخ تا ۲۰ دقیقه هر ۲ تا ۳ ساعت یک بار، مسکّن در صورت نیاز، کفش با زیرهٔ نرم و ورزش‌های کششی ملایم می‌توانند به کم شدن درد کمک کنند [1]. اگر طی دو هفته بهبودی حاصل نشد، به پزشک مراجعه کنید [1]."
+    },
+    {
+     "q": "درد لگن در زنان چرا ایجاد می‌شود؟",
+     "a": "درد سمت بیرونی لگن (سندرم درد تروکانتر بزرگ) در زنان شایع‌تر است و بیشتر زنان ۴۰ تا ۶۰ ساله را درگیر می‌کند [2][3]. دردی که از اندام‌های تناسلی زنان سرچشمه می‌گیرد نیز ممکن است در جلوی لگن حس شود [3]."
+    },
+    {
+     "q": "درد لگن هنگام راه رفتن نشانهٔ چیست؟",
+     "a": "در سن بالای ۴۵ سال، دردی که هنگام راه رفتن بیشتر می‌شود همراه با خشکی پس از حرکت، آرتروز را مطرح می‌کند [1]. درد سمت بیرونی لگن نیز ممکن است در راه رفتن طولانی و بالا رفتن از پله بیشتر شود [2]. اگر پس از زمین خوردن یا آسیب نمی‌توانید راه بروید، به اورژانس مراجعه کنید [1]."
+    },
+    {
+     "q": "ادم مفصل لگن در ام‌آرآی به چه معناست؟",
+     "a": "ادم مغز استخوان یعنی مغز استخوان ملتهب و پر از مایع است [7]. این یافته برای نمونه در پوکی استخوان گذرای لگن در ام‌آرآی دیده می‌شود؛ در این وضعیت درد معمولاً طی ۶ تا ۱۲ ماه برطرف می‌شود [7]. اینکه این یافته برای شما چه معنایی دارد، با ارزیابی پزشکی است که شما را معاینه می‌کند."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

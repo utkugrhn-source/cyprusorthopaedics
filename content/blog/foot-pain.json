@@ -1,0 +1,581 @@
+{
+ "id": "foot-pain",
+ "area": "ayak-bilek",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Pain in the bottom of the foot",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/",
+   "year": "2025"
+  },
+  {
+   "title": "Pain in the ball of the foot",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-ball-of-the-foot/",
+   "year": "2025"
+  },
+  {
+   "title": "Pain in the top of the foot",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-top-of-the-foot/",
+   "year": "2025"
+  },
+  {
+   "title": "Corns and calluses",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/corns-and-calluses/",
+   "year": "2026"
+  },
+  {
+   "title": "Stress Fractures of the Foot and Ankle",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/stress-fractures-of-the-foot-and-ankle/",
+   "year": "n.d."
+  },
+  {
+   "title": "Diabetes and feet",
+   "publisher": "Diabetes UK",
+   "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/feet",
+   "year": "2024"
+  },
+  {
+   "title": "Gout",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/gout/",
+   "year": "2023"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "ayak-agrisi-neden-olur-ne-iyi-gelir",
+   "title": "Ayak ağrısı neden olur, ne iyi gelir, hangi bölüme gidilir?",
+   "description": "Ayak ağrısı neden olur, nasıl geçer? Ayak tabanı, topuk, ayak üstü ve başparmak ağrısının nedenleri, evde ne iyi gelir, hangi bölüme gidilir?",
+   "summary": "Ayak ağrısı çoğu zaman koşu gibi egzersizlerden ya da dar ayakkabılardan kaynaklanır; ağrının yeri olası nedeni düşündürür: tabanda plantar fasiit ve nasır, ön tabanda Morton nöromu, ayak üstünde zorlanma ya da kırık, başparmak ekleminde halluks valgus ya da gut [1][2][3]. Ayak tabanı ve ayak üstü ağrısı çoğu zaman birkaç haftada düzelir; dinlenme, soğuk uygulama ve geniş, yumuşak tabanlı ayakkabılar ağrıyı hafifletmek için önerilir [1][3]. Evde iki haftada geçmeyen ağrıda, ayakta his kaybında ve şeker hastalığı olanlardaki ayak ağrısında hekime başvurmak gerekir [1][6].",
+   "sections": [
+    {
+     "h": "Ayak ağrısı neden olur?",
+     "p": [
+      "Ayak tabanındaki ağrı çoğu zaman koşu gibi egzersizlerden ya da dar ayakkabılardan kaynaklanır [1][2]. Ayak üstündeki ağrı da çoğunlukla koşma, topa vurma ya da sıçrama içeren egzersizlerle ilişkilidir; dar ayakkabılar ve gut gibi bazı hastalıklar da buna yol açabilir [3].",
+      "Ayak ağrısı her zaman bir zorlanmanın belirtisi değildir: eklem iltihabı (artrit), gut, siyatik ve şeker hastalığına (diyabet) bağlı sinir ya da damar hasarı da ayakta ağrı yapabilir [2][3][6].",
+      "Ağrının yeri ve eşlik eden belirtiler olası nedeni düşündürür; yine de nedeni kendi kendinize belirlemeye çalışmayın [1][3]."
+     ]
+    },
+    {
+     "h": "Ayak tabanı ve topuk ağrısı",
+     "p": [
+      "Ayak tabanındaki ağrı çoğu zaman birkaç haftada düzelir [1]. Özellikle çocuklarda D vitamini ya da kalsiyum eksikliği de buna yol açabilir [1]. Plantar fasiit (topuk dikeni) ve düz taban bu sitede ayrı yazılarda anlatılmıştır.",
+      "Belirtilere göre başlıca olası nedenler şunlardır [1]:"
+     ],
+     "list": [
+      "Topuk ile ayak kemeri arasında, yürümeye başlarken artan ve dinlenince azalan keskin ağrı: plantar fasiit",
+      "Ayakta dururken taban altında boşluk (kemer) kalmaması, tabanın yere tümüyle basması: düz taban",
+      "Altında siyah nokta bulunan, üzerine bastırılınca ağrıyan sert deri: siğil"
+     ]
+    },
+    {
+     "h": "Ayak tabanında nasır ağrısı",
+     "p": [
+      "Nasır, derinin sertleşip kalınlaştığı ve ağrılı olabilen bölgedir; küçük sert yumrular ya da daha geniş, pürüzlü ve kalın deri alanları biçiminde görülür [4]. Baskı ya da sürtünmeyle oluşur; yüksek topuklu ya da ayağa uymayan ayakkabılar nedenleri arasındadır [4].",
+      "Geniş, alçak topuklu ve yumuşak tabanlı ayakkabılar, yastıklı çoraplar ve yumuşak tabanlık önerilir [4]. Nasır ılık suda yumuşatılabilir, ponza taşı ya da ayak törpüsüyle düzenli olarak inceltilebilir ve nemlendiriciyle yumuşak tutulabilir [4]. Nasırı kendiniz kesmeyin; kullanılabilecek ürünleri eczacıya sorabilirsiniz [4].",
+      "Şeker hastalığı, dolaşım sorunu ya da bağışıklık zayıflığı olanlar ile ileri yaştakiler nasırı kendileri tedavi etmemelidir [4]. Bu hastalıklardan biri varsa, nasır kanıyor ya da akıntı yapıyorsa, ağrı şiddetliyse ya da evde üç haftalık bakıma rağmen düzelme yoksa hekime başvurun [4]."
+     ]
+    },
+    {
+     "h": "Ön taban ağrısı: metatarsalji ve Morton nöromu",
+     "p": [
+      "Ayak tabanının parmak diplerine denk gelen ön bölümündeki ağrıya metatarsalji denir [2]. Çoğu zaman koşu gibi egzersizlerden, dar ayakkabılardan ya da artrit gibi bir hastalıktan kaynaklanır; sertleşmiş ya da çatlamış deri ve siğil de bu tür ağrı yapabilir [2].",
+      "Belirtilere göre olası nedenler şunlardır [2]:"
+     ],
+     "list": [
+      "Parmaklara yakın bölgede keskin, yanıcı ya da saplanan ağrı ve ayak altında yumru ya da küçük bir taş varmış hissi: Morton nöromu",
+      "Kızarıklık, şişlik ve künt, sızlayıcı ağrı: bursit",
+      "Başparmak yakınında sert kemik çıkıntısı: halluks valgus"
+     ]
+    },
+    {
+     "h": "Ayak üstü ağrısı ve şişmesi",
+     "p": [
+      "Ayak üstü ağrısı genellikle birkaç haftada düzelir [3]. Ayak bileği burkulması, ayak bileği kırığı ve Aşil tendonu kopması bu sitede ayrı yazılarda ele alınmıştır.",
+      "Ayak üstünde şişlikle giden ağrının bir nedeni de stres kırığıdır: çoğunlukla aşırı kullanım ve tekrarlayan etkinlikle oluşan küçük bir kemik çatlağı ya da kemik içinde şiddetli ezilmedir [5]. Ağrı yavaş yavaş gelişir, ayağa yük verilen etkinliklerde artar ve dinlenince geçer; ayak üstünde şişlik ve kemiğin üzerinde hassasiyet olabilir [5]. Başlangıçta röntgende çoğu zaman güç görülür; iyileşme genellikle 6–8 hafta sürer, ağrı önemsenmezse kemik tümüyle kırılabilir [5].",
+      "Diğer olası nedenler belirtilere göre şunlardır [3]:"
+     ],
+     "list": [
+      "Yoğun ya da tekrarlayan egzersizden sonra başlayan ağrı, şişlik ve morarma: burkulma ya da zorlanma",
+      "Şiddetli ağrı, şişlik, morarma ve ayağı hareket ettirmede kısıtlılık: ayak kemiğinde kırık",
+      "Uzun süren ağrı, şişlik ve tutukluk, hareketle sürtünme ya da çıtırtı hissi, tendon boyunca yumru: tendinit ya da eklem kireçlenmesi (osteoartrit)",
+      "Kızarık, sıcak ve şiş deri, ayağa bir şey değdiğinde ani ya da şiddetli ağrı, çoğunlukla başparmak dibinde başlayan ağrı: gut",
+      "Ayak üstünde, bacağın arkasından kalçaya uzanabilen karıncalanma, uyuşma ya da ağrı: siyatik; ilgili uzmanlık dalınca değerlendirilir"
+     ]
+    },
+    {
+     "h": "Ayak başparmağı eklemi ağrısı",
+     "p": [
+      "Başparmak yakınındaki sert kemik çıkıntısı halluks valgusu (bunyon) düşündürür [2]; ayakkabı seçimi ve ameliyatın ne zaman düşünüleceği bu sitede ayrı bir yazıda anlatılmıştır. Tırnak batması da ayrı bir yazıda ele alınmaktadır.",
+      "Gut, ani ve şiddetli eklem ağrısı yapan bir artrit türüdür; çoğunlukla ayak başparmağını tutar, eklemin üzerindeki deri sıcak, şiş ve kızarık olur ve ataklar genellikle ilaçla tedavi edilir [3][7]."
+     ]
+    },
+    {
+     "h": "Ayak tabanında yanma, karıncalanma ve şeker hastalığı",
+     "p": [
+      "Parmaklara yakın bölgedeki yanıcı ağrı Morton nöromunda görülebilir [1][2].",
+      "Şeker hastalığında uzun süre yüksek seyreden kan şekeri, ayaktaki sinirleri besleyen küçük damarlara zarar verebilir; sinir hasarıyla ayakta his kaybı (periferik nöropati) gelişebilir, hasarlı damarlar ayağa giden kanı azaltır ve kesik ile yaraların iyileşmesi güçleşebilir [6].",
+      "Şeker hastalığında karıncalanma, yanıcı ağrı, his kaybı, iyileşmeyen kesik ya da yaralar ve baldırlarda kramp hekime başvurmayı gerektirir [6]. Şeker hastalığınız varsa ayak ağrısı için hekime başvurun; ayak sorunları bu hastalıkta daha ciddi seyredebilir [1][2][3]. Ayağınızda yeni bir kesik ya da su toplaması fark ederseniz hekiminizi hemen arayın [6]. Sinir ya da dolaşım kaynaklı yakınmalar ilgili uzmanlık dallarınca değerlendirilir."
+     ]
+    },
+    {
+     "h": "Hangi bölüme gidilir, evde ne iyi gelir?",
+     "p": [
+      "Ayak ve ayak bileği ağrısını ortopedi ve travmatoloji bölümü değerlendirir. Ağrı günlük işlerinizi engelliyorsa, kötüleşiyor ya da tekrarlıyorsa veya evde iki haftalık bakıma rağmen düzelmediyse hekime başvurun [1][2][3].",
+      "Ağrı kesici gerekiyorsa hangisinin uygun olduğu eczacıya ya da hekime sorulabilir [1]. Ağrıyı hafifletmek için evde şunlar önerilir [1][2][3]:"
+     ],
+     "list": [
+      "Ayağı olabildiğince dinlendirmek ve yüksekte tutmak",
+      "Ağrılı bölgeye havluya sarılı buz torbasını 2–3 saatte bir, 20 dakikaya kadar uygulamak",
+      "Parmaklara bol gelen, alçak topuklu ve yumuşak tabanlı ayakkabılar giymek, içine yumuşak tabanlık ya da ped koymak; yüksek topuklu, dar ve sivri burunlu ayakkabılardan kaçınmak",
+      "Ayak ve ayak bileği için düzenli, hafif germe egzersizleri yapmak",
+      "Ağrıya yol açtığını düşündüğünüz sporu ya da etkinliği bırakmak; uzun süre ayakta durmamak ve yürümemek",
+      "Fazla kilo varsa kilo vermeye çalışmak"
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Şu durumlarda beklemeden bir sağlık kuruluşuna başvurun [1][2][3][6]:"
+     ],
+     "list": [
+      "Ayakta şiddetli ağrı varsa ya da ağrıdan baygınlık hissi, baş dönmesi ya da bulantı oluyorsa",
+      "Yürüyemiyorsanız",
+      "Ayağın şekli değiştiyse ya da ayak olağan dışı bir açıyla duruyorsa",
+      "Yaralanma sırasında kopma, çıtırtı ya da \"pat\" sesi duyduysanız",
+      "Ayağınızın ya da parmağınızın kırılmış olabileceğini düşünüyorsanız; kendiniz tedavi etmeye çalışmayın",
+      "Ayak sıcak ve şişse ya da ayak ağrısına yüksek ateş veya titreme eşlik ediyorsa",
+      "Ayakta karıncalanma, his kaybı ya da güçsüzlük varsa",
+      "Şeker hastalığınız varsa ve ayağınız ağrıyorsa ya da ayağınızda yeni bir kesik veya su toplaması fark ettiyseniz"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ayak ağrısı için hangi doktora gidilir?",
+     "a": "Ayak ve ayak bileği ağrısını ortopedi ve travmatoloji uzmanı değerlendirir. Ağrı evde iki hafta uygulanan önlemlere rağmen düzelmiyor, kötüleşiyor ya da günlük işleri engelliyorsa başvurmanız önerilir [1][2][3]."
+    },
+    {
+     "q": "Ayak ağrısı evde nasıl geçer?",
+     "a": "Ayağı dinlendirmek ve yüksekte tutmak, havluya sarılı buz uygulamak, alçak topuklu ve yumuşak tabanlı geniş ayakkabılar giymek ve hafif germe egzersizleri ağrıyı hafifletmek için önerilir [1][2][3]. Ayak tabanı ağrısı çoğu zaman birkaç haftada düzelir [1]."
+    },
+    {
+     "q": "Ayak tabanı ağrısı ve yanması hangi hastalığın belirtisidir?",
+     "a": "Ayak tabanı ağrısı çoğu zaman egzersiz ya da dar ayakkabıyla ilişkilidir; plantar fasiit, nasır, siğil, düz taban ve Morton nöromu olası nedenler arasındadır [1]. Yanma, karıncalanma ya da his kaybı, şeker hastalığında sinirlerin ve damarların etkilendiğini gösterebilir [6]."
+    },
+    {
+     "q": "Ayak üstü ağrısı kaç günde geçer?",
+     "a": "Ayak üstü ağrısı genellikle birkaç haftada düzelir [3]. Neden stres kırığıysa iyileşme genellikle 6–8 hafta sürer [5]."
+    },
+    {
+     "q": "Ayak tabanındaki nasıra ne iyi gelir?",
+     "a": "Geniş ve yumuşak tabanlı ayakkabılar, yastıklı çoraplar, yumuşak tabanlık, ılık suda yumuşatma, ponza taşı ve nemlendirici önerilir; nasırı kendiniz kesmeyin [4]. Şeker hastalığı ya da dolaşım sorunu olanlar nasırı kendileri tedavi etmemelidir [4]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "foot-pain-causes-what-helps",
+   "title": "Foot pain: what causes it, what helps and which specialist to see?",
+   "description": "What causes foot pain and how does it settle? Causes of pain in the sole, heel, top of the foot and big toe, what helps at home and which doctor to see.",
+   "summary": "Foot pain is most often caused by exercise such as running or by tight shoes, and where it hurts points to the likely cause: plantar fasciitis and corns in the sole, Morton's neuroma in the ball of the foot, a strain or a fracture on the top of the foot, a bunion or gout at the big-toe joint [1][2][3]. Pain in the sole and on the top of the foot usually gets better within a few weeks; rest, cold packs and wide, soft-soled shoes are recommended to ease it [1][3]. Pain that has not settled after two weeks at home, loss of feeling in the foot, and foot pain in a person with diabetes should be assessed by a doctor [1][6].",
+   "sections": [
+    {
+     "h": "What causes foot pain?",
+     "p": [
+      "Pain in the sole of the foot is most often caused by exercise such as running or by shoes that are too tight [1][2]. Pain on the top of the foot is also usually linked to exercise that involves running, kicking or jumping; tight shoes and some conditions such as gout can cause it as well [3].",
+      "Foot pain is not always a sign of strain: arthritis, gout, sciatica and nerve or blood-vessel damage related to diabetes can also cause pain in the foot [2][3][6].",
+      "Where the pain is and the symptoms that come with it point to the likely cause; even so, do not try to work out the cause yourself [1][3]."
+     ]
+    },
+    {
+     "h": "Pain in the sole and heel",
+     "p": [
+      "Pain in the sole of the foot often gets better within a few weeks [1]. A lack of vitamin D or calcium can also cause it, especially in children [1]. Plantar fasciitis (heel spur) and flat feet are described in separate articles on this site.",
+      "Depending on the symptoms, the main possible causes are [1]:"
+     ],
+     "list": [
+      "Sharp pain between the heel and the arch that is worse when you start walking and eases with rest: plantar fasciitis",
+      "No gap (arch) under the foot when standing, with the sole pressing flat on the floor: flat feet",
+      "Hard skin with a black dot under it that hurts when pressed: a verruca"
+     ]
+    },
+    {
+     "h": "Painful corns and calluses on the sole",
+     "p": [
+      "Corns and calluses are areas of hard, thickened skin that can be painful; they appear as small lumps of hard skin or as larger patches of rough, thick skin [4]. They are caused by pressure or rubbing; high heels and shoes that are the wrong size are among the causes [4].",
+      "Wide shoes with a low heel and a soft sole, cushioned socks and soft insoles are recommended [4]. The hard skin can be softened in warm water, thinned regularly with a pumice stone or a foot file, and kept soft with a moisturiser [4]. Do not try to cut corns or calluses off yourself; a pharmacist can be asked about products that can be used [4].",
+      "People who have diabetes, problems with their circulation or a weakened immune system, and older people, should not treat corns and calluses themselves [4]. See a doctor if you have one of these conditions, if the area bleeds or has a discharge, if the pain is severe, or if there is no improvement after three weeks of care at home [4]."
+     ]
+    },
+    {
+     "h": "Pain in the ball of the foot: metatarsalgia and Morton's neuroma",
+     "p": [
+      "Pain in the front part of the sole, under the base of the toes (the ball of the foot), is called metatarsalgia [2]. It is most often caused by exercise such as running, by tight shoes or by a condition such as arthritis; hard or cracked skin and a verruca can also cause this type of pain [2].",
+      "Depending on the symptoms, the possible causes are [2]:"
+     ],
+     "list": [
+      "Sharp, burning or shooting pain near the toes, with a feeling of a lump or a small stone under the foot: Morton's neuroma",
+      "Redness and swelling with a dull, aching pain: bursitis",
+      "A hard bony lump near the big toe: a bunion (hallux valgus)"
+     ]
+    },
+    {
+     "h": "Pain and swelling on the top of the foot",
+     "p": [
+      "Pain on the top of the foot usually gets better within a few weeks [3]. Ankle sprains, ankle fractures and rupture of the Achilles tendon are covered in separate articles on this site.",
+      "One cause of pain with swelling on the top of the foot is a stress fracture: a small crack in a bone, or severe bruising within a bone, most often caused by overuse and repetitive activity [5]. The pain develops gradually, gets worse during weight-bearing activity and goes away with rest; there may be swelling on the top of the foot and tenderness over the bone [5]. It is often difficult to see on an X-ray at first; healing typically takes 6 to 8 weeks, and if the pain is ignored the bone may break completely [5].",
+      "Depending on the symptoms, the other possible causes are [3]:"
+     ],
+     "list": [
+      "Pain, swelling and bruising that started after intense or repetitive exercise: a sprain or strain",
+      "Severe pain, swelling, bruising and limited ability to move the foot: a fracture of a bone in the foot",
+      "Pain, swelling and stiffness that last a long time, a grating or crackling sensation when the foot is moved, a lump along a tendon: tendonitis or osteoarthritis",
+      "Red, hot, swollen skin, sudden or severe pain when anything touches the foot, pain that usually starts near the base of the big toe: gout",
+      "Tingling, numbness or pain in the top of the foot that may extend up the back of the leg to the buttock: sciatica, which is assessed by the relevant specialty"
+     ]
+    },
+    {
+     "h": "Pain at the big-toe joint",
+     "p": [
+      "A hard bony lump near the big toe suggests a bunion (hallux valgus) [2]; the choice of shoes and when surgery is considered are described in a separate article on this site. Ingrown toenails are also covered in a separate article.",
+      "Gout is a type of arthritis that causes sudden, severe joint pain; it usually affects the big toe, the skin over the joint becomes hot, swollen and red, and attacks are usually treated with medicines [3][7]."
+     ]
+    },
+    {
+     "h": "Burning and tingling in the sole, and diabetes",
+     "p": [
+      "Burning pain near the toes can occur with Morton's neuroma [1][2].",
+      "In diabetes, blood sugar that stays high over a long period can damage the small blood vessels that supply the nerves in the feet; with nerve damage, feeling in the feet can be lost (peripheral neuropathy), the damaged blood vessels reduce the blood supply to the feet, and cuts and sores can become harder to heal [6].",
+      "In diabetes, tingling, burning pain, loss of feeling, cuts or sores that do not heal and cramp in the calves call for a visit to a doctor [6]. If you have diabetes, see a doctor about foot pain; foot problems can be more serious in this condition [1][2][3]. If you notice a new cut or blister on your foot, contact your doctor straight away [6]. Complaints related to the nerves or the circulation are assessed by the relevant specialties."
+     ]
+    },
+    {
+     "h": "Which specialty to see, and what helps at home?",
+     "p": [
+      "Pain in the foot and ankle is assessed by the orthopaedics and traumatology department. See a doctor if the pain is stopping you doing your normal activities, is getting worse or keeps coming back, or has not improved after two weeks of care at home [1][2][3].",
+      "If a painkiller is needed, a pharmacist or doctor can be asked which one is suitable [1]. The following are recommended at home to ease the pain [1][2][3]:"
+     ],
+     "list": [
+      "Resting the foot and keeping it raised whenever you can",
+      "An ice pack wrapped in a towel on the painful area for up to 20 minutes every 2 to 3 hours",
+      "Wearing shoes with plenty of room for the toes, a low heel and a soft sole, with soft insoles or pads inside them; avoiding high heels and tight, pointed shoes",
+      "Regular gentle stretching exercises for the foot and ankle",
+      "Stopping the sport or activity that you think is causing the pain; not standing or walking for long periods",
+      "Trying to lose weight if you are overweight"
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "In the following situations seek care without waiting [1][2][3][6]:"
+     ],
+     "list": [
+      "Severe pain in the foot, or feeling faint, dizzy or sick from the pain",
+      "You cannot walk",
+      "The foot has changed shape or is at an odd angle",
+      "A snapping, grinding or popping noise heard at the time of an injury",
+      "You think you may have broken your foot or a toe; do not try to treat it yourself",
+      "The foot is hot and swollen, or foot pain comes with a very high temperature or shivering",
+      "Tingling, loss of feeling or weakness in the foot",
+      "You have diabetes and your foot hurts, or you have noticed a new cut or blister on your foot"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Which doctor should I see for foot pain?",
+     "a": "Pain in the foot and ankle is assessed by a specialist in orthopaedics and traumatology. You are advised to seek care if the pain has not improved after two weeks of measures at home, is getting worse or is stopping your daily activities [1][2][3]."
+    },
+    {
+     "q": "How can foot pain be eased at home?",
+     "a": "Resting the foot and keeping it raised, applying ice wrapped in a towel, wearing wide shoes with a low heel and a soft sole, and gentle stretching exercises are recommended to ease the pain [1][2][3]. Pain in the sole of the foot often gets better within a few weeks [1]."
+    },
+    {
+     "q": "What conditions can pain and burning in the sole of the foot be a sign of?",
+     "a": "Pain in the sole is most often linked to exercise or tight shoes; plantar fasciitis, corns and calluses, a verruca, flat feet and Morton's neuroma are among the possible causes [1]. Burning, tingling or loss of feeling can show that the nerves and blood vessels are affected in diabetes [6]."
+    },
+    {
+     "q": "How long does pain on the top of the foot take to go away?",
+     "a": "Pain on the top of the foot usually gets better within a few weeks [3]. If the cause is a stress fracture, healing typically takes 6 to 8 weeks [5]."
+    },
+    {
+     "q": "What helps a corn or callus on the sole of the foot?",
+     "a": "Wide shoes with a soft sole, cushioned socks, soft insoles, soaking in warm water, a pumice stone and a moisturiser are recommended; do not cut a corn or callus off yourself [4]. People with diabetes or a circulation problem should not treat corns and calluses themselves [4]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "bol-v-stope-prichiny-chto-pomogaet",
+   "title": "Боль в стопе: отчего болит стопа, что помогает и к какому врачу идти?",
+   "description": "Отчего болит стопа и как проходит боль? Причины боли в подошве, пятке, верхней части стопы и большом пальце, что помогает дома, к какому врачу идти.",
+   "summary": "Боль в стопе чаще всего вызывают физические нагрузки, например бег, или тесная обувь; место боли указывает на вероятную причину: на подошве — подошвенный фасциит и мозоли, в переднем отделе подошвы — неврома Мортона, в верхней части стопы — растяжение или перелом, в суставе большого пальца — вальгусная деформация или подагра [1][2][3]. Боль в подошве и в верхней части стопы чаще всего проходит за несколько недель; чтобы её облегчить, рекомендуют покой, холод и просторную обувь на мягкой подошве [1][3]. Если боль не проходит за две недели домашних мер, если в стопе потеряна чувствительность или если стопа болит у человека с сахарным диабетом, нужно обратиться к врачу [1][6].",
+   "sections": [
+    {
+     "h": "Отчего возникает боль в стопе?",
+     "p": [
+      "Боль в подошве чаще всего вызывают физические нагрузки, например бег, или тесная обувь [1][2]. Боль в верхней части стопы тоже обычно связана с нагрузками, при которых приходится бегать, бить по мячу или прыгать; её могут вызывать также тесная обувь и некоторые заболевания, например подагра [3].",
+      "Боль в стопе не всегда признак перегрузки: её могут вызывать также воспаление суставов (артрит), подагра, ишиас и связанное с сахарным диабетом поражение нервов или сосудов [2][3][6].",
+      "Место боли и сопутствующие симптомы указывают на вероятную причину; тем не менее не пытайтесь определить причину самостоятельно [1][3]."
+     ]
+    },
+    {
+     "h": "Боль в подошве и пятке",
+     "p": [
+      "Боль в подошве чаще всего проходит за несколько недель [1]. Её может вызывать и нехватка витамина D или кальция, особенно у детей [1]. Подошвенный фасциит (пяточная шпора) и плоскостопие описаны на этом сайте в отдельных статьях.",
+      "В зависимости от симптомов основные возможные причины таковы [1]:"
+     ],
+     "list": [
+      "Острая боль между пяткой и сводом стопы, которая усиливается в начале ходьбы и уменьшается в покое: подошвенный фасциит",
+      "В положении стоя под стопой нет просвета (свода), подошва целиком прилегает к полу: плоскостопие",
+      "Участок твёрдой кожи с чёрной точкой под ним, болезненный при надавливании: подошвенная бородавка"
+     ]
+    },
+    {
+     "h": "Болезненные мозоли и натоптыши на подошве",
+     "p": [
+      "Мозоли и натоптыши — это участки затвердевшей, утолщённой кожи, которые могут быть болезненными; они выглядят как небольшие твёрдые бугорки или как более обширные участки грубой, толстой кожи [4]. Они возникают из-за давления или трения; среди причин — высокие каблуки и не подходящая по размеру обувь [4].",
+      "Рекомендуют просторную обувь на низком каблуке и мягкой подошве, мягкие носки и мягкие стельки [4]. Затвердевшую кожу можно размягчать в тёплой воде, регулярно обрабатывать пемзой или пилкой для стоп и поддерживать мягкой с помощью увлажняющего крема [4]. Не пытайтесь срезать мозоль самостоятельно; о средствах, которые можно применять, можно спросить фармацевта [4].",
+      "Людям с сахарным диабетом, нарушением кровообращения или ослабленным иммунитетом, а также пожилым людям не следует лечить мозоли самостоятельно [4]. Обратитесь к врачу, если у вас есть одно из этих состояний, если мозоль кровоточит или из неё есть выделения, если боль сильная или если за три недели домашнего ухода улучшения нет [4]."
+     ]
+    },
+    {
+     "h": "Боль в переднем отделе подошвы: метатарзалгия и неврома Мортона",
+     "p": [
+      "Боль в передней части подошвы, под основаниями пальцев (в «подушечке» стопы), называют метатарзалгией [2]. Чаще всего её вызывают нагрузки, например бег, тесная обувь или заболевание, например артрит; такую боль могут вызывать также затвердевшая или потрескавшаяся кожа и подошвенная бородавка [2].",
+      "В зависимости от симптомов возможные причины таковы [2]:"
+     ],
+     "list": [
+      "Острая, жгучая или стреляющая боль рядом с пальцами и ощущение комка или камешка под стопой: неврома Мортона",
+      "Покраснение, отёк и тупая, ноющая боль: бурсит",
+      "Твёрдый костный выступ рядом с большим пальцем: вальгусная деформация большого пальца стопы («косточка»)"
+     ]
+    },
+    {
+     "h": "Боль и отёк в верхней части стопы",
+     "p": [
+      "Боль в верхней части стопы обычно проходит за несколько недель [3]. Растяжению связок голеностопа, перелому лодыжки и разрыву ахиллова сухожилия на этом сайте посвящены отдельные статьи.",
+      "Одна из причин боли с отёком в верхней части стопы — стрессовый (усталостный) перелом: небольшая трещина в кости или сильный ушиб внутри кости, которые чаще всего возникают из-за перегрузки и повторяющейся нагрузки [5]. Боль развивается постепенно, усиливается при нагрузке весом тела и проходит в покое; возможны отёк в верхней части стопы и болезненность над костью [5]. Такой перелом поначалу часто трудно увидеть на рентгеновском снимке; заживление обычно занимает 6–8 недель, а если не обращать внимания на боль, кость может сломаться полностью [5].",
+      "Другие возможные причины в зависимости от симптомов таковы [3]:"
+     ],
+     "list": [
+      "Боль, отёк и синяк, появившиеся после интенсивной или повторяющейся нагрузки: растяжение связок или мышц",
+      "Сильная боль, отёк, синяк и ограничение движений стопы: перелом кости стопы",
+      "Длительные боль, отёк и скованность, ощущение трения или хруста при движении стопой, уплотнение по ходу сухожилия: тендинит или артроз (остеоартрит)",
+      "Красная, горячая, отёчная кожа, внезапная или сильная боль при любом прикосновении к стопе, боль обычно начинается у основания большого пальца: подагра",
+      "Покалывание, онемение или боль в верхней части стопы, которые могут распространяться по задней поверхности ноги до ягодицы: ишиас; его оценивает врач соответствующей специальности"
+     ]
+    },
+    {
+     "h": "Боль в суставе большого пальца стопы",
+     "p": [
+      "Твёрдый костный выступ рядом с большим пальцем указывает на вальгусную деформацию большого пальца стопы («косточку») [2]; о выборе обуви и о том, когда рассматривают операцию, рассказано на этом сайте в отдельной статье. Вросшему ногтю также посвящена отдельная статья.",
+      "Подагра — разновидность артрита, вызывающая внезапную сильную боль в суставе; чаще всего она поражает большой палец стопы, кожа над суставом становится горячей, отёчной и красной, а приступы обычно лечат лекарствами [3][7]."
+     ]
+    },
+    {
+     "h": "Жжение и покалывание в подошве и сахарный диабет",
+     "p": [
+      "Жгучая боль рядом с пальцами может быть при невроме Мортона [1][2].",
+      "При сахарном диабете длительно повышенный уровень сахара в крови может повреждать мелкие сосуды, питающие нервы стоп; при повреждении нервов стопы могут потерять чувствительность (периферическая нейропатия), повреждённые сосуды уменьшают приток крови к стопам, и порезы и язвы могут заживать хуже [6].",
+      "При сахарном диабете покалывание, жгучая боль, потеря чувствительности, незаживающие порезы или язвы и судороги в икрах требуют обращения к врачу [6]. Если у вас сахарный диабет, при боли в стопе обратитесь к врачу: при этом заболевании проблемы со стопами могут протекать тяжелее [1][2][3]. Заметив на стопе новый порез или волдырь, сразу свяжитесь со своим врачом [6]. Жалобы, связанные с нервами или кровообращением, оценивают врачи соответствующих специальностей."
+     ]
+    },
+    {
+     "h": "К какому врачу идти и что помогает дома?",
+     "p": [
+      "Боль в стопе и голеностопном суставе оценивают в отделении ортопедии и травматологии. Обратитесь к врачу, если боль мешает повседневным делам, усиливается или возвращается либо не уменьшилась, несмотря на две недели домашнего ухода [1][2][3].",
+      "Если нужно обезболивающее, о том, какое подходит, можно спросить фармацевта или врача [1]. Чтобы облегчить боль, дома рекомендуют следующее [1][2][3]:"
+     ],
+     "list": [
+      "По возможности давать стопе покой и держать её в приподнятом положении",
+      "Прикладывать к болезненному месту пакет со льдом, завёрнутый в полотенце, каждые 2–3 часа на время до 20 минут",
+      "Носить обувь, в которой пальцам просторно, на низком каблуке и мягкой подошве, вкладывать в неё мягкие стельки или подкладки; избегать высоких каблуков и тесной обуви с узким носком",
+      "Регулярно выполнять щадящие упражнения на растяжку для стопы и голеностопного сустава",
+      "Прекратить занятия спортом или нагрузки, которые, по-вашему, вызывают боль; не стоять и не ходить подолгу",
+      "Постараться снизить вес, если он избыточный"
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "В следующих случаях без промедления обратитесь в медицинское учреждение [1][2][3][6]:"
+     ],
+     "list": [
+      "Сильная боль в стопе либо предобморочное состояние, головокружение или тошнота из-за боли",
+      "Вы не можете ходить",
+      "Стопа изменила форму или находится под неестественным углом",
+      "В момент травмы вы слышали щелчок, хруст или хлопок",
+      "Вы думаете, что сломали стопу или палец; не пытайтесь лечить перелом самостоятельно",
+      "Стопа горячая и отёчная либо боль в стопе сопровождается высокой температурой или ознобом",
+      "В стопе есть покалывание, потеря чувствительности или слабость",
+      "У вас сахарный диабет и болит стопа либо вы заметили на стопе новый порез или волдырь"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "К какому врачу идти при боли в стопе?",
+     "a": "Боль в стопе и голеностопном суставе оценивает врач — травматолог-ортопед. Обратиться рекомендуется, если боль не уменьшается, несмотря на две недели домашних мер, усиливается или мешает повседневным делам [1][2][3]."
+    },
+    {
+     "q": "Как облегчить боль в стопе дома?",
+     "a": "Чтобы облегчить боль, рекомендуют давать стопе покой и держать её приподнятой, прикладывать лёд, завёрнутый в полотенце, носить просторную обувь на низком каблуке и мягкой подошве и выполнять щадящие упражнения на растяжку [1][2][3]. Боль в подошве чаще всего проходит за несколько недель [1]."
+    },
+    {
+     "q": "Признаком каких заболеваний бывают боль и жжение в подошве?",
+     "a": "Боль в подошве чаще всего связана с нагрузками или тесной обувью; среди возможных причин — подошвенный фасциит, мозоли, подошвенная бородавка, плоскостопие и неврома Мортона [1]. Жжение, покалывание или потеря чувствительности при сахарном диабете могут говорить о поражении нервов и сосудов [6]."
+    },
+    {
+     "q": "За сколько дней проходит боль в верхней части стопы?",
+     "a": "Боль в верхней части стопы обычно проходит за несколько недель [3]. Если причина — стрессовый перелом, заживление обычно занимает 6–8 недель [5]."
+    },
+    {
+     "q": "Что помогает при мозоли на подошве?",
+     "a": "Рекомендуют просторную обувь на мягкой подошве, мягкие носки, мягкие стельки, размягчение в тёплой воде, пемзу и увлажняющий крем; не срезайте мозоль самостоятельно [4]. Людям с сахарным диабетом или нарушением кровообращения не следует лечить мозоли самостоятельно [4]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "dard-pa-ellat-va-eghdam-khanegi",
+   "title": "درد پا (کف، پاشنه و روی پا): علت چیست و چه چیزی کمک می‌کند؟",
+   "description": "درد پا چرا ایجاد می‌شود و چگونه برطرف می‌شود؟ علت‌های درد کف پا، پاشنه، روی پا و شست پا، اقدام‌های خانگی و اینکه به کدام پزشک مراجعه کنید.",
+   "summary": "درد پا بیشتر وقت‌ها از ورزش‌هایی مانند دویدن یا از کفش تنگ ناشی می‌شود و محل درد علت احتمالی را نشان می‌دهد: در کف پا فاشئیت پلانتار و میخچه یا پینه، در سینهٔ پا نورومای مورتون، در روی پا کشیدگی یا شکستگی، و در مفصل شست پا هالوکس والگوس یا نقرس [1][2][3]. درد کف پا و روی پا بیشتر وقت‌ها طی چند هفته بهتر می‌شود؛ برای کاهش درد، استراحت، کمپرس سرد و کفش جادار با زیرهٔ نرم توصیه می‌شود [1][3]. اگر درد پس از دو هفته اقدام خانگی برطرف نشود، اگر حس پا از دست رفته باشد یا اگر فرد مبتلا به دیابت درد پا داشته باشد، باید به پزشک مراجعه کرد [1][6].",
+   "sections": [
+    {
+     "h": "درد پا چرا ایجاد می‌شود؟",
+     "p": [
+      "درد کف پا بیشتر وقت‌ها از ورزش‌هایی مانند دویدن یا از کفش تنگ ناشی می‌شود [1][2]. درد روی پا نیز بیشتر با ورزش‌هایی ارتباط دارد که با دویدن، ضربه زدن به توپ یا پریدن همراه‌اند؛ کفش تنگ و برخی بیماری‌ها مانند نقرس نیز می‌توانند آن را ایجاد کنند [3].",
+      "درد پا همیشه نشانهٔ فشار بیش از حد نیست: التهاب مفصل (آرتریت)، نقرس، سیاتیک و آسیب عصب یا رگ ناشی از دیابت نیز می‌توانند در پا درد ایجاد کنند [2][3][6].",
+      "محل درد و علائم همراه آن علت احتمالی را نشان می‌دهند؛ با این حال سعی نکنید علت را خودتان تشخیص دهید [1][3]."
+     ]
+    },
+    {
+     "h": "درد کف پا و پاشنه",
+     "p": [
+      "درد کف پا بیشتر وقت‌ها طی چند هفته بهتر می‌شود [1]. کمبود ویتامین D یا کلسیم نیز، به‌ویژه در کودکان، می‌تواند باعث آن شود [1]. فاشئیت پلانتار (خار پاشنه) و صافی کف پا در نوشته‌های جداگانه‌ای در همین سایت توضیح داده شده‌اند.",
+      "بر پایهٔ علائم، مهم‌ترین علت‌های احتمالی این‌ها هستند [1]:"
+     ],
+     "list": [
+      "درد تیز میان پاشنه و قوس کف پا که هنگام شروع راه رفتن بیشتر و با استراحت کمتر می‌شود: فاشئیت پلانتار",
+      "نبودن فاصله (قوس) زیر پا هنگام ایستادن و چسبیدن کامل کف پا به زمین: صافی کف پا",
+      "پوست سفتی که زیر آن نقطهٔ سیاهی دیده می‌شود و با فشار دادن درد می‌گیرد: زگیل کف پا"
+     ]
+    },
+    {
+     "h": "درد میخچه و پینهٔ کف پا",
+     "p": [
+      "میخچه و پینه نواحی‌ای از پوست سفت و ضخیم‌شده‌اند که ممکن است دردناک باشند؛ به شکل برجستگی‌های کوچک و سفت یا نواحی بزرگ‌ترِ پوست زبر و ضخیم دیده می‌شوند [4]. بر اثر فشار یا سایش ایجاد می‌شوند؛ کفش پاشنه‌بلند و کفشی که اندازهٔ پا نیست از علت‌های آن است [4].",
+      "کفش جادار با پاشنهٔ کوتاه و زیرهٔ نرم، جوراب نرم و کفی نرم توصیه می‌شود [4]. پوست سفت را می‌توان در آب گرم نرم کرد، به‌طور منظم با سنگ‌پا یا سوهان پا نازک کرد و با مرطوب‌کننده نرم نگه داشت [4]. سعی نکنید میخچه یا پینه را خودتان ببُرید؛ دربارهٔ فراورده‌هایی که می‌توان به کار برد می‌توانید از داروساز بپرسید [4].",
+      "افراد مبتلا به دیابت، مشکل گردش خون یا ضعف دستگاه ایمنی و نیز سالمندان نباید خودشان میخچه و پینه را درمان کنند [4]. اگر یکی از این بیماری‌ها را دارید، اگر میخچه خونریزی یا ترشح دارد، اگر درد شدید است یا اگر پس از سه هفته مراقبت خانگی بهبودی دیده نمی‌شود، به پزشک مراجعه کنید [4]."
+     ]
+    },
+    {
+     "h": "درد سینهٔ پا: متاتارسالژی و نورومای مورتون",
+     "p": [
+      "به درد بخش جلویی کف پا، زیر بیخ انگشتان (سینهٔ پا)، متاتارسالژی می‌گویند [2]. این درد بیشتر وقت‌ها از ورزش‌هایی مانند دویدن، کفش تنگ یا بیماری‌ای مانند آرتریت ناشی می‌شود؛ پوست سفت یا ترک‌خورده و زگیل کف پا نیز می‌توانند چنین دردی ایجاد کنند [2].",
+      "بر پایهٔ علائم، علت‌های احتمالی این‌ها هستند [2]:"
+     ],
+     "list": [
+      "درد تیز، سوزشی یا تیرکشنده نزدیک انگشتان، همراه با احساس وجود یک برجستگی یا سنگ‌ریزه زیر پا: نورومای مورتون",
+      "قرمزی و تورم همراه با درد مبهم و مداوم: بورسیت",
+      "برآمدگی استخوانی سفت نزدیک شست پا: هالوکس والگوس (برآمدگی کنار شست پا)"
+     ]
+    },
+    {
+     "h": "درد و تورم روی پا",
+     "p": [
+      "درد روی پا معمولاً طی چند هفته بهتر می‌شود [3]. پیچ‌خوردگی مچ پا، شکستگی مچ پا و پارگی تاندون آشیل در نوشته‌های جداگانه‌ای در همین سایت بررسی شده‌اند.",
+      "یکی از علت‌های درد همراه با تورم در روی پا شکستگی استرسی است: ترک کوچکی در استخوان یا کوفتگی شدید درون استخوان که بیشتر بر اثر استفادهٔ بیش از حد و فعالیت تکراری ایجاد می‌شود [5]. درد به‌تدریج ایجاد می‌شود، در فعالیت‌هایی که وزن روی پا می‌افتد بیشتر می‌شود و با استراحت از بین می‌رود؛ ممکن است روی پا متورم باشد و فشار دادن روی استخوان دردناک باشد [5]. این شکستگی در آغاز بیشتر وقت‌ها در عکس رادیولوژی به‌سختی دیده می‌شود؛ بهبود آن معمولاً ۶ تا ۸ هفته طول می‌کشد و اگر به درد توجه نشود، استخوان ممکن است کاملاً بشکند [5].",
+      "علت‌های احتمالی دیگر بر پایهٔ علائم این‌ها هستند [3]:"
+     ],
+     "list": [
+      "درد، تورم و کبودی که پس از ورزش شدید یا تکراری شروع شده است: پیچ‌خوردگی یا کشیدگی",
+      "درد شدید، تورم، کبودی و محدود شدن حرکت پا: شکستگی استخوان پا",
+      "درد، تورم و خشکی طولانی‌مدت، احساس سایش یا خرچ‌خرچ هنگام حرکت دادن پا، برجستگی در مسیر تاندون: تاندونیت یا آرتروز (استئوآرتریت)",
+      "پوست قرمز، داغ و متورم، درد ناگهانی یا شدید با هر تماس با پا، دردی که معمولاً از نزدیک بیخ شست پا شروع می‌شود: نقرس",
+      "گزگز، بی‌حسی یا درد در روی پا که ممکن است از پشت پا تا باسن کشیده شود: سیاتیک؛ این وضعیت را تخصص مربوط ارزیابی می‌کند"
+     ]
+    },
+    {
+     "h": "درد مفصل شست پا",
+     "p": [
+      "برآمدگی استخوانی سفت نزدیک شست پا هالوکس والگوس (برآمدگی کنار شست پا) را مطرح می‌کند [2]؛ انتخاب کفش و اینکه جراحی چه زمانی در نظر گرفته می‌شود در نوشتهٔ جداگانه‌ای در همین سایت توضیح داده شده است. فرورفتن ناخن در گوشت نیز در نوشتهٔ جداگانه‌ای بررسی شده است.",
+      "نقرس نوعی آرتریت است که درد ناگهانی و شدید مفصل ایجاد می‌کند؛ بیشتر شست پا را درگیر می‌کند، پوست روی مفصل داغ، متورم و قرمز می‌شود و حمله‌ها معمولاً با دارو درمان می‌شوند [3][7]."
+     ]
+    },
+    {
+     "h": "سوزش و گزگز کف پا و دیابت",
+     "p": [
+      "درد سوزشی نزدیک انگشتان ممکن است در نورومای مورتون دیده شود [1][2].",
+      "در دیابت، قند خونی که مدت طولانی بالا بماند ممکن است به رگ‌های کوچکی که عصب‌های پا را تغذیه می‌کنند آسیب بزند؛ با آسیب عصب‌ها ممکن است حس پا از بین برود (نوروپاتی محیطی)، رگ‌های آسیب‌دیده خون‌رسانی به پا را کم می‌کنند و ترمیم بریدگی‌ها و زخم‌ها ممکن است دشوار شود [6].",
+      "در دیابت، گزگز، درد سوزشی، از دست رفتن حس، بریدگی یا زخمی که خوب نمی‌شود و گرفتگی عضلات پشت ساق مراجعه به پزشک را لازم می‌کنند [6]. اگر دیابت دارید، برای درد پا به پزشک مراجعه کنید؛ در این بیماری مشکلات پا ممکن است جدی‌تر باشد [1][2][3]. اگر بریدگی یا تاول تازه‌ای در پایتان دیدید، بی‌درنگ با پزشک خود تماس بگیرید [6]. شکایت‌های مربوط به عصب‌ها یا گردش خون را تخصص‌های مربوط ارزیابی می‌کنند."
+     ]
+    },
+    {
+     "h": "به کدام بخش مراجعه کنیم و در خانه چه چیزی کمک می‌کند؟",
+     "p": [
+      "درد پا و مچ پا را بخش ارتوپدی و تروماتولوژی ارزیابی می‌کند. اگر درد مانع کارهای روزمره می‌شود، بدتر می‌شود یا عود می‌کند، یا با وجود دو هفته مراقبت خانگی بهتر نشده است، به پزشک مراجعه کنید [1][2][3].",
+      "اگر مسکّن لازم باشد، می‌توان از داروساز یا پزشک پرسید کدام مناسب است [1]. برای کاهش درد این کارها در خانه توصیه می‌شود [1][2][3]:"
+     ],
+     "list": [
+      "استراحت دادن به پا و بالا نگه داشتن آن تا جای ممکن",
+      "گذاشتن کیسهٔ یخِ پیچیده در حوله روی ناحیهٔ دردناک، هر ۲ تا ۳ ساعت یک بار و تا ۲۰ دقیقه",
+      "پوشیدن کفشی که برای انگشتان جای کافی دارد و پاشنهٔ کوتاه و زیرهٔ نرم دارد و گذاشتن کفی نرم یا پد درون آن؛ پرهیز از کفش پاشنه‌بلند و کفش تنگ و نوک‌تیز",
+      "انجام منظم ورزش‌های کششی ملایم برای پا و مچ پا",
+      "کنار گذاشتن ورزش یا فعالیتی که فکر می‌کنید باعث درد است؛ پرهیز از ایستادن و راه رفتن طولانی",
+      "تلاش برای کم کردن وزن در صورت اضافه‌وزن"
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "در موارد زیر بدون تأخیر به یک مرکز درمانی مراجعه کنید [1][2][3][6]:"
+     ],
+     "list": [
+      "اگر درد پا شدید است یا از شدت درد احساس غش، سرگیجه یا تهوع دارید",
+      "اگر نمی‌توانید راه بروید",
+      "اگر شکل پا تغییر کرده یا پا در زاویه‌ای غیرعادی قرار گرفته است",
+      "اگر هنگام آسیب صدای پاره شدن، خرچ‌خرچ یا «تق» شنیده‌اید",
+      "اگر فکر می‌کنید پا یا انگشتتان شکسته است؛ سعی نکنید خودتان آن را درمان کنید",
+      "اگر پا داغ و متورم است یا درد پا با تب بالا یا لرز همراه است",
+      "اگر در پا گزگز، بی‌حسی یا ضعف دارید",
+      "اگر دیابت دارید و پایتان درد می‌کند یا بریدگی یا تاول تازه‌ای در پایتان دیده‌اید"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "برای درد پا به کدام پزشک باید مراجعه کرد؟",
+     "a": "درد پا و مچ پا را متخصص ارتوپدی و تروماتولوژی ارزیابی می‌کند. توصیه می‌شود اگر درد با وجود دو هفته اقدام خانگی بهتر نشده، بدتر می‌شود یا مانع کارهای روزمره است مراجعه کنید [1][2][3]."
+    },
+    {
+     "q": "درد پا در خانه چگونه برطرف می‌شود؟",
+     "a": "برای کاهش درد، استراحت دادن به پا و بالا نگه داشتن آن، گذاشتن یخِ پیچیده در حوله، پوشیدن کفش جادار با پاشنهٔ کوتاه و زیرهٔ نرم و ورزش‌های کششی ملایم توصیه می‌شود [1][2][3]. درد کف پا بیشتر وقت‌ها طی چند هفته بهتر می‌شود [1]."
+    },
+    {
+     "q": "درد و سوزش کف پا نشانهٔ چه بیماری‌ای است؟",
+     "a": "درد کف پا بیشتر وقت‌ها با ورزش یا کفش تنگ ارتباط دارد؛ فاشئیت پلانتار، میخچه و پینه، زگیل کف پا، صافی کف پا و نورومای مورتون از علت‌های احتمالی‌اند [1]. سوزش، گزگز یا بی‌حسی در دیابت ممکن است نشان دهد که عصب‌ها و رگ‌ها درگیر شده‌اند [6]."
+    },
+    {
+     "q": "درد روی پا چند روزه خوب می‌شود؟",
+     "a": "درد روی پا معمولاً طی چند هفته بهتر می‌شود [3]. اگر علت شکستگی استرسی باشد، بهبود معمولاً ۶ تا ۸ هفته طول می‌کشد [5]."
+    },
+    {
+     "q": "برای میخچه یا پینهٔ کف پا چه چیزی خوب است؟",
+     "a": "کفش جادار با زیرهٔ نرم، جوراب نرم، کفی نرم، خیساندن در آب گرم، سنگ‌پا و مرطوب‌کننده توصیه می‌شود؛ میخچه یا پینه را خودتان نبُرید [4]. افراد مبتلا به دیابت یا مشکل گردش خون نباید خودشان میخچه و پینه را درمان کنند [4]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

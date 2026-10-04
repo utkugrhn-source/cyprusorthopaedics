@@ -1,0 +1,521 @@
+{
+ "id": "joint-injections",
+ "area": "diz",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Steroid Injections: Integrated Musculoskeletal (iMSK) Service patient information (PI091)",
+   "publisher": "North Tees and Hartlepool NHS Foundation Trust",
+   "url": "https://www.nth.nhs.uk/resources/integrated-musculoskeletal-service-steroid-injections/",
+   "year": "n.d."
+  },
+  {
+   "title": "Intra-articular corticosteroid for knee osteoarthritis",
+   "publisher": "Cochrane Database of Systematic Reviews (Jüni P, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26490760/",
+   "year": "2015"
+  },
+  {
+   "title": "Viscosupplementation for knee osteoarthritis: systematic review and meta-analysis",
+   "publisher": "BMJ (Pereira TV, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36333100/",
+   "year": "2022"
+  },
+  {
+   "title": "Platelet-Rich Plasma (PRP)",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/treatment/platelet-rich-plasma-prp/",
+   "year": "n.d."
+  },
+  {
+   "title": "Effect of Intra-articular Platelet-Rich Plasma vs Placebo Injection on Pain and Medial Tibial Cartilage Volume in Patients With Knee Osteoarthritis: The RESTORE Randomized Clinical Trial",
+   "publisher": "JAMA (Bennell KL, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34812863/",
+   "year": "2021"
+  },
+  {
+   "title": "Stem cell injections for osteoarthritis of the knee",
+   "publisher": "Cochrane Database of Systematic Reviews (Whittle SL, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40169165/",
+   "year": "2025"
+  },
+  {
+   "title": "2019 American College of Rheumatology/Arthritis Foundation Guideline for the Management of Osteoarthritis of the Hand, Hip, and Knee",
+   "publisher": "Arthritis & Rheumatology (Kolasinski SL, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31908163/",
+   "year": "2020"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "diz-ignesi-kortizon-hyaluronik-asit-prp-kok-hucre",
+   "title": "Diz iğnesi: kortizon, hyalüronik asit, PRP ve kök hücre ne işe yarar?",
+   "description": "Diz iğnesi nedir, ne işe yarar? Kortizon iğnesi, hyalüronik asit, PRP ve kök hücre tedavisi: etkisi, yan etkileri, kaç ayda bir yapıldığı ve kılavuzlar.",
+   "summary": "Diz iğnesi olarak yapılan başlıca dört tedavi kortizon, hyalüronik asit, PRP ve kök hücredir [7]. Diz kireçlenmesinde (osteoartrit) kortizon iğnesi ağrıyı kısa süreli azaltabilir; altı ay sonra etkisinin sürdüğüne ilişkin kanıt yoktur [2]. Hyalüronik asit ve PRP, plaseboyla karşılaştırıldıkları büyük çalışmalarda klinik açıdan anlamlı bir üstünlük göstermemiştir; kök hücre için kanıtın güvenilirliği düşüktür ve Amerikan Romatoloji Koleji (ACR) kılavuzu bu üç iğneyi önermez [3][5][6][7].",
+   "sections": [
+    {
+     "h": "Diz iğnesi nedir, hangi türleri var?",
+     "p": [
+      "Diz iğnesi ya da eklem iğnesi, bir ilacın ya da kandan, hücreden hazırlanan bir ürünün iğneyle eklemin içine verilmesidir [1][4][6]. En sık diz kireçlenmesinde gündeme gelir; aşağıdaki araştırmalar da diz kireçlenmesi üzerinedir [2][3][5][6]. Dört tür iğne sorulur:"
+     ],
+     "list": [
+      "Kortizon iğnesi (kortikosteroid): iltihap giderici bir ilaçtır [1]",
+      "Hyalüronik asit iğnesi: halk arasında \"diz sıvısı iğnesi\" denir, tıbbi adı viskosuplementasyondur [3]",
+      "PRP (trombositten zengin plazma): kişinin kendi kanından hazırlanır [4]",
+      "Kök hücre iğnesi: kıkırdak, kemik ve yağ dokusu hücrelerine dönüşebilen hücreler eklem içine verilir [6]"
+     ]
+    },
+    {
+     "h": "Kortizon iğnesi ne işe yarar, ne zaman etki eder?",
+     "p": [
+      "Kortizon iğnesi kireçlenme, donuk omuz, bursit, tetik parmak, karpal tünel sendromu ve topuk dikeni (plantar fasiit) gibi eklem ve yumuşak doku sorunlarında kullanılır [1]. Etkisi genellikle birkaç günde, bazen saatler içinde başlar; ilk 24 saatte ağrı artabilir, sonraki 2–3 günde azalması beklenir [1].",
+      "Diz kireçlenmesinde 27 çalışmayı (1767 hasta) inceleyen Cochrane derlemesine göre kortizon iğnesi, sahte (plasebo) iğneye kıyasla ağrıyı azaltıyor görünmektedir; ortalama fark 10 santimetrelik ağrı ölçeğinde 1 santimetredir [2]. Yarar ilk 1–2 haftada orta düzeyde, 4–6. haftada küçük ile orta arası, 13. haftada küçüktür; 26. haftada etkinin sürdüğüne ilişkin kanıt yoktur [2]. Derleme kanıt kalitesini düşük bulmuş, klinik açıdan önemli bir yarar olup olmadığının belirsiz kaldığını bildirmiştir [2]."
+     ]
+    },
+    {
+     "h": "Kortizon iğnesi kaç gün arayla yapılır, yan etkileri nelerdir?",
+     "p": [
+      "Bir NHS hasta broşürüne göre iki iğne arasında genellikle en az 6 hafta beklenir ve aynı bölgeye 12 ay içinde 3'ten fazla iğne genellikle önerilmez [1]. İğneden sonra bölgenin o gün ve ertesi gün dinlendirilmesi, ağır etkinlik ve egzersizin 2 hafta kısıtlanması önerilir [1].",
+      "İğneden önce şeker hastalığı, kan sulandırıcı kullanımı, geçirilmiş enfeksiyon, gebelik ve son haftalarda yapılmış steroid iğnesi hekime bildirilmelidir [1].",
+      "Kıkırdağa etkisi tartışmalıdır: ACR kılavuzu, bir araştırmanın belirli steroid türlerinin ya da belirli sıklıkta yapılan iğnelerin kıkırdak kaybına katkıda bulunabileceği olasılığını gündeme getirdiğini, ancak kıkırdaktaki değişiklik ağrı ya da işlevde kötüleşmeyle ilişkili bulunmadığı için panelin bunun klinik öneminden emin olamadığını aktarır [7]. Cochrane derlemesinde yan etkiler açısından kortizon ile sahte iğne arasında fark gösterilmemiştir [2].",
+      "Broşürde sayılan yan etkiler şunlardır [1]:"
+     ],
+     "list": [
+      "İğne yerinde ağrının alevlenmesi: ilk 24 saatte başlayabilir, 5–7 güne kadar sürebilir",
+      "Yüzde kızarma ve sıcaklık",
+      "Şeker hastalığı (diyabet) olanlarda birkaç gün süren kan şekeri yükselmesi",
+      "İğne yerinde derinin renginin açılması ya da yağ dokusu kaybına bağlı çukurlaşma",
+      "Enfeksiyon: nadirdir, ancak olabilir",
+      "Yakındaki tendonlarda hasar: küçük bir risktir"
+     ]
+    },
+    {
+     "h": "Hyalüronik asit iğnesi (\"diz sıvısı iğnesi\")",
+     "p": [
+      "Hyalüronik asit ya da türevlerinin eklem içine enjekte edilmesidir; diz kireçlenmesinde 50 yılı aşkın süredir kullanılır. Tek iğne ya da iki ile altı iğnelik kür hâlinde uygulanır [3].",
+      "2022'de BMJ'de yayımlanan derlemenin ana sonucu, büyük ve plasebo kontrollü 24 çalışmaya (8997 hasta) dayanır: hyalüronik asit ağrıyı plaseboya göre 100 milimetrelik ölçekte ortalama 2 milimetre azaltmıştır; bu, klinik açıdan anlamlı sayılan en küçük farkın altındadır [3].",
+      "Hastaneye yatış gerektiren olaylar gibi ciddi yan etkiler hyalüronik asit alanların yüzde 3,7'sinde, plasebo alanların yüzde 2,5'inde görülmüştür [3]. Yazarlara göre bulgular bu iğnenin yaygın kullanımını desteklememektedir; yine de seçilmiş bazı hasta gruplarının yarar görme olasılığı dışlanamaz [3]."
+     ]
+    },
+    {
+     "h": "PRP diz tedavisi nedir, kaç seans yapılır?",
+     "p": [
+      "PRP için kişiden kan alınır; kan santrifüj edilerek trombositler ayrılır, yoğunlaştırılır ve ilgili bölgeye enjekte edilir. Trombositler, iyileşmede önemli olan büyüme faktörleri içerir [4].",
+      "Kanıtlar çelişkilidir. Amerikan Ortopedi Cerrahları Akademisi (AAOS), hafif ve orta dereceli diz kireçlenmesinde PRP'nin etkili olduğunu gösteren yayınların arttığını, ancak basındaki iddiaları destekleyecek araştırmaların eksik olduğunu belirtir [4]. Plasebo kontrollü RESTORE çalışmasında (hafif ve orta dereceli kireçlenmesi olan 288 hasta) ise PRP, 12 ay sonunda ağrıda ve kıkırdak hacminde serum fizyolojik iğnesinden anlamlı biçimde farklı bulunmamıştır [5].",
+      "Kaç seans yapılacağı konusunda uzlaşılmış bir şema bu kaynaklarda yer almaz: RESTORE çalışmasında birer hafta arayla üç iğne yapılmıştır [5]; ACR, PRP'nin hazırlanışında ve uygulama tekniklerinde standart bulunmadığına, bu yüzden tam olarak neyin enjekte edildiğini belirlemenin güç olduğuna dikkat çeker [7].",
+      "İğne yerindeki ağrı ilk bir iki hafta artabilir, yararın hissedilmesi birkaç hafta sürebilir; AAOS'ye göre enfeksiyon, doku hasarı ve sinir yaralanması gibi sorunların sıklığı kortizon iğnesindekinden farklı görünmemektedir [4]."
+     ]
+    },
+    {
+     "h": "Kök hücre tedavisi dize nasıl uygulanır, kanıtlar ne diyor?",
+     "p": [
+      "Kök hücrelerin kuramsal olarak hasarlı kıkırdağı yeniden oluşturabileceği düşünülür; kireçlenmede bu nedenle kullanılmaktadır [6]. Hücreler iğneyle diz eklemine verilir; kaynakları, hazırlanma yöntemi ve dozu çalışmadan çalışmaya değişir, en uygun yöntem ve doz bilinmemektedir [6].",
+      "2025 tarihli Cochrane derlemesi, çoğu küçük 25 çalışmayı (1341 hasta) incelemiştir. Plasebo iğnesine kıyasla kök hücre iğnesi altı aya kadar ağrıyı ve işlevi biraz iyileştirebilir: 10 puanlık ölçekte ağrı plaseboda 4,5, kök hücrede 3,3 puandır; bu kanıtın güvenilirliği düşüktür [6].",
+      "Kıkırdağı yenileyip yenilemediği bilinmemektedir; röntgendeki ilerleme hiçbir çalışmada değerlendirilmemiştir [6]. Ciddi yan etkiler seyrek bildirilmiştir, ancak hücre büyümesini uyarma kapasitesi olan bir tedavinin ve başka bir kişiden alınan hücrelerin olası riskleri bilinmemektedir [6]."
+     ]
+    },
+    {
+     "h": "Kılavuzlar hangi iğneyi öneriyor?",
+     "p": [
+      "ACR kılavuzu diz ve kalça kireçlenmesinde egzersizi ve fazla kilosu olanlarda kilo vermeyi güçlü biçimde önerir [7]. İngiltere'de NICE hyalüronik asit iğnesini önermez; BMJ derlemesi kılavuzların çoğunun bu iğneyi desteklemediğini aktarır [3].",
+      "ACR'nin iğnelere ilişkin önerileri şöyledir [7]:"
+     ],
+     "list": [
+      "Kortizon iğnesi: diz ve kalça kireçlenmesinde güçlü biçimde, el kireçlenmesinde koşullu olarak önerilir; kalça iğnesinde ultrason eşliği güçlü biçimde önerilir",
+      "Hyalüronik asit: dizde ve başparmak kökü ekleminde koşullu olarak, kalçada güçlü biçimde önerilmez; koşullu öneri, diğer seçenekler yetersiz kaldığında hastayla konuşularak kullanılmasına engel değildir",
+      "PRP ve kök hücre: diz ve kalça kireçlenmesinde güçlü biçimde önerilmez",
+      "Bir iğne yapılacaksa kortizon, kanıt kalitesi belirgin biçimde daha yüksek olduğu için diğer iğnelere koşullu olarak yeğlenir"
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Her eklem iğnesi, küçük de olsa eklem enfeksiyonu (septik artrit) riski taşır [6]. İğneden sonra şu durumlarda beklemeden iğneyi yapan hekime ya da bir sağlık kuruluşuna başvurun [1]:"
+     ],
+     "list": [
+      "Ağrıda belirgin artış",
+      "İğne yerinde kızarıklık ya da sıcaklık",
+      "38 derecenin üzerinde ateş",
+      "Kendinizi çok hasta hissetmeniz"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Diz iğnesi kaç ayda bir yapılır?",
+     "a": "Kortizon iğnesinde iki iğne arasında genellikle en az 6 hafta beklenir ve aynı bölgeye 12 ayda 3'ten fazla iğne genellikle önerilmez [1]. Hyalüronik asit tek iğne ya da iki ile altı iğnelik kür olarak uygulanır [3]; PRP'nin hazırlanışında ve uygulamasında ise standart yoktur [7]."
+    },
+    {
+     "q": "Kortizon iğnesi zararlı mı?",
+     "a": "İğne yerinde birkaç gün süren ağrı alevlenmesi, yüzde kızarma ve şeker hastalarında geçici kan şekeri yükselmesi görülebilir; enfeksiyon nadirdir [1]. Belirli sıklıkta yapılan iğnelerin kıkırdak kaybına katkıda bulunabileceği gündeme gelmiştir, ancak bunun klinik önemi belirsizdir [7]."
+    },
+    {
+     "q": "Hyalüronik asit diz iğnesi ne işe yarar?",
+     "a": "Büyük plasebo kontrollü çalışmalarda ağrıyı plaseboya göre yalnızca çok az, klinik açıdan anlamlı sayılan düzeyin altında azaltmış, ciddi yan etkiler ise plasebodan daha sık görülmüştür [3]. NICE bu iğneyi önermez [3]; ACR de dizde koşullu olarak önermez [7]."
+    },
+    {
+     "q": "PRP dizlere iyi gelir mi?",
+     "a": "Kanıtlar çelişkilidir. Plasebo kontrollü RESTORE çalışmasında PRP 12 ayda serum fizyolojik iğnesinden üstün bulunmamıştır [5] ve ACR kılavuzu diz kireçlenmesinde PRP'yi önermez [7]; AAOS ise hafif ve orta dereceli kireçlenmede etkili olduğunu gösteren yayınların arttığını belirtir [4]."
+    },
+    {
+     "q": "Kök hücre tedavisi dizlere iyi gelir mi?",
+     "a": "Düşük güvenilirlikteki kanıtlara göre plasebo iğnesine kıyasla ağrıyı ve işlevi biraz iyileştirebilir; kıkırdağı yenileyip yenilemediği ve güvenliği bilinmemektedir [6]. ACR kılavuzu diz ve kalça kireçlenmesinde kök hücre iğnesini önermez [7]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "knee-injections-cortisone-hyaluronic-acid-prp-stem-cells",
+   "title": "Knee injections: what do cortisone, hyaluronic acid, PRP and stem cells do?",
+   "description": "What are knee injections for? Cortisone, hyaluronic acid, PRP and stem cell injections: how well they work, side effects, how often, and what guidelines say.",
+   "summary": "The four main treatments given as knee injections are cortisone, hyaluronic acid, PRP and stem cells [7]. In knee osteoarthritis a cortisone injection can reduce pain for a short time; there is no evidence that its effect is still present after six months [2]. Hyaluronic acid and PRP have not shown a clinically meaningful advantage in the large trials that compared them with placebo; for stem cells the certainty of the evidence is low, and the American College of Rheumatology (ACR) guideline does not recommend these three injections [3][5][6][7].",
+   "sections": [
+    {
+     "h": "What is a knee injection and what kinds are there?",
+     "p": [
+      "A knee injection, or joint injection, means putting a medicine, or a product prepared from blood or cells, into the joint through a needle [1][4][6]. It comes up most often in knee osteoarthritis, and the research below is also about knee osteoarthritis [2][3][5][6]. People ask about four kinds of injection:"
+     ],
+     "list": [
+      "Cortisone injection (corticosteroid): an anti-inflammatory medicine [1]",
+      "Hyaluronic acid injection: popularly called a \"gel injection\"; its medical name is viscosupplementation [3]",
+      "PRP (platelet-rich plasma): prepared from the person's own blood [4]",
+      "Stem cell injection: cells that can develop into cartilage, bone and fat tissue cells are put into the joint [6]"
+     ]
+    },
+    {
+     "h": "What does a cortisone injection do, and when does it start to work?",
+     "p": [
+      "Cortisone injections are used for joint and soft tissue problems such as osteoarthritis, frozen shoulder, bursitis, trigger finger, carpal tunnel syndrome and plantar fasciitis [1]. They usually start to work within a few days, sometimes within hours; pain may get worse in the first 24 hours and is expected to ease over the next 2 to 3 days [1].",
+      "According to a Cochrane review of 27 trials (1767 patients) in knee osteoarthritis, a cortisone injection appears to reduce pain compared with a sham (placebo) injection; the average difference is 1 centimetre on a 10-centimetre pain scale [2]. The benefit is moderate in the first 1 to 2 weeks, small to moderate at 4 to 6 weeks and small at 13 weeks; there is no evidence that an effect remains at 26 weeks [2]. The review rated the quality of the evidence as low and reported that it remains unclear whether there is a clinically important benefit [2]."
+     ]
+    },
+    {
+     "h": "How far apart are cortisone injections given, and what are the side effects?",
+     "p": [
+      "According to an NHS patient leaflet, there is usually a wait of at least 6 weeks between two injections, and more than 3 injections in the same area within 12 months are not usually recommended [1]. After the injection it is recommended to rest the area that day and the day after, and to restrict heavier activity and exercise for 2 weeks [1].",
+      "Before the injection the doctor should be told about diabetes, the use of blood thinners, an infection, pregnancy and any steroid injection given in the last few weeks [1].",
+      "The effect on cartilage is debated: the ACR guideline notes that one study raised the possibility that specific steroid preparations, or injections given at a certain frequency, may contribute to cartilage loss, but that the panel was uncertain of the clinical significance of this because the change in cartilage was not associated with worsening of pain or function [7]. In the Cochrane review no difference in side effects was shown between cortisone and sham injection [2].",
+      "The side effects listed in the leaflet are [1]:"
+     ],
+     "list": [
+      "A flare of pain around the injection site: it can start within the first 24 hours and last up to 5 to 7 days",
+      "Flushing of the face (redness and heat)",
+      "Raised blood sugar for a few days in people with diabetes",
+      "Paler skin at the injection site, or dimpling caused by loss of fat",
+      "Infection: rare, but it can happen",
+      "Damage to nearby tendons: a small risk"
+     ]
+    },
+    {
+     "h": "Hyaluronic acid injection (\"gel injection\")",
+     "p": [
+      "This is the injection of hyaluronic acid or its derivatives into the joint; it has been used in knee osteoarthritis for more than 50 years. It is given as a single injection or as a course of two to six injections [3].",
+      "The main result of a review published in the BMJ in 2022 rests on 24 large, placebo-controlled trials (8997 patients): compared with placebo, hyaluronic acid reduced pain by an average of 2 millimetres on a 100-millimetre scale, which is below the smallest difference considered clinically meaningful [3].",
+      "Serious side effects, such as events requiring admission to hospital, occurred in 3.7% of those given hyaluronic acid and 2.5% of those given placebo [3]. According to the authors, the findings do not support broad use of this injection; even so, the possibility that some selected groups of patients could benefit cannot be excluded [3]."
+     ]
+    },
+    {
+     "h": "What is PRP treatment for the knee, and how many sessions?",
+     "p": [
+      "For PRP, blood is taken from the person; the blood is spun in a centrifuge so that the platelets are separated and concentrated, and they are then injected into the affected area. Platelets contain growth factors that are important in healing [4].",
+      "The evidence is conflicting. The American Academy of Orthopaedic Surgeons (AAOS) states that more and more publications show PRP to be effective in low- to moderate-grade knee osteoarthritis, but that research to back up the claims made in the media is lacking [4]. In the placebo-controlled RESTORE trial (288 patients with mild to moderate osteoarthritis), however, PRP was not significantly different from a saline injection for pain or cartilage volume at 12 months [5].",
+      "These sources do not give an agreed schedule for the number of sessions: in the RESTORE trial three injections were given one week apart [5]; the ACR points out that there is no standard for how PRP is prepared or for the techniques used, which makes it difficult to identify exactly what is being injected [7].",
+      "Pain at the injection site may increase for the first week or two, and it may be several weeks before a benefit is felt; according to the AAOS, the incidence of problems such as infection, tissue damage and nerve injury appears to be no different from that with cortisone injections [4]."
+     ]
+    },
+    {
+     "h": "How is stem cell treatment given to the knee, and what does the evidence say?",
+     "p": [
+      "In theory, stem cells are thought to be able to regrow damaged cartilage, which is why they are used in osteoarthritis [6]. The cells are injected into the knee joint; their source, the method of preparation and the dose vary from study to study, and the best method and dose are not known [6].",
+      "A Cochrane review dated 2025 examined 25 trials (1341 patients), most of them small. Compared with a placebo injection, a stem cell injection may slightly improve pain and function for up to six months: on a 10-point scale, pain was 4.5 points with placebo and 3.3 points with stem cells; the certainty of this evidence is low [6].",
+      "Whether it regrows cartilage is not known; progression on X-ray was not assessed in any trial [6]. Serious side effects were reported infrequently, but the possible risks of a treatment with the capacity to promote cell growth, and of cells taken from another person, are not known [6]."
+     ]
+    },
+    {
+     "h": "Which injection do guidelines recommend?",
+     "p": [
+      "For knee and hip osteoarthritis the ACR guideline strongly recommends exercise and, for people who are overweight, weight loss [7]. In England, NICE does not recommend hyaluronic acid injections; the BMJ review reports that most guidelines do not support this injection [3].",
+      "The ACR's recommendations on injections are as follows [7]:"
+     ],
+     "list": [
+      "Cortisone injection: strongly recommended for knee and hip osteoarthritis and conditionally recommended for hand osteoarthritis; ultrasound guidance is strongly recommended for injections into the hip",
+      "Hyaluronic acid: conditionally recommended against in the knee and the joint at the base of the thumb, and strongly recommended against in the hip; the conditional recommendation does not rule out its use, after discussion with the patient, when other options have proved inadequate",
+      "PRP and stem cells: strongly recommended against in knee and hip osteoarthritis",
+      "If an injection is to be given, cortisone is conditionally preferred to the other injections because the quality of the evidence for it is considerably higher"
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Every joint injection carries a risk, although small, of joint infection (septic arthritis) [6]. After an injection, contact the doctor who gave it or a healthcare facility without waiting in the following situations [1]:"
+     ],
+     "list": [
+      "A significant increase in pain",
+      "Redness or heat around the injection site",
+      "A temperature above 38 degrees",
+      "Feeling very unwell"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "How often can knee injections be given?",
+     "a": "With cortisone injections there is usually a wait of at least 6 weeks between two injections, and more than 3 injections in the same area in 12 months are not usually recommended [1]. Hyaluronic acid is given as a single injection or as a course of two to six injections [3]; for PRP there is no standard for preparation or technique [7]."
+    },
+    {
+     "q": "Are cortisone injections harmful?",
+     "a": "A flare of pain at the injection site lasting a few days, flushing of the face and, in people with diabetes, a temporary rise in blood sugar can occur; infection is rare [1]. It has been suggested that injections given at a certain frequency may contribute to cartilage loss, but the clinical significance of this is uncertain [7]."
+    },
+    {
+     "q": "What does a hyaluronic acid knee injection do?",
+     "a": "In large placebo-controlled trials it reduced pain only very slightly compared with placebo, below the level considered clinically meaningful, while serious side effects were more frequent than with placebo [3]. NICE does not recommend this injection [3]; the ACR also conditionally recommends against it in the knee [7]."
+    },
+    {
+     "q": "Does PRP help the knees?",
+     "a": "The evidence is conflicting. In the placebo-controlled RESTORE trial PRP was not better than a saline injection at 12 months [5], and the ACR guideline does not recommend PRP for knee osteoarthritis [7]; the AAOS, on the other hand, states that more and more publications show it to be effective in low- to moderate-grade osteoarthritis [4]."
+    },
+    {
+     "q": "Does stem cell treatment help the knees?",
+     "a": "According to low-certainty evidence it may slightly improve pain and function compared with a placebo injection; whether it regrows cartilage, and how safe it is, are not known [6]. The ACR guideline does not recommend stem cell injections for knee and hip osteoarthritis [7]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "ukoly-v-koleno-kortizon-gialuronovaya-kislota-prp-stvolovye-kletki",
+   "title": "Уколы в колено: что дают кортизон, гиалуроновая кислота, PRP и стволовые клетки?",
+   "description": "Зачем делают уколы в колено? Кортизон, гиалуроновая кислота, PRP и стволовые клетки: эффект, побочные действия, как часто делать и что говорят руководства.",
+   "summary": "Четыре основных вида уколов в колено — это кортизон, гиалуроновая кислота, PRP и стволовые клетки [7]. При артрозе коленного сустава (остеоартрите) укол кортизона может на короткое время уменьшить боль; доказательств того, что его действие сохраняется через шесть месяцев, нет [2]. Гиалуроновая кислота и PRP в крупных исследованиях, где их сравнивали с плацебо, не показали клинически значимого преимущества; в отношении стволовых клеток достоверность доказательств низкая, и руководство Американской коллегии ревматологов (ACR) эти три вида инъекций не рекомендует [3][5][6][7].",
+   "sections": [
+    {
+     "h": "Что такое укол в колено и какие бывают виды?",
+     "p": [
+      "Укол в колено, или внутрисуставная инъекция, — это введение лекарства либо препарата, приготовленного из крови или клеток, иглой в полость сустава [1][4][6]. Чаще всего о нём заходит речь при артрозе коленного сустава; исследования, о которых говорится ниже, тоже посвящены артрозу коленного сустава [2][3][5][6]. Спрашивают о четырёх видах инъекций:"
+     ],
+     "list": [
+      "Укол кортизона (кортикостероида): это противовоспалительное лекарство [1]",
+      "Инъекция гиалуроновой кислоты: в обиходе её называют «смазкой для сустава», медицинское название — вискосапплементация [3]",
+      "PRP (плазма, обогащённая тромбоцитами): готовится из собственной крови человека [4]",
+      "Инъекция стволовых клеток: в сустав вводят клетки, способные превращаться в клетки хрящевой, костной и жировой ткани [6]"
+     ]
+    },
+    {
+     "h": "Что даёт укол кортизона и когда он начинает действовать?",
+     "p": [
+      "Укол кортизона применяют при заболеваниях суставов и мягких тканей — таких как артроз, «замороженное плечо», бурсит, щёлкающий палец, синдром запястного канала и пяточная шпора (подошвенный фасциит) [1]. Действие обычно начинается через несколько дней, иногда — уже через несколько часов; в первые 24 часа боль может усилиться, в следующие 2–3 дня она должна уменьшиться [1].",
+      "По данным Кокрейновского обзора, в котором изучено 27 исследований (1767 пациентов) при артрозе коленного сустава, укол кортизона, по-видимому, уменьшает боль по сравнению с имитацией инъекции (плацебо); средняя разница составляет 1 сантиметр по 10-сантиметровой шкале боли [2]. Польза умеренная в первые 1–2 недели, от небольшой до умеренной на 4–6-й неделе и небольшая на 13-й неделе; доказательств того, что эффект сохраняется на 26-й неделе, нет [2]. Авторы обзора оценили качество доказательств как низкое и сообщили, что остаётся неясным, есть ли клинически важная польза [2]."
+     ]
+    },
+    {
+     "h": "С каким интервалом делают уколы кортизона и какие у них побочные эффекты?",
+     "p": [
+      "Согласно одной из памяток NHS для пациентов, между двумя уколами обычно выжидают не менее 6 недель, а более 3 уколов в одну и ту же область в течение 12 месяцев обычно не рекомендуют [1]. После укола рекомендуют дать этой области покой в тот же и на следующий день, а тяжёлую нагрузку и упражнения ограничить на 2 недели [1].",
+      "Перед уколом врачу следует сообщить о сахарном диабете, приёме препаратов, разжижающих кровь, перенесённой инфекции, беременности и об уколе стероида, сделанном в последние недели [1].",
+      "Влияние на хрящ остаётся предметом споров: в руководстве ACR отмечено, что одно исследование поставило вопрос о том, что определённые препараты стероидов или уколы с определённой частотой могут способствовать потере хряща, однако экспертная группа не была уверена в клинической значимости этого, поскольку изменение хряща не было связано с усилением боли или ухудшением функции [7]. В Кокрейновском обзоре различий в побочных эффектах между кортизоном и имитацией инъекции не показано [2].",
+      "В памятке перечислены следующие побочные эффекты [1]:"
+     ],
+     "list": [
+      "Обострение боли в месте укола: может начаться в первые 24 часа и длиться до 5–7 дней",
+      "Покраснение лица и ощущение жара",
+      "У людей с сахарным диабетом — повышение уровня сахара в крови на несколько дней",
+      "Побледнение кожи в месте укола или западение кожи из-за потери жировой ткани",
+      "Инфекция: возникает редко, но возможна",
+      "Повреждение расположенных рядом сухожилий: небольшой риск"
+     ]
+    },
+    {
+     "h": "Инъекция гиалуроновой кислоты («смазка для сустава»)",
+     "p": [
+      "Это введение в сустав гиалуроновой кислоты или её производных; при артрозе коленного сустава метод применяют более 50 лет. Вводят её однократно или курсом от двух до шести инъекций [3].",
+      "Основной вывод обзора, опубликованного в BMJ в 2022 году, опирается на 24 крупных плацебо-контролируемых исследования (8997 пациентов): по сравнению с плацебо гиалуроновая кислота уменьшала боль в среднем на 2 миллиметра по 100-миллиметровой шкале; это меньше наименьшей разницы, которую считают клинически значимой [3].",
+      "Серьёзные побочные эффекты — например, события, потребовавшие госпитализации, — отмечены у 3,7% получавших гиалуроновую кислоту и у 2,5% получавших плацебо [3]. По мнению авторов, результаты не поддерживают широкое применение этой инъекции; тем не менее нельзя исключить, что отдельные отобранные группы пациентов могут получить пользу [3]."
+     ]
+    },
+    {
+     "h": "Что такое лечение колена PRP и сколько нужно процедур?",
+     "p": [
+      "Для PRP у человека берут кровь; её центрифугируют, чтобы отделить и сконцентрировать тромбоциты, и затем вводят их в нужную область. Тромбоциты содержат факторы роста, важные для заживления [4].",
+      "Доказательства противоречивы. Американская академия хирургов-ортопедов (AAOS) указывает, что появляется всё больше публикаций, показывающих эффективность PRP при артрозе коленного сустава лёгкой и средней степени, но что исследований, подтверждающих заявления в прессе, не хватает [4]. В плацебо-контролируемом исследовании RESTORE (288 пациентов с артрозом лёгкой и средней степени), напротив, PRP через 12 месяцев значимо не отличалась от инъекции физиологического раствора ни по боли, ни по объёму хряща [5].",
+      "Согласованной схемы — сколько нужно процедур — в этих источниках нет: в исследовании RESTORE делали три инъекции с интервалом в одну неделю [5]; ACR обращает внимание на то, что стандарта приготовления PRP и техники введения не существует, и поэтому трудно определить, что именно вводится [7].",
+      "Боль в месте укола в первые одну-две недели может усилиться, а до ощутимой пользы может пройти несколько недель; по данным AAOS, частота таких проблем, как инфекция, повреждение тканей и повреждение нерва, по-видимому, не отличается от частоты при уколах кортизона [4]."
+     ]
+    },
+    {
+     "h": "Как стволовые клетки вводят в колено и что говорят доказательства?",
+     "p": [
+      "Считается, что теоретически стволовые клетки способны восстанавливать повреждённый хрящ; поэтому их и применяют при артрозе [6]. Клетки вводят иглой в коленный сустав; их источник, способ приготовления и доза различаются от исследования к исследованию, а наилучшие способ и доза неизвестны [6].",
+      "В Кокрейновском обзоре 2025 года изучено 25 исследований (1341 пациент), большинство из которых небольшие. По сравнению с инъекцией плацебо инъекция стволовых клеток может немного уменьшить боль и улучшить функцию на срок до шести месяцев: по 10-балльной шкале боль составила 4,5 балла при плацебо и 3,3 балла при стволовых клетках; достоверность этих доказательств низкая [6].",
+      "Восстанавливают ли они хрящ, неизвестно; прогрессирование на рентгеновских снимках не оценивалось ни в одном исследовании [6]. О серьёзных побочных эффектах сообщалось редко, однако возможные риски лечения, способного стимулировать рост клеток, и клеток, взятых у другого человека, неизвестны [6]."
+     ]
+    },
+    {
+     "h": "Какие уколы рекомендуют руководства?",
+     "p": [
+      "При артрозе коленного и тазобедренного суставов руководство ACR настоятельно рекомендует упражнения, а людям с избыточным весом — снижение веса [7]. В Англии NICE не рекомендует инъекции гиалуроновой кислоты; в обзоре BMJ сообщается, что большинство руководств эту инъекцию не поддерживают [3].",
+      "Рекомендации ACR в отношении инъекций таковы [7]:"
+     ],
+     "list": [
+      "Укол кортизона: настоятельно рекомендуется при артрозе коленного и тазобедренного суставов, условно — при артрозе суставов кисти; при уколе в тазобедренный сустав настоятельно рекомендуется контроль УЗИ",
+      "Гиалуроновая кислота: условно не рекомендуется в коленный сустав и сустав у основания большого пальца кисти, настоятельно не рекомендуется в тазобедренный сустав; условная рекомендация не исключает её применения после обсуждения с пациентом, когда другие варианты оказались недостаточными",
+      "PRP и стволовые клетки: настоятельно не рекомендуются при артрозе коленного и тазобедренного суставов",
+      "Если инъекцию решено делать, кортизону условно отдают предпочтение перед другими инъекциями, поскольку качество доказательств в его пользу заметно выше"
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Любая инъекция в сустав несёт пусть и небольшой, но риск инфекции сустава (септического артрита) [6]. После укола без промедления обратитесь к врачу, который его делал, или в медицинское учреждение в следующих случаях [1]:"
+     ],
+     "list": [
+      "Заметное усиление боли",
+      "Покраснение или жар в месте укола",
+      "Температура выше 38 градусов",
+      "Вы чувствуете себя очень плохо"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Как часто можно делать уколы в колено?",
+     "a": "При уколах кортизона между двумя уколами обычно выжидают не менее 6 недель, а более 3 уколов в одну и ту же область за 12 месяцев обычно не рекомендуют [1]. Гиалуроновую кислоту вводят однократно или курсом от двух до шести инъекций [3]; для PRP стандарта приготовления и введения нет [7]."
+    },
+    {
+     "q": "Вреден ли укол кортизона?",
+     "a": "Возможны обострение боли в месте укола на несколько дней, покраснение лица и временное повышение сахара в крови у людей с диабетом; инфекция бывает редко [1]. Высказано предположение, что уколы с определённой частотой могут способствовать потере хряща, однако клиническая значимость этого неясна [7]."
+    },
+    {
+     "q": "Что даёт укол гиалуроновой кислоты в колено?",
+     "a": "В крупных плацебо-контролируемых исследованиях он уменьшал боль лишь очень незначительно по сравнению с плацебо — ниже уровня, который считают клинически значимым, а серьёзные побочные эффекты встречались чаще, чем при плацебо [3]. NICE эту инъекцию не рекомендует [3]; ACR также условно не рекомендует её в коленный сустав [7]."
+    },
+    {
+     "q": "Помогает ли PRP коленям?",
+     "a": "Доказательства противоречивы. В плацебо-контролируемом исследовании RESTORE PRP через 12 месяцев не превзошла инъекцию физиологического раствора [5], и руководство ACR не рекомендует PRP при артрозе коленного сустава [7]; AAOS же указывает, что появляется всё больше публикаций, показывающих её эффективность при артрозе лёгкой и средней степени [4]."
+    },
+    {
+     "q": "Помогает ли коленям лечение стволовыми клетками?",
+     "a": "По доказательствам низкой достоверности, оно может немного уменьшить боль и улучшить функцию по сравнению с инъекцией плацебо; восстанавливает ли оно хрящ и насколько оно безопасно, неизвестно [6]. Руководство ACR не рекомендует инъекции стволовых клеток при артрозе коленного и тазобедренного суставов [7]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "tazrigh-zanoo-korton-hyaluronic-acid-prp-selul-bonyadi",
+   "title": "تزریق زانو: کورتون، هیالورونیک اسید، PRP و سلول بنیادی چه فایده‌ای دارند؟",
+   "description": "تزریق زانو چیست و چه فایده‌ای دارد؟ کورتون، هیالورونیک اسید (ژل زانو)، PRP و سلول بنیادی: اثر، عوارض، فاصلهٔ تزریق‌ها و نظر راهنماها.",
+   "summary": "چهار درمان اصلی که با نام «تزریق زانو» انجام می‌شود کورتون، هیالورونیک اسید، PRP و سلول بنیادی است [7]. در آرتروز زانو (استئوآرتریت) تزریق کورتون می‌تواند درد را برای مدتی کوتاه کم کند؛ شواهدی وجود ندارد که اثر آن پس از شش ماه باقی بماند [2]. هیالورونیک اسید و PRP در مطالعات بزرگی که آنها را با دارونما مقایسه کرده‌اند برتریِ معناداری از نظر بالینی نشان نداده‌اند؛ دربارهٔ سلول بنیادی اطمینان به شواهد پایین است و راهنمای کالج روماتولوژی آمریکا (ACR) این سه تزریق را توصیه نمی‌کند [3][5][6][7].",
+   "sections": [
+    {
+     "h": "تزریق زانو چیست و چه انواعی دارد؟",
+     "p": [
+      "تزریق زانو یا تزریق داخل مفصل یعنی واردکردن یک دارو، یا فراورده‌ای که از خون یا سلول تهیه شده است، با سوزن به درون مفصل [1][4][6]. بیشتر در آرتروز زانو مطرح می‌شود؛ پژوهش‌هایی که در ادامه می‌آید نیز دربارهٔ آرتروز زانو است [2][3][5][6]. دربارهٔ چهار نوع تزریق پرسیده می‌شود:"
+     ],
+     "list": [
+      "تزریق کورتون (کورتیکواستروئید): دارویی ضدالتهاب است [1]",
+      "تزریق هیالورونیک اسید: در زبان مردم به آن «تزریق ژل زانو» می‌گویند و نام پزشکی آن ویسکوساپلیمنتیشن است [3]",
+      "PRP (پلاسمای غنی از پلاکت): از خون خود فرد تهیه می‌شود [4]",
+      "تزریق سلول بنیادی: سلول‌هایی که می‌توانند به سلول‌های غضروف، استخوان و بافت چربی تبدیل شوند به درون مفصل وارد می‌شوند [6]"
+     ]
+    },
+    {
+     "h": "تزریق کورتون چه فایده‌ای دارد و چه زمانی اثر می‌کند؟",
+     "p": [
+      "تزریق کورتون در مشکلات مفصل و بافت نرم مانند آرتروز، شانهٔ یخ‌زده، بورسیت، انگشت ماشه‌ای، سندرم تونل کارپ و خار پاشنه (فاشئیت پلانتار) به کار می‌رود [1]. اثر آن معمولاً طی چند روز و گاهی طی چند ساعت آغاز می‌شود؛ در ۲۴ ساعت نخست ممکن است درد بیشتر شود و انتظار می‌رود در ۲ تا ۳ روز بعد کمتر شود [1].",
+      "بر اساس مرور کاکرین که ۲۷ مطالعه (۱۷۶۷ بیمار) را در آرتروز زانو بررسی کرده است، به نظر می‌رسد تزریق کورتون در مقایسه با تزریق ساختگی (دارونما) درد را کم می‌کند؛ میانگین تفاوت در مقیاس ۱۰ سانتی‌متری درد، ۱ سانتی‌متر است [2]. این فایده در ۱ تا ۲ هفتهٔ نخست متوسط، در هفتهٔ ۴ تا ۶ کم تا متوسط و در هفتهٔ ۱۳ کم است؛ شواهدی وجود ندارد که اثر در هفتهٔ ۲۶ باقی مانده باشد [2]. این مرور کیفیت شواهد را پایین دانسته و گزارش کرده است که روشن نیست فایده‌ای که از نظر بالینی مهم باشد وجود دارد یا نه [2]."
+     ]
+    },
+    {
+     "h": "تزریق کورتون با چه فاصله‌ای انجام می‌شود و چه عوارضی دارد؟",
+     "p": [
+      "بر اساس یک برگهٔ اطلاعات بیمار NHS، معمولاً میان دو تزریق دست‌کم ۶ هفته فاصله گذاشته می‌شود و بیش از ۳ تزریق در یک ناحیه طی ۱۲ ماه معمولاً توصیه نمی‌شود [1]. توصیه می‌شود پس از تزریق، آن ناحیه در همان روز و روز بعد استراحت داده شود و فعالیت سنگین و ورزش به مدت ۲ هفته محدود شود [1].",
+      "پیش از تزریق باید دیابت، مصرف داروهای رقیق‌کنندهٔ خون، عفونت، بارداری و تزریق استروئید در هفته‌های اخیر به پزشک گفته شود [1].",
+      "اثر آن بر غضروف محل بحث است: راهنمای ACR یادآور می‌شود که یک پژوهش این احتمال را مطرح کرده است که برخی فراورده‌های استروئیدی یا تزریق با تناوب معیّن ممکن است در از دست رفتن غضروف نقش داشته باشد، اما هیئت تدوین‌کننده از اهمیت بالینی آن مطمئن نبوده است، زیرا تغییر غضروف با بدتر شدن درد یا عملکرد همراه نبوده است [7]. در مرور کاکرین از نظر عوارض جانبی تفاوتی میان کورتون و تزریق ساختگی نشان داده نشده است [2].",
+      "عوارضی که در این برگه آمده چنین است [1]:"
+     ],
+     "list": [
+      "تشدید درد در محل تزریق: ممکن است در ۲۴ ساعت نخست آغاز شود و تا ۵ تا ۷ روز ادامه یابد",
+      "سرخی و گرمی صورت",
+      "بالا رفتن قند خون به مدت چند روز در افراد مبتلا به دیابت",
+      "کم‌رنگ شدن پوست در محل تزریق یا فرورفتگی پوست بر اثر از دست رفتن بافت چربی",
+      "عفونت: نادر است، اما ممکن است رخ دهد",
+      "آسیب به تاندون‌های مجاور: خطری اندک است"
+     ]
+    },
+    {
+     "h": "تزریق هیالورونیک اسید («ژل زانو»)",
+     "p": [
+      "این روش تزریق هیالورونیک اسید یا مشتقات آن به درون مفصل است و بیش از ۵۰ سال است که در آرتروز زانو به کار می‌رود. به‌صورت یک تزریق یا یک دورهٔ دو تا شش تزریقی انجام می‌شود [3].",
+      "نتیجهٔ اصلی مروری که در سال ۲۰۲۲ در BMJ منتشر شد بر ۲۴ مطالعهٔ بزرگِ کنترل‌شده با دارونما (۸۹۹۷ بیمار) استوار است: هیالورونیک اسید در مقایسه با دارونما درد را در مقیاس ۱۰۰ میلی‌متری به‌طور میانگین ۲ میلی‌متر کم کرده است؛ این مقدار کمتر از کوچک‌ترین تفاوتی است که از نظر بالینی معنادار شمرده می‌شود [3].",
+      "عوارض جدی، مانند رویدادهایی که به بستری شدن در بیمارستان انجامیده، در ۳٫۷ درصد از کسانی که هیالورونیک اسید گرفته بودند و ۲٫۵ درصد از کسانی که دارونما گرفته بودند دیده شد [3]. به گفتهٔ نویسندگان، یافته‌ها از کاربرد گستردهٔ این تزریق پشتیبانی نمی‌کند؛ با این حال نمی‌توان این احتمال را رد کرد که برخی گروه‌های گزیده از بیماران سود ببرند [3]."
+     ]
+    },
+    {
+     "h": "درمان زانو با PRP چیست و چند جلسه انجام می‌شود؟",
+     "p": [
+      "برای PRP از فرد خون گرفته می‌شود؛ خون سانتریفیوژ می‌شود تا پلاکت‌ها جدا و تغلیظ شوند و سپس به ناحیهٔ مورد نظر تزریق می‌شوند. پلاکت‌ها عوامل رشدی دارند که در ترمیم اهمیت دارند [4].",
+      "شواهد ناهمسو است. آکادمی جراحان ارتوپدی آمریکا (AAOS) بیان می‌کند که شمار مقاله‌هایی که اثربخشی PRP را در آرتروز خفیف و متوسط زانو نشان می‌دهند رو به افزایش است، اما پژوهش‌هایی که ادعاهای مطرح‌شده در رسانه‌ها را تأیید کنند کافی نیست [4]. در مقابل، در کارآزمایی کنترل‌شده با دارونمای RESTORE (۲۸۸ بیمار با آرتروز خفیف و متوسط)، PRP پس از ۱۲ ماه از نظر درد و حجم غضروف تفاوت معناداری با تزریق سرم نمکی نداشت [5].",
+      "در این منابع برنامهٔ مورد توافقی برای شمار جلسه‌ها نیامده است: در کارآزمایی RESTORE سه تزریق با فاصلهٔ یک هفته انجام شد [5]؛ ACR یادآور می‌شود که برای تهیهٔ PRP و روش‌های تزریق آن استانداردی وجود ندارد و از این رو دشوار است بدانیم دقیقاً چه چیزی تزریق می‌شود [7].",
+      "درد محل تزریق ممکن است در یکی دو هفتهٔ نخست بیشتر شود و ممکن است چند هفته طول بکشد تا فایده‌ای احساس شود؛ به گفتهٔ AAOS به نظر می‌رسد میزان بروز مشکلاتی مانند عفونت، آسیب بافتی و آسیب عصب با آنچه در تزریق کورتون دیده می‌شود تفاوتی ندارد [4]."
+     ]
+    },
+    {
+     "h": "درمان با سلول بنیادی در زانو چگونه انجام می‌شود و شواهد چه می‌گویند؟",
+     "p": [
+      "تصور می‌شود سلول‌های بنیادی از نظر تئوری بتوانند غضروف آسیب‌دیده را بازسازی کنند؛ به همین دلیل در آرتروز به کار می‌روند [6]. سلول‌ها با سوزن به مفصل زانو تزریق می‌شوند؛ منبع، روش تهیه و دوز آنها در مطالعات گوناگون متفاوت است و بهترین روش و دوز شناخته نشده است [6].",
+      "مرور کاکرینِ سال ۲۰۲۵، ۲۵ مطالعه (۱۳۴۱ بیمار) را بررسی کرده است که بیشترشان کوچک بوده‌اند. در مقایسه با تزریق دارونما، تزریق سلول بنیادی ممکن است تا شش ماه درد و عملکرد را اندکی بهتر کند: در مقیاس ۱۰ امتیازی، درد با دارونما ۴٫۵ و با سلول بنیادی ۳٫۳ امتیاز بوده است؛ اطمینان به این شواهد پایین است [6].",
+      "روشن نیست که غضروف را بازسازی می‌کند یا نه؛ پیشرفت بیماری در عکس رادیولوژی در هیچ مطالعه‌ای ارزیابی نشده است [6]. عوارض جدی به‌ندرت گزارش شده است، اما خطرهای احتمالیِ درمانی که توان تحریک رشد سلول را دارد و نیز سلول‌هایی که از فرد دیگری گرفته می‌شوند شناخته نشده است [6]."
+     ]
+    },
+    {
+     "h": "راهنماها کدام تزریق را توصیه می‌کنند؟",
+     "p": [
+      "راهنمای ACR در آرتروز زانو و لگن، ورزش و در افراد دارای اضافه‌وزن کاهش وزن را به‌طور قوی توصیه می‌کند [7]. در انگلستان، NICE تزریق هیالورونیک اسید را توصیه نمی‌کند؛ مرور BMJ گزارش می‌کند که بیشتر راهنماها از این تزریق پشتیبانی نمی‌کنند [3].",
+      "توصیه‌های ACR دربارهٔ تزریق‌ها چنین است [7]:"
+     ],
+     "list": [
+      "تزریق کورتون: در آرتروز زانو و لگن به‌طور قوی و در آرتروز دست به‌طور مشروط توصیه می‌شود؛ در تزریق به مفصل لگن، هدایت با سونوگرافی به‌طور قوی توصیه می‌شود",
+      "هیالورونیک اسید: در زانو و مفصل قاعدهٔ شست دست به‌طور مشروط و در لگن به‌طور قوی توصیه نمی‌شود؛ توصیهٔ مشروط مانع از آن نیست که وقتی گزینه‌های دیگر کافی نبوده‌اند، پس از گفت‌وگو با بیمار به کار رود",
+      "PRP و سلول بنیادی: در آرتروز زانو و لگن به‌طور قوی توصیه نمی‌شوند",
+      "اگر قرار است تزریقی انجام شود، کورتون به‌طور مشروط بر تزریق‌های دیگر ترجیح داده می‌شود، زیرا کیفیت شواهدِ آن به‌طور چشمگیری بالاتر است"
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "هر تزریق مفصلی، هرچند اندک، خطر عفونت مفصل (آرتریت سپتیک) را به همراه دارد [6]. پس از تزریق در موارد زیر بدون معطلی به پزشکی که تزریق را انجام داده یا به یک مرکز درمانی مراجعه کنید [1]:"
+     ],
+     "list": [
+      "افزایش چشمگیر درد",
+      "قرمزی یا گرمی در محل تزریق",
+      "تب بالاتر از ۳۸ درجه",
+      "احساس ناخوشیِ شدید"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "تزریق زانو هر چند وقت یک بار انجام می‌شود؟",
+     "a": "در تزریق کورتون معمولاً میان دو تزریق دست‌کم ۶ هفته فاصله گذاشته می‌شود و بیش از ۳ تزریق در یک ناحیه طی ۱۲ ماه معمولاً توصیه نمی‌شود [1]. هیالورونیک اسید به‌صورت یک تزریق یا یک دورهٔ دو تا شش تزریقی انجام می‌شود [3]؛ برای تهیه و تزریق PRP استانداردی وجود ندارد [7]."
+    },
+    {
+     "q": "آیا تزریق کورتون ضرر دارد؟",
+     "a": "ممکن است تشدید درد در محل تزریق به مدت چند روز، سرخی صورت و در افراد مبتلا به دیابت بالا رفتن موقت قند خون دیده شود؛ عفونت نادر است [1]. این احتمال مطرح شده است که تزریق با تناوب معیّن در از دست رفتن غضروف نقش داشته باشد، اما اهمیت بالینی آن روشن نیست [7]."
+    },
+    {
+     "q": "تزریق هیالورونیک اسید (ژل) به زانو چه فایده‌ای دارد؟",
+     "a": "در مطالعات بزرگِ کنترل‌شده با دارونما، درد را در مقایسه با دارونما تنها اندکی و کمتر از حدی که از نظر بالینی معنادار شمرده می‌شود کم کرده و عوارض جدی آن بیشتر از دارونما بوده است [3]. NICE این تزریق را توصیه نمی‌کند [3]؛ ACR نیز آن را در زانو به‌طور مشروط توصیه نمی‌کند [7]."
+    },
+    {
+     "q": "آیا PRP برای زانو مفید است؟",
+     "a": "شواهد ناهمسو است. در کارآزمایی کنترل‌شده با دارونمای RESTORE، PRP پس از ۱۲ ماه بهتر از تزریق سرم نمکی نبود [5] و راهنمای ACR در آرتروز زانو PRP را توصیه نمی‌کند [7]؛ اما AAOS بیان می‌کند که شمار مقاله‌هایی که اثربخشی آن را در آرتروز خفیف و متوسط نشان می‌دهند رو به افزایش است [4]."
+    },
+    {
+     "q": "آیا درمان با سلول بنیادی برای زانو مفید است؟",
+     "a": "بر پایهٔ شواهدی با اطمینان پایین، ممکن است در مقایسه با تزریق دارونما درد و عملکرد را اندکی بهتر کند؛ روشن نیست که غضروف را بازسازی می‌کند یا نه و ایمنی آن نیز شناخته نشده است [6]. راهنمای ACR در آرتروز زانو و لگن تزریق سلول بنیادی را توصیه نمی‌کند [7]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

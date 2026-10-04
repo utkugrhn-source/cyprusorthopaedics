@@ -1,0 +1,477 @@
+{
+ "id": "lipoma",
+ "area": "tumor",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Lipoma",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/lipoma/",
+   "year": "2023"
+  },
+  {
+   "title": "Lipoma",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/lipoma",
+   "year": "n.d."
+  },
+  {
+   "title": "Skin cyst",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/skin-cyst/",
+   "year": "2023"
+  },
+  {
+   "title": "Lipoma",
+   "publisher": "British Association of Dermatologists (BAD)",
+   "url": "https://www.skinhealthinfo.org.uk/condition/lipoma/",
+   "year": "2024"
+  },
+  {
+   "title": "UK guidelines for the management of soft tissue sarcomas",
+   "publisher": "British Journal of Cancer (Hayes AJ, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38734790/",
+   "year": "2024"
+  },
+  {
+   "title": "Removing benign skin lesions",
+   "publisher": "Healthdirect Australia",
+   "url": "https://www.healthdirect.gov.au/surgery/removing-benign-skin-lesions",
+   "year": "2026"
+  },
+  {
+   "title": "Lipoma excision",
+   "publisher": "American Family Physician (Salam GA)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11898962/",
+   "year": "2002"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "yag-bezesi-lipom",
+   "title": "Yağ bezesi (lipom): nedir, tehlikeli mi, nasıl alınır?",
+   "description": "Yağ bezesi (lipom) nedir, neden olur, tehlikeli mi? Kremle ya da evde geçer mi, hangi kitle tetkik gerektirir, ameliyatı nasıl olur, kaç günde iyileşir?",
+   "summary": "Yağ bezesi (lipom), yağ hücrelerinden oluşan iyi huylu bir kitledir; deri altında yumuşak, bastırınca hafifçe oynayan, yavaş büyüyen ve genellikle ağrısız bir şişlik olarak fark edilir [1][4]. Zararsızdır ve çoğu zaman tedavi gerektirmez; yine de fark edilen her şişliğin bir hekime gösterilmesi önerilir [1]. Büyüyen, ağrıyan, sert ve oynamayan, 5 cm'den büyük ya da derin yerleşimli bir kitle, lipom olduğu varsayılmadan muayene ve görüntülemeyle değerlendirilmelidir [1][5].",
+   "sections": [
+    {
+     "h": "Yağ bezesi nedir? Lipom ile kist aynı şey mi?",
+     "p": [
+      "Lipom, yağ hücrelerinden oluşan iyi huylu (kanser olmayan) bir kitledir ve çoğunlukla derinin altındaki yağ tabakasında yer alır [1][4]. Erişkinlerde en sık görülen yumuşak doku tümörüdür [2]; kol, bacak ve gövdedeki yumuşak doku kitlelerinin açık farkla en sık nedenidir [5].",
+      "Günlük dilde \"yağ bezesi\" hem lipom hem de deri kisti için kullanılır; ikisi farklıdır. Deri kisti, derinin hemen altında yer alan, içinde çoğu zaman sıvı ya da irin bulunan yuvarlak bir şişliktir; ortasında bazen küçük, koyu bir nokta görülür ve enfekte olursa kızarıp ağrıyabilir [3]. Derinin üst tabakasında gelişen kiste epidermoid kist ya da \"sebase kist\" denir [3]. Lipomun içinde ise yağ dokusu vardır [1][2]. Lipomu kistlerden ayırmak için bazen ultrason, BT ya da MR gerekebilir [4]. Bu yazının konusu lipomdur."
+     ]
+    },
+    {
+     "h": "Nasıl hissedilir, en sık nerede çıkar?",
+     "p": [
+      "Lipom ele yumuşak, süngerimsi ya da lastik kıvamında gelir; bastırınca deri altında hafifçe oynar, yavaş büyür ve genellikle ağrısızdır [1][2][4]. Boyutu bezelye tanesinden birkaç santimetreye kadar değişir [1]; genellikle 10 cm'nin altında kalır [4].",
+      "En sık omuz, göğüs, kol, sırt, kalça ve uylukta görülür [1][2]. Aynı kişide birden fazla lipom olabilir [2]. Daha seyrek olarak uyluk, omuz ya da baldırın derin dokularında yerleşir; bunlar geç fark edilir ve fark edildiğinde oldukça büyük olabilir [2].",
+      "Lipomların çoğu ağrısızdır; sinirlere ya da komşu yapılara bastırdığında veya içinde çok sayıda damar bulunduğunda ağrı yapabilir [4].",
+      "Lipom baş ve boyunda da görülebilir [7]; baş, yüz ve boyundaki şişlikler ilgili uzmanlık dalınca, kol, bacak ve gövdedeki kitleler ortopedi ve travmatolojide değerlendirilir."
+     ]
+    },
+    {
+     "h": "Neden olur, kimlerde görülür?",
+     "p": [
+      "Lipomun kesin nedeni iyi anlaşılmamıştır; çoğu belirgin bir neden olmadan kendiliğinden ortaya çıkar [4]. Yaş, cinsiyet, hormon dengesizlikleri ve o bölgeye alınan darbe, olasılığı artırabilecek etkenler arasında sayılır [4]. Bazı araştırmalar, ailesinde lipom olanlarda riskin daha yüksek olabileceğini düşündürmektedir [4]; bazı alt türler kalıtsal olabilir [2]. Belirli bir meslek ya da etkene maruz kalmayla kanıtlanmış bir bağlantı yoktur [2]. Her yaşta görülebilirse de genellikle 40–60 yaş arasında ortaya çıkar [2][7]."
+     ]
+    },
+    {
+     "h": "Lipom tehlikeli mi?",
+     "p": [
+      "Lipom zararsızdır [1]. Oluştuktan sonra genellikle değişmez ve kansere dönüşme olasılığı çok düşüktür [2].",
+      "Uyarı işaretlerinin nedeni, yağ dokusundan gelişen başka tümörlerin de bulunmasıdır. Liposarkom bir kanserdir; genellikle hızlı büyür ve lipom kadar kolay oynamaz [2]. Atipik lipomatöz tümör, zamanla büyüyebilen, ancak genellikle vücudun başka yerlerine yayılmayan bir yağ dokusu tümörüdür [2][5]; lipomdan kat kat daha seyrektir ve daha büyük, derin yerleşimli ve bacakta olma eğilimindedir [5]. Bir kitlenin liposarkom olması çok nadir bir olasılıktır; bunu dışlamak için büyüyen kitlede biyopsi gibi ileri tetkikler gerekebilir [4]."
+     ]
+    },
+    {
+     "h": "Nasıl anlaşılır? Muayene, ultrason ve MR",
+     "p": [
+      "Hekim kitlenin ne zamandır var olduğunu ve ağrı olup olmadığını sorar; boyutuna, kıvamına ve oynayıp oynamadığına bakar [2]. Çoğu zaman şişliğin lipom olduğunu muayeneyle söyleyebilir; kuşku varsa görüntüleme ister [1].",
+      "Ultrason, yumuşak doku kitlelerinde etkili bir ilk ayırma aracıdır ve kitlelerin çoğuna bu yolla iyi huylu lipom tanısı konur [5]. Sonucu, incelemeyi yapan kişiye çok bağlıdır; tanıda kuşku kalırsa o bölgenin MR'ı çekilir [5]. MR kitlenin yağ dokusundan oluştuğunu gösterir; çoğu zaman tanı yalnızca MR ile konur ve biyopsi gerekmez [2].",
+      "Büyük ve derin lipomları atipik lipomatöz tümörden ayırmakta MR her zaman yeterli olmaz; kesin ayrım, iğne biyopsisiyle alınan dokuda yapılan genetik bir testle (MDM2) sağlanır [5]."
+     ]
+    },
+    {
+     "h": "Kremle ya da evde geçer mi?",
+     "p": [
+      "Lipom çoğu zaman tedavi gerektirmez ve olduğu gibi bırakılabilir [1][6]. Ancak oluştuktan sonra genellikle değişmez [2]; bu tür iyi huylu kitleleri ortadan kaldırmanın tek güvenilir yolu cerrahidir [6]. Bu yazıda yararlanılan kaynakların hiçbiri krem, merhem, ilaç ya da evde uygulanan bir yöntemi lipom tedavisi olarak saymaz [1][2][4][6].",
+      "Şişliği sıkmayın: deri kisti sıkılıp patlarsa enfeksiyon kapabilir, zaten enfekteyse enfeksiyon yayılabilir [3]. Lipomun çıkarılması hekimin yaptığı cerrahi bir işlemdir ve bu koşullarda bile kanama, enfeksiyon ve sinir hasarı gibi riskler taşır [6]; evde kesmeye ya da boşaltmaya çalışmayın. Tedavi edilmeyen lipomda, değişikliklerin izlenmesi için düzenli hekim kontrolü önerilir [2]."
+     ]
+    },
+    {
+     "h": "Yağ bezesi nasıl alınır? Ameliyat ve diğer yöntemler",
+     "p": [
+      "Lipomların büyük çoğunluğunun alınması tıbben gerekli değildir [4]. Kitle büyüyorsa, bulunduğu yer nedeniyle yakınmaya yol açıyorsa, ağrılıysa ya da günlük işleri engelliyorsa ameliyat düşünülebilir [1][2]; lipomlar çoğu kez görünüş nedeniyle de aldırılır [4].",
+      "Ameliyat genellikle lokal anesteziyle yapılır ve çoğunlukla 15–25 dakika sürer: cerrah kitlenin üzerinden düz bir kesi yapar, lipomu çevre dokulardan ayırıp çıkarır [6]. 5 cm'den küçük lipomlar lokal anesteziyle muayenehane koşullarında alınabilir; 5 cm'den büyük ya da derin olanlar için genellikle ameliyathane gerekir [2]. Çıkarılan doku, lipom olduğunu doğrulamak için laboratuvara gönderilebilir [1].",
+      "Ameliyat dışı yöntemler de tanımlanmıştır. Kortizon (steroid) iğnesi lipomu küçültür, nadiren tümüyle ortadan kaldırır; çapı 1 inçten (yaklaşık 2,5 cm) küçük lipomlara en uygun yöntemdir [7]. Liposuction (yağ emme) özellikle büyük iz istenmeyen bölgelerde kullanılabilir; ancak bu yöntemle kitlenin tümüyle alınması zordur [7]."
+     ]
+    },
+    {
+     "h": "Ameliyattan sonra: iyileşme ve tekrarlama",
+     "p": [
+      "İşiniz dikişleri zorlamıyorsa ertesi gün işe dönebilirsiniz [6]. Yara 2–7 gün içinde kontrol edilir; dikişler vücut bölgesine göre 7–21 gün sonra alınır [7]. Cerrahların çoğu ameliyattan sonra 2–4 hafta hafif etkinlik önerir [2]. Olası sorunlar kanama, yara enfeksiyonu, yaranın iyileşmemesi, uyuşuk bir deri alanı, ağrı ve iz kalmasıdır [6].",
+      "Lipom, basit çıkarma işlemiyle hemen her zaman tedavi edilmiş olur; yeniden büyümesi olağan değildir [2]. Atipik lipomatöz tümörler ise daha sık yeniden büyür [2][5]; bu nedenle alınan bir kitlenin aynı yerde yeniden büyümesi değerlendirme gerektirir."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Her yumuşak şişlik lipom değildir. Yumuşak doku sarkomu da en sık ağrısız, büyüyen bir kitle olarak ortaya çıkar; ağrısız olması kitlenin zararsız olduğunu göstermez [5]. Yeni fark ettiğiniz her şişliği hekime gösterin [1].",
+      "Aşağıdaki özellikler kitlenin kötü huylu olduğu anlamına gelmez: büyüme, 5 cm'den büyük olma, derin yerleşim ve ağrı, lipom ve kist gibi çok daha sık görülen iyi huylu kitlelerde de bulunur ve bu ölçütlerle sevk edilen hastaların küçük bir bölümünde sarkom saptanır [5]. Yine de bunlardan biri varsa beklemeden başvurun; ayrım muayene ve görüntülemeyle yapılır [1][2][4][5]:"
+     ],
+     "list": [
+      "Büyüyen, özellikle hızlı büyüyen kitle",
+      "Ağrıyan ya da kızaran, ısınan kitle",
+      "Sert ve yerinden oynamayan kitle",
+      "5 cm'den büyük kitle",
+      "Derin yerleşimli kitle",
+      "Üzerindeki deride kanama ya da yara olan kitle",
+      "Alındıktan sonra aynı yerde yeniden büyüyen kitle"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Yağ bezesi eriten krem var mı?",
+     "a": "Bu yazıda yararlanılan kaynakların hiçbiri krem ya da evde uygulanan bir yöntemi tedavi olarak saymaz [1][2][4]. Bu tür iyi huylu kitleleri ortadan kaldırmanın tek güvenilir yolu cerrahidir; kitle olduğu gibi de bırakılabilir [6]."
+    },
+    {
+     "q": "Lipom kansere dönüşür mü?",
+     "a": "Lipomun kansere dönüşme olasılığı çok düşüktür [2]. Ancak her yağlı kitle lipom değildir; büyüyen bir kitlede, çok nadir bir olasılık olan liposarkomu dışlamak için biyopsi gibi ileri tetkikler gerekebilir [4]."
+    },
+    {
+     "q": "Yağ bezesi ameliyatı ne kadar sürer?",
+     "a": "Ameliyat genellikle lokal anesteziyle yapılır ve çoğunlukla 15–25 dakika sürer [6]. 5 cm'den büyük ya da derin lipomlar için genellikle ameliyathane gerekir [2]."
+    },
+    {
+     "q": "Yağ bezesi ameliyatı kaç günde iyileşir?",
+     "a": "İşiniz dikişleri zorlamıyorsa ertesi gün işe dönebilirsiniz [6]. Dikişler vücut bölgesine göre 7–21 gün sonra alınır [7]; cerrahların çoğu 2–4 hafta hafif etkinlik önerir [2]."
+    },
+    {
+     "q": "Lipom neden ağrı yapar?",
+     "a": "Lipomların çoğu ağrısızdır; sinirlere ya da komşu yapılara bastırdığında veya içinde çok sayıda damar bulunduğunda ağrıyabilir [4]. Ağrılı hâle gelen bir şişlik hekime gösterilmelidir [1]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "lipoma-fatty-lump",
+   "title": "Lipoma (fatty lump): what is it, is it dangerous, how is it removed?",
+   "description": "What is a lipoma (fatty lump), why does it form and is it dangerous? Do creams work, which lumps need a scan, how is it removed and how long is recovery?",
+   "summary": "A lipoma is a benign lump made up of fat cells; it is noticed under the skin as a soft swelling that moves slightly when pressed, grows slowly and is usually painless [1][4]. It is harmless and usually needs no treatment, but it is still recommended that any lump you notice is shown to a doctor [1]. A lump that is growing, painful, hard and does not move, larger than 5 cm or deep-seated should be assessed by examination and imaging rather than assumed to be a lipoma [1][5].",
+   "sections": [
+    {
+     "h": "What is a lipoma? Is it the same as a cyst?",
+     "p": [
+      "A lipoma is a benign (non-cancerous) lump made up of fat cells, and it usually sits in the fatty layer under the skin [1][4]. It is the most common soft tissue tumour in adults [2] and by far the most common cause of a soft tissue lump on the arms, legs and trunk [5].",
+      "In everyday language the same words (\"fatty lump\"; in Turkish, \"yağ bezesi\") are used for both a lipoma and a skin cyst; the two are different. A skin cyst is a round lump just underneath the skin that often contains fluid or pus; it sometimes has a small, dark spot in the middle and can get red and sore if it becomes infected [3]. A cyst that develops in the top layer of the skin is called an epidermoid cyst or a \"sebaceous cyst\" [3]. A lipoma contains fat tissue [1][2]. An ultrasound, CT or MRI scan is sometimes needed to distinguish a lipoma from cysts [4]. This article is about lipoma."
+     ]
+    },
+    {
+     "h": "How does it feel and where does it appear?",
+     "p": [
+      "A lipoma feels soft, squishy or rubbery; it moves slightly under the skin when pressed, grows slowly and is usually painless [1][2][4]. Its size ranges from that of a pea to a few centimetres [1]; it usually stays under 10 cm [4].",
+      "It is most often found on the shoulders, chest, arms, back, buttocks and thighs [1][2]. One person can have more than one lipoma [2]. Less commonly it lies in the deeper tissue of the thigh, shoulder or calf; these take longer to notice and can be quite large by the time they are noticed [2].",
+      "Most lipomas are painless; they may be painful if they press on nerves or neighbouring structures or if they contain many blood vessels [4].",
+      "Lipomas can also occur on the head and neck [7]; lumps on the head, face and neck are assessed by the relevant specialty, and lumps on the arms, legs and trunk by orthopaedics and traumatology."
+     ]
+    },
+    {
+     "h": "Why does it form, and who gets it?",
+     "p": [
+      "The exact cause of lipomas is not well understood; most arise spontaneously without a clear cause [4]. Age, gender, hormone imbalances and trauma to the area are listed among the factors that may increase the likelihood [4]. Some research suggests that the risk may be higher in people who have a family member with lipomas [4]; some subtypes may be inherited [2]. There is no proven connection with any particular occupation or exposure [2]. Although they can be found at any age, they usually appear between the ages of 40 and 60 [2][7]."
+     ]
+    },
+    {
+     "h": "Is a lipoma dangerous?",
+     "p": [
+      "A lipoma is harmless [1]. It does not typically change after it forms and has very little potential for becoming cancerous [2].",
+      "The reason for the warning features is that other tumours also arise from fat tissue. A liposarcoma is a cancer; it typically grows quickly and is not as moveable as a lipoma [2]. An atypical lipomatous tumour is a fatty tumour that can increase in size over time but does not generally spread to other parts of the body [2][5]; it is many times less common than a lipoma and tends to be larger, deep-seated and in the leg [5]. It is a very rare possibility that a lump is a liposarcoma; to rule this out, a lump that is growing may need further investigation such as a biopsy [4]."
+     ]
+    },
+    {
+     "h": "How is it diagnosed? Examination, ultrasound and MRI",
+     "p": [
+      "The doctor asks how long the lump has been there and about symptoms such as pain, and checks its size, consistency and mobility [2]. A doctor can usually tell from the examination that the lump is a lipoma and asks for a scan if there is any doubt [1].",
+      "Ultrasound is an effective initial triage tool for soft tissue lumps, and most lumps are diagnosed in this way as benign lipomas [5]. Its result depends heavily on the person performing it; if the diagnosis remains uncertain, an MRI of the area is performed [5]. MRI shows that the lump is made up of fat tissue; the diagnosis is often made on MRI alone and a biopsy is not required [2].",
+      "MRI is not always enough to tell a large, deep lipoma from an atypical lipomatous tumour; the defining test is a genetic test (MDM2) on tissue obtained by needle biopsy [5]."
+     ]
+    },
+    {
+     "h": "Does it go away with creams or at home?",
+     "p": [
+      "A lipoma usually needs no treatment and can simply be left alone [1][6]. However, it does not typically change after it forms [2]; surgery is the only reliable way to remove benign lumps of this kind [6]. None of the sources used for this article lists a cream, ointment, medicine or any home method as a treatment for lipoma [1][2][4][6].",
+      "Do not squeeze the lump: if a skin cyst is squeezed and bursts it could become infected, and if it is already infected the infection might spread [3]. Removing a lipoma is a surgical procedure performed by a doctor, and even in those conditions it carries risks such as bleeding, infection and nerve damage [6]; do not try to cut it out or drain it at home. If a lipoma is not treated, regular visits to the doctor are recommended to monitor any changes [2]."
+     ]
+    },
+    {
+     "h": "How is a lipoma removed? Surgery and other methods",
+     "p": [
+      "There is no medical need to remove the vast majority of lipomas [4]. Surgery can be considered if the lump is growing, is causing symptoms because of where it is, is painful or is interfering with daily activities [1][2]; lipomas are also often removed for cosmetic reasons [4].",
+      "The operation is usually performed under a local anaesthetic and usually takes 15 to 25 minutes: the surgeon makes a straight cut over the lump, frees the lipoma from the tissues around it and removes it [6]. Lipomas smaller than 5 cm can be removed as an in-office procedure with local anaesthetic; those that are larger than 5 cm or deep usually require the operating room [2]. The removed tissue may be sent to a laboratory to check that it is a lipoma [1].",
+      "Non-surgical methods have also been described. A cortisone (steroid) injection shrinks the lipoma and rarely eliminates it altogether; it is best suited to lipomas less than 1 inch (about 2.5 cm) in diameter [7]. Liposuction can be used particularly in places where a large scar should be avoided, but complete removal of the lump is difficult to achieve with this method [7]."
+     ]
+    },
+    {
+     "h": "After the operation: recovery and recurrence",
+     "p": [
+      "You can return to work the next day unless your work places a strain on the stitches [6]. The wound is checked in 2 to 7 days; the stitches are removed after 7 to 21 days, depending on the part of the body [7]. Most surgeons recommend light activities for 2 to 4 weeks after surgery [2]. Possible problems are bleeding, wound infection, wound breakdown, a numb patch of skin, pain and scarring [6].",
+      "A lipoma is almost always cured by simple excision; it is unusual for it to grow back [2]. Atypical lipomatous tumours grow back more frequently [2][5]; for this reason, a lump that grows back in the same place after removal needs to be assessed."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Not every soft lump is a lipoma. A soft tissue sarcoma also most commonly presents as a painless, enlarging lump; the absence of pain does not show that a lump is harmless [5]. Show any lump you newly notice to a doctor [1].",
+      "The following features do not mean that the lump is malignant: growth, a size of more than 5 cm, a deep site and pain are also found in far more common benign lumps such as lipomas and cysts, and a small proportion of the patients referred on these criteria prove to have a sarcoma [5]. Even so, do not wait if one of them is present; the distinction is made by examination and imaging [1][2][4][5]:"
+     ],
+     "list": [
+      "A lump that is growing, especially one that is growing quickly",
+      "A lump that is painful, or red or hot",
+      "A lump that is hard and does not move",
+      "A lump larger than 5 cm",
+      "A deep-seated lump",
+      "A lump with bleeding or a sore in the skin over it",
+      "A lump that grows back in the same place after it has been removed"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is there a cream that dissolves a lipoma?",
+     "a": "None of the sources used for this article lists a cream or a home method as a treatment [1][2][4]. Surgery is the only reliable way to remove benign lumps of this kind; the lump can also simply be left alone [6]."
+    },
+    {
+     "q": "Can a lipoma turn into cancer?",
+     "a": "A lipoma has very little potential for becoming cancerous [2]. However, not every fatty lump is a lipoma; a lump that is growing may need further investigation such as a biopsy to rule out liposarcoma, which is a very rare possibility [4]."
+    },
+    {
+     "q": "How long does lipoma surgery take?",
+     "a": "The operation is usually performed under a local anaesthetic and usually takes 15 to 25 minutes [6]. Lipomas that are larger than 5 cm or deep usually require the operating room [2]."
+    },
+    {
+     "q": "How many days does it take to recover from lipoma surgery?",
+     "a": "You can return to work the next day unless your work places a strain on the stitches [6]. The stitches are removed after 7 to 21 days, depending on the part of the body [7]; most surgeons recommend light activities for 2 to 4 weeks [2]."
+    },
+    {
+     "q": "Why does a lipoma hurt?",
+     "a": "Most lipomas are painless; they may hurt if they press on nerves or neighbouring structures or if they contain many blood vessels [4]. A lump that becomes painful should be shown to a doctor [1]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "lipoma-zhirovik",
+   "title": "Липома (жировик): что это, опасна ли она и как её удаляют?",
+   "description": "Что такое липома (жировик), отчего она появляется и опасна ли? Помогают ли мази, какое уплотнение нужно обследовать, как проходят удаление и заживление.",
+   "summary": "Липома (жировик) — доброкачественное образование из жировых клеток; под кожей она заметна как мягкое, слегка смещающееся при надавливании, медленно растущее и обычно безболезненное уплотнение [1][4]. Она безвредна и чаще всего не требует лечения; тем не менее любое замеченное уплотнение рекомендуется показать врачу [1]. Уплотнение, которое растёт, болит, твёрдое и не смещается, больше 5 см или расположено глубоко, нужно оценить с помощью осмотра и визуализации, не считая его заранее липомой [1][5].",
+   "sections": [
+    {
+     "h": "Что такое жировик? Липома и киста — одно и то же?",
+     "p": [
+      "Липома — доброкачественное (не раковое) образование из жировых клеток, которое чаще всего находится в жировом слое под кожей [1][4]. Это самая частая опухоль мягких тканей у взрослых [2]; с большим отрывом это и самая частая причина уплотнений мягких тканей на руках, ногах и туловище [5].",
+      "В быту «жировиком» называют и липому, и кисту кожи; это разные образования. Киста кожи — округлое уплотнение сразу под кожей, внутри которого чаще всего находится жидкость или гной; в его центре иногда видна маленькая тёмная точка, а при инфицировании оно может покраснеть и стать болезненным [3]. Кисту, которая развивается в верхнем слое кожи, называют эпидермоидной или «сальной» кистой [3]. Внутри липомы находится жировая ткань [1][2]. Чтобы отличить липому от кисты, иногда требуется УЗИ, КТ или МРТ [4]. Эта статья посвящена липоме."
+     ]
+    },
+    {
+     "h": "Какая она на ощупь и где чаще появляется?",
+     "p": [
+      "Липома на ощупь мягкая, податливая или упругая, как резина; при надавливании она слегка смещается под кожей, растёт медленно и обычно не болит [1][2][4]. Её размер — от горошины до нескольких сантиметров [1]; обычно она остаётся меньше 10 см [4].",
+      "Чаще всего она встречается на плечах, груди, руках, спине, ягодицах и бёдрах [1][2]. У одного человека может быть несколько липом [2]. Реже липома располагается в глубоких тканях бедра, плеча или голени; такие липомы замечают позже, и к этому времени они могут быть довольно большими [2].",
+      "Большинство липом безболезненны; боль может появиться, если липома давит на нервы или соседние структуры либо содержит много сосудов [4].",
+      "Липома может встречаться также на голове и шее [7]; уплотнения на голове, лице и шее оценивают врачи соответствующей специальности, а уплотнения на руках, ногах и туловище — ортопеды-травматологи."
+     ]
+    },
+    {
+     "h": "Отчего она появляется и у кого встречается?",
+     "p": [
+      "Точная причина липом изучена недостаточно; большинство возникает само по себе, без явной причины [4]. К факторам, которые могут повышать вероятность, относят возраст, пол, гормональные нарушения и травму этой области [4]. Некоторые исследования позволяют предположить, что риск может быть выше у тех, у кого липомы есть у родственников [4]; некоторые подтипы могут передаваться по наследству [2]. Доказанной связи с какой-либо профессией или внешним воздействием нет [2]. Липомы встречаются в любом возрасте, но обычно появляются между 40 и 60 годами [2][7]."
+     ]
+    },
+    {
+     "h": "Опасна ли липома?",
+     "p": [
+      "Липома безвредна [1]. После появления она обычно не меняется, а вероятность её превращения в рак очень мала [2].",
+      "Настораживающие признаки важны потому, что из жировой ткани развиваются и другие опухоли. Липосаркома — это рак; она обычно растёт быстро и смещается не так легко, как липома [2]. Атипичная липоматозная опухоль — опухоль жировой ткани, которая со временем может увеличиваться, но, как правило, не распространяется в другие части тела [2][5]; она встречается во много раз реже липомы и обычно бывает более крупной, расположена глубоко и на ноге [5]. Вероятность того, что уплотнение окажется липосаркомой, очень мала; чтобы исключить её, при растущем уплотнении могут потребоваться дополнительные исследования, например биопсия [4]."
+     ]
+    },
+    {
+     "h": "Как её распознают? Осмотр, УЗИ и МРТ",
+     "p": [
+      "Врач спрашивает, как давно появилось уплотнение и есть ли боль; оценивает его размер, консистенцию и подвижность [2]. Чаще всего врач может определить при осмотре, что это липома; при сомнениях он назначает визуализацию [1].",
+      "УЗИ — эффективный метод первичной сортировки уплотнений мягких тканей, и в большинстве случаев с его помощью ставят диагноз доброкачественной липомы [5]. Его результат сильно зависит от того, кто проводит исследование; если в диагнозе остаются сомнения, выполняют МРТ этой области [5]. МРТ показывает, что уплотнение состоит из жировой ткани; часто диагноз ставят по одной только МРТ, и биопсия не требуется [2].",
+      "Чтобы отличить крупную, глубоко расположенную липому от атипичной липоматозной опухоли, МРТ не всегда достаточно; окончательно их различает генетический тест (MDM2) в ткани, полученной при игольной биопсии [5]."
+     ]
+    },
+    {
+     "h": "Проходит ли она от мазей или домашнего лечения?",
+     "p": [
+      "Липома чаще всего не требует лечения, и её можно оставить как есть [1][6]. Однако после появления она обычно не меняется [2]; единственный надёжный способ убрать такие доброкачественные образования — операция [6]. Ни один из источников, использованных в этой статье, не называет крем, мазь, лекарство или какой-либо домашний метод способом лечения липомы [1][2][4][6].",
+      "Не выдавливайте уплотнение: если киста кожи при выдавливании лопнет, в неё может попасть инфекция, а если она уже инфицирована, инфекция может распространиться [3]. Удаление липомы — хирургическое вмешательство, которое выполняет врач, и даже в этих условиях оно связано с такими рисками, как кровотечение, инфекция и повреждение нерва [6]; не пытайтесь вырезать или вскрыть её дома. Если липому не лечат, рекомендуется регулярно показываться врачу, чтобы следить за изменениями [2]."
+     ]
+    },
+    {
+     "h": "Как удаляют жировик? Операция и другие методы",
+     "p": [
+      "Медицинской необходимости удалять подавляющее большинство липом нет [4]. Об операции можно думать, если уплотнение растёт, вызывает жалобы из-за своего расположения, болит или мешает повседневным делам [1][2]; нередко липомы удаляют и по косметическим причинам [4].",
+      "Операцию обычно выполняют под местной анестезией, и чаще всего она длится 15–25 минут: хирург делает прямой разрез над уплотнением, отделяет липому от окружающих тканей и удаляет её [6]. Липомы меньше 5 см можно удалить под местной анестезией в амбулаторных условиях; для липом больше 5 см или глубоко расположенных обычно нужна операционная [2]. Удалённую ткань могут отправить в лабораторию, чтобы подтвердить, что это липома [1].",
+      "Описаны и нехирургические методы. Укол кортизона (стероида) уменьшает липому и в редких случаях устраняет её полностью; этот метод лучше всего подходит для липом диаметром меньше 1 дюйма (около 2,5 см) [7]. Липосакцию можно применять прежде всего там, где нежелателен большой рубец; однако полностью удалить образование этим методом трудно [7]."
+     ]
+    },
+    {
+     "h": "После операции: заживление и повторное появление",
+     "p": [
+      "Если ваша работа не создаёт нагрузки на швы, на следующий день можно вернуться к работе [6]. Рану осматривают через 2–7 дней; швы снимают через 7–21 день в зависимости от области тела [7]. Большинство хирургов рекомендуют лёгкую активность в течение 2–4 недель после операции [2]. Возможные проблемы — кровотечение, инфекция раны, незаживление раны, участок онемения кожи, боль и рубец [6].",
+      "Простое удаление почти всегда излечивает липому; её повторный рост нетипичен [2]. Атипичные липоматозные опухоли вырастают повторно чаще [2][5]; поэтому, если удалённое уплотнение снова растёт на том же месте, его нужно обследовать."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Не всякое мягкое уплотнение — липома. Саркома мягких тканей тоже чаще всего проявляется как безболезненное растущее уплотнение; отсутствие боли не говорит о том, что уплотнение безвредно [5]. Любое недавно замеченное уплотнение покажите врачу [1].",
+      "Перечисленные ниже признаки не означают, что уплотнение злокачественное: рост, размер больше 5 см, глубокое расположение и боль встречаются и при гораздо более частых доброкачественных образованиях, таких как липомы и кисты, а саркому находят у небольшой части пациентов, направленных по этим критериям [5]. Тем не менее, если есть один из них, обращайтесь без промедления; различить эти состояния позволяют осмотр и визуализация [1][2][4][5]:"
+     ],
+     "list": [
+      "Уплотнение, которое растёт, особенно если растёт быстро",
+      "Уплотнение, которое болит, покраснело или стало горячим",
+      "Твёрдое уплотнение, которое не смещается",
+      "Уплотнение больше 5 см",
+      "Глубоко расположенное уплотнение",
+      "Уплотнение, над которым на коже есть кровотечение или язва",
+      "Уплотнение, которое после удаления снова растёт на том же месте"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Есть ли мазь, которая рассасывает жировик?",
+     "a": "Ни один из источников, использованных в этой статье, не называет крем или домашний метод способом лечения [1][2][4]. Единственный надёжный способ убрать такие доброкачественные образования — операция; уплотнение можно и оставить как есть [6]."
+    },
+    {
+     "q": "Может ли липома переродиться в рак?",
+     "a": "Вероятность превращения липомы в рак очень мала [2]. Однако не всякое жировое уплотнение — липома; при растущем уплотнении могут потребоваться дополнительные исследования, например биопсия, чтобы исключить липосаркому, вероятность которой очень мала [4]."
+    },
+    {
+     "q": "Сколько длится операция по удалению жировика?",
+     "a": "Операцию обычно выполняют под местной анестезией, и чаще всего она длится 15–25 минут [6]. Для липом больше 5 см или глубоко расположенных обычно нужна операционная [2]."
+    },
+    {
+     "q": "Сколько дней занимает восстановление после удаления жировика?",
+     "a": "Если ваша работа не создаёт нагрузки на швы, на следующий день можно вернуться к работе [6]. Швы снимают через 7–21 день в зависимости от области тела [7]; большинство хирургов рекомендуют лёгкую активность в течение 2–4 недель [2]."
+    },
+    {
+     "q": "Почему липома болит?",
+     "a": "Большинство липом безболезненны; боль может появиться, если липома давит на нервы или соседние структуры либо содержит много сосудов [4]. Уплотнение, которое стало болезненным, нужно показать врачу [1]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "lipom-ghodde-charbi",
+   "title": "لیپوم (غدهٔ چربی): چیست، خطرناک است و چگونه برداشته می‌شود؟",
+   "description": "لیپوم (غدهٔ چربی) چیست، چرا ایجاد می‌شود و آیا خطرناک است؟ آیا با کرم از بین می‌رود، کدام توده نیاز به بررسی دارد و جراحی و بهبودی آن چگونه است؟",
+   "summary": "لیپوم (غدهٔ چربی) توده‌ای خوش‌خیم است که از سلول‌های چربی ساخته شده است؛ زیر پوست به شکل برآمدگی‌ای نرم حس می‌شود که با فشار کمی جابه‌جا می‌شود، آهسته رشد می‌کند و معمولاً درد ندارد [1][4]. بی‌خطر است و بیشتر وقت‌ها به درمان نیاز ندارد؛ با این حال توصیه می‌شود هر برآمدگی‌ای که متوجه آن می‌شوید به پزشک نشان داده شود [1]. توده‌ای که بزرگ می‌شود، درد دارد، سفت است و جابه‌جا نمی‌شود، بزرگ‌تر از ۵ سانتی‌متر است یا در عمق قرار دارد، باید بدون اینکه لیپوم فرض شود با معاینه و تصویربرداری بررسی شود [1][5].",
+   "sections": [
+    {
+     "h": "غدهٔ چربی چیست؟ آیا لیپوم و کیست یکی هستند؟",
+     "p": [
+      "لیپوم توده‌ای خوش‌خیم (غیرسرطانی) است که از سلول‌های چربی ساخته شده و بیشتر در لایهٔ چربی زیر پوست قرار دارد [1][4]. شایع‌ترین تومور بافت نرم در بزرگسالان است [2] و با اختلاف زیاد، شایع‌ترین علت توده‌های بافت نرم در دست، پا و تنه به شمار می‌رود [5].",
+      "در زبان مردم «غدهٔ چربی» هم به لیپوم گفته می‌شود و هم به کیست پوستی؛ این دو با هم فرق دارند. کیست پوستی برآمدگی گردی است درست زیر پوست که بیشتر وقت‌ها درون آن مایع یا چرک وجود دارد؛ گاهی در وسط آن نقطه‌ای کوچک و تیره دیده می‌شود و اگر عفونت کند ممکن است قرمز و دردناک شود [3]. به کیستی که در لایهٔ بالایی پوست پدید می‌آید کیست اپیدرموئید یا «کیست سباسه» می‌گویند [3]. درون لیپوم بافت چربی وجود دارد [1][2]. برای افتراق لیپوم از کیست گاهی سونوگرافی، سی‌تی‌اسکن یا ام‌آرآی لازم می‌شود [4]. موضوع این نوشته لیپوم است."
+     ]
+    },
+    {
+     "h": "در لمس چگونه است و بیشتر کجا ایجاد می‌شود؟",
+     "p": [
+      "لیپوم در لمس نرم، اسفنجی یا لاستیک‌مانند است؛ با فشار، زیر پوست کمی جابه‌جا می‌شود، آهسته رشد می‌کند و معمولاً درد ندارد [1][2][4]. اندازهٔ آن از یک دانهٔ نخود تا چند سانتی‌متر متغیر است [1] و معمولاً کمتر از ۱۰ سانتی‌متر می‌ماند [4].",
+      "بیشتر در شانه، قفسهٔ سینه، دست، پشت، باسن و ران دیده می‌شود [1][2]. یک فرد ممکن است بیش از یک لیپوم داشته باشد [2]. کمتر پیش می‌آید که در بافت‌های عمقی ران، شانه یا ساق پا قرار بگیرد؛ این لیپوم‌ها دیرتر تشخیص داده می‌شوند و هنگامی که فرد متوجه آن‌ها می‌شود ممکن است کاملاً بزرگ شده باشند [2].",
+      "بیشتر لیپوم‌ها درد ندارند؛ اگر به عصب‌ها یا ساختارهای مجاور فشار بیاورند یا رگ‌های زیادی در خود داشته باشند ممکن است دردناک شوند [4].",
+      "لیپوم ممکن است در سر و گردن نیز دیده شود [7]؛ برآمدگی‌های سر، صورت و گردن را رشتهٔ تخصصی مربوط بررسی می‌کند و توده‌های دست، پا و تنه در ارتوپدی و تروماتولوژی بررسی می‌شوند."
+     ]
+    },
+    {
+     "h": "چرا ایجاد می‌شود و در چه کسانی دیده می‌شود؟",
+     "p": [
+      "علت دقیق لیپوم به‌خوبی شناخته نشده است؛ بیشتر آن‌ها بدون علت روشن و خودبه‌خود پدید می‌آیند [4]. سن، جنسیت، اختلال‌های هورمونی و ضربه به همان ناحیه از عواملی شمرده می‌شوند که ممکن است احتمال آن را بیشتر کنند [4]. برخی پژوهش‌ها نشان می‌دهند که خطر ممکن است در کسانی که در خانواده‌شان لیپوم وجود دارد بیشتر باشد [4]؛ برخی زیرگونه‌ها ممکن است ارثی باشند [2]. ارتباط اثبات‌شده‌ای با شغل یا مواجههٔ خاصی وجود ندارد [2]. با اینکه در هر سنی دیده می‌شود، معمولاً بین ۴۰ تا ۶۰ سالگی پدیدار می‌شود [2][7]."
+     ]
+    },
+    {
+     "h": "آیا لیپوم خطرناک است؟",
+     "p": [
+      "لیپوم بی‌خطر است [1]. پس از پدید آمدن معمولاً تغییر نمی‌کند و احتمال سرطانی شدن آن بسیار کم است [2].",
+      "دلیل اهمیت نشانه‌های هشدار این است که تومورهای دیگری نیز از بافت چربی پدید می‌آیند. لیپوسارکوم یک سرطان است؛ معمولاً سریع رشد می‌کند و به آسانیِ لیپوم جابه‌جا نمی‌شود [2]. تومور لیپوماتوز آتیپیک توموری از بافت چربی است که ممکن است با گذشت زمان بزرگ شود، اما معمولاً به جاهای دیگر بدن گسترش نمی‌یابد [2][5]؛ این تومور چندین برابر کمتر از لیپوم دیده می‌شود و معمولاً بزرگ‌تر است، در عمق قرار دارد و در پا دیده می‌شود [5]. اینکه توده‌ای لیپوسارکوم باشد احتمالی بسیار نادر است؛ برای رد کردن آن، در توده‌ای که بزرگ می‌شود ممکن است بررسی‌های بیشتری مانند نمونه‌برداری (بیوپسی) لازم شود [4]."
+     ]
+    },
+    {
+     "h": "چگونه تشخیص داده می‌شود؟ معاینه، سونوگرافی و ام‌آرآی",
+     "p": [
+      "پزشک می‌پرسد توده از چه زمانی وجود دارد و آیا درد دارد یا نه؛ اندازه، قوام و جابه‌جا شدن آن را بررسی می‌کند [2]. پزشک بیشتر وقت‌ها می‌تواند با معاینه بگوید که برآمدگی لیپوم است و در صورت تردید تصویربرداری درخواست می‌کند [1].",
+      "سونوگرافی ابزاری مؤثر برای تفکیک اولیهٔ توده‌های بافت نرم است و برای بیشتر توده‌ها از همین راه تشخیص لیپوم خوش‌خیم داده می‌شود [5]. نتیجهٔ آن بسیار به فردی که آن را انجام می‌دهد بستگی دارد؛ اگر در تشخیص تردید باقی بماند، از آن ناحیه ام‌آرآی گرفته می‌شود [5]. ام‌آرآی نشان می‌دهد که توده از بافت چربی ساخته شده است؛ بیشتر وقت‌ها تشخیص تنها با ام‌آرآی داده می‌شود و نمونه‌برداری لازم نیست [2].",
+      "برای افتراق لیپوم‌های بزرگ و عمقی از تومور لیپوماتوز آتیپیک، ام‌آرآی همیشه کافی نیست؛ افتراق قطعی با یک آزمایش ژنتیکی (MDM2) روی بافتی که با نمونه‌برداری سوزنی گرفته می‌شود انجام می‌گیرد [5]."
+     ]
+    },
+    {
+     "h": "آیا با کرم یا در خانه از بین می‌رود؟",
+     "p": [
+      "لیپوم بیشتر وقت‌ها به درمان نیاز ندارد و می‌توان آن را به حال خود گذاشت [1][6]. اما پس از پدید آمدن معمولاً تغییر نمی‌کند [2]؛ تنها راه مطمئن برای برداشتن این‌گونه توده‌های خوش‌خیم جراحی است [6]. هیچ‌یک از منابعی که در این نوشته از آن‌ها استفاده شده است کرم، پماد، دارو یا روشی خانگی را درمان لیپوم نمی‌شمارد [1][2][4][6].",
+      "برآمدگی را فشار ندهید: اگر کیست پوستی فشار داده شود و بترکد ممکن است عفونت کند و اگر از پیش عفونی باشد ممکن است عفونت پخش شود [3]. برداشتن لیپوم یک عمل جراحی است که پزشک انجام می‌دهد و حتی در این شرایط نیز خطرهایی مانند خونریزی، عفونت و آسیب عصب دارد [6]؛ سعی نکنید آن را در خانه ببرید یا تخلیه کنید. در لیپومی که درمان نمی‌شود، برای زیر نظر داشتن تغییرات، مراجعهٔ منظم به پزشک توصیه می‌شود [2]."
+     ]
+    },
+    {
+     "h": "غدهٔ چربی چگونه برداشته می‌شود؟ جراحی و روش‌های دیگر",
+     "p": [
+      "برداشتن بیشترِ لیپوم‌ها از نظر پزشکی ضرورتی ندارد [4]. اگر توده بزرگ می‌شود، به سبب محل خود مشکل ایجاد می‌کند، دردناک است یا مانع کارهای روزمره می‌شود، می‌توان جراحی را در نظر گرفت [1][2]؛ لیپوم‌ها بسیاری از وقت‌ها به دلایل زیبایی نیز برداشته می‌شوند [4].",
+      "جراحی معمولاً با بی‌حسی موضعی انجام می‌شود و بیشتر ۱۵ تا ۲۵ دقیقه طول می‌کشد: جراح روی توده برشی مستقیم می‌دهد، لیپوم را از بافت‌های اطراف جدا می‌کند و بیرون می‌آورد [6]. لیپوم‌های کوچک‌تر از ۵ سانتی‌متر را می‌توان با بی‌حسی موضعی در مطب برداشت؛ برای لیپوم‌های بزرگ‌تر از ۵ سانتی‌متر یا عمقی معمولاً اتاق عمل لازم است [2]. بافت برداشته‌شده ممکن است برای تأیید لیپوم بودن به آزمایشگاه فرستاده شود [1].",
+      "روش‌های غیرجراحی نیز توصیف شده‌اند. تزریق کورتون (استروئید) لیپوم را کوچک می‌کند و به‌ندرت آن را به‌طور کامل از بین می‌برد؛ این روش برای لیپوم‌هایی با قطر کمتر از ۱ اینچ (حدود ۲٫۵ سانتی‌متر) مناسب‌ترین است [7]. لیپوساکشن را می‌توان به‌ویژه در جاهایی به کار برد که جای زخم بزرگ مطلوب نیست؛ اما برداشتن کامل توده با این روش دشوار است [7]."
+     ]
+    },
+    {
+     "h": "پس از جراحی: بهبودی و عود",
+     "p": [
+      "اگر کارتان به بخیه‌ها فشار نمی‌آورد، می‌توانید روز بعد به کار برگردید [6]. زخم طی ۲ تا ۷ روز بازبینی می‌شود؛ بخیه‌ها بسته به ناحیهٔ بدن پس از ۷ تا ۲۱ روز کشیده می‌شوند [7]. بیشتر جراحان پس از جراحی ۲ تا ۴ هفته فعالیت سبک را توصیه می‌کنند [2]. مشکلات احتمالی عبارت‌اند از خونریزی، عفونت زخم، جوش نخوردن زخم، بی‌حسی بخشی از پوست، درد و باقی ماندن جای زخم [6].",
+      "لیپوم با برداشتن ساده تقریباً همیشه درمان می‌شود و رشد دوبارهٔ آن معمول نیست [2]. تومورهای لیپوماتوز آتیپیک بیشتر دوباره رشد می‌کنند [2][5]؛ از این رو اگر توده‌ای پس از برداشته شدن در همان محل دوباره رشد کند، نیاز به بررسی دارد."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "هر برآمدگی نرمی لیپوم نیست. سارکوم بافت نرم نیز بیشتر به شکل توده‌ای بدون درد و رو به رشد بروز می‌کند؛ بدون درد بودن نشان نمی‌دهد که توده بی‌خطر است [5]. هر برآمدگی‌ای را که به‌تازگی متوجه آن شده‌اید به پزشک نشان دهید [1].",
+      "ویژگی‌های زیر به این معنا نیست که توده بدخیم است: رشد، اندازهٔ بیش از ۵ سانتی‌متر، قرار داشتن در عمق و درد در توده‌های خوش‌خیمِ بسیار شایع‌تر مانند لیپوم و کیست نیز دیده می‌شود و تنها در بخش کوچکی از بیمارانی که با این معیارها ارجاع می‌شوند سارکوم یافت می‌شود [5]. با این حال اگر یکی از آن‌ها وجود دارد منتظر نمانید؛ افتراق با معاینه و تصویربرداری انجام می‌شود [1][2][4][5]:"
+     ],
+     "list": [
+      "توده‌ای که بزرگ می‌شود، به‌ویژه اگر سریع بزرگ شود",
+      "توده‌ای که درد دارد یا قرمز و گرم شده است",
+      "توده‌ای که سفت است و جابه‌جا نمی‌شود",
+      "تودهٔ بزرگ‌تر از ۵ سانتی‌متر",
+      "توده‌ای که در عمق قرار دارد",
+      "توده‌ای که پوست روی آن خونریزی یا زخم دارد",
+      "توده‌ای که پس از برداشته شدن در همان محل دوباره رشد می‌کند"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "آیا کرمی برای آب کردن غدهٔ چربی وجود دارد؟",
+     "a": "هیچ‌یک از منابعی که در این نوشته از آن‌ها استفاده شده است کرم یا روشی خانگی را درمان نمی‌شمارد [1][2][4]. تنها راه مطمئن برای برداشتن این‌گونه توده‌های خوش‌خیم جراحی است؛ توده را می‌توان به حال خود نیز گذاشت [6]."
+    },
+    {
+     "q": "آیا لیپوم سرطانی می‌شود؟",
+     "a": "احتمال سرطانی شدن لیپوم بسیار کم است [2]. اما هر تودهٔ چربی لیپوم نیست؛ در توده‌ای که بزرگ می‌شود ممکن است برای رد کردن لیپوسارکوم، که احتمالی بسیار نادر است، بررسی‌های بیشتری مانند نمونه‌برداری لازم شود [4]."
+    },
+    {
+     "q": "جراحی غدهٔ چربی چقدر طول می‌کشد؟",
+     "a": "جراحی معمولاً با بی‌حسی موضعی انجام می‌شود و بیشتر ۱۵ تا ۲۵ دقیقه طول می‌کشد [6]. برای لیپوم‌های بزرگ‌تر از ۵ سانتی‌متر یا عمقی معمولاً اتاق عمل لازم است [2]."
+    },
+    {
+     "q": "بهبودی پس از جراحی غدهٔ چربی چند روز طول می‌کشد؟",
+     "a": "اگر کارتان به بخیه‌ها فشار نمی‌آورد، می‌توانید روز بعد به کار برگردید [6]. بخیه‌ها بسته به ناحیهٔ بدن پس از ۷ تا ۲۱ روز کشیده می‌شوند [7]؛ بیشتر جراحان ۲ تا ۴ هفته فعالیت سبک را توصیه می‌کنند [2]."
+    },
+    {
+     "q": "چرا لیپوم درد می‌گیرد؟",
+     "a": "بیشتر لیپوم‌ها درد ندارند؛ اگر به عصب‌ها یا ساختارهای مجاور فشار بیاورند یا رگ‌های زیادی در خود داشته باشند ممکن است درد بگیرند [4]. برآمدگی‌ای که دردناک شده است باید به پزشک نشان داده شود [1]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

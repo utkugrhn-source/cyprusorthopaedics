@@ -1,0 +1,569 @@
+{
+ "id": "baker-cyst",
+ "area": "diz",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Baker's cyst",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/bakers-cyst/",
+   "year": "2025"
+  },
+  {
+   "title": "Baker's Cyst (Popliteal Cyst)",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/bakers-cyst-popliteal-cyst/",
+   "year": "n.d."
+  },
+  {
+   "title": "Baker's Cyst: Diagnostic and Surgical Considerations",
+   "publisher": "Sports Health (Frush TJ, Noyes FR)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26137182/",
+   "year": "2015"
+  },
+  {
+   "title": "Ruptured Baker's Cyst Demystified: Current Evidence, Diagnostic Strategies, and Treatment Options for an Under-Recognized Condition",
+   "publisher": "Cureus (Zmerly H, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41552735/",
+   "year": "2026"
+  },
+  {
+   "title": "Ultrasound-guided aspiration and corticosteroid injection of Baker's cysts in knee osteoarthritis: a prospective observational study",
+   "publisher": "American Journal of Physical Medicine & Rehabilitation (Di Sante L, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21403593/",
+   "year": "2010"
+  },
+  {
+   "title": "Arthroscopic surgery for degenerative knee arthritis and meniscal tears: a clinical practice guideline",
+   "publisher": "BMJ (Siemieniuk RAC, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28490431/",
+   "year": "2017"
+  },
+  {
+   "title": "DVT (deep vein thrombosis)",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+   "year": "2026"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "baker-kisti",
+   "title": "Baker kisti: diz arkası şişlik neden olur, nasıl geçer?",
+   "description": "Baker kisti nedir, neden olur, nasıl geçer? Diz arkası şişlik, belirtileri, teşhisi, tedavisi, kistin boşaltılması, ameliyat ve kist patlarsa ne olur?",
+   "summary": "Baker kisti (popliteal kist), diz arkasında içi sıvı dolu bir şişliktir [1]. Yetişkinlerde çoğunlukla diz kireçlenmesi ya da menisküs yırtığı gibi başka bir diz sorunu eklemde fazla sıvı üretilmesine yol açtığında oluşur; bu yüzden tedavi öncelikle o soruna yöneltilir [2][3]. Kendiliğinden geçebilir; ancak baldırda aniden artan ağrı ve şişlik patlamış bir kistin ya da bacakta pıhtının belirtisi olabileceğinden gecikmeden değerlendirilmelidir [1][2].",
+   "sections": [
+    {
+     "h": "Baker kisti nedir, neden olur?",
+     "p": [
+      "Baker kisti, diz arkasında içi sıvı dolu bir şişliktir [1]. İçindeki sıvı, eklemi kayganlaştıran eklem sıvısıdır; diz arkasının iç tarafındaki bir kesede birikir [2][3][4].",
+      "Yetişkinlerde genellikle diz ekleminde şişlik ve iltihaba yol açan bir yaralanmanın ya da hastalığın sonucudur [2]. Diz fazla eklem sıvısı üretir; sıvı, tek yönlü bir kapakçık gibi çalışan bir açıklıktan diz arkasına geçer, geri dönemez ve orada birikir [2][3]. Yetişkinlerdeki kistlerin yüzde 94'e varan bölümüne eklem içi bir sorun eşlik eder; en sık eşlik edeni menisküs yırtığıdır [3].",
+      "Genç hastalarda ve çocuklarda çoğu zaman belirli bir neden bulunmaz [2][4]. Kiste yol açabilen başlıca durumlar şunlardır [1][2]:"
+     ],
+     "list": [
+      "Diz kireçlenmesi (osteoartrit)",
+      "Romatoid artrit",
+      "Menisküs yırtığı",
+      "Ön çapraz bağ yırtığı",
+      "Gut",
+      "Diz yaralanmaları ve eklem içindeki dokulara zarar veren diğer durumlar"
+     ]
+    },
+    {
+     "h": "Belirtileri nelerdir?",
+     "p": [
+      "Bazı Baker kistleri hiç yakınma yapmaz; muayenede ya da başka bir nedenle çekilen MR'da rastlantıyla fark edilir [2]. Yakınmaların çoğu alttaki menisküs ya da kıkırdak sorunundan kaynaklanır; kistin kendisine bağlı yakınmalar seyrektir [3].",
+      "Yakınmalar yürüdükten sonra artabilir [1]. Görülebilen yakınmalar şunlardır [1][2]:"
+     ],
+     "list": [
+      "Diz arkasında yumuşak bir şişlik ya da dolgunluk hissi",
+      "Diz ya da bacak ağrısı",
+      "Diz arkasında gerginlik, sertlik ya da sızı",
+      "Dizi bükmekte zorlanma",
+      "Dizde tıkırtı",
+      "Dizde ve bacağın alt kısmında şişlik"
+     ]
+    },
+    {
+     "h": "Nasıl anlaşılır, nasıl teşhis edilir?",
+     "p": [
+      "Hekim öykünüzü alır ve dizi diğer dizle karşılaştırarak muayene eder [2]. Kist çoğu zaman diz düzken gergin, diz bükülüyken yumuşak ele gelir [2][3].",
+      "Diz arkasındaki her şişlik Baker kisti değildir: ganglion kisti, atardamar genişlemesi (anevrizma) ve tümörler de bu bölgede kitle yapabilir; bunlarda şişliğin kıvamı dizin duruşuna göre değişmez [3]. Diz ağrısının diğer nedenleri diz ağrısı yazısında ele alınmıştır.",
+      "Röntgen kisti göstermez, ama kireçlenme gibi eşlik eden sorunları gösterir [2][3]. Ultrason şişliğin içinin sıvı dolu mu, katı mı olduğunu gösterir; ucuzdur, ışın içermez ve ilk değerlendirmede kullanılır [2][3]. MR, kisti diğer kitlelerden ayırmada ve menisküs yırtığı gibi alttaki sorunu göstermede en ayrıntılı yöntemdir [3]."
+     ]
+    },
+    {
+     "h": "Kendiliğinden geçer mi, ne kadar sürer?",
+     "p": [
+      "Baker kisti her zaman tedavi gerektirmez; kendiliğinden ya da kiste yol açan durumun tedavisiyle geçebilir [1]. Amerikan Ortopedi Cerrahları Akademisi'ne (AAOS) göre Baker kistlerinin çoğu kendiliğinden kaybolur [2]. Düzelme birkaç aydan birkaç yıla kadar sürebilir; kendiliğinden düzelme özellikle çocuklarda görülür [1]. Yakınma yapmayan kist yalnızca izlenebilir [2].",
+      "Yetişkinlerde kist, eklemdeki sıvı artışının sonucudur; sıvıyı artıran sorun sürdükçe kist yeniden dolabilir [3][4]. Bu nedenle tedavi kistin kendisinden çok, alttaki diz sorununa yöneltilir [1][3]."
+     ]
+    },
+    {
+     "h": "Evde ne yapılabilir? Egzersiz ve kremler",
+     "p": [
+      "İngiltere Ulusal Sağlık Servisi (NHS) ve AAOS'nin hasta sayfaları Baker kisti egzersizleri için belirli bir ev programı vermez [1][2]. Fizyoterapi, hekimin önerebileceği tedaviler arasındadır [1]; amacı dizin hareket açıklığını korumak ve çevresindeki kasları güçlendirmektir [2][3]. Koşu ve aerobik gibi darbeli etkinlikleri azaltmak yakınmaları hafifletebilir [2].",
+      "Baker kisti için krem de sık sorulur: NHS ve AAOS tedaviler arasında krem, jel ya da merhem saymaz; incelenen kaynaklarda bir kremin kisti küçülttüğünü gösteren veri de yoktur [1][2][3][4].",
+      "Ağrıyı ve şişliği hafifletmek için evde şunlar yapılabilir [1]:"
+     ],
+     "list": [
+      "Dizi dinlendirmek",
+      "Havluya sarılı buz torbasını dize, her seferinde yaklaşık 10 dakika uygulamak",
+      "Bacağı yükseltmek; örneğin bir yastığın üzerine koymak",
+      "Ağrı ve şişlik için ağrı kesici kullanmak; hangisinin uygun olduğunu eczacınıza ya da hekiminize sorabilirsiniz"
+     ]
+    },
+    {
+     "h": "Kistin boşaltılması ve kortizon iğnesi",
+     "p": [
+      "Hekimin sunabileceği tedaviler arasında ağrı kesiciler, dize kortizon (steroid) iğnesi, fizyoterapi ve kistteki sıvının boşaltılması bulunur [1]. Eklem içine yapılan kortizon iğnesinin kistin boyutunu ve yakınmaları azalttığı bildirilmiştir [3].",
+      "Kist nasıl boşaltılır? Kistin çevresi uyuşturulur ve fazla sıvı, çoğu zaman ultrason eşliğinde, bir iğneyle çekilir (aspirasyon) [2]. Ardından çoğu zaman kistin ya da eklemin içine kortizon uygulanır [4].",
+      "Diz kireçlenmesine bağlı Baker kisti olan 26 kişilik bir çalışmada, boşaltma ve kortizon iğnesinden sonraki dört haftada ağrı azalmış ve kist küçülmüş, sertlik ve işlev puanları ise anlamlı biçimde değişmemiştir [5]. Boşaltma yakınmaları hafifletebilir; ancak kireçlenme ya da menisküs sorunu sürdüğünde kistin yeniden dolması sık görülür [4]."
+     ]
+    },
+    {
+     "h": "Ameliyat: Baker kisti ne zaman ve nasıl alınır?",
+     "p": [
+      "Baker kisti için ameliyat nadiren gerekir [1][2]. Ameliyatsız tedaviye rağmen ağrılı yakınmalar sürüyorsa ya da kist tekrarlanan boşaltmalardan sonra yeniden doluyorsa önerilebilir [2].",
+      "Ameliyat da öncelikle eklem içindeki nedene yöneliktir: yalnızca kistin çıkarıldığı eski bir seride kist, 46 ameliyatın yüzde 63'ünden sonra yeniden oluşmuştur [3]. Artroskopide (kapalı yöntem) kiste yol açan eklem içi sorunlar tedavi edilir; aynı işlemde kist ile eklem arasındaki kapakçık açılabilir, bu da kistin yeniden oluşmasını önleyebilir [2].",
+      "Bununla birlikte her eklem içi sorun ameliyatla düzeltilmez: uluslararası bir kılavuz, yıpranmaya bağlı diz hastalığı (kireçlenme ve yıpranmaya bağlı menisküs yırtığı) olan hemen tüm hastalarda artroskopiye karşı güçlü bir öneride bulunur [6].",
+      "Büyük ya da damar ve sinire bası yapan kistlerde kistin tümü açık ameliyatla çıkarılabilir [2]. Çoğu hasta ameliyattan yaklaşık 4–6 hafta sonra tüm etkinliklerine döner [2]."
+     ]
+    },
+    {
+     "h": "Patlamış Baker kisti neden bacaktaki pıhtıya benzer?",
+     "p": [
+      "Kistin patlaması seyrektir [2][4]. Patladığında içindeki eklem sıvısı baldır kaslarının arasına yayılır; baldırda ani ağrı, şişlik ve gerginlik olur [4].",
+      "Bu tablo, bacak toplardamarında pıhtı oluşmasına (derin ven trombozu, DVT) çok benzer: DVT de çoğunlukla tek bacakta zonklayıcı ağrı, şişlik ve deride kızarma ya da koyulaşma yapar [7]. İkisini yalnızca muayeneyle ayırmak çoğu zaman mümkün değildir; bu yüzden önce ultrasonla damarlara bakılıp pıhtı dışlanır [3][4]. Ayrım önemlidir, çünkü DVT'de pıhtı akciğere gidebilir [7].",
+      "Patlamış kist çoğunlukla kendiliğinden düzelir; baldıra yayılan sıvı zamanla emilir [4]. Yakınmalar şişlik inene kadar her zamankinden fazladır; bu birkaç hafta sürebilir [1]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Bacaktaki ağrı ve şişliğe nefes darlığı ya da göğüs ağrısı eşlik ediyorsa bu, akciğere gitmiş bir pıhtının (akciğer embolisi) belirtisi olabilir; hemen acil servise başvurun ya da ambulans çağırın [1][7].",
+      "Vücudunuzda ne olduğunu bilmediğiniz bir şişlik varsa hekime gösterin [1]. Aşağıdaki durumlar patlamış bir kistin ya da bacakta pıhtının belirtisi olabilir. İkisi değerlendirme yapılmadan ayırt edilemez; beklemeden bir sağlık kuruluşuna başvurun [1][2][4]:"
+     ],
+     "list": [
+      "Bacaktaki ağrı ya da şişlik aniden arttıysa",
+      "Bacakta şişlik, morarma ve ciltte sıcaklık varsa",
+      "Bacak derisi kızardı ya da koyulaştıysa (koyu tenlerde fark edilmesi daha zor olabilir)",
+      "Bacaktaki şişlik sertleşiyor ya da yumuşuyorsa"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Baker kisti nasıl geçer?",
+     "a": "Her zaman tedavi gerekmez; kist kendiliğinden ya da kiste yol açan diz sorununun tedavisiyle geçebilir [1]. Dinlenme, buz, bacağı yükseltme ve ağrı kesiciler yakınmaları hafifletir; gerekirse kortizon iğnesi, fizyoterapi ya da kistin boşaltılması uygulanır [1][2]."
+    },
+    {
+     "q": "Baker kisti ne kadar sürede geçer?",
+     "a": "Düzelme birkaç aydan birkaç yıla kadar sürebilir [1]. Patlamış kistte şişliğin inmesi birkaç hafta alabilir [1]."
+    },
+    {
+     "q": "Baker kisti nasıl boşaltılır?",
+     "a": "Kistin çevresi uyuşturulur ve sıvı bir iğneyle çekilir; işlem çoğu zaman ultrason eşliğinde yapılır [2]. Alttaki diz sorunu sürüyorsa kistin yeniden dolması sık görülür [4]."
+    },
+    {
+     "q": "Baker kisti için krem ya da egzersiz işe yarar mı?",
+     "a": "NHS ve AAOS tedaviler arasında krem saymaz [1][2]. Fizyoterapi bir tedavi seçeneğidir; egzersizlerin amacı dizin hareket açıklığını korumak ve çevredeki kasları güçlendirmektir, ancak bu kaynaklar belirli bir ev programı vermez [1][2]."
+    },
+    {
+     "q": "Baker kisti patlarsa ne olur?",
+     "a": "Sıvı baldıra yayılır; baldırda ani ağrı ve şişlik olur ve çoğunlukla haftalar içinde kendiliğinden düzelir [1][4]. Aynı belirtiler bacaktaki pıhtıda da görüldüğünden beklemeden değerlendirilmeniz gerekir; nefes darlığı ya da göğüs ağrısı varsa acil servise başvurun [1][7]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "bakers-cyst",
+   "title": "Baker's cyst: what causes a swelling behind the knee and how does it settle?",
+   "description": "What is a Baker's cyst, what causes it and how does it settle? Swelling behind the knee, symptoms, diagnosis, treatment, draining, surgery and a burst cyst.",
+   "summary": "A Baker's cyst (popliteal cyst) is a fluid-filled swelling at the back of the knee [1]. In adults it usually forms when another knee problem, such as knee osteoarthritis or a meniscal tear, makes the joint produce excess fluid; treatment is therefore aimed first at that problem [2][3]. It may go away by itself; however, pain and swelling in the calf that suddenly get worse can be a sign of a burst cyst or of a blood clot in the leg and should be assessed without delay [1][2].",
+   "sections": [
+    {
+     "h": "What is a Baker's cyst and what causes it?",
+     "p": [
+      "A Baker's cyst is a fluid-filled swelling at the back of the knee [1]. The fluid inside it is the joint fluid that lubricates the knee; it collects in a sac on the inner side of the back of the knee [2][3][4].",
+      "In adults it is usually the result of an injury or a condition that causes swelling and inflammation in the knee joint [2]. The knee produces excess joint fluid; the fluid passes to the back of the knee through an opening that works like a one-way valve, cannot return, and collects there [2][3]. In adults up to 94% of cysts are accompanied by a problem inside the joint; the most frequent accompanying problem is a meniscal tear [3].",
+      "In younger patients and children there is often no identifiable cause [2][4]. The main conditions that can lead to a cyst are [1][2]:"
+     ],
+     "list": [
+      "Knee osteoarthritis",
+      "Rheumatoid arthritis",
+      "A meniscal tear",
+      "A tear of the anterior cruciate ligament",
+      "Gout",
+      "Knee injuries and other conditions that damage the tissues inside the joint"
+     ]
+    },
+    {
+     "h": "What are the symptoms?",
+     "p": [
+      "Some Baker's cysts cause no symptoms at all and are noticed by chance, during an examination or on an MRI scan done for another reason [2]. Most symptoms come from the underlying meniscal or cartilage problem; symptoms caused by the cyst itself are infrequent [3].",
+      "Symptoms may be worse after walking [1]. The symptoms that may occur are [1][2]:"
+     ],
+     "list": [
+      "A soft lump or a feeling of fullness behind the knee",
+      "Knee or leg pain",
+      "Tightness, stiffness or aching at the back of the knee",
+      "Difficulty bending the knee",
+      "Clicking in the knee",
+      "Swelling in the knee and lower leg"
+     ]
+    },
+    {
+     "h": "How is it recognised and diagnosed?",
+     "p": [
+      "The doctor takes your history and examines the knee, comparing it with the other knee [2]. The cyst often feels firm when the knee is straight and soft when the knee is bent [2][3].",
+      "Not every swelling behind the knee is a Baker's cyst: a ganglion cyst, a widened artery (aneurysm) and tumours can also form a lump in this area; with these, the feel of the lump does not change with the position of the knee [3]. Other causes of knee pain are covered in the article on knee pain.",
+      "An X-ray does not show the cyst, but it reveals accompanying problems such as osteoarthritis [2][3]. Ultrasound shows whether the swelling is filled with fluid or is solid; it is inexpensive, involves no radiation and is used for the initial assessment [2][3]. MRI is the most detailed method for telling the cyst apart from other lumps and for showing the underlying problem, such as a meniscal tear [3]."
+     ]
+    },
+    {
+     "h": "Does it go away by itself, and how long does it take?",
+     "p": [
+      "A Baker's cyst does not always need treatment; it may get better by itself or by treating the condition that causes it [1]. According to the American Academy of Orthopaedic Surgeons (AAOS), most Baker's cysts go away on their own [2]. Getting better can take from a few months to a few years; improvement without treatment is seen particularly in children [1]. A cyst that causes no symptoms can simply be observed [2].",
+      "In adults the cyst is a consequence of increased fluid in the joint; as long as the problem that increases the fluid continues, the cyst can fill up again [3][4]. Treatment is therefore aimed at the underlying knee problem rather than at the cyst itself [1][3]."
+     ]
+    },
+    {
+     "h": "What can be done at home? Exercises and creams",
+     "p": [
+      "The patient pages of the National Health Service in England (NHS) and the AAOS do not give a specific home programme of exercises for a Baker's cyst [1][2]. Physiotherapy is among the treatments a doctor may offer [1]; its aim is to maintain the range of movement of the knee and strengthen the muscles around it [2][3]. Cutting down high-impact activities such as jogging and aerobics can ease symptoms [2].",
+      "Creams for a Baker's cyst are also a frequent question: the NHS and the AAOS do not list a cream, gel or ointment among the treatments, and the sources reviewed contain no data showing that any cream shrinks the cyst [1][2][3][4].",
+      "To ease pain and swelling, the following can be done at home [1]:"
+     ],
+     "list": [
+      "Resting the knee",
+      "Applying an ice pack wrapped in a towel to the knee for around 10 minutes at a time",
+      "Raising the leg, for example by resting it on a pillow",
+      "Taking a painkiller for pain and swelling; you can ask your pharmacist or doctor which one is suitable for you"
+     ]
+    },
+    {
+     "h": "Draining the cyst and cortisone injection",
+     "p": [
+      "The treatments a doctor may offer include painkillers, a cortisone (steroid) injection into the knee, physiotherapy and draining the fluid from the cyst [1]. A cortisone injection into the joint has been reported to reduce the size of the cyst and the symptoms [3].",
+      "How is the cyst drained? The area around the cyst is numbed and the excess fluid is drawn off with a needle (aspiration), often under ultrasound guidance [2]. Cortisone is then often injected into the cyst or into the joint [4].",
+      "In a study of 26 people with a Baker's cyst due to knee osteoarthritis, pain decreased and the cyst became smaller in the four weeks after draining and a cortisone injection, whereas stiffness and function scores did not change significantly [5]. Draining can ease symptoms; however, when the osteoarthritis or meniscal problem persists, it is common for the cyst to fill up again [4]."
+     ]
+    },
+    {
+     "h": "Surgery: when and how is a Baker's cyst removed?",
+     "p": [
+      "Surgery for a Baker's cyst is rarely needed [1][2]. It may be recommended if painful symptoms persist despite non-surgical treatment or if the cyst fills up again after repeated draining [2].",
+      "Surgery, too, is aimed first at the cause inside the joint: in one older series in which only the cyst was removed, the cyst re-formed after 63% of 46 operations [3]. In arthroscopy (keyhole surgery) the problems inside the joint that give rise to the cyst are treated; during the same procedure the valve between the cyst and the joint can be opened, which may keep the cyst from re-forming [2].",
+      "Not every problem inside the joint is corrected by surgery, however: an international guideline makes a strong recommendation against arthroscopy in nearly all patients with degenerative knee disease (osteoarthritis and degenerative meniscal tears) [6].",
+      "For large cysts, or cysts pressing on blood vessels and nerves, the whole cyst may be removed by open surgery [2]. Most patients return to all their activities around 4 to 6 weeks after surgery [2]."
+     ]
+    },
+    {
+     "h": "Why does a burst Baker's cyst resemble a blood clot in the leg?",
+     "p": [
+      "It is uncommon for the cyst to burst [2][4]. When it does, the joint fluid inside spreads between the calf muscles; there is sudden pain, swelling and tightness in the calf [4].",
+      "This picture closely resembles a blood clot forming in a leg vein (deep vein thrombosis, DVT): DVT also causes throbbing pain, usually in one leg, with swelling and red or darkened skin [7]. Telling the two apart by examination alone is often not possible; for this reason the veins are first checked with ultrasound to rule out a clot [3][4]. The distinction matters because in DVT the clot can travel to the lungs [7].",
+      "A burst cyst usually settles by itself; the fluid that has spread into the calf is reabsorbed over time [4]. Symptoms are worse than normal until the swelling goes down, which can take a few weeks [1]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "If pain and swelling in the leg are accompanied by breathlessness or chest pain, this can be a sign of a blood clot that has travelled to the lungs (pulmonary embolism); go to an emergency department or call an ambulance immediately [1][7].",
+      "If you have a lump on your body and do not know what it is, show it to a doctor [1]. The following can be signs of a burst cyst or of a blood clot in the leg. The two cannot be told apart without assessment; seek care without waiting [1][2][4]:"
+     ],
+     "list": [
+      "Pain or swelling in the leg has suddenly got worse",
+      "There is swelling, bruising and warm skin on the leg",
+      "The skin on the leg has become red or darkened (this can be harder to see on brown or black skin)",
+      "The swelling in the leg is getting harder or softer"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "How does a Baker's cyst go away?",
+     "a": "Treatment is not always needed; the cyst may get better by itself or by treating the knee problem that causes it [1]. Rest, ice, raising the leg and painkillers ease symptoms; if needed, a cortisone injection, physiotherapy or draining of the cyst is used [1][2]."
+    },
+    {
+     "q": "How long does a Baker's cyst take to go away?",
+     "a": "Getting better can take from a few months to a few years [1]. With a burst cyst the swelling can take a few weeks to go down [1]."
+    },
+    {
+     "q": "How is a Baker's cyst drained?",
+     "a": "The area around the cyst is numbed and the fluid is drawn off with a needle; the procedure is often done under ultrasound guidance [2]. If the underlying knee problem persists, it is common for the cyst to fill up again [4]."
+    },
+    {
+     "q": "Does a cream or exercise help a Baker's cyst?",
+     "a": "The NHS and the AAOS do not list a cream among the treatments [1][2]. Physiotherapy is one of the treatment options; the aim of the exercises is to maintain the range of movement of the knee and strengthen the surrounding muscles, but these sources do not give a specific home programme [1][2]."
+    },
+    {
+     "q": "What happens if a Baker's cyst bursts?",
+     "a": "The fluid spreads into the calf; there is sudden pain and swelling in the calf, and it usually settles by itself within weeks [1][4]. Because the same symptoms occur with a blood clot in the leg, you need to be assessed without waiting; if there is breathlessness or chest pain, go to an emergency department [1][7]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "kista-bejkera-pod-kolenom",
+   "title": "Киста Бейкера: почему возникает припухлость под коленом и как она проходит?",
+   "description": "Что такое киста Бейкера, почему она возникает и как проходит? Припухлость под коленом, симптомы, диагностика, лечение, пункция, операция и разрыв кисты.",
+   "summary": "Киста Бейкера (подколенная киста) — это заполненная жидкостью припухлость в подколенной области [1]. У взрослых она чаще всего возникает, когда другая проблема колена, например артроз коленного сустава или разрыв мениска, приводит к избыточной выработке жидкости в суставе; поэтому лечение направляют прежде всего на эту проблему [2][3]. Киста может пройти сама; однако внезапно усилившиеся боль и отёк в икре могут быть признаком разрыва кисты или тромба в ноге, поэтому оценка нужна без промедления [1][2].",
+   "sections": [
+    {
+     "h": "Что такое киста Бейкера и почему она возникает?",
+     "p": [
+      "Киста Бейкера — это заполненная жидкостью припухлость в подколенной области [1]. Внутри неё находится суставная жидкость, которая смазывает сустав; она скапливается в сумке на внутренней стороне подколенной области [2][3][4].",
+      "У взрослых она обычно бывает следствием травмы или заболевания, которые вызывают отёк и воспаление в коленном суставе [2]. Колено вырабатывает избыток суставной жидкости; через отверстие, работающее как односторонний клапан, жидкость переходит в подколенную область, не может вернуться обратно и скапливается там [2][3]. У взрослых до 94% кист сопровождаются проблемой внутри сустава; чаще всего кисте сопутствует разрыв мениска [3].",
+      "У молодых пациентов и у детей определённую причину чаще всего найти не удаётся [2][4]. Основные состояния, которые могут приводить к кисте [1][2]:"
+     ],
+     "list": [
+      "Артроз коленного сустава (остеоартрит)",
+      "Ревматоидный артрит",
+      "Разрыв мениска",
+      "Разрыв передней крестообразной связки",
+      "Подагра",
+      "Травмы колена и другие состояния, повреждающие ткани внутри сустава"
+     ]
+    },
+    {
+     "h": "Какие бывают симптомы?",
+     "p": [
+      "Некоторые кисты Бейкера не вызывают никаких жалоб; их обнаруживают случайно — при осмотре или на МРТ, выполненной по другому поводу [2]. Большинство жалоб связано с основной проблемой — мениском или хрящом; жалобы, вызванные самой кистой, редки [3].",
+      "Жалобы могут усиливаться после ходьбы [1]. Возможные жалобы [1][2]:"
+     ],
+     "list": [
+      "Мягкая припухлость или ощущение распирания под коленом",
+      "Боль в колене или в ноге",
+      "Напряжение, скованность или ноющая боль в подколенной области",
+      "Трудности при сгибании колена",
+      "Щелчки в колене",
+      "Отёк колена и голени"
+     ]
+    },
+    {
+     "h": "Как её распознают и как ставят диагноз?",
+     "p": [
+      "Врач расспрашивает вас о жалобах и осматривает колено, сравнивая его с другим коленом [2]. Чаще всего киста на ощупь напряжённая, когда колено выпрямлено, и мягкая, когда оно согнуто [2][3].",
+      "Не всякая припухлость под коленом — киста Бейкера: образование в этой области могут давать также ганглиозная киста (гигрома), расширение артерии (аневризма) и опухоли; при них плотность припухлости не меняется в зависимости от положения колена [3]. Другие причины боли в колене рассмотрены в статье о боли в колене.",
+      "Рентген не показывает кисту, но выявляет сопутствующие проблемы, например артроз [2][3]. УЗИ показывает, заполнена ли припухлость жидкостью или она плотная; это недорогой метод без облучения, который используют при первичной оценке [2][3]. МРТ — наиболее подробный метод, позволяющий отличить кисту от других образований и увидеть основную проблему, например разрыв мениска [3]."
+     ]
+    },
+    {
+     "h": "Проходит ли она сама и сколько это длится?",
+     "p": [
+      "Киста Бейкера не всегда требует лечения; она может пройти сама или при лечении состояния, которое её вызвало [1]. По данным Американской академии хирургов-ортопедов (AAOS), большинство кист Бейкера исчезают сами [2]. Улучшение может занять от нескольких месяцев до нескольких лет; самостоятельное улучшение наблюдается особенно у детей [1]. За кистой, которая не вызывает жалоб, можно просто наблюдать [2].",
+      "У взрослых киста — следствие увеличения количества жидкости в суставе; пока сохраняется проблема, из-за которой жидкости становится больше, киста может наполняться снова [3][4]. Поэтому лечение направляют не столько на саму кисту, сколько на основную проблему колена [1][3]."
+     ]
+    },
+    {
+     "h": "Что можно делать дома? Упражнения и кремы",
+     "p": [
+      "На страницах для пациентов Национальной службы здравоохранения Англии (NHS) и AAOS определённой программы домашних упражнений при кисте Бейкера нет [1][2]. Физиотерапия входит в число методов лечения, которые может предложить врач [1]; её цель — сохранить объём движений в колене и укрепить мышцы вокруг него [2][3]. Уменьшение ударных нагрузок, таких как бег и аэробика, может облегчить жалобы [2].",
+      "Часто спрашивают и о креме при кисте Бейкера: NHS и AAOS не называют крем, гель или мазь среди методов лечения; в изученных источниках нет и данных о том, что какой-либо крем уменьшает кисту [1][2][3][4].",
+      "Чтобы уменьшить боль и отёк, дома можно делать следующее [1]:"
+     ],
+     "list": [
+      "Дать колену покой",
+      "Прикладывать к колену пакет со льдом, завёрнутый в полотенце, примерно на 10 минут за один раз",
+      "Держать ногу приподнятой, например положив её на подушку",
+      "Принимать обезболивающее при боли и отёке; какое средство подходит именно вам, можно спросить у фармацевта или врача"
+     ]
+    },
+    {
+     "h": "Пункция кисты и укол кортизона",
+     "p": [
+      "К методам лечения, которые может предложить врач, относятся обезболивающие, укол кортизона (стероида) в колено, физиотерапия и удаление жидкости из кисты [1]. Сообщалось, что инъекция кортизона в сустав уменьшает размер кисты и жалобы [3].",
+      "Как опорожняют кисту? Область вокруг кисты обезболивают и лишнюю жидкость удаляют иглой (пункция, аспирация), чаще всего под контролем УЗИ [2]. Затем в кисту или в сустав часто вводят кортизон [4].",
+      "В исследовании с участием 26 человек с кистой Бейкера на фоне артроза коленного сустава за четыре недели после пункции и инъекции кортизона боль уменьшилась, а киста стала меньше, тогда как показатели скованности и функции значимо не изменились [5]. Пункция может облегчить жалобы; однако, если артроз или проблема с мениском сохраняются, киста часто наполняется снова [4]."
+     ]
+    },
+    {
+     "h": "Операция: когда и как удаляют кисту Бейкера?",
+     "p": [
+      "Операция при кисте Бейкера требуется редко [1][2]. Её могут рекомендовать, если болезненные жалобы сохраняются несмотря на безоперационное лечение или если киста вновь наполняется после неоднократных пункций [2].",
+      "Операция тоже направлена прежде всего на причину внутри сустава: в одной давней серии, где удаляли только кисту, она возникла вновь после 63% из 46 операций [3]. При артроскопии (закрытом методе) лечат проблемы внутри сустава, приводящие к кисте; в ходе той же операции можно раскрыть клапан между кистой и суставом, и это может предотвратить повторное образование кисты [2].",
+      "Вместе с тем не каждую проблему внутри сустава исправляют операцией: международное руководство даёт сильную рекомендацию против артроскопии почти у всех пациентов с заболеванием колена, связанным с износом (артроз и связанный с износом разрыв мениска) [6].",
+      "При крупных кистах или кистах, сдавливающих сосуды и нервы, кисту могут удалить целиком открытой операцией [2]. Большинство пациентов возвращаются ко всем занятиям примерно через 4–6 недель после операции [2]."
+     ]
+    },
+    {
+     "h": "Почему разрыв кисты Бейкера похож на тромб в ноге?",
+     "p": [
+      "Разрыв кисты случается редко [2][4]. При разрыве суставная жидкость растекается между мышцами голени; в икре внезапно появляются боль, отёк и чувство напряжения [4].",
+      "Эта картина очень похожа на образование тромба в вене ноги (тромбоз глубоких вен, ТГВ): ТГВ тоже вызывает пульсирующую боль, обычно в одной ноге, отёк и покраснение либо потемнение кожи [7]. Отличить одно от другого только по осмотру чаще всего невозможно; поэтому сначала с помощью УЗИ осматривают вены и исключают тромб [3][4]. Различать их важно, потому что при ТГВ тромб может попасть в лёгкие [7].",
+      "Разрыв кисты чаще всего проходит сам; жидкость, растёкшаяся в голень, со временем рассасывается [4]. Пока отёк не спадёт, жалобы выражены сильнее обычного; это может занять несколько недель [1]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Если боль и отёк в ноге сопровождаются одышкой или болью в груди, это может быть признаком тромба, попавшего в лёгкие (тромбоэмболия лёгочной артерии); немедленно обратитесь в отделение неотложной помощи или вызовите скорую помощь [1][7].",
+      "Если у вас на теле есть припухлость и вы не знаете, что это, покажите её врачу [1]. Перечисленные ниже признаки могут указывать на разрыв кисты или на тромб в ноге. Отличить одно от другого без обследования нельзя; без промедления обратитесь в медицинское учреждение [1][2][4]:"
+     ],
+     "list": [
+      "Боль или отёк в ноге внезапно усилились",
+      "На ноге есть отёк, синяк и кожа на ощупь тёплая",
+      "Кожа ноги покраснела или потемнела (на тёмной коже это может быть труднее заметить)",
+      "Припухлость на ноге становится плотнее или мягче"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Как проходит киста Бейкера?",
+     "a": "Лечение требуется не всегда; киста может пройти сама или при лечении проблемы колена, которая её вызвала [1]. Покой, лёд, возвышенное положение ноги и обезболивающие облегчают жалобы; при необходимости применяют укол кортизона, физиотерапию или удаление жидкости из кисты [1][2]."
+    },
+    {
+     "q": "За какое время проходит киста Бейкера?",
+     "a": "Улучшение может занять от нескольких месяцев до нескольких лет [1]. При разрыве кисты отёк может спадать несколько недель [1]."
+    },
+    {
+     "q": "Как делают пункцию кисты Бейкера?",
+     "a": "Область вокруг кисты обезболивают и жидкость удаляют иглой; процедуру чаще всего выполняют под контролем УЗИ [2]. Если основная проблема колена сохраняется, киста часто наполняется снова [4]."
+    },
+    {
+     "q": "Помогают ли при кисте Бейкера крем или упражнения?",
+     "a": "NHS и AAOS не называют крем среди методов лечения [1][2]. Физиотерапия — один из вариантов лечения; цель упражнений — сохранить объём движений в колене и укрепить окружающие мышцы, однако определённой домашней программы эти источники не дают [1][2]."
+    },
+    {
+     "q": "Что будет, если киста Бейкера лопнет?",
+     "a": "Жидкость растекается в голень; в икре внезапно появляются боль и отёк, и чаще всего это проходит само за несколько недель [1][4]. Поскольку такие же признаки бывают при тромбе в ноге, оценка нужна без промедления; при одышке или боли в груди обратитесь в отделение неотложной помощи [1][7]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "kist-baker-posht-zanoo",
+   "title": "کیست بیکر: تورم پشت زانو چرا ایجاد می‌شود و چگونه برطرف می‌شود؟",
+   "description": "کیست بیکر چیست، چرا ایجاد می‌شود و چگونه برطرف می‌شود؟ تورم پشت زانو، علائم، تشخیص، درمان، تخلیهٔ کیست، جراحی و پاره شدن کیست.",
+   "summary": "کیست بیکر (کیست پوپلیتئال) تورمی پر از مایع در پشت زانو است [1]. در بزرگسالان بیشتر زمانی پدید می‌آید که مشکل دیگری در زانو، مانند آرتروز زانو یا پارگی منیسک، باعث تولید مایع اضافی در مفصل شود؛ از این رو درمان پیش از هر چیز متوجه همان مشکل است [2][3]. ممکن است خودبه‌خود برطرف شود؛ اما درد و تورمی که ناگهان در ساق پا بیشتر می‌شود ممکن است نشانهٔ پاره شدن کیست یا لختهٔ خون در پا باشد و باید بدون تأخیر ارزیابی شود [1][2].",
+   "sections": [
+    {
+     "h": "کیست بیکر چیست و چرا ایجاد می‌شود؟",
+     "p": [
+      "کیست بیکر تورمی پر از مایع در پشت زانو است [1]. مایع درون آن همان مایع مفصلی است که مفصل را روان می‌کند؛ این مایع در کیسه‌ای در سمت داخلی پشت زانو جمع می‌شود [2][3][4].",
+      "در بزرگسالان معمولاً پیامد آسیب یا بیماری‌ای است که در مفصل زانو تورم و التهاب ایجاد می‌کند [2]. زانو مایع مفصلی اضافی می‌سازد؛ این مایع از روزنه‌ای که مانند دریچهٔ یک‌طرفه کار می‌کند به پشت زانو می‌رود، نمی‌تواند بازگردد و در آنجا جمع می‌شود [2][3]. در بزرگسالان تا ۹۴ درصد کیست‌ها با مشکلی در درون مفصل همراه‌اند؛ شایع‌ترین مشکل همراه، پارگی منیسک است [3].",
+      "در بیماران جوان و کودکان بیشتر وقت‌ها علت مشخصی پیدا نمی‌شود [2][4]. مهم‌ترین وضعیت‌هایی که می‌توانند به کیست بینجامند این‌ها هستند [1][2]:"
+     ],
+     "list": [
+      "آرتروز زانو (استئوآرتریت)",
+      "آرتریت روماتوئید",
+      "پارگی منیسک",
+      "پارگی رباط صلیبی قدامی",
+      "نقرس",
+      "آسیب‌های زانو و وضعیت‌های دیگری که به بافت‌های درون مفصل آسیب می‌زنند"
+     ]
+    },
+    {
+     "h": "چه علائمی دارد؟",
+     "p": [
+      "برخی کیست‌های بیکر هیچ علامتی ایجاد نمی‌کنند و به‌طور اتفاقی، هنگام معاینه یا در ام‌آرآی که به دلیل دیگری گرفته شده است، دیده می‌شوند [2]. بیشتر علائم از مشکل زمینه‌ای منیسک یا غضروف ناشی می‌شود؛ علائم ناشی از خودِ کیست شایع نیست [3].",
+      "علائم ممکن است پس از راه رفتن بیشتر شود [1]. علائمی که ممکن است دیده شود این‌ها هستند [1][2]:"
+     ],
+     "list": [
+      "تورمی نرم یا احساس پُری در پشت زانو",
+      "درد زانو یا پا",
+      "احساس کشیدگی، خشکی یا درد مبهم در پشت زانو",
+      "دشواری در خم کردن زانو",
+      "صدای تق‌تق در زانو",
+      "تورم زانو و ساق پا"
+     ]
+    },
+    {
+     "h": "چگونه شناخته و تشخیص داده می‌شود؟",
+     "p": [
+      "پزشک شرح حال شما را می‌گیرد و زانو را در مقایسه با زانوی دیگر معاینه می‌کند [2]. کیست بیشتر وقت‌ها هنگامی که زانو صاف است سفت و هنگامی که زانو خم است نرم لمس می‌شود [2][3].",
+      "هر تورمی در پشت زانو کیست بیکر نیست: کیست گانگلیون، گشاد شدن سرخرگ (آنوریسم) و تومورها هم می‌توانند در این ناحیه توده ایجاد کنند؛ در این موارد قوام توده با تغییر وضعیت زانو عوض نمی‌شود [3]. علت‌های دیگر درد زانو در نوشتهٔ مربوط به درد زانو آمده است.",
+      "عکس رادیولوژی کیست را نشان نمی‌دهد، اما مشکلات همراه مانند آرتروز را آشکار می‌کند [2][3]. سونوگرافی نشان می‌دهد که درون تورم مایع است یا بافت توپر؛ ارزان و بدون اشعه است و در ارزیابی نخست به کار می‌رود [2][3]. ام‌آرآی دقیق‌ترین روش برای افتراق کیست از توده‌های دیگر و نشان دادن مشکل زمینه‌ای مانند پارگی منیسک است [3]."
+     ]
+    },
+    {
+     "h": "آیا خودبه‌خود برطرف می‌شود و چقدر طول می‌کشد؟",
+     "p": [
+      "کیست بیکر همیشه به درمان نیاز ندارد؛ ممکن است خودبه‌خود یا با درمان وضعیتی که آن را ایجاد کرده است برطرف شود [1]. به گفتهٔ آکادمی جراحان ارتوپدی آمریکا (AAOS) بیشتر کیست‌های بیکر خودبه‌خود از بین می‌روند [2]. بهبود ممکن است از چند ماه تا چند سال طول بکشد؛ بهبود خودبه‌خود به‌ویژه در کودکان دیده می‌شود [1]. کیستی را که علامتی ایجاد نمی‌کند می‌توان فقط زیر نظر گرفت [2].",
+      "در بزرگسالان کیست پیامد افزایش مایع در مفصل است؛ تا زمانی که مشکلِ افزایش‌دهندهٔ مایع ادامه دارد، کیست ممکن است دوباره پر شود [3][4]. از این رو درمان بیش از خودِ کیست، متوجه مشکل زمینه‌ای زانو است [1][3]."
+     ]
+    },
+    {
+     "h": "در خانه چه می‌توان کرد؟ ورزش و کرم",
+     "p": [
+      "صفحه‌های نظام سلامت ملی انگلستان (NHS) و AAOS برای بیماران برنامهٔ مشخصی از تمرین‌های خانگی برای کیست بیکر ارائه نمی‌کنند [1][2]. فیزیوتراپی از درمان‌هایی است که پزشک ممکن است پیشنهاد کند [1]؛ هدف آن حفظ دامنهٔ حرکت زانو و تقویت عضلات اطراف آن است [2][3]. کم کردن فعالیت‌های پرضربه مانند دویدن و ایروبیک می‌تواند علائم را سبک‌تر کند [2].",
+      "دربارهٔ کرم برای کیست بیکر هم بسیار پرسیده می‌شود: NHS و AAOS کرم، ژل یا پماد را در میان درمان‌ها نام نمی‌برند؛ در منابع بررسی‌شده نیز داده‌ای که نشان دهد کرمی کیست را کوچک می‌کند وجود ندارد [1][2][3][4].",
+      "برای کم کردن درد و تورم در خانه می‌توان این کارها را انجام داد [1]:"
+     ],
+     "list": [
+      "استراحت دادن به زانو",
+      "گذاشتن کیسهٔ یخِ پیچیده در حوله روی زانو، هر بار حدود ۱۰ دقیقه",
+      "بالا نگه داشتن پا؛ برای نمونه گذاشتن آن روی بالش",
+      "مصرف مسکن برای درد و تورم؛ می‌توانید از داروساز یا پزشک خود بپرسید کدام برای شما مناسب است"
+     ]
+    },
+    {
+     "h": "تخلیهٔ کیست و تزریق کورتون",
+     "p": [
+      "درمان‌هایی که پزشک ممکن است پیشنهاد کند عبارت‌اند از مسکن، تزریق کورتون (استروئید) در زانو، فیزیوتراپی و تخلیهٔ مایع کیست [1]. گزارش شده است که تزریق کورتون به داخل مفصل اندازهٔ کیست و علائم را کم می‌کند [3].",
+      "کیست چگونه تخلیه می‌شود؟ اطراف کیست بی‌حس می‌شود و مایع اضافی، بیشتر وقت‌ها با هدایت سونوگرافی، با سوزن کشیده می‌شود (آسپیراسیون) [2]. سپس بیشتر وقت‌ها کورتون به درون کیست یا مفصل تزریق می‌شود [4].",
+      "در پژوهشی روی ۲۶ نفر با کیست بیکرِ ناشی از آرتروز زانو، در چهار هفتهٔ پس از تخلیه و تزریق کورتون درد کمتر و کیست کوچک‌تر شد، اما نمره‌های خشکی و عملکرد تغییر معناداری نکرد [5]. تخلیه می‌تواند علائم را سبک‌تر کند؛ اما اگر آرتروز یا مشکل منیسک ادامه داشته باشد، پر شدن دوبارهٔ کیست شایع است [4]."
+     ]
+    },
+    {
+     "h": "جراحی: کیست بیکر چه زمانی و چگونه برداشته می‌شود؟",
+     "p": [
+      "برای کیست بیکر به‌ندرت جراحی لازم می‌شود [1][2]. اگر با وجود درمان غیرجراحی علائم دردناک ادامه داشته باشد یا کیست پس از تخلیه‌های مکرر دوباره پر شود، ممکن است جراحی توصیه شود [2].",
+      "جراحی نیز پیش از هر چیز متوجه علتِ درون مفصل است: در یک گزارش قدیمی که در آن فقط کیست برداشته شده بود، کیست پس از ۶۳ درصد از ۴۶ جراحی دوباره پدید آمد [3]. در آرتروسکوپی (جراحی بستهٔ مفصل) مشکلات درون مفصل که به کیست می‌انجامند درمان می‌شوند؛ در همان عمل می‌توان دریچهٔ میان کیست و مفصل را باز کرد و این کار ممکن است از تشکیل دوبارهٔ کیست پیشگیری کند [2].",
+      "با این همه، هر مشکل درون مفصل با جراحی اصلاح نمی‌شود: یک راهنمای بالینی بین‌المللی برای تقریباً همهٔ بیماران مبتلا به بیماری زانوی ناشی از فرسودگی (آرتروز و پارگی منیسکِ ناشی از فرسودگی) توصیه‌ای قوی علیه آرتروسکوپی دارد [6].",
+      "در کیست‌های بزرگ یا کیست‌هایی که بر رگ و عصب فشار می‌آورند، ممکن است کل کیست با جراحی باز برداشته شود [2]. بیشتر بیماران حدود ۴ تا ۶ هفته پس از جراحی به همهٔ فعالیت‌های خود بازمی‌گردند [2]."
+     ]
+    },
+    {
+     "h": "چرا کیست بیکرِ پاره‌شده به لختهٔ خون در پا شبیه است؟",
+     "p": [
+      "پاره شدن کیست شایع نیست [2][4]. هنگام پارگی، مایع مفصلی درون کیست میان عضلات ساق پخش می‌شود؛ در ساق پا ناگهان درد، تورم و احساس کشیدگی پدید می‌آید [4].",
+      "این وضعیت به تشکیل لخته در سیاهرگ پا (ترومبوز ورید عمقی، DVT) بسیار شبیه است: DVT نیز بیشتر در یک پا درد ضربان‌دار، تورم و قرمزی یا تیره شدن پوست ایجاد می‌کند [7]. افتراق این دو فقط با معاینه بیشتر وقت‌ها ممکن نیست؛ از این رو نخست با سونوگرافی رگ‌ها بررسی و لخته رد می‌شود [3][4]. این افتراق مهم است، زیرا در DVT لخته ممکن است به ریه برود [7].",
+      "کیست پاره‌شده بیشتر وقت‌ها خودبه‌خود بهبود می‌یابد؛ مایعِ پخش‌شده در ساق به‌مرور جذب می‌شود [4]. تا فرونشستن تورم، علائم بیش از همیشه است؛ این ممکن است چند هفته طول بکشد [1]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "اگر درد و تورم پا با تنگی نفس یا درد قفسهٔ سینه همراه باشد، ممکن است نشانهٔ لخته‌ای باشد که به ریه رفته است (آمبولی ریه)؛ فوراً به اورژانس مراجعه کنید یا آمبولانس خبر کنید [1][7].",
+      "اگر در بدن خود برآمدگی‌ای دارید که نمی‌دانید چیست، آن را به پزشک نشان دهید [1]. موارد زیر ممکن است نشانهٔ پاره شدن کیست یا لختهٔ خون در پا باشد. این دو بدون ارزیابی از هم بازشناخته نمی‌شوند؛ بدون تأخیر به یک مرکز درمانی مراجعه کنید [1][2][4]:"
+     ],
+     "list": [
+      "اگر درد یا تورم پا ناگهان بیشتر شده است",
+      "اگر در پا تورم، کبودی و گرمی پوست وجود دارد",
+      "اگر پوست پا قرمز یا تیره شده است (در پوست‌های تیره ممکن است دیدن آن دشوارتر باشد)",
+      "اگر تورم پا سفت‌تر یا نرم‌تر می‌شود"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "کیست بیکر چگونه برطرف می‌شود؟",
+     "a": "همیشه به درمان نیاز نیست؛ کیست ممکن است خودبه‌خود یا با درمان مشکلی در زانو که آن را ایجاد کرده است برطرف شود [1]. استراحت، یخ، بالا نگه داشتن پا و مسکن علائم را سبک‌تر می‌کند؛ در صورت نیاز تزریق کورتون، فیزیوتراپی یا تخلیهٔ کیست انجام می‌شود [1][2]."
+    },
+    {
+     "q": "کیست بیکر چقدر طول می‌کشد تا خوب شود؟",
+     "a": "بهبود ممکن است از چند ماه تا چند سال طول بکشد [1]. در کیست پاره‌شده فرونشستن تورم ممکن است چند هفته زمان ببرد [1]."
+    },
+    {
+     "q": "کیست بیکر چگونه تخلیه می‌شود؟",
+     "a": "اطراف کیست بی‌حس می‌شود و مایع با سوزن کشیده می‌شود؛ این کار بیشتر وقت‌ها با هدایت سونوگرافی انجام می‌شود [2]. اگر مشکل زمینه‌ای زانو ادامه داشته باشد، پر شدن دوبارهٔ کیست شایع است [4]."
+    },
+    {
+     "q": "آیا کرم یا ورزش برای کیست بیکر مفید است؟",
+     "a": "NHS و AAOS کرم را در میان درمان‌ها نام نمی‌برند [1][2]. فیزیوتراپی یکی از گزینه‌های درمان است؛ هدف تمرین‌ها حفظ دامنهٔ حرکت زانو و تقویت عضلات اطراف است، اما این منابع برنامهٔ خانگی مشخصی ارائه نمی‌کنند [1][2]."
+    },
+    {
+     "q": "اگر کیست بیکر پاره شود چه می‌شود؟",
+     "a": "مایع در ساق پخش می‌شود؛ در ساق پا ناگهان درد و تورم پدید می‌آید و بیشتر وقت‌ها ظرف چند هفته خودبه‌خود بهبود می‌یابد [1][4]. چون همین علائم در لختهٔ خون پا هم دیده می‌شود، باید بدون تأخیر ارزیابی شوید؛ در صورت تنگی نفس یا درد قفسهٔ سینه به اورژانس مراجعه کنید [1][7]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

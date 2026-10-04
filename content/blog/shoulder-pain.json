@@ -1,0 +1,545 @@
+{
+ "id": "shoulder-pain",
+ "area": "omuz-dirsek",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Shoulder pain",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/shoulder-pain/",
+   "year": "2023"
+  },
+  {
+   "title": "Shoulder Pain and Common Shoulder Problems",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/shoulder-pain-and-common-shoulder-problems/",
+   "year": "n.d."
+  },
+  {
+   "title": "Shoulder pain: diagnosis and management in primary care",
+   "publisher": "BMJ (Mitchell C, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16282408/",
+   "year": "2005"
+  },
+  {
+   "title": "Shoulder Impingement/Rotator Cuff Tendinitis",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/shoulder-impingementrotator-cuff-tendinitis/",
+   "year": "n.d."
+  },
+  {
+   "title": "Shoulder pain (information booklet VA2039)",
+   "publisher": "Versus Arthritis (copy hosted by Belfast Health and Social Care Trust)",
+   "url": "https://belfasttrust.hscni.net/wp-content/uploads/wpfd/preview_files/Shoulder-pain-information-booklet-Versus-Arthritis(2190834cf569ffab46854f84b2124104).pdf",
+   "year": "2020"
+  },
+  {
+   "title": "Chest pain",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/chest-pain/",
+   "year": "2023"
+  },
+  {
+   "title": "Pleurisy",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/pleurisy/",
+   "year": "2026"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "omuz-agrisi-neden-olur-ne-iyi-gelir",
+   "title": "Omuz ağrısı: neden olur, ne iyi gelir, hangi bölüm bakar?",
+   "description": "Omuz ağrısı neden olur, neyin belirtisidir? Evde ne iyi gelir, gece ağrısı, kola vuran ağrı, hangi bölüm bakar ve ne zaman beklemeden başvurulur?",
+   "summary": "Omuz ağrısının en sık nedenleri rotator manşet tendonlarının sorunları, omuz ekleminin kendi hastalıkları (donuk omuz, eklem kireçlenmesi), köprücük kemiğinin ucundaki eklemin sorunları ve boyundan yansıyan ağrıdır [3]. Hastaların çoğu etkinliği düzenleme, dinlenme, fizik tedavi ve ilaç gibi basit yöntemlerle düzelir; düzelme altı ay ya da daha uzun sürebilir [1][2]. Ağrı iki haftada azalmıyorsa hekime, göğüs ağrısı ya da nefes darlığı eşlik ediyorsa beklemeden acil yardıma başvurun [1][6][7].",
+   "sections": [
+    {
+     "h": "Omuz ağrısı neden olur?",
+     "p": [
+      "Omuz tek bir eklem değildir; birkaç eklem, tendonlar ve kaslarla birlikte çalışarak kola geniş bir hareket alanı sağlar [2].",
+      "Birinci basamakta en sık dört neden rotator manşet sorunları, omuz ekleminin kendi hastalıkları, köprücük kemiği ile kürek kemiği arasındaki eklemin (akromiyoklaviküler eklem) hastalığı ve boyundan yansıyan ağrıdır [3]. Kırık ve çıkık gibi yaralanmalar da omuz ağrısı yapar; tümör, enfeksiyon ve sinir kaynaklı sorunlar çok daha seyrek nedenlerdir [2]. Bazen omuzda duyulan ağrı omuzdan değil, boyun, kalp ya da diyafram gibi başka bir yerden kaynaklanır [3][5]."
+     ]
+    },
+    {
+     "h": "Omuz ağrısı neyin belirtisi olabilir?",
+     "p": [
+      "Ağrının nasıl başladığı, hangi hareketle arttığı ve eşlik eden yakınmalar olası nedeni düşündürür; tanı muayeneyle konur [1][2]. Rotator manşet sorunları, donuk omuz, omuzda kireçlenme (kalsifik tendinit), omuz çıkığı ve köprücük kemiği kırığı bu rehberde ayrı yazılarda anlatılmıştır; aşağıda yalnızca ayırt edici özellikler yer alır:"
+     ],
+     "list": [
+      "Kolu ya da omzu kullanırken artan ağrı: tendinit, bursit ya da sıkışma düşündürür [1]. Rotator manşet sorunlarında ağrı omzun önünde ya da yanında duyulur, kaldırma ve uzanma hareketlerinde birden ortaya çıkabilir [4]",
+      "Aylarca ya da yıllarca geçmeyen ağrı ve sertlik: donuk omuz ya da artrit düşündürür [1]. Donuk omuzda bütün hareketler, dışarıdan yaptırılanlar da içinde olmak üzere kısıtlıdır [3]",
+      "Ani ve çok şiddetli ağrı, kolu hareket ettirememe, bazen şekil değişikliği: omuz çıkığı, kırık (kol ya da köprücük kemiği) veya tendon kopması düşündürür [1]",
+      "Omzun tepesinde, köprücük kemiği ile omzun birleştiği yerde ağrı: bu eklemin çıkığı ya da bağ yaralanması gibi sorunlarını düşündürür [1]",
+      "Kolda karıncalanma, uyuşma, güçsüzlük; omuzda çıtlama ya da kilitlenme hissi: omuz ekleminin yerinde tutunamamasını (instabilite) düşündürür [1]"
+     ]
+    },
+    {
+     "h": "Omuz ağrısı neden kola vurur?",
+     "p": [
+      "Rotator manşet sorunlarında ağrı omzun önünden kolun yan tarafına doğru yayılabilir [4]. Kola vuran ağrının bir başka kaynağı boyundur: tipik olarak boynun alt kısmında ve kürek kemiğinin üstündeki bölgede ağrı ve hassasiyet vardır, ağrı omza ve kola yansır, kolda karıncalanma olabilir [3]. Omuz ağrısıyla birlikte elde ya da kolda karıncalanma varsa sorunun boyundan kaynaklanma olasılığı yüksektir [5].",
+      "Boyun kaynaklı ağrı ilgili uzmanlık dalınca değerlendirilir; tedavisi bu yazının konusu değildir."
+     ]
+    },
+    {
+     "h": "Sol omuz, sağ omuz ve nefes alırken ağrı",
+     "p": [
+      "Kaynaklar nedenleri sağ ya da sol omuza göre ayırmaz; ayrım ağrının nasıl başladığına, hangi hareketle değiştiğine ve eşlik eden belirtilere göre yapılır [1][2][3].",
+      "Sol omuz ağrısı çoğu zaman kalp kaygısıyla araştırılır; kalp kasının yeterince kanlanamaması, omuzda duyulan ağrının omuz dışı nedenlerindendir [3]. NHS'e göre göğüste geçmeyen ani ağrı ya da rahatsızlık; sol ya da sağ kola, boyna, çeneye, mideye veya sırta yayılan ağrı; ya da göğüs ağrısıyla birlikte terleme, bulantı, baş dönmesi veya nefes darlığı kalp krizi belirtisi olabilir ve hemen acil yardım gerektirir [6]. Bu ortopedik bir sorun değildir.",
+      "Nefes alırken artan ağrı da omuzdan kaynaklanmayabilir. Akciğer zarının iltihabında (plörezi) nefes alırken keskin göğüs ağrısı olur; ağrı omuzlara ve sırta yayılabilir, öksürürken ya da hapşırırken artabilir [7]. Diyaframdan yansıyan ağrı da omuzda duyulabilir [3]. Bu yakınmaları ortopedi değil, ilgili uzmanlık dalları değerlendirir; nefes almakta güçlük varsa acil yardım gerekir [7]."
+     ]
+    },
+    {
+     "h": "Omuz ağrısına evde ne iyi gelir?",
+     "p": [
+      "Ağrının azalmaya başlaması için şu önlemleri genellikle iki hafta uygulamak gerekir [1]; başlıcaları [1][5]:"
+     ],
+     "list": [
+      "Omzu tümüyle kullanmayı bırakmamak, nazikçe hareket ettirmek; dinlenme ile hareket arasındaki denge sertleşmeyi önlemeye yardımcı olur",
+      "Ağrıyı artırdığı görülen işlerden kaçınmak",
+      "Hareketi sürdürebilmek için ağrı kesici: tablet, krem ya da jel seçeneklerinden hangisinin uygun olduğunu eczacı ya da hekim söyleyebilir; hekime danışmadan iki haftadan uzun kullanılmamalıdır",
+      "Sıcak ya da soğuk uygulama: küçük bir yaralanmadan sonra ya da omuz şiş ve sıcaksa nemli havluya sarılı buz, en fazla 20 dakika; diğer ağrıların çoğunda sıcak",
+      "Duruş: dik durmak, omuzları aşağıda ve hafifçe geride tutmak; otururken kambur durmamak"
+     ]
+    },
+    {
+     "h": "Egzersiz ve gece ağrısı",
+     "p": [
+      "NHS, ağrının yinelemesini önlemek için omuz egzersizlerinin 6 ila 8 hafta denenmesini, kişinin kendi kendine zorlayıcı egzersizler uydurmamasını önerir [1]. Hangi egzersizin uygun olduğu soruna göre değişir; fizyoterapist soruna özel bir program hazırlar [5]. Egzersiz sırasında ani ya da keskin ağrı olursa bırakılmalıdır [5].",
+      "Kanıt sınırlıdır: 2005 tarihli bir BMJ derlemesine göre birinci basamakta sık kullanılan tedavilerin kanıtı görece zayıftır; gözetimli egzersiz içeren fizyoterapi ile kortizon enjeksiyonu kısa dönemde benzer yarar sağlar [3].",
+      "Rotator manşet sorunları ilerledikçe gece ağrısı şiddetlenebilir ve uykuyu bozabilir [4]. Yatınca ağrı oluyorsa şunlar denenebilir [5]:"
+     ],
+     "list": [
+      "Boynun altına yastık koyarak ağrımayan tarafa yatmak",
+      "Ağrıyan kolu gövdenin önünde katlanmış bir yastıkla desteklemek",
+      "Ağrıyan tarafa dönmemek için sırtın arkasına yastık koymak"
+     ]
+    },
+    {
+     "h": "Hangi bölüm bakar, nasıl değerlendirilir?",
+     "p": [
+      "Omuz ağrısını ortopedi ve travmatoloji değerlendirir. Hekim ağrının nasıl ve ne zaman başladığını, daha önce olup olmadığını sorar; muayenede şekil bozukluğu, şişlik ve hassasiyet arar, hareket açıklığına ve kas gücüne bakar [2].",
+      "Gerektiğinde röntgen kemikleri, MR ve ultrason ise yumuşak dokuları gösterir; sinir işlevini değerlendirmek için EMG istenebilir [2]. Yakınması olmayan kişilerde de yapısal değişiklikler görülebilir; bu nedenle erken görüntülemenin tedaviye katkı sağlaması beklenmez [3]."
+     ]
+    },
+    {
+     "h": "Omuz ağrısı neden geçmez, ne kadar sürer?",
+     "p": [
+      "Omuz ağrısının geçmesi altı ay ya da daha uzun sürebilir [1]. Süreğenleşme ve yineleme sıktır; ileri yaş, kadın cinsiyet, başvuru sırasında şiddetli ya da yineleyen yakınmalar ve eşlik eden boyun ağrısı daha kötü gidişle ilişkilidir [3].",
+      "Hastaların çoğu etkinliği düzenleme, dinlenme, fizik tedavi ve ilaç gibi basit yöntemlerle düzelir [2]. Evdeki önlemler yetmediğinde hekim daha güçlü ilaçlar ya da enjeksiyon, fizyoterapi ya da ev egzersizleri önerebilir [1]. Yineleyen çıkıklar ve bazı rotator manşet yırtıkları gibi belirli sorunlarda ameliyat önerilebilir [2]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Ağrı kötüleşiyor ya da iki hafta içinde düzelmiyorsa veya kolu hareket ettirmek çok güçleşmişse hekime başvurun [1]. Göğüste geçmeyen ağrı, kola, boyna ya da çeneye yayılan ağrı ya da göğüs ağrısıyla birlikte terleme, bulantı veya nefes darlığı varsa hemen acil yardım çağırın (Kuzey Kıbrıs ve Türkiye'de 112) [6]. Şu durumlarda da beklemeden değerlendirme gerekir [1][3]:"
+     ],
+     "list": [
+      "Ani başlayan ya da çok şiddetli omuz ağrısı",
+      "Kolun hareket ettirilememesi",
+      "Kolun ya da omzun şeklinin değişmesi veya belirgin şişlik",
+      "Geçmeyen karıncalanma ya da his kaybı",
+      "Kolun ya da omzun dokununca sıcak veya soğuk olması",
+      "Düşme gibi bir yaralanma ya da kazadan sonra başlayan ağrı",
+      "İki omuzda birden şiddetli ağrı",
+      "Ateş ya da kendini hasta hissetme",
+      "Açıklanamayan kitle ya da şişlik; kanser tanısı almış kişilerde omuz ağrısı"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Omuz ağrısı için hangi doktora gidilir?",
+     "a": "Omuz ağrısını ortopedi ve travmatoloji uzmanı değerlendirir; ağrının nasıl başladığını sorar, hareket açıklığına ve kas gücüne bakar, gerekirse görüntüleme ister [2]. Göğüs ağrısı ya da nefes darlığı eşlik ediyorsa sorun ortopedik değildir; acil yardım gerekir [6][7]."
+    },
+    {
+     "q": "Omuz ağrısı evde nasıl geçer?",
+     "a": "Omzu tümüyle hareketsiz bırakmadan nazikçe kullanmak, ağrıyı artıran işlerden kaçınmak, sıcak ya da soğuk uygulamak ve eczacının ya da hekimin önereceği ağrı kesiciyi kullanmak önerilir; ağrının azalmaya başlaması genellikle iki hafta alır [1]. İki haftada düzelme olmazsa hekime başvurun [1]."
+    },
+    {
+     "q": "Sol omuz ağrısı kalpten olabilir mi?",
+     "a": "Olabilir; kalp kaynaklı ağrı omuzda da duyulabilir [3]. Göğüste geçmeyen ağrı ya da baskı, kola, boyna ya da çeneye yayılan ağrı ya da göğüs ağrısıyla birlikte terleme, bulantı veya nefes darlığı varsa kalp krizi olabilir; hemen acil yardım çağırın [6]."
+    },
+    {
+     "q": "Nefes alırken omuz ağrısı neden olur?",
+     "a": "Akciğer zarı iltihabında (plörezi) nefes alırken ortaya çıkan keskin göğüs ağrısı omuzlara ve sırta yayılabilir [7]. Bu ortopedik bir sorun değildir; nefes almakta güçlük varsa acil yardım gerekir [7]."
+    },
+    {
+     "q": "Gece omuz ağrısında nasıl yatılmalı?",
+     "a": "Rotator manşet sorunları ilerledikçe gece ağrısı şiddetlenebilir [4]. Ağrımayan tarafa yatmak, ağrıyan kolu gövdenin önünde katlanmış bir yastıkla desteklemek ve ağrıyan tarafa dönmemek için sırtın arkasına yastık koymak denenebilir [5]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "shoulder-pain-causes-and-what-helps",
+   "title": "Shoulder pain: what causes it, what helps and who to see",
+   "description": "What causes shoulder pain and what helps at home? Pain down the arm, night pain, left shoulder pain, which specialty to see and when not to wait.",
+   "summary": "The most common causes of shoulder pain are problems of the rotator cuff tendons, disorders of the shoulder joint itself (frozen shoulder, arthritis), problems of the joint at the end of the collarbone, and pain referred from the neck [3]. Most people improve with simple measures such as changing activities, rest, physiotherapy and medication; recovery can take six months or longer [1][2]. See a doctor if the pain has not eased within two weeks, and seek emergency help without waiting if chest pain or breathlessness comes with it [1][6][7].",
+   "sections": [
+    {
+     "h": "What causes shoulder pain?",
+     "p": [
+      "The shoulder is not a single joint; several joints work together with tendons and muscles to give the arm a wide range of movement [2].",
+      "The four most common causes in primary care are rotator cuff disorders, disorders of the shoulder joint itself, disease of the joint between the collarbone and the shoulder blade (the acromioclavicular joint), and pain referred from the neck [3]. Injuries such as fractures and dislocations also cause shoulder pain; tumours, infection and nerve-related problems are much less common causes [2]. Sometimes pain felt in the shoulder does not come from the shoulder but from somewhere else, such as the neck, the heart or the diaphragm [3][5]."
+     ]
+    },
+    {
+     "h": "What can shoulder pain be a sign of?",
+     "p": [
+      "How the pain began, which movements make it worse and what other symptoms come with it point towards the likely cause; the diagnosis itself is made by examination [1][2]. Rotator cuff problems, frozen shoulder, calcium deposits in the shoulder (calcific tendinitis), shoulder dislocation and a broken collarbone are covered in separate articles in this guide; only the distinguishing features are given below:"
+     ],
+     "list": [
+      "Pain that is worse while using the arm or shoulder: suggests tendinitis, bursitis or impingement [1]. In rotator cuff problems the pain is felt at the front or side of the shoulder and can come on suddenly with lifting and reaching [4]",
+      "Pain and stiffness that do not go away over months or years: suggest frozen shoulder or arthritis [1]. In frozen shoulder all movements are restricted, including those made for the person by someone else [3]",
+      "Sudden, very bad pain, being unable to move the arm, sometimes a change in shape: suggest a dislocated shoulder, a broken bone (the arm or the collarbone) or a torn tendon [1]",
+      "Pain on top of the shoulder, where the collarbone and the shoulder meet: suggests a problem of that joint, such as a dislocation or a ligament injury [1]",
+      "Tingling, numbness or weakness in the arm; a feeling that the shoulder is clicking or locking: suggest that the shoulder joint is not holding in place (instability) [1]"
+     ]
+    },
+    {
+     "h": "Why does shoulder pain run down the arm?",
+     "p": [
+      "In rotator cuff problems the pain can spread from the front of the shoulder to the side of the arm [4]. Another source of pain running into the arm is the neck: typically there is pain and tenderness in the lower neck and the area above the shoulder blade, the pain is referred to the shoulder and arm, and there may be tingling in the arm [3]. If there is tingling in the hand or arm as well as pain in the shoulder, the problem is likely to come from the neck [5].",
+      "Pain coming from the neck is assessed by the relevant specialty; its treatment is not the subject of this article."
+     ]
+    },
+    {
+     "h": "Left shoulder, right shoulder and pain when breathing",
+     "p": [
+      "The sources do not divide the causes by right or left shoulder; the distinction is made by how the pain began, which movements change it and what other symptoms come with it [1][2][3].",
+      "Left shoulder pain is often looked up out of worry about the heart; a shortage of blood supply to the heart muscle is one of the causes of pain felt in the shoulder that lie outside the shoulder [3]. According to the NHS, sudden pain or discomfort in the chest that does not go away; pain that spreads to the left or right arm, the neck, jaw, stomach or back; or chest pain together with sweating, feeling sick, light-headedness or shortness of breath can be signs of a heart attack and need emergency help straight away [6]. This is not an orthopaedic problem.",
+      "Pain that gets worse on breathing in may not come from the shoulder either. In inflammation of the lining of the lungs (pleurisy) there is sharp chest pain on breathing in; the pain may spread to the shoulders and back and may be worse when coughing or sneezing [7]. Pain referred from the diaphragm can also be felt in the shoulder [3]. These complaints are assessed not by orthopaedics but by the relevant specialties; emergency help is needed if there is difficulty breathing [7]."
+     ]
+    },
+    {
+     "h": "What helps shoulder pain at home?",
+     "p": [
+      "The following measures usually need to be kept up for two weeks before the pain starts to ease [1]; the main ones are [1][5]:"
+     ],
+     "list": [
+      "Not stopping use of the shoulder completely, and moving it gently; a balance between rest and activity helps to stop the shoulder getting stiff",
+      "Avoiding the things that seem to make the pain worse",
+      "Pain relief so that you can keep moving: a pharmacist or doctor can advise which option, tablets or a cream or gel, is suitable; it should not be used for more than two weeks without medical advice",
+      "Heat or cold: after a minor injury, or if the shoulder is swollen and warm, ice wrapped in a damp towel for no longer than 20 minutes; for most other pain, heat",
+      "Posture: standing up straight with the shoulders down and gently back; not slouching when sitting"
+     ]
+    },
+    {
+     "h": "Exercise and night pain",
+     "p": [
+      "The NHS advises trying shoulder exercises for 6 to 8 weeks to stop the pain returning, and not making up strenuous exercises of your own [1]. Which exercise is suitable depends on the problem; a physiotherapist puts together a programme designed for it [5]. If there is sudden or sharp pain during an exercise, it should be stopped [5].",
+      "The evidence is limited: according to a BMJ review from 2005, the evidence for the treatments commonly used in primary care is relatively weak; physiotherapy incorporating supervised exercise and steroid injections give similar short-term benefit [3].",
+      "As rotator cuff problems progress, night pain can become severe and disturb sleep [4]. If the shoulder is painful when lying down, the following can be tried [5]:"
+     ],
+     "list": [
+      "Lying on the good side with a pillow under the neck",
+      "Supporting the painful arm with a folded pillow in front of the body",
+      "Placing a pillow behind the back to avoid rolling onto the painful side"
+     ]
+    },
+    {
+     "h": "Which specialty sees it, and how is it assessed?",
+     "p": [
+      "Shoulder pain is assessed by orthopaedics and traumatology. The doctor asks how and when the pain started and whether it has happened before; on examination they look for deformity, swelling and tenderness and check the range of movement and muscle strength [2].",
+      "When needed, an X-ray shows the bones, while MRI and ultrasound show the soft tissues; EMG may be requested to assess nerve function [2]. Structural changes can also be seen in people who have no symptoms; for this reason early imaging is not expected to add to treatment [3]."
+     ]
+    },
+    {
+     "h": "Why does shoulder pain not go away, and how long does it last?",
+     "p": [
+      "Shoulder pain can take six months or longer to get better [1]. Persistence and recurrence are common; increasing age, female sex, severe or recurrent symptoms at presentation and neck pain alongside are associated with a poorer course [3].",
+      "Most people improve with simple measures such as changing activities, rest, physiotherapy and medication [2]. When measures at home are not enough, the doctor may suggest stronger medicines or an injection, physiotherapy or exercises to do at home [1]. For certain problems, such as recurring dislocations and some rotator cuff tears, surgery may be recommended [2]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "See a doctor if the pain is getting worse or does not improve within two weeks, or if it has become very difficult to move the arm [1]. If there is chest pain that does not go away, pain spreading to the arm, neck or jaw, or chest pain together with sweating, feeling sick or shortness of breath, call emergency services immediately (112 in North Cyprus and Türkiye) [6]. Assessment without delay is also needed for [1][3]:"
+     ],
+     "list": [
+      "Sudden or very severe shoulder pain",
+      "Being unable to move the arm",
+      "A change in the shape of the arm or shoulder, or marked swelling",
+      "Tingling that does not go away, or loss of feeling",
+      "The arm or shoulder being hot or cold to touch",
+      "Pain that began after an injury or accident, such as a fall",
+      "Severe pain in both shoulders at once",
+      "Fever or feeling generally unwell",
+      "An unexplained lump or swelling; shoulder pain in someone who has been diagnosed with cancer"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Which doctor should I see for shoulder pain?",
+     "a": "Shoulder pain is assessed by a specialist in orthopaedics and traumatology, who asks how the pain began, checks range of movement and muscle strength and requests imaging if needed [2]. If chest pain or breathlessness comes with it, the problem is not orthopaedic and emergency help is needed [6][7]."
+    },
+    {
+     "q": "How can shoulder pain be eased at home?",
+     "a": "The advice is to keep using the shoulder gently rather than keeping it completely still, to avoid the things that make the pain worse, to use heat or cold and to take a painkiller recommended by a pharmacist or doctor; it usually takes two weeks for the pain to start to ease [1]. See a doctor if there is no improvement within two weeks [1]."
+    },
+    {
+     "q": "Can left shoulder pain come from the heart?",
+     "a": "It can; pain from the heart can also be felt in the shoulder [3]. If there is chest pain or pressure that does not go away, pain spreading to the arm, neck or jaw, or chest pain together with sweating, feeling sick or shortness of breath, it may be a heart attack; call emergency services immediately [6]."
+    },
+    {
+     "q": "Why does my shoulder hurt when I breathe in?",
+     "a": "In inflammation of the lining of the lungs (pleurisy), the sharp chest pain that comes on with breathing in can spread to the shoulders and back [7]. This is not an orthopaedic problem; emergency help is needed if there is difficulty breathing [7]."
+    },
+    {
+     "q": "How should I lie when my shoulder hurts at night?",
+     "a": "As rotator cuff problems progress, night pain can become severe [4]. Lying on the good side, supporting the painful arm with a folded pillow in front of the body and placing a pillow behind the back to avoid rolling onto the painful side can be tried [5]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "bol-v-pleche-prichiny-chto-pomogaet",
+   "title": "Боль в плече: причины, что помогает и к какому врачу обращаться",
+   "description": "Боль в плече: причины, что помогает дома, почему отдаёт в руку, ночная боль, боль в левом плече, к какому врачу обращаться и когда нельзя ждать.",
+   "summary": "Самые частые причины боли в плече — проблемы сухожилий вращательной манжеты, заболевания самого плечевого сустава («замороженное плечо», артроз), проблемы сустава у конца ключицы и боль, отражённая из шеи [3]. У большинства пациентов состояние улучшается при простых мерах — изменении нагрузки, покое, физиотерапии и приёме лекарств; выздоровление может занять шесть месяцев или дольше [1][2]. Если боль не уменьшается за две недели, обратитесь к врачу; если её сопровождает боль в груди или одышка, без промедления обращайтесь за неотложной помощью [1][6][7].",
+   "sections": [
+    {
+     "h": "Почему болит плечо?",
+     "p": [
+      "Плечо — не один сустав: несколько суставов работают вместе с сухожилиями и мышцами и обеспечивают руке большой объём движений [2].",
+      "Четыре самые частые причины в первичном звене — нарушения вращательной манжеты, заболевания самого плечевого сустава, заболевание сустава между ключицей и лопаткой (акромиально-ключичный сустав) и боль, отражённая из шеи [3]. Боль в плече вызывают и травмы, такие как перелом и вывих; опухоли, инфекция и проблемы, связанные с нервами, встречаются гораздо реже [2]. Иногда боль, которая ощущается в плече, исходит не из плеча, а из другого места — например, из шеи, сердца или диафрагмы [3][5]."
+     ]
+    },
+    {
+     "h": "Признаком чего может быть боль в плече?",
+     "p": [
+      "То, как началась боль, при каких движениях она усиливается и какие жалобы её сопровождают, указывает на вероятную причину; диагноз же ставят при осмотре [1][2]. Проблемы вращательной манжеты, «замороженное плечо», отложение кальция в плече (кальцифицирующий тендинит), вывих плеча и перелом ключицы описаны в отдельных статьях этого справочника; ниже приведены только отличительные признаки:"
+     ],
+     "list": [
+      "Боль, усиливающаяся при работе рукой или плечом: позволяет думать о тендините, бурсите или импинджменте [1]. При проблемах вращательной манжеты боль ощущается спереди или сбоку плеча и может внезапно возникать, когда вы что-то поднимаете или за чем-то тянетесь [4]",
+      "Боль и скованность, не проходящие месяцами или годами: позволяют думать о «замороженном плече» или артрите [1]. При «замороженном плече» ограничены все движения, включая те, что выполняет за человека другой [3]",
+      "Внезапная и очень сильная боль, невозможность двигать рукой, иногда изменение формы: позволяют думать о вывихе плеча, переломе (руки или ключицы) либо разрыве сухожилия [1]",
+      "Боль в верхней части плеча, там, где ключица соединяется с плечом: позволяет думать о проблемах этого сустава, таких как вывих или повреждение связок [1]",
+      "Покалывание, онемение, слабость в руке; ощущение, что плечо щёлкает или заклинивает: позволяют думать о том, что плечевой сустав не удерживается на месте (нестабильность) [1]"
+     ]
+    },
+    {
+     "h": "Почему боль в плече отдаёт в руку?",
+     "p": [
+      "При проблемах вращательной манжеты боль может распространяться от передней поверхности плеча к боковой стороне руки [4]. Другой источник боли, отдающей в руку, — шея: обычно есть боль и болезненность в нижней части шеи и в области над лопаткой, боль отдаёт в плечо и руку, в руке может быть покалывание [3]. Если вместе с болью в плече есть покалывание в кисти или руке, проблема, вероятнее всего, исходит из шеи [5].",
+      "Боль, исходящую из шеи, оценивает соответствующий специалист; её лечение не является темой этой статьи."
+     ]
+    },
+    {
+     "h": "Левое плечо, правое плечо и боль при дыхании",
+     "p": [
+      "Источники не делят причины на относящиеся к правому или левому плечу; различие проводят по тому, как началась боль, при каких движениях она меняется и какие признаки её сопровождают [1][2][3].",
+      "О боли в левом плече часто спрашивают из-за беспокойства о сердце; недостаточное кровоснабжение сердечной мышцы — одна из причин боли, ощущаемой в плече, которые находятся вне плеча [3]. По данным NHS, внезапная не проходящая боль или дискомфорт в груди; боль, распространяющаяся в левую или правую руку, шею, челюсть, живот или спину; либо боль в груди вместе с потливостью, тошнотой, головокружением или одышкой могут быть признаками инфаркта и требуют немедленной неотложной помощи [6]. Это не ортопедическая проблема.",
+      "Боль, усиливающаяся при вдохе, тоже может исходить не из плеча. При воспалении оболочки лёгких (плеврит) при вдохе возникает острая боль в груди; она может распространяться в плечи и спину и усиливаться при кашле или чихании [7]. Боль, отражённая от диафрагмы, также может ощущаться в плече [3]. Эти жалобы оценивает не ортопед, а соответствующие специалисты; если трудно дышать, нужна неотложная помощь [7]."
+     ]
+    },
+    {
+     "h": "Что помогает при боли в плече дома?",
+     "p": [
+      "Чтобы боль начала уменьшаться, следующие меры обычно нужно соблюдать две недели [1]; основные из них [1][5]:"
+     ],
+     "list": [
+      "Не переставать полностью пользоваться плечом, осторожно им двигать; равновесие между покоем и движением помогает не допустить скованности плеча",
+      "Избегать того, что, по вашим наблюдениям, усиливает боль",
+      "Обезболивающее, чтобы продолжать двигаться: какой вариант подходит — таблетки, крем или гель, — может подсказать фармацевт или врач; без консультации врача его не следует применять дольше двух недель",
+      "Тепло или холод: после небольшой травмы либо если плечо отёкшее и горячее — лёд, завёрнутый во влажное полотенце, не дольше 20 минут; при большинстве других видов боли — тепло",
+      "Осанка: стоять прямо, держа плечи опущенными и слегка отведёнными назад; сидя не сутулиться"
+     ]
+    },
+    {
+     "h": "Упражнения и ночная боль",
+     "p": [
+      "NHS рекомендует пробовать упражнения для плеча в течение 6–8 недель, чтобы боль не возвращалась, и не придумывать самостоятельно тяжёлые упражнения [1]. Какое упражнение подходит, зависит от проблемы; физиотерапевт составляет программу именно для неё [5]. При внезапной или острой боли во время упражнения его следует прекратить [5].",
+      "Доказательства ограничены: по данным обзора BMJ 2005 года, доказательства в пользу методов, часто применяемых в первичном звене, относительно слабы; физиотерапия с упражнениями под наблюдением и уколы кортизона дают сходную пользу в краткосрочной перспективе [3].",
+      "По мере прогрессирования проблем вращательной манжеты ночная боль может становиться сильной и нарушать сон [4]. Если плечо болит в положении лёжа, можно попробовать следующее [5]:"
+     ],
+     "list": [
+      "Лежать на здоровой стороне, подложив подушку под шею",
+      "Поддерживать больную руку сложенной подушкой перед телом",
+      "Положить подушку за спину, чтобы не перекатываться на больную сторону"
+     ]
+    },
+    {
+     "h": "К какому врачу обращаться и как проходит обследование?",
+     "p": [
+      "Боль в плече оценивает врач — ортопед-травматолог. Он спрашивает, как и когда началась боль и бывала ли она раньше; при осмотре ищет деформацию, отёк и болезненность, проверяет объём движений и силу мышц [2].",
+      "При необходимости рентген показывает кости, а МРТ и УЗИ — мягкие ткани; для оценки функции нервов могут назначить ЭМГ [2]. Структурные изменения находят и у людей без жалоб; поэтому от раннего обследования не ожидают пользы для лечения [3]."
+     ]
+    },
+    {
+     "h": "Почему боль в плече не проходит и сколько она длится?",
+     "p": [
+      "Боль в плече может проходить шесть месяцев или дольше [1]. Хроническое течение и повторные эпизоды встречаются часто; с более неблагоприятным течением связаны старший возраст, женский пол, сильные или повторяющиеся жалобы на момент обращения и сопутствующая боль в шее [3].",
+      "У большинства пациентов состояние улучшается при простых мерах — изменении нагрузки, покое, физиотерапии и приёме лекарств [2]. Если домашних мер недостаточно, врач может предложить более сильные лекарства или укол, физиотерапию либо упражнения для выполнения дома [1]. При некоторых проблемах, таких как повторные вывихи и часть разрывов вращательной манжеты, могут рекомендовать операцию [2]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Если боль усиливается или не уменьшается в течение двух недель либо двигать рукой стало очень трудно, обратитесь к врачу [1]. При не проходящей боли в груди, боли, распространяющейся в руку, шею или челюсть, либо боли в груди вместе с потливостью, тошнотой или одышкой немедленно вызовите скорую помощь (на Северном Кипре и в Турции — 112) [6]. Оценка без промедления нужна и в следующих случаях [1][3]:"
+     ],
+     "list": [
+      "Внезапно возникшая или очень сильная боль в плече",
+      "Невозможность двигать рукой",
+      "Изменение формы руки или плеча либо выраженный отёк",
+      "Не проходящее покалывание либо потеря чувствительности",
+      "Рука или плечо на ощупь горячие или холодные",
+      "Боль, появившаяся после травмы или несчастного случая, например падения",
+      "Сильная боль сразу в обоих плечах",
+      "Повышенная температура или общее плохое самочувствие",
+      "Необъяснимое уплотнение или отёк; боль в плече у человека, у которого был диагностирован рак"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "К какому врачу идти при боли в плече?",
+     "a": "Боль в плече оценивает врач — ортопед-травматолог: он спрашивает, как началась боль, проверяет объём движений и силу мышц, при необходимости назначает обследование [2]. Если боль сопровождается болью в груди или одышкой, проблема не ортопедическая и нужна неотложная помощь [6][7]."
+    },
+    {
+     "q": "Как облегчить боль в плече дома?",
+     "a": "Рекомендуют не обездвиживать плечо полностью, а осторожно им пользоваться, избегать того, что усиливает боль, применять тепло или холод и принимать обезболивающее, которое посоветует фармацевт или врач; обычно боль начинает уменьшаться через две недели [1]. Если за две недели улучшения нет, обратитесь к врачу [1]."
+    },
+    {
+     "q": "Может ли боль в левом плече быть от сердца?",
+     "a": "Может; боль, исходящая от сердца, может ощущаться и в плече [3]. Если есть не проходящая боль или давление в груди, боль, распространяющаяся в руку, шею или челюсть, либо боль в груди вместе с потливостью, тошнотой или одышкой, это может быть инфаркт; немедленно вызовите скорую помощь [6]."
+    },
+    {
+     "q": "Почему болит плечо при вдохе?",
+     "a": "При воспалении оболочки лёгких (плеврит) острая боль в груди, возникающая при вдохе, может распространяться в плечи и спину [7]. Это не ортопедическая проблема; если трудно дышать, нужна неотложная помощь [7]."
+    },
+    {
+     "q": "Как лежать, если плечо болит ночью?",
+     "a": "По мере прогрессирования проблем вращательной манжеты ночная боль может становиться сильной [4]. Можно попробовать лежать на здоровой стороне, поддерживать больную руку сложенной подушкой перед телом и положить подушку за спину, чтобы не перекатываться на больную сторону [5]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "dard-shane-ellat-va-rah-haye-taskin",
+   "title": "درد شانه: چرا ایجاد می‌شود، چه چیزی کمک می‌کند و کدام تخصص؟",
+   "description": "درد شانه چرا ایجاد می‌شود و در خانه چه چیزی کمک می‌کند؟ درد تیرکشنده به دست، درد شبانه، درد شانهٔ چپ، کدام تخصص و چه زمانی نباید منتظر ماند.",
+   "summary": "شایع‌ترین علت‌های درد شانه عبارت‌اند از مشکلات تاندون‌های روتاتور کاف، بیماری‌های خودِ مفصل شانه (شانهٔ یخ‌زده، آرتروز)، مشکلات مفصلِ انتهای استخوان ترقوه و دردی که از گردن به شانه می‌رسد [3]. بیشتر بیماران با روش‌های ساده‌ای مانند تنظیم فعالیت، استراحت، فیزیوتراپی و دارو بهتر می‌شوند؛ بهبودی ممکن است شش ماه یا بیشتر طول بکشد [1][2]. اگر درد ظرف دو هفته کم نشد به پزشک مراجعه کنید و اگر درد قفسهٔ سینه یا تنگی نفس با آن همراه است بدون معطلی کمک اورژانسی بگیرید [1][6][7].",
+   "sections": [
+    {
+     "h": "درد شانه چرا ایجاد می‌شود؟",
+     "p": [
+      "شانه یک مفصل تنها نیست؛ چند مفصل همراه با تاندون‌ها و عضلات کار می‌کنند و دامنهٔ حرکتی گسترده‌ای به دست می‌دهند [2].",
+      "چهار علت شایع‌تر در مراقبت‌های اولیه عبارت‌اند از مشکلات روتاتور کاف، بیماری‌های خودِ مفصل شانه، بیماری مفصلِ میان استخوان ترقوه و استخوان کتف (مفصل آکرومیوکلاویکولار) و دردی که از گردن به شانه می‌رسد [3]. آسیب‌هایی مانند شکستگی و دررفتگی نیز درد شانه ایجاد می‌کنند؛ تومور، عفونت و مشکلات مربوط به عصب علت‌هایی بسیار کم‌شیوع‌تر هستند [2]. گاهی دردی که در شانه احساس می‌شود از خود شانه نیست و از جای دیگری مانند گردن، قلب یا دیافراگم سرچشمه می‌گیرد [3][5]."
+     ]
+    },
+    {
+     "h": "درد شانه نشانهٔ چه چیزی می‌تواند باشد؟",
+     "p": [
+      "اینکه درد چگونه شروع شده، با کدام حرکت بیشتر می‌شود و چه علائمی با آن همراه است، علت احتمالی را به ذهن می‌آورد؛ اما تشخیص با معاینه داده می‌شود [1][2]. مشکلات روتاتور کاف، شانهٔ یخ‌زده، رسوب کلسیم در شانه (تاندونیت کلسیفیه)، دررفتگی شانه و شکستگی استخوان ترقوه در نوشته‌های جداگانهٔ همین راهنما شرح داده شده‌اند؛ در ادامه تنها ویژگی‌های متمایزکننده آمده است:"
+     ],
+     "list": [
+      "دردی که هنگام استفاده از دست یا شانه بیشتر می‌شود: تاندونیت، بورسیت یا گیرافتادگی را مطرح می‌کند [1]. در مشکلات روتاتور کاف درد در جلو یا کنار شانه احساس می‌شود و ممکن است هنگام بلند کردن چیزی یا دراز کردن دست ناگهان پدید آید [4]",
+      "درد و خشکی‌ای که ماه‌ها یا سال‌ها برطرف نمی‌شود: شانهٔ یخ‌زده یا آرتریت را مطرح می‌کند [1]. در شانهٔ یخ‌زده همهٔ حرکات محدود است، از جمله حرکاتی که دیگری برای فرد انجام می‌دهد [3]",
+      "درد ناگهانی و بسیار شدید، ناتوانی در حرکت دادن دست و گاهی تغییر شکل: دررفتگی شانه، شکستگی (بازو یا ترقوه) یا پارگی تاندون را مطرح می‌کند [1]",
+      "درد در بالای شانه، جایی که استخوان ترقوه به شانه می‌رسد: مشکلات این مفصل مانند دررفتگی یا آسیب رباط را مطرح می‌کند [1]",
+      "گزگز، بی‌حسی یا ضعف در دست؛ احساس تق‌تق کردن یا قفل شدن شانه: مطرح‌کنندهٔ آن است که مفصل شانه در جای خود نمی‌ماند (ناپایداری) [1]"
+     ]
+    },
+    {
+     "h": "چرا درد شانه به دست تیر می‌کشد؟",
+     "p": [
+      "در مشکلات روتاتور کاف درد ممکن است از جلوی شانه به کنارهٔ بازو پخش شود [4]. سرچشمهٔ دیگرِ دردی که به دست تیر می‌کشد گردن است: معمولاً درد و حساسیت به لمس در پایین گردن و ناحیهٔ بالای استخوان کتف وجود دارد، درد به شانه و دست کشیده می‌شود و ممکن است در دست گزگز باشد [3]. اگر همراه با درد شانه در دست یا بازو گزگز وجود دارد، به احتمال زیاد مشکل از گردن است [5].",
+      "دردِ با منشأ گردن را تخصص مربوط ارزیابی می‌کند؛ درمان آن موضوع این نوشته نیست."
+     ]
+    },
+    {
+     "h": "شانهٔ چپ، شانهٔ راست و درد هنگام نفس کشیدن",
+     "p": [
+      "منابع، علت‌ها را بر پایهٔ شانهٔ راست یا چپ جدا نمی‌کنند؛ تمایز بر این اساس گذاشته می‌شود که درد چگونه شروع شده، با کدام حرکت تغییر می‌کند و چه نشانه‌هایی با آن همراه است [1][2][3].",
+      "درد شانهٔ چپ بیشتر به‌دلیل نگرانی از قلب جست‌وجو می‌شود؛ نرسیدن خون کافی به عضلهٔ قلب یکی از علت‌های بیرون از شانه برای دردی است که در شانه احساس می‌شود [3]. به گفتهٔ NHS، درد یا ناراحتی ناگهانی در قفسهٔ سینه که برطرف نمی‌شود؛ دردی که به دست چپ یا راست، گردن، فک، شکم یا پشت پخش می‌شود؛ یا درد قفسهٔ سینه همراه با تعریق، تهوع، سبکی سر یا تنگی نفس ممکن است نشانهٔ سکتهٔ قلبی باشد و به کمک اورژانسی فوری نیاز دارد [6]. این یک مشکل ارتوپدی نیست.",
+      "دردی که با نفس کشیدن بیشتر می‌شود نیز ممکن است از شانه نباشد. در التهاب پردهٔ ریه (پلوریت) هنگام دم، درد تیز قفسهٔ سینه پدید می‌آید؛ این درد ممکن است به شانه‌ها و پشت پخش شود و با سرفه یا عطسه بیشتر شود [7]. دردی که از دیافراگم می‌رسد نیز ممکن است در شانه احساس شود [3]. این شکایت‌ها را نه ارتوپدی، بلکه تخصص‌های مربوط ارزیابی می‌کنند؛ اگر نفس کشیدن دشوار است، کمک اورژانسی لازم است [7]."
+     ]
+    },
+    {
+     "h": "برای درد شانه در خانه چه چیزی کمک می‌کند؟",
+     "p": [
+      "برای آنکه درد رو به کاهش بگذارد، معمولاً باید این اقدام‌ها را دو هفته ادامه داد [1]؛ مهم‌ترین آن‌ها [1][5]:"
+     ],
+     "list": [
+      "استفاده از شانه را به‌طور کامل کنار نگذارید و آن را به‌آرامی حرکت دهید؛ تعادل میان استراحت و حرکت به پیشگیری از خشک شدن شانه کمک می‌کند",
+      "از کارهایی که به نظر می‌رسد درد را بیشتر می‌کنند پرهیز کنید",
+      "مسکن برای آنکه بتوانید به حرکت ادامه دهید: داروساز یا پزشک می‌تواند بگوید کدام شکل، قرص یا کرم یا ژل، مناسب است؛ بدون مشورت با پزشک نباید بیش از دو هفته مصرف شود",
+      "گرما یا سرما: پس از یک آسیب خفیف یا اگر شانه متورم و گرم است، یخِ پیچیده در حولهٔ نم‌دار، حداکثر ۲۰ دقیقه؛ در بیشتر دردهای دیگر، گرما",
+      "وضعیت بدن: صاف بایستید و شانه‌ها را پایین و کمی عقب نگه دارید؛ هنگام نشستن قوز نکنید"
+     ]
+    },
+    {
+     "h": "ورزش و درد شبانه",
+     "p": [
+      "NHS توصیه می‌کند برای پیشگیری از بازگشت درد، تمرین‌های شانه ۶ تا ۸ هفته امتحان شود و فرد از پیش خود تمرین‌های سنگین نسازد [1]. اینکه کدام تمرین مناسب است به نوع مشکل بستگی دارد؛ فیزیوتراپیست برنامه‌ای ویژهٔ همان مشکل تنظیم می‌کند [5]. اگر هنگام تمرین درد ناگهانی یا تیز پدید آمد باید آن را متوقف کرد [5].",
+      "شواهد محدود است: بر اساس یک مقالهٔ مروری BMJ در سال ۲۰۰۵، شواهد دربارهٔ درمان‌های رایج در مراقبت‌های اولیه نسبتاً ضعیف است؛ فیزیوتراپیِ همراه با ورزشِ زیر نظر و تزریق کورتون در کوتاه‌مدت فایدهٔ مشابهی دارند [3].",
+      "با پیشرفت مشکلات روتاتور کاف، درد شبانه ممکن است شدید شود و خواب را مختل کند [4]. اگر هنگام دراز کشیدن شانه درد می‌گیرد، می‌توان این کارها را امتحان کرد [5]:"
+     ],
+     "list": [
+      "خوابیدن روی سمت سالم با بالشی زیر گردن",
+      "تکیه دادن دستِ دردناک بر بالشی تاشده در جلوی بدن",
+      "گذاشتن بالشی پشت کمر تا روی سمت دردناک نغلتید"
+     ]
+    },
+    {
+     "h": "کدام تخصص به آن رسیدگی می‌کند و ارزیابی چگونه است؟",
+     "p": [
+      "درد شانه را تخصص ارتوپدی و تروماتولوژی ارزیابی می‌کند. پزشک می‌پرسد درد چگونه و چه زمانی شروع شده و آیا پیش‌تر هم بوده است؛ در معاینه به دنبال تغییر شکل، تورم و حساسیت به لمس می‌گردد و دامنهٔ حرکت و قدرت عضلات را می‌سنجد [2].",
+      "در صورت نیاز، عکس رادیولوژی استخوان‌ها را و ام‌آرآی و سونوگرافی بافت‌های نرم را نشان می‌دهند؛ برای ارزیابی کارکرد عصب ممکن است نوار عصب و عضله (EMG) درخواست شود [2]. تغییرات ساختاری در افراد بدون علامت هم دیده می‌شود؛ از این رو انتظار نمی‌رود تصویربرداری زودهنگام به درمان کمکی کند [3]."
+     ]
+    },
+    {
+     "h": "چرا درد شانه خوب نمی‌شود و چقدر طول می‌کشد؟",
+     "p": [
+      "برطرف شدن درد شانه ممکن است شش ماه یا بیشتر طول بکشد [1]. مزمن شدن و عود شایع است؛ سن بالاتر، جنس زن، علائم شدید یا تکرارشونده در زمان مراجعه و درد گردنِ همراه با سیر نامطلوب‌تر ارتباط دارند [3].",
+      "بیشتر بیماران با روش‌های ساده‌ای مانند تنظیم فعالیت، استراحت، فیزیوتراپی و دارو بهتر می‌شوند [2]. اگر اقدام‌های خانگی کافی نباشد، پزشک ممکن است داروهای قوی‌تر یا تزریق، فیزیوتراپی یا تمرین‌هایی برای انجام در خانه پیشنهاد کند [1]. در برخی مشکلات، مانند دررفتگی‌های مکرر و بعضی پارگی‌های روتاتور کاف، ممکن است جراحی توصیه شود [2]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "اگر درد بدتر می‌شود یا ظرف دو هفته بهتر نمی‌شود، یا حرکت دادن دست بسیار دشوار شده است، به پزشک مراجعه کنید [1]. اگر درد قفسهٔ سینه که برطرف نمی‌شود، دردی که به دست، گردن یا فک پخش می‌شود، یا درد قفسهٔ سینه همراه با تعریق، تهوع یا تنگی نفس وجود دارد، فوراً با اورژانس تماس بگیرید (در قبرس شمالی و ترکیه: 112) [6]. در موارد زیر نیز ارزیابی بدون معطلی لازم است [1][3]:"
+     ],
+     "list": [
+      "درد شانه که ناگهانی شروع شده یا بسیار شدید است",
+      "ناتوانی در حرکت دادن دست",
+      "تغییر شکل دست یا شانه یا تورم آشکار",
+      "گزگزی که برطرف نمی‌شود یا از دست رفتن حس",
+      "گرم یا سرد بودن دست یا شانه در لمس",
+      "دردی که پس از آسیب یا حادثه‌ای مانند زمین خوردن شروع شده است",
+      "درد شدید هم‌زمان در هر دو شانه",
+      "تب یا احساس ناخوشی عمومی",
+      "توده یا تورمی که علتش روشن نیست؛ درد شانه در کسی که تشخیص سرطان داشته است"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "برای درد شانه به کدام پزشک باید مراجعه کرد؟",
+     "a": "درد شانه را متخصص ارتوپدی و تروماتولوژی ارزیابی می‌کند؛ می‌پرسد درد چگونه شروع شده، دامنهٔ حرکت و قدرت عضلات را می‌سنجد و در صورت نیاز تصویربرداری درخواست می‌کند [2]. اگر درد قفسهٔ سینه یا تنگی نفس با آن همراه است، مشکل ارتوپدی نیست و کمک اورژانسی لازم است [6][7]."
+    },
+    {
+     "q": "درد شانه در خانه چگونه آرام می‌شود؟",
+     "a": "توصیه می‌شود شانه را کاملاً بی‌حرکت نگذارید و به‌آرامی از آن استفاده کنید، از کارهایی که درد را بیشتر می‌کنند بپرهیزید، از گرما یا سرما کمک بگیرید و مسکنی را که داروساز یا پزشک توصیه می‌کند مصرف کنید؛ معمولاً دو هفته طول می‌کشد تا درد رو به کاهش بگذارد [1]. اگر ظرف دو هفته بهبودی نبود به پزشک مراجعه کنید [1]."
+    },
+    {
+     "q": "آیا درد شانهٔ چپ می‌تواند از قلب باشد؟",
+     "a": "می‌تواند؛ دردِ با منشأ قلب ممکن است در شانه نیز احساس شود [3]. اگر درد یا فشار قفسهٔ سینه که برطرف نمی‌شود، دردی که به دست، گردن یا فک پخش می‌شود، یا درد قفسهٔ سینه همراه با تعریق، تهوع یا تنگی نفس وجود دارد، ممکن است سکتهٔ قلبی باشد؛ فوراً با اورژانس تماس بگیرید [6]."
+    },
+    {
+     "q": "چرا هنگام نفس کشیدن شانه درد می‌گیرد؟",
+     "a": "در التهاب پردهٔ ریه (پلوریت)، درد تیز قفسهٔ سینه که هنگام دم پدید می‌آید ممکن است به شانه‌ها و پشت پخش شود [7]. این یک مشکل ارتوپدی نیست؛ اگر نفس کشیدن دشوار است کمک اورژانسی لازم است [7]."
+    },
+    {
+     "q": "وقتی شانه شب‌ها درد می‌کند چگونه باید خوابید؟",
+     "a": "با پیشرفت مشکلات روتاتور کاف، درد شبانه ممکن است شدید شود [4]. می‌توان خوابیدن روی سمت سالم، تکیه دادن دستِ دردناک بر بالشی تاشده در جلوی بدن و گذاشتن بالشی پشت کمر برای نغلتیدن روی سمت دردناک را امتحان کرد [5]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

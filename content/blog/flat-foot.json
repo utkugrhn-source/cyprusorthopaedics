@@ -1,0 +1,501 @@
+{
+ "id": "flat-foot",
+ "area": "ayak-bilek",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Flat feet",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/flat-feet/",
+   "year": "2025"
+  },
+  {
+   "title": "Flexible Flatfoot in Children",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/flexible-flatfoot-in-children/",
+   "year": "n.d."
+  },
+  {
+   "title": "Flexible Flat Feet",
+   "publisher": "Pediatric Orthopaedic Society of North America (POSNA OrthoKids)",
+   "url": "https://orthokids.org/conditions/flexible-flat-feet",
+   "year": "n.d."
+  },
+  {
+   "title": "Foot orthoses for treating paediatric flat feet",
+   "publisher": "Cochrane Database of Systematic Reviews (Evans AM, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35080267/",
+   "year": "2022"
+  },
+  {
+   "title": "The long-term structural effect of orthoses for pediatric flexible flat foot: A systematic review",
+   "publisher": "Foot and Ankle Surgery (Choi JY, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30765257/",
+   "year": "2019"
+  },
+  {
+   "title": "Tarsal Coalition",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/tarsal-coalition/",
+   "year": "n.d."
+  },
+  {
+   "title": "Progressive Collapsing Foot Deformity (Flatfoot)",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/posterior-tibial-tendon-dysfunction",
+   "year": "n.d."
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "duz-taban",
+   "title": "Düz taban: çocuklarda düzelir mi, tabanlık ve ameliyat ne zaman?",
+   "description": "Düz taban nedir, neden olur, nasıl anlaşılır? Çocuklarda kaç yaşında düzelir, tabanlık ve ayakkabı işe yarar mı, egzersiz ve ameliyat ne zaman gerekir?",
+   "summary": "Düz taban (pes planus), ayakta dururken ayağın iç kenarındaki kemerin görülmemesidir; sık görülür ve çoğu zaman sorun yaratmaz [1]. Çocukların çoğu düz tabanla doğar, kemer genellikle 10 yaşına kadar oluşur [1][3]; ağrısız, esnek düz taban tedavi gerektirmez [2][3]. Tabanlık, özel ayakkabı ve egzersiz ayağın şeklini değiştirmez, ancak ağrı ve sertliği hafifletebilir [1][3]; erişkinde sonradan gelişen, ağrılı ya da tek taraflı düz taban ise muayene gerektirir [1][7].",
+   "sections": [
+    {
+     "h": "Düz taban nedir, nasıl anlaşılır?",
+     "p": [
+      "Düz taban ya da düztabanlık (taban çökmesi), ayak tabanının yere tam basmasıdır [1]. Anlamak için ayakta dururken ayağın iç kenarına bakılır: yerden yükselen bir kemer görünmüyorsa düz taban vardır [1].",
+      "Sık görülür, genellikle sorun yaratmaz ve spor dahil hiçbir etkinliğe engel olmamalıdır [1]. Sorun yaratmıyorsa, sizde ya da çocuğunuzda, bir şey yapmak gerekmez [1]."
+     ]
+    },
+    {
+     "h": "Düz taban neden olur?",
+     "p": [
+      "Çoğu zaman belirgin bir neden yoktur; ayağın yapısı böyledir ve bazen ailede de görülür [1][2]. Daha seyrek nedenler şunlardır [1][6][7]:"
+     ],
+     "list": [
+      "Ayak kemiklerinin anne karnında düzgün gelişmemesi",
+      "Ayaktaki dokuların yaralanma, yaşlanma ya da fazla kiloyla gerilmesi",
+      "Serebral palsi ve spina bifida gibi hastalıklar",
+      "Ayaktaki iki ya da daha fazla kemiğin birbirine bağlı olması (tarsal koalisyon)",
+      "Erişkinde, kemeri taşıyan arka tibial tendonun iltihaplanması ya da yırtılması"
+     ]
+    },
+    {
+     "h": "Çocuklarda düz taban kaç yaşında belli olur, düzelir mi?",
+     "p": [
+      "Çocukların çoğu düz tabanla, yani çok az bir kemerle doğar [2][3]. Kemer büyümeyle oluşur; genellikle 3–10 yaş arasında gelişir [1]. Esnek düz tabanı olan çocuklarda kemer çoğu zaman 5 yaşından önce gelişmeye başlamaz; bazılarında hiç gelişmez [2].",
+      "Kuzey Amerika Çocuk Ortopedisi Derneği'ne (POSNA) göre çocukların yaklaşık yüzde 80–90'ında düz taban büyümeyle düzelir; her 10 çocuktan 1 ya da 2'sinde erişkinlikte de sürer [3]. Küçük çocuklarda bu düzelme, giyilen ayakkabının türünden bağımsızdır [5]. Esnek düz taban genellikle ağrısızdır, yürümeyi ve sporu engellemez; ergenliğe kadar sürerse ayak tabanında sızı olabilir [2]."
+     ]
+    },
+    {
+     "h": "Esnek ve sert düztabanlık nedir?",
+     "p": [
+      "Esnek düztabanlıkta kemer ayakta dururken kaybolur, oturunca ya da parmak ucuna yükselince yeniden belirir [2][3]. Her zaman iki ayakta görülür ve normal ayağın bir çeşidi sayılır [2].",
+      "Sert (rijit) düztabanlıkta parmak ucuna yükselince de kemer oluşmaz; bu, daha ciddi bir soruna işaret edebilir [2][3]. Nedenlerinden biri tarsal koalisyondur: ayak kemikleri arasındaki olağan dışı bağlantı, ileri derecede sert bir düz tabana yol açabilir [6]. Belirtiler genellikle ergenliğin başında ortaya çıkar: ayakta ağrı ve sertlik, engebeli zeminde yürüme güçlüğü, tekrarlayan ayak bileği burkulmaları [6]. Esnek düz tabanların bir kısmı da büyümeyle sertleşebilir [3]."
+     ]
+    },
+    {
+     "h": "Nasıl değerlendirilir, derecesi nasıl ölçülür?",
+     "p": [
+      "Muayenede çocuktan oturması, ayakta durması ve parmak ucunda yükselmesi istenir; Aşil tendonunun gerginliğine ve ayakkabının aşınma biçimine bakılır [2]. Röntgen herkese gerekmez; düz taban ağrılıysa, sertse ya da sinir ve kas hastalığı bulguları varsa çekilir [3].",
+      "Erişkinde topuğun dışa kayıp kaymadığına, tek ayak üzerinde parmak ucuna yükselinip yükselinemediğine ve ayağın esnekliğine bakılır [7]. Röntgenin ayakta, ayağa yük verilirken çekilmesi tercih edilir; tendon ve bağlar için MR istenebilir [7].",
+      "Bu kaynaklarda \"düztabanlık dereceleri\" için bir tablo yer almaz; şekil değişikliği hafif, orta ya da ileri olarak tanımlanır [7]. Tedaviyi ağrı, şekil bozukluğunun ne kadar ileri olduğu, ayağın esnekliği ve eklemde kireçlenme olup olmadığı belirler [2][7]."
+     ]
+    },
+    {
+     "h": "Tabanlık, ayakkabı ve egzersiz ne işe yarar?",
+     "p": [
+      "Ağrısız, esnek düz tabanda çocuk normal ayakkabı giyebilir ve her etkinliğe katılabilir [3]. POSNA, esnek düz tabanın şeklini değiştirecek bir egzersiz, ortez, özel ayakkabı ya da tabanlık bulunmadığını belirtir [3]; İngiltere Ulusal Sağlık Servisi'ne (NHS) göre de bunlar ayağın şeklini değiştirmez, ancak ağrı ve sertliğe yardımcı olabilir [1].",
+      "Bir Cochrane derlemesine göre, ağrısı olmayan sağlıklı çocuklarda kişiye özel ya da hazır tabanlık, yalnızca ayakkabıya kıyasla bir yıl sonunda ağrı açısından çok az fark yaratır ya da hiç yaratmaz; bu sonuç tek bir çalışmaya dayanır ve kanıtın kesinliği düşük ya da çok düşüktür [4]. Derleme, ağrı yokken pahalı, kişiye özel tabanlığı destekleyen kanıt bulunmadığı sonucuna varır [4]. Ağrısız çocukta tabanlığın ileride sorun çıkmasını önlediğini gösteren bir çalışma yoktur [3]; uzun süreli kullanımın ayağın yapısını düzelttiğine ilişkin güçlü kanıt da yoktur [5].",
+      "Ağrı ya da çabuk yorulma varsa yumuşak, kemeri destekleyen bir tabanlık yakınmaları hafifletebilir; hazır tabanlıklar kişiye özel olanlar kadar etkili olabilir ve çok daha ucuzdur [2][3]. Sert tabanlıklar ağrıyı artırabilir [3]. Geniş, rahat ve alçak topuklu ayakkabılar önerilir [1].",
+      "Çocuklarda düz taban egzersizleri içinde kaynakların önerdiği, ağrı ya da yorgunluk varsa yapılan Aşil tendonu germesidir [2][3]: duvara dönük durulur, bir ayak öne alınıp dizi bükülür, arkadaki diz düz tutulur; 30 saniye beklenip bacak değiştirilir [3]. Ağrı kesici gerekiyorsa uygun olanı eczacıya ya da hekime sorulabilir [1]."
+     ]
+    },
+    {
+     "h": "Erişkinde sonradan gelişen düz taban",
+     "p": [
+      "Kemeri olan bir erişkinde ayağın giderek düzleşmesi ayrı bir durumdur; erişkin tipi edinsel düz taban ya da arka tibial tendon yetmezliği olarak adlandırılır [7]. Bu tendon yürürken kemeri yukarıda tutar; iltihaplandığında ya da yırtıldığında kemeri taşıyamaz ve ayak düzleşir [7]. Kadınlarda ve 40 yaşın üzerinde daha sıktır; şişmanlık, şeker hastalığı ve yüksek tansiyon riski artırır [7].",
+      "Ağrı ayağın ve ayak bileğinin iç tarafındadır, şişlik eşlik edebilir; etkinlikle artar, kemer çöktükçe bileğin dış tarafı da ağrıyabilir ve topuk dışa kayar [7].",
+      "Uygun ameliyatsız tedaviyle hastaların çoğunda yakınmalar geçer; erken başlansa bile ağrı 3 aydan uzun sürebilir [7]. Ağrıyı artıran etkinlikler azaltılır, bisiklet ve yüzme gibi ayağa az yük bindiren egzersizler seçilir [7]. En sık kullanılan yöntem tabanlıktır: hafif şekil değişikliğinde hazır tabanlık yetebilir, orta ve ileri değişiklikte kişiye özel olanı gerekir [7]. Ayak bileği desteği, fizik tedavi ve diğer yöntemler yetmezse 6–8 hafta alçı ya da yürüme botu öteki seçeneklerdir; tendona kortizon iğnesi, kopma riski nedeniyle genellikle yapılmaz [7]."
+     ]
+    },
+    {
+     "h": "Düz taban ameliyatı ne zaman düşünülür?",
+     "p": [
+      "Düz taban için ameliyat nadiren gerekir; ayağın kemik, doku ya da kaslarında bir sorun olduğunda ve diğer tedaviler işe yaramadığında düşünülebilir [1]. Çocuklarda esnek düz taban için neredeyse hiç gerekmez; ağrısı süren ya da düz tabanı zamanla sertleşen ergenlerde önerilebilir [2]. Tarsal koalisyonda ameliyat, dinlenme, tabanlık ve geçici alçıdan yanıt alınamazsa düşünülür [6].",
+      "Erişkinde sonradan gelişen düz tabanda, uygun tedaviye rağmen ağrı birkaç ayda azalmazsa ameliyat düşünülür [7]. Esnek ayakta tendon aktarımı ve kemiğin kesilip kaydırılması (osteotomi), sertleşmiş ya da kireçlenmiş ayakta eklem dondurma (artrodez) uygulanır [7]. İyileşme 6 ay ya da daha uzun sürer; en sık yakınma ağrının tümüyle geçmemesidir [7]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Düz taban çoğu zaman zararsızdır; ancak şu durumlarda beklemeden hekime başvurun [1][3][7]:"
+     ],
+     "list": [
+      "Ayaklar ağrılı, sert, güçsüz ya da uyuşuksa",
+      "Düz taban yalnızca tek ayaktaysa",
+      "Kemeriniz varken ayağınız sonradan düzleştiyse",
+      "Ayak ya da ayak bileği sık sık yaralanıyorsa",
+      "Yürüme ya da denge sorunu varsa",
+      "Çocukta parmak ucuna yükselince de kemer oluşmuyorsa",
+      "Ayak bileğinin iç tarafı ağrılı ve şişse ya da tek ayak üzerinde parmak ucuna yükselemiyorsanız"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Çocuklarda düz taban ne zaman geçer?",
+     "a": "Kemer genellikle 3–10 yaş arasında gelişir [1]; çocukların yaklaşık yüzde 80–90'ında düz taban büyümeyle düzelir [3]. Bazı çocuklarda kemer hiç gelişmez; sorun yaratmıyorsa bir şey yapılması gerekmez [1][2]."
+    },
+    {
+     "q": "Düz taban için tabanlık ya da ortopedik ayakkabı şart mı?",
+     "a": "Ağrı yoksa hayır: özel ayakkabı ve tabanlık ayağın şeklini değiştirmez, ağrısız çocukta kişiye özel tabanlığı destekleyen kanıt da yoktur [3][4]. Ağrı varsa yumuşak, hazır bir tabanlık yakınmaları hafifletebilir [2][3]."
+    },
+    {
+     "q": "Düz taban egzersizle geçer mi?",
+     "a": "Egzersiz ayağın şeklini değiştirmez [1][3]. Germe egzersizleri ise ağrı ve sertlik gibi yakınmaları azaltmaya yardımcı olabilir [1][2]."
+    },
+    {
+     "q": "Çocuklarda düz taban için hangi doktora gidilir?",
+     "a": "Çocuğu önce çocuk hekimi değerlendirebilir; gerek görürse ortopedi ve travmatoloji hekimine yönlendirir [3]. Ağrı, sertlik ya da tek taraflı düz taban varsa hekime başvurulmalıdır [1][3]."
+    },
+    {
+     "q": "Düz taban askerliğe engel mi?",
+     "a": "Askerliğe elverişlilik kararını bu yazı ya da bu klinik değil, askerî sağlık mevzuatı ve bu mevzuata göre görev yapan yetkili sağlık kurulları verir."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "flat-feet",
+   "title": "Flat feet: do children outgrow them, and when are insoles or surgery needed?",
+   "description": "What are flat feet, what causes them and how can you tell? When children's arches form, whether insoles and shoes help, exercises and when surgery is needed.",
+   "summary": "Flat feet (pes planus) means that no arch can be seen on the inner side of the foot when standing; it is common and usually causes no problems [1]. Most children are born with flat feet and the arch usually forms by the age of 10 [1][3]; a painless, flexible flat foot needs no treatment [2][3]. Insoles, special shoes and exercises do not change the shape of the foot, but they can ease pain and stiffness [1][3]; a flat foot that develops in adulthood, is painful or affects only one foot does need to be examined [1][7].",
+   "sections": [
+    {
+     "h": "What are flat feet and how can you tell?",
+     "p": [
+      "Flat feet, also called fallen arches, are feet in which the sole presses flat on the ground [1]. To check, look at the inner side of the foot while standing: if no arch is raised off the ground, the foot is flat [1].",
+      "They are common, do not usually cause any problems and should not stop any activity, including sport [1]. If they are not causing problems, in you or in your child, nothing needs to be done [1]."
+     ]
+    },
+    {
+     "h": "What causes flat feet?",
+     "p": [
+      "Often there is no obvious cause; it is simply the way the foot is built, and it sometimes runs in families [1][2]. Less common causes are [1][6][7]:"
+     ],
+     "list": [
+      "The bones of the foot not growing properly in the womb",
+      "Stretching of the tissues of the foot through injury, ageing or being overweight",
+      "Conditions such as cerebral palsy and spina bifida",
+      "Two or more bones of the foot being joined together (tarsal coalition)",
+      "In adults, inflammation or a tear of the posterior tibial tendon, which holds up the arch"
+     ]
+    },
+    {
+     "h": "At what age do children's flat feet show, and do they correct themselves?",
+     "p": [
+      "Most children are born with flat feet, that is, with very little arch [2][3]. The arch forms with growth; it usually develops between 3 and 10 years of age [1]. In children with flexible flat feet the arch often does not begin to develop before the age of 5; in some it never develops [2].",
+      "According to the Pediatric Orthopaedic Society of North America (POSNA), in about 80–90% of children flat feet correct themselves with growth; in 1 or 2 out of every 10 children they continue into adulthood [3]. In young children this improvement does not depend on the type of footwear worn [5]. A flexible flat foot is usually painless and does not interfere with walking or sport; if it continues into adolescence there may be an aching pain in the sole of the foot [2]."
+     ]
+    },
+    {
+     "h": "What are flexible and rigid flat feet?",
+     "p": [
+      "In a flexible flat foot the arch disappears on standing and reappears on sitting or rising onto tiptoe [2][3]. It always affects both feet and is regarded as a variation of a normal foot [2].",
+      "In a rigid flat foot no arch forms even on tiptoe; this may point to a more serious problem [2][3]. One cause is tarsal coalition: an abnormal connection between bones of the foot can result in a severe, rigid flat foot [6]. Signs usually appear in early adolescence: pain and stiffness in the foot, difficulty walking on uneven ground and repeated ankle sprains [6]. Some flexible flat feet may also become rigid with growth [3]."
+     ]
+    },
+    {
+     "h": "How are flat feet assessed, and how is the degree measured?",
+     "p": [
+      "On examination the child is asked to sit, stand and rise onto tiptoe; the tightness of the Achilles tendon and the wear pattern of the shoes are checked [2]. Not everyone needs an X-ray; one is taken if the flat foot is painful or rigid, or if there are signs of a nerve or muscle condition [3].",
+      "In adults the doctor checks whether the heel has drifted outwards, whether the person can rise onto tiptoe on one leg and how flexible the foot is [7]. X-rays are preferably taken standing, with weight on the foot; an MRI scan may be requested to look at tendons and ligaments [7].",
+      "These sources contain no table of \"degrees of flat foot\"; the change in shape is described as mild, moderate or severe [7]. Treatment is guided by pain, how severe the deformity is, how flexible the foot is and whether there is arthritis in the joints [2][7]."
+     ]
+    },
+    {
+     "h": "What do insoles, shoes and exercises do?",
+     "p": [
+      "With a painless, flexible flat foot a child can wear regular shoes and take part in all activities [3]. POSNA states that there are no exercises, braces, special shoes or insoles that will change the shape of a flexible flat foot [3]; according to the UK National Health Service (NHS), too, these do not change the shape of the feet but can help with pain and stiffness [1].",
+      "According to a Cochrane review, in healthy children without pain custom-made or ready-made insoles make little or no difference in pain after one year compared with shoes alone; this finding rests on a single trial and the certainty of the evidence is low or very low [4]. The review concludes that, in the absence of pain, there is no evidence to support expensive custom-made insoles [4]. No study shows that insoles prevent future problems in a child without pain [3]; nor is there strong evidence that long-term use corrects the structure of the foot [5].",
+      "If there is pain or the feet tire quickly, a soft insole that supports the arch may ease the symptoms; ready-made insoles can be just as effective as custom-made ones and are much less expensive [2][3]. Hard insoles can make the pain worse [3]. Wide, comfortable shoes with a low heel are advised [1].",
+      "Among exercises for flat feet in children, the one the sources recommend is stretching of the Achilles tendon, done when there is pain or tiredness [2][3]: stand facing a wall, put one foot forward and bend that knee, keep the back knee straight; hold for 30 seconds and switch legs [3]. If a painkiller is needed, a pharmacist or doctor can advise which one is suitable [1]."
+     ]
+    },
+    {
+     "h": "Flat foot that develops in adulthood",
+     "p": [
+      "A foot that gradually flattens in an adult who had an arch is a separate condition; it is called adult acquired flatfoot or posterior tibial tendon dysfunction [7]. This tendon holds up the arch during walking; when it becomes inflamed or torn it can no longer support the arch and the foot flattens [7]. It is more common in women and in people over 40; obesity, diabetes and high blood pressure increase the risk [7].",
+      "The pain is on the inner side of the foot and ankle and may be accompanied by swelling; it increases with activity, and as the arch collapses the outer side of the ankle may also hurt and the heel drifts outwards [7].",
+      "With appropriate non-surgical treatment the symptoms settle in most patients; pain may last longer than 3 months even when treatment starts early [7]. Activities that worsen the pain are reduced, and exercise that puts little load on the foot, such as cycling and swimming, is chosen [7]. The most commonly used measure is an insole: a ready-made insole may be enough for a mild change in shape, while moderate and severe changes need a custom-made one [7]. An ankle brace, physiotherapy and, if other measures are not enough, a cast or walking boot for 6 to 8 weeks are further options; a cortisone injection into the tendon is not normally given because of the risk of rupture [7]."
+     ]
+    },
+    {
+     "h": "When is surgery for flat feet considered?",
+     "p": [
+      "Surgery is rarely needed for flat feet; it may be considered when there is a problem with the bones, tissues or muscles of the foot and other treatments have not worked [1]. In children it is almost never needed for flexible flat feet; it may be recommended for teenagers with persistent pain or whose flat foot becomes rigid over time [2]. In tarsal coalition, surgery is considered when rest, insoles and a temporary cast have not helped [6].",
+      "In flat foot that develops in adulthood, surgery is considered if the pain has not improved after several months of appropriate treatment [7]. In a flexible foot a tendon transfer and cutting and shifting of bone (osteotomy) are used; in a stiff or arthritic foot, joint fusion (arthrodesis) [7]. Recovery takes 6 months or more; the most common complaint is that the pain is not completely relieved [7]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Flat feet are usually harmless; however, see a doctor without waiting in the following situations [1][3][7]:"
+     ],
+     "list": [
+      "The feet are painful, stiff, weak or numb",
+      "Only one foot is flat",
+      "Your foot has flattened although you had an arch",
+      "You often injure your foot or ankle",
+      "There are problems with walking or balance",
+      "In a child, no arch forms even on tiptoe",
+      "The inner side of the ankle is painful and swollen, or you cannot rise onto tiptoe on one leg"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "When do flat feet in children go away?",
+     "a": "The arch usually develops between 3 and 10 years of age [1]; in about 80–90% of children flat feet correct themselves with growth [3]. In some children the arch never develops; if it causes no problems, nothing needs to be done [1][2]."
+    },
+    {
+     "q": "Are insoles or orthopaedic shoes necessary for flat feet?",
+     "a": "Not if there is no pain: special shoes and insoles do not change the shape of the foot, and there is no evidence to support custom-made insoles in a child without pain [3][4]. If there is pain, a soft ready-made insole may ease the symptoms [2][3]."
+    },
+    {
+     "q": "Can exercises cure flat feet?",
+     "a": "Exercises do not change the shape of the foot [1][3]. Stretching exercises, however, can help to reduce symptoms such as pain and stiffness [1][2]."
+    },
+    {
+     "q": "Which doctor should a child with flat feet see?",
+     "a": "The child can first be assessed by a paediatrician, who refers to an orthopaedic doctor if there are concerns [3]. If there is pain, stiffness or a flat foot on one side only, a doctor should be seen [1][3]."
+    },
+    {
+     "q": "Are flat feet a bar to military service?",
+     "a": "Fitness for military service is decided not by this article or this clinic but by the military health regulations and the authorised medical boards that work under them."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "ploskostopie",
+   "title": "Плоскостопие: проходит ли у детей, когда нужны стельки и операция?",
+   "description": "Что такое плоскостопие, отчего оно возникает и как его определить? Когда проходит у детей, помогают ли стельки и обувь, упражнения и когда нужна операция.",
+   "summary": "Плоскостопие (pes planus) — это состояние, при котором в положении стоя не виден свод на внутреннем крае стопы; оно встречается часто и в большинстве случаев не вызывает проблем [1]. Большинство детей рождаются с плоскими стопами, свод обычно формируется к 10 годам [1][3]; безболезненное гибкое плоскостопие лечения не требует [2][3]. Стельки, специальная обувь и упражнения не меняют форму стопы, но могут уменьшить боль и скованность [1][3]; плоскостопие, которое развилось во взрослом возрасте, сопровождается болью или затрагивает только одну стопу, требует осмотра врача [1][7].",
+   "sections": [
+    {
+     "h": "Что такое плоскостопие и как его определить?",
+     "p": [
+      "Плоскостопие (его называют также опущением свода стопы) — это состояние, при котором подошва полностью прилегает к полу [1]. Чтобы проверить, посмотрите на внутренний край стопы в положении стоя: если приподнятого над полом свода не видно, это плоскостопие [1].",
+      "Оно встречается часто, обычно не вызывает проблем и не должно мешать никаким занятиям, включая спорт [1]. Если плоскостопие не доставляет проблем — вам или вашему ребёнку, — ничего делать не нужно [1]."
+     ]
+    },
+    {
+     "h": "Отчего возникает плоскостопие?",
+     "p": [
+      "Чаще всего явной причины нет: таково строение стопы, и иногда оно встречается у нескольких членов семьи [1][2]. Более редкие причины [1][6][7]:"
+     ],
+     "list": [
+      "Неправильное развитие костей стопы во внутриутробном периоде",
+      "Растяжение тканей стопы из-за травмы, старения или избыточного веса",
+      "Такие заболевания, как детский церебральный паралич и spina bifida (расщепление позвоночника)",
+      "Соединение двух или более костей стопы между собой (тарзальная коалиция)",
+      "У взрослых — воспаление или разрыв сухожилия задней большеберцовой мышцы, которое удерживает свод"
+     ]
+    },
+    {
+     "h": "В каком возрасте плоскостопие у детей становится заметным и проходит ли оно?",
+     "p": [
+      "Большинство детей рождаются с плоскими стопами, то есть с очень небольшим сводом [2][3]. Свод формируется по мере роста; обычно он развивается в возрасте от 3 до 10 лет [1]. У детей с гибким плоскостопием свод часто начинает формироваться не раньше 5 лет; у некоторых он не формируется совсем [2].",
+      "По данным Общества детских ортопедов Северной Америки (POSNA), примерно у 80–90% детей плоскостопие с ростом проходит; у 1–2 из каждых 10 детей оно сохраняется и во взрослом возрасте [3]. У маленьких детей это улучшение не зависит от того, какую обувь носит ребёнок [5]. Гибкое плоскостопие обычно безболезненно и не мешает ходьбе и занятиям спортом; если оно сохраняется до подросткового возраста, может появиться ноющая боль в подошве [2]."
+     ]
+    },
+    {
+     "h": "Что такое гибкое и ригидное плоскостопие?",
+     "p": [
+      "При гибком плоскостопии свод исчезает в положении стоя и снова появляется, когда ребёнок садится или встаёт на носки [2][3]. Оно всегда затрагивает обе стопы и считается вариантом нормальной стопы [2].",
+      "При ригидном (жёстком) плоскостопии свод не появляется и при подъёме на носки; это может указывать на более серьёзную проблему [2][3]. Одна из причин — тарзальная коалиция: аномальное соединение между костями стопы может привести к выраженному ригидному плоскостопию [6]. Признаки обычно появляются в начале подросткового возраста: боль и скованность в стопе, трудности при ходьбе по неровной поверхности, повторные растяжения связок голеностопного сустава [6]. Часть гибких плоских стоп также может стать ригидными по мере роста [3]."
+     ]
+    },
+    {
+     "h": "Как оценивают плоскостопие и как измеряют его степень?",
+     "p": [
+      "При осмотре ребёнка просят сесть, встать и подняться на носки; проверяют, насколько напряжено ахиллово сухожилие и как изнашивается обувь [2]. Рентген нужен не всем; его делают, если плоскостопие сопровождается болью, является ригидным или есть признаки заболевания нервов или мышц [3].",
+      "У взрослых оценивают, отклонена ли пятка наружу, может ли человек подняться на носок, стоя на одной ноге, и насколько стопа гибкая [7]. Рентген предпочтительно делать стоя, с нагрузкой на стопу; для оценки сухожилий и связок может быть назначена МРТ [7].",
+      "Таблицы «степеней плоскостопия» в этих источниках нет; изменение формы стопы описывают как лёгкое, умеренное или выраженное [7]. Лечение определяют боль, выраженность деформации, гибкость стопы и наличие артроза в суставах [2][7]."
+     ]
+    },
+    {
+     "h": "Что дают стельки, обувь и упражнения?",
+     "p": [
+      "При безболезненном гибком плоскостопии ребёнок может носить обычную обувь и участвовать во всех занятиях [3]. POSNA указывает, что не существует упражнений, ортезов, специальной обуви или стелек, которые изменили бы форму гибкой плоской стопы [3]; по данным Национальной службы здравоохранения Великобритании (NHS), они также не меняют форму стопы, но могут помочь при боли и скованности [1].",
+      "Согласно Кокрейновскому обзору, у здоровых детей без боли индивидуальные или готовые стельки по сравнению с одной лишь обувью через год дают очень небольшую разницу в отношении боли или не дают её вовсе; этот вывод основан на одном исследовании, и достоверность доказательств низкая или очень низкая [4]. Авторы обзора приходят к выводу, что при отсутствии боли доказательств в пользу дорогих индивидуальных стелек нет [4]. Нет исследований, показывающих, что у ребёнка без боли стельки предотвращают проблемы в будущем [3]; нет и убедительных доказательств того, что их длительное ношение исправляет строение стопы [5].",
+      "Если есть боль или стопы быстро устают, мягкая стелька с поддержкой свода может облегчить жалобы; готовые стельки могут быть столь же эффективны, как индивидуальные, и стоят намного дешевле [2][3]. Жёсткие стельки могут усилить боль [3]. Рекомендуют широкую, удобную обувь на низком каблуке [1].",
+      "Из упражнений при плоскостопии у детей источники рекомендуют растяжку ахиллова сухожилия, которую выполняют при боли или усталости [2][3]: встать лицом к стене, выставить одну ногу вперёд и согнуть её в колене, колено стоящей сзади ноги держать прямым; удерживать 30 секунд и сменить ногу [3]. Если нужно обезболивающее, о том, какое подходит, можно спросить фармацевта или врача [1]."
+     ]
+    },
+    {
+     "h": "Плоскостопие, развившееся во взрослом возрасте",
+     "p": [
+      "Постепенное уплощение стопы у взрослого, у которого был свод, — отдельное состояние; его называют приобретённым плоскостопием взрослых или дисфункцией сухожилия задней большеберцовой мышцы [7]. Это сухожилие удерживает свод при ходьбе; при воспалении или разрыве оно перестаёт поддерживать свод, и стопа уплощается [7]. Чаще встречается у женщин и у людей старше 40 лет; ожирение, сахарный диабет и повышенное артериальное давление увеличивают риск [7].",
+      "Боль ощущается на внутренней стороне стопы и голеностопного сустава, может сопровождаться отёком; она усиливается при нагрузке, а по мере опущения свода может болеть и наружная сторона голеностопного сустава, пятка отклоняется наружу [7].",
+      "При правильном безоперационном лечении у большинства пациентов жалобы проходят; даже при раннем начале лечения боль может длиться дольше 3 месяцев [7]. Нагрузки, усиливающие боль, уменьшают и выбирают упражнения с малой нагрузкой на стопу, такие как езда на велосипеде и плавание [7]. Чаще всего применяют стельки: при лёгком изменении формы может быть достаточно готовой стельки, при умеренном и выраженном нужна индивидуальная [7]. Другие возможности — бандаж на голеностопный сустав, лечебная физкультура и, если остальные меры недостаточны, гипс или ортез-сапожок на 6–8 недель; укол кортизона в сухожилие обычно не делают из-за риска разрыва [7]."
+     ]
+    },
+    {
+     "h": "Когда рассматривают операцию при плоскостопии?",
+     "p": [
+      "Операция при плоскостопии требуется редко; о ней может идти речь, когда есть проблема с костями, тканями или мышцами стопы и другие методы лечения не помогли [1]. У детей при гибком плоскостопии она почти никогда не нужна; её могут рекомендовать подросткам, у которых сохраняется боль или плоскостопие со временем становится ригидным [2]. При тарзальной коалиции операцию рассматривают, если покой, стельки и временный гипс не помогли [6].",
+      "При плоскостопии, развившемся во взрослом возрасте, операцию рассматривают, если, несмотря на правильное лечение, боль не уменьшается в течение нескольких месяцев [7]. При гибкой стопе выполняют пересадку сухожилия и рассечение кости с её смещением (остеотомию), при жёсткой стопе или артрозе — обездвиживание сустава (артродез) [7]. Восстановление занимает 6 месяцев и более; самая частая жалоба — боль проходит не полностью [7]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Плоскостопие чаще всего безвредно; однако в следующих случаях обратитесь к врачу без промедления [1][3][7]:"
+     ],
+     "list": [
+      "Стопы болят, скованы, ослаблены или немеют",
+      "Плоская только одна стопа",
+      "Стопа стала плоской, хотя свод был",
+      "Вы часто травмируете стопу или голеностопный сустав",
+      "Есть трудности при ходьбе или с равновесием",
+      "У ребёнка свод не появляется и при подъёме на носки",
+      "Внутренняя сторона голеностопного сустава болит и отекла или вы не можете подняться на носок, стоя на одной ноге"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Когда проходит плоскостопие у детей?",
+     "a": "Свод обычно развивается в возрасте от 3 до 10 лет [1]; примерно у 80–90% детей плоскостопие с ростом проходит [3]. У некоторых детей свод не формируется совсем; если это не вызывает проблем, ничего делать не нужно [1][2]."
+    },
+    {
+     "q": "Обязательны ли при плоскостопии стельки или ортопедическая обувь?",
+     "a": "Если боли нет — нет: специальная обувь и стельки не меняют форму стопы, а доказательств в пользу индивидуальных стелек у ребёнка без боли нет [3][4]. Если боль есть, мягкая готовая стелька может облегчить жалобы [2][3]."
+    },
+    {
+     "q": "Можно ли вылечить плоскостопие упражнениями?",
+     "a": "Упражнения не меняют форму стопы [1][3]. Однако упражнения на растяжку могут помочь уменьшить такие жалобы, как боль и скованность [1][2]."
+    },
+    {
+     "q": "К какому врачу идти с плоскостопием у ребёнка?",
+     "a": "Сначала ребёнка может осмотреть педиатр; при необходимости он направит к врачу-ортопеду [3]. Если есть боль, скованность или плоскостопие только с одной стороны, следует обратиться к врачу [1][3]."
+    },
+    {
+     "q": "Является ли плоскостопие препятствием для военной службы?",
+     "a": "Решение о годности к военной службе принимает не эта статья и не эта клиника, а уполномоченные медицинские комиссии на основании военно-медицинских нормативных актов."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "safi-kaf-pa",
+   "title": "صافی کف پا: آیا در کودکان برطرف می‌شود؟ کفی و جراحی چه زمانی لازم است؟",
+   "description": "صافی کف پا چیست، چرا ایجاد می‌شود و چگونه تشخیص داده می‌شود؟ در کودکان چه زمانی برطرف می‌شود، کفی و کفش چه کمکی می‌کنند، ورزش و جراحی چه زمانی لازم است؟",
+   "summary": "صافی کف پا (pes planus) یعنی هنگام ایستادن، قوسی در لبهٔ داخلی پا دیده نمی‌شود؛ این وضعیت شایع است و بیشتر وقت‌ها مشکلی ایجاد نمی‌کند [1]. بیشتر کودکان با کف پای صاف به دنیا می‌آیند و قوس معمولاً تا ۱۰ سالگی شکل می‌گیرد [1][3]؛ صافی کف پای انعطاف‌پذیر و بدون درد به درمان نیاز ندارد [2][3]. کفی، کفش مخصوص و ورزش شکل پا را تغییر نمی‌دهند، اما می‌توانند درد و خشکی را کم کنند [1][3]؛ صافی کف پایی که در بزرگسالی ایجاد شده، دردناک است یا فقط در یک پا دیده می‌شود به معاینه نیاز دارد [1][7].",
+   "sections": [
+    {
+     "h": "صافی کف پا چیست و چگونه می‌توان آن را تشخیص داد؟",
+     "p": [
+      "صافی کف پا، که به آن افتادگی قوس پا هم می‌گویند، یعنی کف پا به‌طور کامل روی زمین قرار می‌گیرد [1]. برای بررسی، هنگام ایستادن به لبهٔ داخلی پا نگاه کنید: اگر قوسی که از زمین بالا آمده باشد دیده نشود، کف پا صاف است [1].",
+      "این وضعیت شایع است، معمولاً مشکلی ایجاد نمی‌کند و نباید مانع هیچ فعالیتی، از جمله ورزش، شود [1]. اگر مشکلی ایجاد نمی‌کند، چه در شما و چه در فرزندتان، لازم نیست کاری انجام شود [1]."
+     ]
+    },
+    {
+     "h": "صافی کف پا چرا ایجاد می‌شود؟",
+     "p": [
+      "بیشتر وقت‌ها علت مشخصی وجود ندارد؛ ساختمان پا این‌گونه است و گاهی در خانواده هم دیده می‌شود [1][2]. علت‌های کمتر شایع این‌ها هستند [1][6][7]:"
+     ],
+     "list": [
+      "رشد نادرست استخوان‌های پا در دوران جنینی",
+      "کش آمدن بافت‌های پا بر اثر آسیب، بالا رفتن سن یا اضافه‌وزن",
+      "بیماری‌هایی مانند فلج مغزی و اسپینا بیفیدا",
+      "متصل بودن دو یا چند استخوان پا به یکدیگر (کوالیشن تارسال)",
+      "در بزرگسالان، التهاب یا پارگی تاندون تیبیال خلفی که قوس پا را نگه می‌دارد"
+     ]
+    },
+    {
+     "h": "صافی کف پا در کودکان در چه سنی مشخص می‌شود و آیا برطرف می‌شود؟",
+     "p": [
+      "بیشتر کودکان با کف پای صاف، یعنی با قوسی بسیار کم، به دنیا می‌آیند [2][3]. قوس با رشد شکل می‌گیرد و معمولاً بین ۳ تا ۱۰ سالگی ایجاد می‌شود [1]. در کودکانی که صافی کف پای انعطاف‌پذیر دارند، قوس اغلب پیش از ۵ سالگی شروع به شکل‌گیری نمی‌کند و در برخی هرگز شکل نمی‌گیرد [2].",
+      "به گفتهٔ انجمن ارتوپدی کودکان آمریکای شمالی (POSNA)، در حدود ۸۰ تا ۹۰ درصد کودکان صافی کف پا با رشد برطرف می‌شود؛ در ۱ یا ۲ کودک از هر ۱۰ کودک تا بزرگسالی ادامه می‌یابد [3]. در کودکان خردسال این بهبود به نوع کفشی که می‌پوشند بستگی ندارد [5]. صافی کف پای انعطاف‌پذیر معمولاً بدون درد است و مانع راه رفتن و ورزش نمی‌شود؛ اگر تا نوجوانی ادامه یابد، ممکن است درد مبهمی در کف پا ایجاد شود [2]."
+     ]
+    },
+    {
+     "h": "صافی کف پای انعطاف‌پذیر و سفت چیست؟",
+     "p": [
+      "در صافی کف پای انعطاف‌پذیر، قوس هنگام ایستادن از بین می‌رود و هنگام نشستن یا بلند شدن روی پنجهٔ پا دوباره پدیدار می‌شود [2][3]. همیشه هر دو پا را درگیر می‌کند و گونه‌ای از پای طبیعی به شمار می‌آید [2].",
+      "در صافی کف پای سفت (ریجید) حتی هنگام بلند شدن روی پنجه هم قوسی شکل نمی‌گیرد؛ این می‌تواند نشانهٔ مشکلی جدی‌تر باشد [2][3]. یکی از علت‌های آن کوالیشن تارسال است: اتصال غیرطبیعی میان استخوان‌های پا می‌تواند به صافی کف پای شدید و سفت بینجامد [6]. نشانه‌ها معمولاً در آغاز نوجوانی پدیدار می‌شوند: درد و خشکی پا، دشواری راه رفتن روی زمین ناهموار و پیچ‌خوردگی‌های مکرر مچ پا [6]. بخشی از کف پاهای صاف انعطاف‌پذیر نیز ممکن است با رشد سفت شوند [3]."
+     ]
+    },
+    {
+     "h": "صافی کف پا چگونه ارزیابی و درجهٔ آن چگونه اندازه‌گیری می‌شود؟",
+     "p": [
+      "در معاینه از کودک خواسته می‌شود بنشیند، بایستد و روی پنجهٔ پا بلند شود؛ سفتی تاندون آشیل و الگوی ساییدگی کفش بررسی می‌شود [2]. عکس رادیولوژی برای همه لازم نیست؛ زمانی گرفته می‌شود که صافی کف پا دردناک یا سفت باشد یا نشانه‌هایی از بیماری عصبی یا عضلانی وجود داشته باشد [3].",
+      "در بزرگسالان بررسی می‌شود که آیا پاشنه به سمت بیرون منحرف شده است، آیا فرد می‌تواند روی یک پا روی پنجه بلند شود و پا چقدر انعطاف دارد [7]. بهتر است عکس رادیولوژی در حالت ایستاده و با وزن‌گذاری روی پا گرفته شود؛ برای بررسی تاندون‌ها و رباط‌ها ممکن است ام‌آرآی درخواست شود [7].",
+      "در این منابع جدولی برای «درجه‌های صافی کف پا» نیامده است؛ تغییر شکل به‌صورت خفیف، متوسط یا شدید توصیف می‌شود [7]. آنچه درمان را تعیین می‌کند درد، شدت تغییر شکل، انعطاف‌پذیری پا و وجود یا نبود آرتروز در مفصل‌هاست [2][7]."
+     ]
+    },
+    {
+     "h": "کفی، کفش و ورزش چه کمکی می‌کنند؟",
+     "p": [
+      "در صافی کف پای انعطاف‌پذیر و بدون درد، کودک می‌تواند کفش معمولی بپوشد و در همهٔ فعالیت‌ها شرکت کند [3]. POSNA بیان می‌کند که هیچ ورزش، بریس، کفش مخصوص یا کفی‌ای وجود ندارد که شکل کف پای صاف انعطاف‌پذیر را تغییر دهد [3]؛ به گفتهٔ سازمان سلامت ملی انگلستان (NHS) نیز این‌ها شکل پا را تغییر نمی‌دهند، اما می‌توانند به درد و خشکی کمک کنند [1].",
+      "بر پایهٔ یک مرور کاکرین، در کودکان سالمِ بدون درد، کفی سفارشی یا آماده در مقایسه با کفش به‌تنهایی پس از یک سال از نظر درد تفاوت بسیار اندکی ایجاد می‌کند یا هیچ تفاوتی ایجاد نمی‌کند؛ این نتیجه بر یک کارآزمایی تکیه دارد و قطعیت شواهد کم یا بسیار کم است [4]. این مرور نتیجه می‌گیرد که در نبود درد، شواهدی در تأیید کفی‌های سفارشی و گران‌قیمت وجود ندارد [4]. مطالعه‌ای وجود ندارد که نشان دهد کفی در کودک بدون درد از مشکلات آینده پیشگیری می‌کند [3]؛ شواهد محکمی هم وجود ندارد که استفادهٔ درازمدت از آن ساختمان پا را اصلاح کند [5].",
+      "اگر درد یا خستگی زودرس پا وجود داشته باشد، کفی نرمی که قوس را حمایت می‌کند ممکن است علائم را کم کند؛ کفی‌های آماده می‌توانند به اندازهٔ کفی‌های سفارشی مؤثر باشند و بسیار ارزان‌ترند [2][3]. کفی‌های سفت ممکن است درد را بیشتر کنند [3]. کفش پهن، راحت و با پاشنهٔ کوتاه توصیه می‌شود [1].",
+      "از میان ورزش‌های صافی کف پا در کودکان، آنچه منابع توصیه می‌کنند کشش تاندون آشیل است که هنگام درد یا خستگی انجام می‌شود [2][3]: رو به دیوار بایستید، یک پا را جلو بگذارید و زانوی آن را خم کنید، زانوی پای عقب را صاف نگه دارید؛ ۳۰ ثانیه نگه دارید و سپس پاها را عوض کنید [3]. اگر به مسکّن نیاز باشد، می‌توان از داروساز یا پزشک پرسید که کدام مناسب است [1]."
+     ]
+    },
+    {
+     "h": "صافی کف پایی که در بزرگسالی ایجاد می‌شود",
+     "p": [
+      "صاف شدن تدریجی پا در بزرگسالی که قوس داشته وضعیتی جداگانه است؛ به آن صافی کف پای اکتسابی بزرگسالان یا نارسایی تاندون تیبیال خلفی می‌گویند [7]. این تاندون هنگام راه رفتن قوس را بالا نگه می‌دارد؛ هنگامی که ملتهب یا پاره شود دیگر نمی‌تواند قوس را نگه دارد و پا صاف می‌شود [7]. در زنان و در افراد بالای ۴۰ سال شایع‌تر است؛ چاقی، دیابت و فشار خون بالا خطر را بیشتر می‌کنند [7].",
+      "درد در سمت داخلی پا و مچ پا احساس می‌شود و ممکن است با تورم همراه باشد؛ با فعالیت بیشتر می‌شود و با فروریختن قوس ممکن است سمت خارجی مچ پا نیز دردناک شود و پاشنه به سمت بیرون منحرف می‌شود [7].",
+      "با درمان غیرجراحی مناسب، علائم در بیشتر بیماران برطرف می‌شود؛ حتی با شروع زودهنگام درمان، درد ممکن است بیش از ۳ ماه طول بکشد [7]. فعالیت‌هایی که درد را بیشتر می‌کنند کم می‌شوند و ورزش‌هایی انتخاب می‌شوند که فشار کمی بر پا وارد می‌کنند، مانند دوچرخه‌سواری و شنا [7]. پرکاربردترین روش کفی است: در تغییر شکل خفیف ممکن است کفی آماده کافی باشد و در تغییر شکل متوسط و شدید کفی سفارشی لازم است [7]. بریس مچ پا، فیزیوتراپی و، اگر روش‌های دیگر کافی نباشند، گچ یا بوت طبی به مدت ۶ تا ۸ هفته گزینه‌های دیگر هستند؛ تزریق کورتیزون در تاندون به دلیل خطر پارگی معمولاً انجام نمی‌شود [7]."
+     ]
+    },
+    {
+     "h": "جراحی صافی کف پا چه زمانی مطرح می‌شود؟",
+     "p": [
+      "جراحی برای صافی کف پا به‌ندرت لازم می‌شود؛ زمانی ممکن است مطرح شود که مشکلی در استخوان‌ها، بافت‌ها یا عضلات پا وجود داشته باشد و درمان‌های دیگر مؤثر نبوده باشند [1]. در کودکان برای صافی کف پای انعطاف‌پذیر تقریباً هرگز لازم نمی‌شود؛ ممکن است برای نوجوانانی توصیه شود که دردشان ادامه دارد یا کف پای صافشان با گذشت زمان سفت می‌شود [2]. در کوالیشن تارسال، جراحی زمانی مطرح می‌شود که استراحت، کفی و گچ موقت کمکی نکرده باشد [6].",
+      "در صافی کف پایی که در بزرگسالی ایجاد شده است، اگر با وجود درمان مناسب درد طی چند ماه کم نشود، جراحی مطرح می‌شود [7]. در پای انعطاف‌پذیر انتقال تاندون و بریدن و جابه‌جا کردن استخوان (استئوتومی) و در پای سفت‌شده یا دچار آرتروز، خشک‌کردن مفصل (آرترودز) انجام می‌شود [7]. بهبودی ۶ ماه یا بیشتر طول می‌کشد؛ شایع‌ترین شکایت این است که درد به‌طور کامل برطرف نمی‌شود [7]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "صافی کف پا بیشتر وقت‌ها بی‌ضرر است؛ اما در این موارد بدون معطلی به پزشک مراجعه کنید [1][3][7]:"
+     ],
+     "list": [
+      "پاها دردناک، خشک، ضعیف یا بی‌حس هستند",
+      "فقط یک پا صاف است",
+      "قوس داشته‌اید و پایتان بعداً صاف شده است",
+      "پا یا مچ پایتان بارها آسیب می‌بیند",
+      "در راه رفتن یا حفظ تعادل مشکل دارید",
+      "در کودک، حتی هنگام بلند شدن روی پنجه هم قوسی شکل نمی‌گیرد",
+      "سمت داخلی مچ پا دردناک و متورم است یا نمی‌توانید روی یک پا روی پنجه بلند شوید"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "صافی کف پا در کودکان چه زمانی برطرف می‌شود؟",
+     "a": "قوس معمولاً بین ۳ تا ۱۰ سالگی ایجاد می‌شود [1]؛ در حدود ۸۰ تا ۹۰ درصد کودکان صافی کف پا با رشد برطرف می‌شود [3]. در برخی کودکان قوس هرگز شکل نمی‌گیرد؛ اگر مشکلی ایجاد نکند، لازم نیست کاری انجام شود [1][2]."
+    },
+    {
+     "q": "آیا برای صافی کف پا کفی یا کفش طبی ضروری است؟",
+     "a": "اگر درد وجود ندارد، نه: کفش مخصوص و کفی شکل پا را تغییر نمی‌دهند و برای کودک بدون درد شواهدی در تأیید کفی سفارشی وجود ندارد [3][4]. اگر درد وجود دارد، کفی نرم و آماده ممکن است علائم را کم کند [2][3]."
+    },
+    {
+     "q": "آیا صافی کف پا با ورزش برطرف می‌شود؟",
+     "a": "ورزش شکل پا را تغییر نمی‌دهد [1][3]. اما ورزش‌های کششی می‌توانند به کاهش علائمی مانند درد و خشکی کمک کنند [1][2]."
+    },
+    {
+     "q": "برای صافی کف پای کودک به کدام پزشک باید مراجعه کرد؟",
+     "a": "نخست پزشک کودکان می‌تواند کودک را ارزیابی کند و در صورت لزوم او را به پزشک ارتوپد ارجاع می‌دهد [3]. اگر درد، خشکی یا صافی کف پا فقط در یک سمت وجود دارد، باید به پزشک مراجعه کرد [1][3]."
+    },
+    {
+     "q": "آیا صافی کف پا مانع خدمت سربازی است؟",
+     "a": "دربارهٔ صلاحیت برای خدمت سربازی نه این نوشته تصمیم می‌گیرد و نه این کلینیک؛ این تصمیم را هیئت‌های پزشکی صلاحیت‌دار بر پایهٔ مقررات بهداشتی نظامی می‌گیرند."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}
