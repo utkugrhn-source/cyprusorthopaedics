@@ -9,6 +9,7 @@ export type Doctor = {
   short: string;
   title: L;
   role: L;
+  school: L; // medical school and graduation year, shown above the specialty line on cards
   line: L; // one factual line under the name on cards
   photo?: string;
   summary: Record<Lang, string[]>;
@@ -34,6 +35,7 @@ export const doctors: Doctor[] = [
     short: "Umur",
     title: { tr: "Doç. Dr.", en: "Assoc. Prof. Dr." },
     role: { tr: "Ortopedi ve Travmatoloji Uzmanı", en: "Orthopaedic and Trauma Surgeon" },
+    school: { tr: "Tıp fakültesi: GATA Askeri Tıp Fakültesi, 2002", en: "Medical school: GATA Faculty of Medicine, 2002" },
     line: { tr: "Uzmanlık: GATA Haydarpaşa, 2015", en: "Specialist training: GATA Haydarpaşa, 2015" },
     photo: "/img/umur.jpg", // theatre profile, cut from the clinic's own clip at full resolution (chosen by Dr. Gürhan, 4 Oct 2026)
     summary: {
@@ -101,6 +103,7 @@ export const doctors: Doctor[] = [
     short: "Sarı",
     title: { tr: "Doç. Dr.", en: "Assoc. Prof. Dr." },
     role: { tr: "Ortopedi ve Travmatoloji Uzmanı", en: "Orthopaedic and Trauma Surgeon" },
+    school: { tr: "Tıp fakültesi: GATA Askeri Tıp Fakültesi, 2007", en: "Medical school: GATA Faculty of Medicine, 2007" },
     line: { tr: "Uzmanlık: GATA Haydarpaşa, 2015", en: "Specialist training: GATA Haydarpaşa, 2015" },
     photo: "/img/sari.jpg",
     summary: {
@@ -162,6 +165,7 @@ export const doctors: Doctor[] = [
     short: "Gürhan",
     title: { tr: "Yrd. Doç. Dr.", en: "Asst. Prof. Dr." },
     role: { tr: "Ortopedi ve Travmatoloji Uzmanı", en: "Orthopaedic and Trauma Surgeon" },
+    school: { tr: "Tıp fakültesi: Ankara Üniversitesi, 2013", en: "Medical school: Ankara University, 2013" },
     line: { tr: "Uzmanlık: Ankara Şehir Hastanesi, 2020", en: "Specialist training: Ankara City Hospital, 2020" },
     photo: "/img/gurhan.jpg",
     summary: {

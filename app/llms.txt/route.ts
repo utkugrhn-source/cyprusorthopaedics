@@ -22,7 +22,7 @@ export function GET() {
     "- Instagram: https://www.instagram.com/cyprusorthopaedics/",
     "",
     "## Doctors",
-    ...doctors.map((d) => `- [${d.title.en} ${d.name}](${SITE}/en/${DOCTORS_SEGMENT.en}/${d.slug}): ${d.role.en}. ${d.line.en}`),
+    ...doctors.map((d) => `- [${d.title.en} ${d.name}](${SITE}/en/${DOCTORS_SEGMENT.en}/${d.slug}): ${d.role.en}. ${d.school.en}. ${d.line.en}`),
     "",
     "## Treatment areas",
     ...areas.map((a) => `- [${a.title.en}](${SITE}${areaUrl("en", a)}): ${a.conditions.en.map((c) => c.n).join("; ")}`),

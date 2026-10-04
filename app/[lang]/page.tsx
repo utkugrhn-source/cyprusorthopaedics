@@ -116,7 +116,7 @@ export default function Home({ params }: { params: { lang: string } }) {
                   <Portrait d={d} pending={t.doctors.photoPending} delay={i} />
                   <p className="mt-6 text-[0.95rem] text-tide" style={{ fontWeight: 500 }}>{d.title[lang]}</p>
                   <h3 className="h3 mt-1 group-hover:underline decoration-turq decoration-[3px] underline-offset-[6px]">{d.name}</h3>
-                  <p className="small mt-3 text-slate" style={{ fontWeight: 400 }}>{d.line[lang]}</p>
+                  <p className="small mt-3 text-slate" style={{ fontWeight: 400 }}>{d.school[lang]}<br />{d.line[lang]}</p>
                   <span className="link small mt-4 inline-block" style={{ fontWeight: 500 }}>{t.doctors.profile} <span aria-hidden className="inline-block transition-transform duration-300 group-hover:translate-x-1">→</span></span>
                 </Link>
               ))}
