@@ -179,8 +179,8 @@ export const areas: Area[] = [
     slug: { tr: "artroskopik-cerrahi", en: "arthroscopic-surgery" },
     title: { tr: "Artroskopik cerrahi (kapalı eklem ameliyatı)", en: "Arthroscopic surgery (keyhole joint surgery)" },
     lead: {
-      tr: "Artroskopi, eklemin içine birkaç milimetrelik kesilerden yerleştirilen kamera ve ince aletlerle yapılan ameliyattır; halk arasında kapalı ameliyat olarak bilinir. En sık dizde ve omuzda; menisküs, bağ ve tendon sorunlarında uyguluyoruz.",
-      en: "Arthroscopy is surgery carried out inside a joint with a camera and fine instruments passed through cuts a few millimetres long; it is often called keyhole surgery. We use it most in the knee and the shoulder, for meniscus, ligament and tendon problems.",
+      tr: "Artroskopi, eklemin içine birkaç milimetrelik kesilerden yerleştirilen kamera ve ince aletlerle yapılan ameliyattır; halk arasında kapalı ameliyat olarak bilinir. En sık dizde ve omuzda, menisküs, bağ ve tendon sorunlarında; ayrıca dirsek, el bileği ve ayak bileğinde uyguluyoruz.",
+      en: "Arthroscopy is surgery carried out inside a joint with a camera and fine instruments passed through cuts a few millimetres long; it is often called keyhole surgery. We use it most in the knee and the shoulder, for meniscus, ligament and tendon problems, and also in the elbow, the wrist and the ankle.",
     },
     listTitle: { tr: "Artroskopiyle yaptığımız ameliyatlar", en: "Operations we do arthroscopically" },
     conditions: {
@@ -189,6 +189,9 @@ export const areas: Area[] = [
         { n: "Ön çapraz bağ ameliyatı", d: "Kopan bağın yerine, çoğunlukla hastanın kendi tendonundan hazırlanan greft kamera eşliğinde yerleştirilir. Ameliyat sonrası fizik tedavi sonucun önemli bir parçasıdır.", guide: "acl-tear-clinic" },
         { n: "Omuz artroskopisi: rotator manşet onarımı", d: "Yırtılan tendon, kemiğe yerleştirilen dikiş çapalarıyla yerine tespit edilir. Onarım kararı yırtığın büyüklüğüne, yaşa ve şikâyete göre verilir.", guide: "rotator-cuff-clinic" },
         { n: "Omuz çıkığı ameliyatı (stabilizasyon)", d: "Tekrarlayan omuz çıkıklarında, yırtılan labrum ve eklem kapsülü dikiş çapalarıyla kemiğe yeniden tutturulur.", guide: "shoulder-dislocation-clinic" },
+        { n: "Dirsek artroskopisi", d: "Eklem içindeki serbest cisimlerin çıkarılmasında, hareket kısıtlılığına yol açan dokuların gevşetilmesinde ve bazı kıkırdak sorunlarında kullanılır." },
+        { n: "El bileği artroskopisi", d: "El bileği ekleminin içi kamerayla değerlendirilir. Üçgen fibrokartilaj (TFCC) yırtıklarında, bazı ganglion kistlerinde ve eklem içine uzanan kırıkların yerine oturtulmasında kullanılır." },
+        { n: "Ayak bileği artroskopisi", d: "Ayak bileğindeki kıkırdak hasarlarında, yumuşak doku ya da kemik sıkışmasına bağlı ağrılarda ve eklem içindeki serbest cisimlerin çıkarılmasında kullanılır." },
         { n: "Açık ameliyattan farkı", d: "Kesiler küçük olduğu için ameliyat sonrası ağrı ve hastanede kalış süresi açık ameliyata göre genellikle daha azdır; eklemin içindeki yapılar kamera görüntüsünde büyütülerek değerlendirilir. İyileşme süresi yapılan işleme göre değişir: dikiş ya da bağ onarımı yapıldıysa koruma dönemi daha uzundur." },
       ],
       en: [
@@ -196,6 +199,9 @@ export const areas: Area[] = [
         { n: "Anterior cruciate ligament reconstruction", d: "The torn ligament is replaced with a graft, usually prepared from the patient’s own tendon, placed under camera view. Physiotherapy after the operation is an important part of the result.", guide: "acl-tear-clinic" },
         { n: "Shoulder arthroscopy: rotator cuff repair", d: "The torn tendon is fixed back to the bone with suture anchors. Whether to repair depends on the size of the tear, age and symptoms.", guide: "rotator-cuff-clinic" },
         { n: "Shoulder stabilisation for dislocation", d: "For recurrent shoulder dislocation, the torn labrum and joint capsule are reattached to the bone with suture anchors.", guide: "shoulder-dislocation-clinic" },
+        { n: "Elbow arthroscopy", d: "Used to remove loose bodies from the joint, to release tissue that limits movement and for some cartilage problems." },
+        { n: "Wrist arthroscopy", d: "The inside of the wrist joint is assessed with the camera. It is used for tears of the triangular fibrocartilage (TFCC), some ganglion cysts and to help line up fractures that extend into the joint." },
+        { n: "Ankle arthroscopy", d: "Used for cartilage damage in the ankle, pain from soft tissue or bony impingement and to remove loose bodies from the joint." },
         { n: "How it differs from open surgery", d: "Because the cuts are small, pain after the operation and the hospital stay are generally less than with open surgery, and the structures inside the joint are assessed magnified on the camera image. Recovery time depends on what was done: after a stitched repair or a ligament reconstruction the period of protection is longer." },
       ],
     },
@@ -319,8 +325,8 @@ export const areaSeo: Record<string, { title: L; desc: L }> = {
     desc: { tr: "Girne’de ayak ve ayak bileği tedavisi: ayak bileği burkulması ve kırığı, halluks valgus (başparmak çıkıntısı) ve Aşil tendonu sorunları.", en: "Foot and ankle care in Kyrenia: ankle sprains and fractures, hallux valgus (bunion) and Achilles tendon problems." },
   },
   artroskopi: {
-    title: { tr: "Artroskopi (kapalı eklem ameliyatı): diz ve omuz", en: "Arthroscopy (keyhole surgery): knee and shoulder" },
-    desc: { tr: "Girne’de artroskopik cerrahi (kapalı ameliyat): menisküs ameliyatı, ön çapraz bağ ameliyatı, rotator manşet onarımı ve omuz çıkığı ameliyatı.", en: "Arthroscopic (keyhole) surgery in Kyrenia: meniscus surgery, ACL reconstruction, rotator cuff repair and shoulder stabilisation." },
+    title: { tr: "Artroskopik cerrahi (kapalı eklem ameliyatı)", en: "Arthroscopic surgery (keyhole joint surgery)" },
+    desc: { tr: "Girne’de artroskopik cerrahi (kapalı ameliyat): diz, omuz, dirsek, el bileği ve ayak bileği. Menisküs, ön çapraz bağ, rotator manşet ve omuz çıkığı ameliyatları.", en: "Arthroscopic (keyhole) surgery in Kyrenia: knee, shoulder, elbow, wrist and ankle. Meniscus surgery, ACL reconstruction, rotator cuff repair, shoulder stabilisation." },
   },
   "kirik-travma": {
     title: { tr: "Kırık ve travma tedavisi", en: "Fracture and trauma care" },
@@ -376,6 +382,9 @@ export const procedures: { t: L; area: string }[] = [
   { t: { tr: "Menisküs ameliyatı", en: "Meniscus surgery" }, area: "diz" },
   { t: { tr: "Diz artroskopisi", en: "Knee arthroscopy" }, area: "artroskopi" },
   { t: { tr: "Omuz artroskopisi", en: "Shoulder arthroscopy" }, area: "artroskopi" },
+  { t: { tr: "Dirsek artroskopisi", en: "Elbow arthroscopy" }, area: "artroskopi" },
+  { t: { tr: "El bileği artroskopisi", en: "Wrist arthroscopy" }, area: "artroskopi" },
+  { t: { tr: "Ayak bileği artroskopisi", en: "Ankle arthroscopy" }, area: "artroskopi" },
   { t: { tr: "Rotator manşet onarımı", en: "Rotator cuff repair" }, area: "omuz-dirsek" },
   { t: { tr: "Omuz çıkığı ameliyatı", en: "Shoulder stabilisation" }, area: "omuz-dirsek" },
   { t: { tr: "Kırık ameliyatları", en: "Fracture surgery" }, area: "kirik-travma" },
