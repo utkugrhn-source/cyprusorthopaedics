@@ -1,0 +1,545 @@
+{
+ "id": "fracture-healing-cast",
+ "area": "kirik-travma",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Fractures (Broken Bones)",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/fractures-broken-bones/",
+   "year": "2025"
+  },
+  {
+   "title": "Bone Healing",
+   "publisher": "American College of Foot and Ankle Surgeons (FootHealthFacts)",
+   "url": "https://www.foothealthfacts.org/conditions/bone-healing",
+   "year": "n.d."
+  },
+  {
+   "title": "Nonunions",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/nonunions",
+   "year": "2023"
+  },
+  {
+   "title": "Care of Casts and Splints",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/recovery/care-of-casts-and-splints/",
+   "year": "2024"
+  },
+  {
+   "title": "Broken arm or wrist",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/broken-arm-or-wrist/",
+   "year": "2023"
+  },
+  {
+   "title": "Patient information: A guide to your orthopaedic cast",
+   "publisher": "Calderdale and Huddersfield NHS Foundation Trust",
+   "url": "https://www.cht.nhs.uk/services/clinical-services/orthopaedics-1/patient-information",
+   "year": "n.d."
+  },
+  {
+   "title": "Compartment syndrome",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/compartment-syndrome/",
+   "year": "2026"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "kirik-kac-gunde-iyilesir-alci-bakimi",
+   "title": "Kırık kaç günde iyileşir, alçı ne zaman çıkar, kaşıntı nasıl geçer?",
+   "description": "Kırık kaç günde kaynar, alçı ne zaman çıkar? Kaynamayı geciktirenler, alçı bakımı, alçı kaşıntısı, alçı ıslanırsa ne olur, alçı içinde şişlik, uyarı işaretleri.",
+   "summary": "Kırık günlerle değil haftalarla iyileşir: el parmağı kırıkları gibi bazıları 3–4 haftada, diğerleri 6–8 haftada ya da birkaç ayda kaynar [1]. Çocukların kemikleri genel olarak daha hızlı kaynar; sigara, şeker hastalığı, yetersiz beslenme ve kırığın erken oynatılması kaynamayı geciktirir [2][3]. Alçıdayken artan ağrı, uyuşma, parmaklarda renk değişikliği ya da parmakları oynatamama varsa beklemeden başvurmak gerekir [4][5][6].",
+   "sections": [
+    {
+     "h": "Kırık nasıl kaynar?",
+     "p": [
+      "Bir kırığın kaynaması için üç şey gerekir: kırık uçların yerine getirilip oynamadan tutulması, bölgeye yeterli kan gelmesi ve yeterli beslenme [3]. İyileşme üç evrede olur [2]:"
+     ],
+     "list": [
+      "İltihap (inflamasyon) evresi: kırıktan hemen sonra başlar, birkaç gün sürer. Kırık bölgesinde kan pıhtılaşır; pıhtı ilk dayanıklılığı sağlar ve yeni kemiğin çatısını oluşturur",
+      "Kemik yapım evresi: pıhtının yerini bağ dokusu ve kıkırdaktan oluşan yumuşak kallus alır; bu da sert kemiğe (sert kallus) dönüşür. Sert kallus kırıktan birkaç hafta sonra röntgende görülür",
+      "Yeniden biçimlenme evresi: birkaç ay sürer. Kemik sıkılaşır ve eski biçimine döner; bölgedeki kan dolaşımı düzelir"
+     ]
+    },
+    {
+     "h": "Kırık kaç günde iyileşir?",
+     "p": [
+      "Kırık, oluştuğu andan başlayarak kaynamaya başlar; ancak süre günlerle değil haftalarla ölçülür [1][2]. El parmağı kırıkları gibi bazı kırıklar 3–4 haftada iyileşir; diğerleri 6–8 hafta, birkaç ay (ortalama 3–6 ay) ya da daha uzun sürebilir [1]. Kemiğin önemli ölçüde kaynaması genellikle 6–12 hafta alır [2]. Kırık kol ya da el bileğinde toparlanma genellikle 6–8 hafta kadar sürer; ağır yaralanmalarda uzayabilir [5].",
+      "Süre kemiğe, yaşa ve yaralanmaya göre değişir. Ayak parmağı kemikleri gibi bazı kemiklerin kanlanması çok iyidir; uyluk kemiğinin kalçaya yakın ucu ve el bileğindeki skafoid kemik gibi bazılarının kanlanması ise sınırlıdır [3]. Çocukların kemikleri genel olarak yetişkinlerinkinden hızlı kaynar [2]; ileri yaş ve karmaşık açık kırıklar kaynamayı güçleştirir [3].",
+      "Ağrı çoğu zaman, kırık olağan etkinliklerin yükünü taşıyacak kadar sağlamlaşmadan çok önce geçer [1]. El bileği, ayak bileği, köprücük kemiği, kalça ve çocuk ön kol kırıklarına özgü süreler ilgili yazılarda verilmiştir; ayak ve ayak parmağı kırıkları ile stres kırıkları da ayrı yazılarda anlatılmıştır."
+     ]
+    },
+    {
+     "h": "Kırık kaynamasına ne iyi gelir, ne geciktirir?",
+     "p": [
+      "Kırığın hareketsiz tutulması tedavinin temel parçasıdır [2]. Beslenmede önerilen, protein, kalsiyum, C vitamini ve D vitamini içeren sağlıklı ve dengeli beslenmedir; günlük gereksinimi aşan takviyeler etkili değildir [3]. Yararlanılan kaynakların hiçbiri kaynamayı hızlandıran özel bir yiyecek ya da bitkisel ürün saymaz [1][2][3]; kalsiyum ve D vitamini içeren besinler kemik erimesi yazısında sayılmıştır.",
+      "Kaynamayı yavaşlatan ya da engelleyen başlıca etkenler şunlardır [2][3]:"
+     ],
+     "list": [
+      "Kırık uçlarının oynaması ve erken yük verilmesi",
+      "Sigara ve her biçimiyle nikotin (elektronik sigara, nikotin sakızı ve bandı dahil)",
+      "Şeker hastalığı (diyabet), tiroid bezinin az çalışması, damar hastalıkları ve ağır kansızlık",
+      "Yetersiz beslenme, kalsiyum ve D vitamini düşüklüğü",
+      "Kortizon türü ilaçlar, bağışıklığı baskılayan diğer ilaçlar ve iltihap giderici ağrı kesiciler; bu ilaçların yarar ve riskleri hekimle konuşulmalıdır",
+      "İleri yaş ve enfeksiyon"
+     ]
+    },
+    {
+     "h": "Alçı ve atel (yarım alçı) ne işe yarar?",
+     "p": [
+      "Alçı, kırık tedavisinde en sık kullanılan yöntemdir: birçok kırık, kemik uçları yerine getirilip alçıyla doğru konumda tutulduğunda başarıyla kaynar [1]. Alçı ve atel kemikleri yerinde tutar; ağrıyı, şişliği ve kas spazmını azaltır [4]. Bazı kırıklarda ameliyat gerekir [1][5]; ameliyatla konulan plak ve vidaların çıkarılması ayrı bir yazıda ele alınmıştır.",
+      "Yarım alçı da denen atel, alçıya göre daha az destek sağlar, ancak şişliğe göre ayarlanması daha kolaydır [4]. Yeni yaralanmalarda çoğu zaman önce atel takılır; şişlik indikçe yerine tam alçı yapılabilir [4]."
+     ]
+    },
+    {
+     "h": "Alçı bakımı: alçı içinde şişlik ve ıslanma",
+     "p": [
+      "Yaralanmaya bağlı şişlik, ilk 48–72 saatte alçının içinde baskı oluşturabilir ve alçının sıkı gelmesine yol açabilir; şişliği azaltmak ağrıyı hafifletir [4]. Alçı ıslanmamalıdır: nem alçıyı zayıflatır, cilde değen dolgunun nemli kalması da cildi tahriş edebilir [4][6]. Dikkat edilecekler [4][6]:"
+     ],
+     "list": [
+      "İlk 24–72 saatte kolu ya da bacağı yastıklarla kalp düzeyinin üzerinde tutun",
+      "El ya da ayak parmaklarını sık sık ve nazikçe oynatın; bu, sertliği önler",
+      "Buzu kuru bir plastik torba içinde, alçının üzerine yaralanma düzeyinde gevşekçe sarın",
+      "Duşta alçıyı iki kat plastikle ya da su geçirmez kılıfla örtün; örtülü olsa bile suya sokmayın, akan suyun altına tutmayın",
+      "Dolguyu çekip çıkarmayın; alçının kenarlarını hekime sormadan kırmayın ya da kesmeyin",
+      "Alçı yumuşadıysa, çatladıysa ya da kırıldıysa beklemeden başvurun"
+     ]
+    },
+    {
+     "h": "Alçı kaşıntısı neden olur, nasıl geçer?",
+     "p": [
+      "Kaynaklar kaşıntının nedenini ayrıntılı açıklamaz; yalnızca nemli kalan dolgunun ve alçının içine kaçan bir cismin cildi tahriş edebildiğini belirtir [4].",
+      "Kaşımak için alçının içine tel askı, cetvel ya da başka bir cisim sokmayın; bu, ciltte yaraya ve enfeksiyona yol açabilir [4][5][6]. Kaşınan cilde pudra ya da deodorant da uygulamayın [4]. Kaşıntıyı hafifletmek için soğuk ayara getirilmiş saç kurutma makinesi denenebilir [6]. Kaşıntı geçmiyorsa, alçının içine bir şey kaçtıysa ya da alçı çevresindeki cilt kızardıysa hekime başvurun [4]."
+     ]
+    },
+    {
+     "h": "Alçı ne zaman çıkar, sonrasında ne beklenir?",
+     "p": [
+      "Alçı ya da atel, kemik tümüyle kaynayıp kendini taşıyabilecek duruma gelene kadar kalır; bu, kırığa göre birkaç hafta ile birkaç ay arasında değişir [4]. Alçıyı kendiniz çıkarmayın: cildinizi kesebilir ya da iyileşmeyi bozabilirsiniz [4]. Alçı, titreşen ama dönmeyen bir testereyle kesilir; içteki dolgu cildi korur [4]. İşlem hızlı ve ağrısızdır, ancak testere gürültülüdür [6].",
+      "Alçı çıktığında altındaki cilt kuru ve pul pul görünebilir [6]. Alçıda geçen sürede kas gücü ve eklem hareketi azalır; kol ya da bilek sert ve güçsüz olabilir [1][5]. Egzersizler kas gücünü ve eklem hareketini geri kazandırır; fizyoterapist yardımcı olabilir, ancak sertlik ve güçsüzlük bazen birkaç ay ya da daha uzun sürebilir [1][5]. Sonrasında da, kemik olağan etkinlikleri kaldıracak kadar sağlamlaşana dek hareketin kısıtlanması gerekebilir [1]."
+     ]
+    },
+    {
+     "h": "Geç kaynama ve kaynamama nedir?",
+     "p": [
+      "Kırığın olağandan uzun sürede kaynamasına geç kaynama, hiç kaynamamasına kaynamama (nonunion) denir [3]. Kaynamayan kırıkta, ilk ağrı geçtikten çok sonra da kırık yerinde ağrı sürer; tanı, aralıklı çekilen görüntülerde aylar içinde ilerleme olmamasıyla konur [3]. Tedavide kırığın hareketsiz tutulması ve cilt üzerinden uygulanan kemik uyarıcı cihazlar ameliyatsız seçeneklerdir; ameliyatta kırık yeniden tespit edilir ve kemik grefti kullanılabilir [3]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Kas içindeki basıncın artıp kan akımını kısıtlamasına kompartman sendromu denir; bir yaralanmadan sonra ya da sargı veya alçı çok sıkı olduğunda aniden başlayabilir ve olabildiğince çabuk ameliyat gerektirir [7]. Belirtileri kasta şiddetli ağrı (kas gerildiğinde artabilir), şişlik, uyuşma, güçsüzlük ya da karıncalanma, gerginlik ve bölgeyi hareket ettirmede güçlüktür [7].",
+      "Alçı ya da ateldeyken şunlardan biri varsa randevu beklemeden acil servise başvurun [4][5][6][7]:"
+     ],
+     "list": [
+      "Giderek artan ya da şiddetli ağrı ve alçının çok sıkı geldiği hissi",
+      "El ya da ayakta uyuşma, karıncalanma, yanma ya da batma",
+      "Alçının ucundaki el ya da ayak parmaklarında aşırı şişlik",
+      "Parmakların çok soluk, beyaz ya da mavi görünmesi",
+      "El ya da ayak parmaklarını kendi kendine hareket ettirememe",
+      "Alçıdan kötü koku ya da akıntı gelmesi",
+      "Yüksek ateş ya da titreme",
+      "Alçının çatlaması, kırılması, yumuşaması ya da bol gelmesi"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kırık kol kaç günde iyileşir?",
+     "a": "Kırık kol ya da el bileğinde toparlanma genellikle 6–8 hafta kadar sürer; kol ya da bilek ağır hasar gördüyse uzayabilir [5]. Çocukların kemikleri genel olarak yetişkinlerinkinden hızlı kaynar [2]."
+    },
+    {
+     "q": "Kırık kaynamasına iyi gelen yiyecekler var mı?",
+     "a": "Kaynaklar özel bir yiyecek saymaz; protein, kalsiyum, C ve D vitamini içeren dengeli beslenmeyi önerir ve günlük gereksinimi aşan takviyelerin etkili olmadığını belirtir [3]. Sigara ve her biçimiyle nikotin kemik iyileşmesini baskılar [3]."
+    },
+    {
+     "q": "Yarım alçı (atel) ne zaman çıkarılır?",
+     "a": "Atel çoğu zaman yeni yaralanmada ilk olarak takılır; şişlik indikçe yerine tam alçı yapılabilir [4]. Alçı ya da atel, kemik tümüyle kaynayıp kendini taşıyabilecek duruma gelene kadar kullanılır; kendiniz çıkarmayın [4]."
+    },
+    {
+     "q": "Alçı kaşıntısına ne iyi gelir?",
+     "a": "Soğuk ayarda saç kurutma makinesi kaşıntıyı hafifletmek için denenebilir [6]. Alçının içine cisim sokmayın, pudra ya da deodorant uygulamayın; kaşıntı geçmezse hekime başvurun [4][6]."
+    },
+    {
+     "q": "Alçı ıslanırsa ne olur?",
+     "a": "Nem alçıyı zayıflatır, nemli kalan dolgu da cildi tahriş edebilir [4]. Alçı yumuşadıysa, çatladıysa ya da kırıldıysa beklemeden başvurun [4][6]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "broken-bone-healing-time-cast-care",
+   "title": "Broken bone healing time: when does the cast come off, what eases the itch?",
+   "description": "How long does a fracture take to heal and when does the cast come off? What slows healing, cast care, itching, a wet cast, swelling in a cast and warning signs.",
+   "summary": "A broken bone heals over weeks, not days: some fractures, such as those in the fingers, heal in 3 to 4 weeks, and others in 6 to 8 weeks or several months [1]. Children's bones generally heal faster; smoking, diabetes, poor nutrition and moving the fracture too early delay healing [2][3]. While you are in a cast, increasing pain, numbness, a change in the colour of the fingers or toes, or being unable to move them means you should seek care without waiting [4][5][6].",
+   "sections": [
+    {
+     "h": "How does a broken bone heal?",
+     "p": [
+      "A fracture needs three things to heal: the broken ends put back into position and kept from moving, an adequate blood supply to the area, and adequate nutrition [3]. Healing takes place in three stages [2]:"
+     ],
+     "list": [
+      "Inflammation stage: starts immediately after the fracture and lasts for several days. Blood clots at the fracture site; the clot provides the initial stability and the framework for new bone",
+      "Bone production stage: the clot is replaced by soft callus made of fibrous tissue and cartilage, which in turn is replaced by hard bone (hard callus). Hard callus is visible on X-rays several weeks after the fracture",
+      "Remodelling stage: goes on for several months. The bone becomes compact and returns to its original shape; blood circulation in the area improves"
+     ]
+    },
+    {
+     "h": "How long does a broken bone take to heal?",
+     "p": [
+      "A fracture starts to heal from the moment it happens, but the time is measured in weeks, not days [1][2]. Some fractures, such as those in the fingers, heal in 3 to 4 weeks; others may take 6 to 8 weeks, several months (3 to 6 months on average) or even longer [1]. Bone generally takes 6 to 12 weeks to heal to a significant degree [2]. Recovery from a broken arm or wrist usually takes around 6 to 8 weeks; it can take longer after a severe injury [5].",
+      "The time varies with the bone, age and the injury. Some bones, such as the toe bones, have an excellent blood supply; others, such as the upper end of the thighbone near the hip and the scaphoid bone in the wrist, have a limited blood supply [3]. Children's bones generally heal faster than those of adults [2]; older age and complicated open fractures make healing more difficult [3].",
+      "Pain usually stops long before the fracture is solid enough to handle the stresses of normal activity [1]. The times specific to fractures of the wrist, ankle, collarbone and hip and to forearm fractures in children are given in the relevant articles; fractures of the foot and toes and stress fractures are also described in separate articles."
+     ]
+    },
+    {
+     "h": "What helps a fracture to heal, and what delays it?",
+     "p": [
+      "Keeping the fracture still is a critical part of treatment [2]. As for diet, what is recommended is a healthy, well-balanced diet that includes protein, calcium, vitamin C and vitamin D; dietary supplements that go beyond the daily requirements are not effective [3]. None of the sources used names a particular food or herbal product that speeds up healing [1][2][3]; foods that contain calcium and vitamin D are listed in the osteoporosis article.",
+      "The main factors that slow or prevent healing are [2][3]:"
+     ],
+     "list": [
+      "Movement of the bone ends and putting weight on the limb too soon",
+      "Smoking and nicotine in any form (including e-cigarettes and nicotine gum and patches)",
+      "Diabetes, an underactive thyroid, vascular disease and severe anaemia",
+      "Poor nutrition and low levels of calcium and vitamin D",
+      "Cortisone-type medicines, other medicines that suppress the immune system and anti-inflammatory painkillers; the risks and benefits of these medicines should be discussed with the doctor",
+      "Older age and infection"
+     ]
+    },
+    {
+     "h": "What do a cast and a splint (half-cast) do?",
+     "p": [
+      "A cast is the most common type of fracture treatment: many broken bones heal successfully once the bone ends have been repositioned and a cast keeps them in the proper position [1]. Casts and splints hold the bones in place; they reduce pain, swelling and muscle spasm [4]. Some fractures need surgery [1][5]; the removal of plates and screws put in at surgery is covered in a separate article.",
+      "A splint, also called a half-cast, provides less support than a cast but is easier to adjust to swelling [4]. In many fresh injuries a splint is applied first; as the swelling subsides a full cast may replace it [4]."
+     ]
+    },
+    {
+     "h": "Cast care: swelling inside the cast and getting it wet",
+     "p": [
+      "Swelling from the injury may cause pressure inside the cast for the first 48 to 72 hours and make the cast feel tight; keeping the swelling down lessens pain [4]. The cast must not get wet: moisture weakens the cast, and damp padding next to the skin can cause irritation [4][6]. Points to watch [4][6]:"
+     ],
+     "list": [
+      "For the first 24 to 72 hours keep the arm or leg propped on pillows above the level of the heart",
+      "Move your fingers or toes gently and often; this prevents stiffness",
+      "Place ice in a dry plastic bag and wrap it loosely around the cast at the level of the injury",
+      "In the shower cover the cast with two layers of plastic or a waterproof cover; even when it is covered, do not put it under water or hold it under running water",
+      "Do not pull out the padding; do not break off or trim the edges of the cast without asking the doctor",
+      "If the cast has gone soft, cracked or broken, seek care without waiting"
+     ]
+    },
+    {
+     "h": "Why does a cast itch, and what eases it?",
+     "p": [
+      "The sources do not explain the cause of itching in detail; they state only that damp padding and an object stuck inside the cast can irritate the skin [4].",
+      "Do not push a coat hanger, a ruler or any other object inside the cast to scratch; this can cause skin sores and infection [4][5][6]. Do not apply powder or deodorant to the itching skin either [4]. A hairdryer on a cool setting can be tried to relieve itching [6]. See a doctor if the itching persists, if something gets stuck inside the cast or if the skin around the cast becomes red [4]."
+     ]
+    },
+    {
+     "h": "When does the cast come off, and what should you expect afterwards?",
+     "p": [
+      "A cast or splint stays on until the bone is fully healed and can support itself; depending on the fracture this takes from several weeks to several months [4]. Do not remove the cast yourself: you may cut your skin or disturb healing [4]. The cast is cut with a saw that vibrates but does not rotate; the padding inside protects the skin [4]. The process is quick and painless, although the saw is noisy [6].",
+      "When the cast comes off, the skin underneath may look dry and flaky [6]. While you are in a cast, muscle strength and joint movement are lost; the arm or wrist may be stiff and weak [1][5]. Exercises restore muscle strength and joint movement; a physiotherapist can help, although stiffness and weakness can sometimes last several months or more [1][5]. Even afterwards, movement may need to be limited until the bone is solid enough for normal activity [1]."
+     ]
+    },
+    {
+     "h": "What are delayed union and non-union?",
+     "p": [
+      "When a fracture takes longer than usual to heal it is called delayed union; when it fails to heal it is called non-union [3]. In a non-union, pain persists at the site of the break long after the initial pain has gone; the diagnosis is made when repeated imaging shows no progress over several months [3]. Keeping the fracture still and bone-stimulating devices applied over the skin are the non-surgical options; at surgery the fracture is fixed again and a bone graft may be used [3]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "An increase in pressure inside a muscle that restricts blood flow is called compartment syndrome; it can start suddenly after an injury or when a bandage or cast is too tight, and it needs surgery as soon as possible [7]. Its symptoms are severe pain in a muscle (which may be worse when the muscle is stretched), swelling, numbness, weakness or pins and needles, and tightness or difficulty moving the affected part [7].",
+      "If you notice any of the following while in a cast or splint, go to an emergency department without waiting for an appointment [4][5][6][7]:"
+     ],
+     "list": [
+      "Increasing or severe pain and the feeling that the cast is too tight",
+      "Numbness, tingling, burning or stinging in the hand or foot",
+      "Excessive swelling of the fingers or toes beyond the end of the cast",
+      "Fingers or toes that look very pale, white or blue",
+      "Being unable to move the fingers or toes on their own",
+      "A bad smell or discharge from the cast",
+      "A very high temperature or shivering",
+      "A cast that is cracked, broken, soft or loose"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "How long does a broken arm take to heal?",
+     "a": "Recovery from a broken arm or wrist usually takes around 6 to 8 weeks; it can take longer if the arm or wrist was severely damaged [5]. Children's bones generally heal faster than those of adults [2]."
+    },
+    {
+     "q": "Are there foods that help a fracture to heal?",
+     "a": "The sources name no particular food; they recommend a balanced diet that includes protein, calcium and vitamins C and D, and state that supplements beyond the daily requirements are not effective [3]. Smoking and nicotine in any form inhibit bone healing [3]."
+    },
+    {
+     "q": "When is a half-cast (splint) taken off?",
+     "a": "A splint is often applied first to a fresh injury; as the swelling subsides a full cast may replace it [4]. A cast or splint is worn until the bone is fully healed and can support itself; do not remove it yourself [4]."
+    },
+    {
+     "q": "What helps with itching under a cast?",
+     "a": "A hairdryer on a cool setting can be tried to relieve itching [6]. Do not push objects inside the cast or apply powder or deodorant; if the itching persists, see a doctor [4][6]."
+    },
+    {
+     "q": "What happens if the cast gets wet?",
+     "a": "Moisture weakens the cast, and damp padding can irritate the skin [4]. If the cast has gone soft, cracked or broken, seek care without waiting [4][6]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "za-skolko-srastaetsya-perelom-ukhod-za-gipsom",
+   "title": "За сколько срастается перелом, когда снимают гипс и как унять зуд?",
+   "description": "За сколько срастается перелом и когда снимают гипс? Что замедляет сращение, уход за гипсом, зуд под гипсом, намокший гипс, отёк в гипсе и тревожные признаки.",
+   "summary": "Перелом срастается не за дни, а за недели: одни переломы, например пальцев руки, срастаются за 3–4 недели, другие — за 6–8 недель или несколько месяцев [1]. У детей кости в целом срастаются быстрее; курение, сахарный диабет, недостаточное питание и слишком ранние движения в месте перелома задерживают сращение [2][3]. Если в гипсе нарастает боль, появилось онемение, изменился цвет пальцев или ими не удаётся пошевелить, нужно обращаться без промедления [4][5][6].",
+   "sections": [
+    {
+     "h": "Как срастается перелом?",
+     "p": [
+      "Чтобы перелом сросся, нужны три условия: концы отломков должны быть поставлены на место и удерживаться неподвижно, к этой области должно поступать достаточно крови, и питание должно быть достаточным [3]. Заживление проходит три стадии [2]:"
+     ],
+     "list": [
+      "Стадия воспаления: начинается сразу после перелома и длится несколько дней. В месте перелома кровь свёртывается; сгусток обеспечивает первоначальную устойчивость и служит каркасом для новой кости",
+      "Стадия образования кости: сгусток замещается мягкой мозолью из волокнистой ткани и хряща, а она — твёрдой костью (твёрдой костной мозолью). Твёрдая мозоль видна на рентгеновском снимке через несколько недель после перелома",
+      "Стадия перестройки (ремоделирования): продолжается несколько месяцев. Кость уплотняется и возвращается к прежней форме; кровообращение в этой области улучшается"
+     ]
+    },
+    {
+     "h": "За сколько дней срастается перелом?",
+     "p": [
+      "Перелом начинает срастаться с момента, когда он произошёл, однако срок измеряется не днями, а неделями [1][2]. Одни переломы, например пальцев руки, заживают за 3–4 недели; другим может потребоваться 6–8 недель, несколько месяцев (в среднем 3–6 месяцев) или ещё больше [1]. В значительной степени кость обычно срастается за 6–12 недель [2]. Восстановление после перелома руки или запястья обычно занимает около 6–8 недель; при тяжёлых травмах оно может быть дольше [5].",
+      "Срок зависит от кости, возраста и травмы. Некоторые кости, например кости пальцев стопы, очень хорошо снабжаются кровью; у других, таких как верхний конец бедренной кости возле тазобедренного сустава и ладьевидная кость запястья, кровоснабжение ограничено [3]. У детей кости в целом срастаются быстрее, чем у взрослых [2]; пожилой возраст и сложные открытые переломы затрудняют сращение [3].",
+      "Боль чаще всего проходит задолго до того, как перелом становится достаточно прочным, чтобы выдерживать нагрузки обычной жизни [1]. Сроки, относящиеся к переломам запястья, лодыжки, ключицы и бедра и к переломам предплечья у детей, приведены в соответствующих статьях; переломы стопы и пальцев стопы, а также стрессовые переломы тоже описаны в отдельных статьях."
+     ]
+    },
+    {
+     "h": "Что помогает перелому срастись и что задерживает сращение?",
+     "p": [
+      "Неподвижность перелома — основная часть лечения [2]. В питании рекомендуется здоровый и сбалансированный рацион, содержащий белок, кальций, витамин C и витамин D; добавки сверх суточной потребности неэффективны [3]. Ни один из использованных источников не называет какой-либо особый продукт или растительное средство, ускоряющее сращение [1][2][3]; продукты, содержащие кальций и витамин D, перечислены в статье об остеопорозе.",
+      "Основные факторы, которые замедляют сращение или препятствуют ему [2][3]:"
+     ],
+     "list": [
+      "Подвижность отломков и слишком ранняя нагрузка",
+      "Курение и никотин в любом виде (включая электронные сигареты, никотиновую жвачку и пластырь)",
+      "Сахарный диабет, сниженная функция щитовидной железы, болезни сосудов и тяжёлая анемия",
+      "Недостаточное питание, низкий уровень кальция и витамина D",
+      "Препараты кортизона, другие лекарства, подавляющие иммунитет, и противовоспалительные обезболивающие; пользу и риски этих лекарств нужно обсудить с врачом",
+      "Пожилой возраст и инфекция"
+     ]
+    },
+    {
+     "h": "Для чего нужны гипс и лонгета (неполная гипсовая повязка)?",
+     "p": [
+      "Гипс — самый распространённый способ лечения переломов: многие переломы успешно срастаются, если концы кости поставлены на место и удерживаются гипсом в правильном положении [1]. Гипс и лонгета удерживают кости на месте; они уменьшают боль, отёк и мышечный спазм [4]. При некоторых переломах нужна операция [1][5]; удалению пластин и винтов, установленных при операции, посвящена отдельная статья.",
+      "Лонгета, которую называют также неполным гипсом, даёт меньшую опору, чем гипс, но её легче подстроить под отёк [4]. При свежей травме чаще всего сначала накладывают лонгету; когда отёк спадает, её могут заменить полной гипсовой повязкой [4]."
+     ]
+    },
+    {
+     "h": "Уход за гипсом: отёк в гипсе и намокание",
+     "p": [
+      "Отёк из-за травмы в первые 48–72 часа может создавать давление внутри гипса, и гипс может казаться тесным; уменьшение отёка облегчает боль [4]. Гипс нельзя мочить: влага ослабляет гипс, а влажная подкладка, прилегающая к коже, может вызвать раздражение кожи [4][6]. На что обратить внимание [4][6]:"
+     ],
+     "list": [
+      "В первые 24–72 часа держите руку или ногу на подушках выше уровня сердца",
+      "Часто и осторожно шевелите пальцами руки или ноги; это предупреждает скованность",
+      "Положите лёд в сухой полиэтиленовый пакет и неплотно оберните им гипс на уровне травмы",
+      "В душе закрывайте гипс двумя слоями полиэтилена или водонепроницаемым чехлом; даже закрытый гипс не погружайте в воду и не держите под струёй воды",
+      "Не вытаскивайте подкладку; не обламывайте и не подрезайте края гипса, не спросив врача",
+      "Если гипс размягчился, треснул или сломался, обращайтесь без промедления"
+     ]
+    },
+    {
+     "h": "Отчего возникает зуд под гипсом и как его унять?",
+     "p": [
+      "Источники не объясняют причину зуда подробно; они указывают лишь, что кожу могут раздражать влажная подкладка и предмет, попавший внутрь гипса [4].",
+      "Не засовывайте под гипс проволочную вешалку, линейку или другой предмет, чтобы почесать кожу; это может привести к ранкам на коже и инфекции [4][5][6]. Не наносите на зудящую кожу также присыпку или дезодорант [4]. Чтобы уменьшить зуд, можно попробовать фен в режиме холодного воздуха [6]. Обратитесь к врачу, если зуд не проходит, если что-то попало внутрь гипса или если кожа вокруг гипса покраснела [4]."
+     ]
+    },
+    {
+     "h": "Когда снимают гипс и чего ожидать потом?",
+     "p": [
+      "Гипс или лонгета остаются до тех пор, пока кость полностью не срастётся и не сможет выдерживать нагрузку сама; в зависимости от перелома на это уходит от нескольких недель до нескольких месяцев [4]. Не снимайте гипс сами: вы можете порезать кожу или нарушить заживление [4]. Гипс разрезают пилой, которая вибрирует, но не вращается; подкладка внутри защищает кожу [4]. Процедура быстрая и безболезненная, хотя пила шумит [6].",
+      "После снятия гипса кожа под ним может выглядеть сухой и шелушащейся [6]. За время в гипсе сила мышц и подвижность суставов уменьшаются; рука или запястье могут быть скованными и слабыми [1][5]. Упражнения возвращают силу мышц и подвижность суставов; помочь может физиотерапевт, однако скованность и слабость иногда сохраняются несколько месяцев или дольше [1][5]. И после этого движения может потребоваться ограничивать, пока кость не станет достаточно прочной для обычной активности [1]."
+     ]
+    },
+    {
+     "h": "Что такое замедленное сращение и несращение?",
+     "p": [
+      "Если перелом срастается дольше обычного, говорят о замедленном сращении, если не срастается совсем — о несращении [3]. При несращении боль в месте перелома сохраняется ещё долго после того, как прошла первоначальная боль; диагноз ставят, когда на повторных снимках в течение нескольких месяцев нет продвижения [3]. Обездвиживание перелома и приборы для стимуляции кости, которые прикладывают к коже, — безоперационные варианты лечения; при операции перелом фиксируют заново и могут использовать костный трансплантат [3]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Повышение давления внутри мышцы, которое ограничивает кровоток, называют компартмент-синдромом; он может начаться внезапно после травмы либо когда повязка или гипс слишком тугие, и требует операции как можно скорее [7]. Его признаки — сильная боль в мышце (она может усиливаться при растяжении мышцы), отёк, онемение, слабость или покалывание, напряжение и затруднение при движении в этой области [7].",
+      "Если в гипсе или лонгете появился хотя бы один из этих признаков, не дожидаясь записи на приём, обратитесь в отделение неотложной помощи [4][5][6][7]:"
+     ],
+     "list": [
+      "Нарастающая или сильная боль и ощущение, что гипс слишком тугой",
+      "Онемение, покалывание, жжение или колющая боль в кисти или стопе",
+      "Чрезмерный отёк пальцев руки или ноги у края гипса",
+      "Пальцы выглядят очень бледными, белыми или синими",
+      "Не удаётся самостоятельно пошевелить пальцами руки или ноги",
+      "Неприятный запах или выделения из-под гипса",
+      "Высокая температура или озноб",
+      "Гипс треснул, сломался, размягчился или стал свободным"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "За сколько дней срастается перелом руки?",
+     "a": "Восстановление после перелома руки или запястья обычно занимает около 6–8 недель; если рука или запястье сильно повреждены, оно может быть дольше [5]. У детей кости в целом срастаются быстрее, чем у взрослых [2]."
+    },
+    {
+     "q": "Есть ли продукты, которые помогают перелому срастись?",
+     "a": "Источники не называют какого-либо особого продукта; они рекомендуют сбалансированное питание, содержащее белок, кальций, витамины C и D, и указывают, что добавки сверх суточной потребности неэффективны [3]. Курение и никотин в любом виде угнетают заживление кости [3]."
+    },
+    {
+     "q": "Когда снимают лонгету (неполный гипс)?",
+     "a": "Лонгету чаще всего накладывают первой при свежей травме; когда отёк спадает, её могут заменить полной гипсовой повязкой [4]. Гипс или лонгету носят до тех пор, пока кость полностью не срастётся и не сможет выдерживать нагрузку сама; не снимайте их сами [4]."
+    },
+    {
+     "q": "Что помогает от зуда под гипсом?",
+     "a": "Чтобы уменьшить зуд, можно попробовать фен в режиме холодного воздуха [6]. Не засовывайте под гипс предметы, не наносите присыпку или дезодорант; если зуд не проходит, обратитесь к врачу [4][6]."
+    },
+    {
+     "q": "Что будет, если гипс намокнет?",
+     "a": "Влага ослабляет гипс, а влажная подкладка может раздражать кожу [4]. Если гипс размягчился, треснул или сломался, обращайтесь без промедления [4][6]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "shekastegi-che-moddat-joosh-mikhorad-moraghebat-gach",
+   "title": "شکستگی چند روزه جوش می‌خورد، گچ کی باز می‌شود و خارش چگونه برطرف می‌شود؟",
+   "description": "شکستگی چند روزه جوش می‌خورد و گچ کی باز می‌شود؟ عوامل کندکنندهٔ جوش خوردن، مراقبت از گچ، خارش زیر گچ، خیس شدن گچ، تورم در گچ و علائم هشدار.",
+   "summary": "شکستگی نه در چند روز، بلکه طی چند هفته خوب می‌شود: برخی شکستگی‌ها، مانند شکستگی انگشتان دست، در ۳ تا ۴ هفته و برخی دیگر در ۶ تا ۸ هفته یا چند ماه جوش می‌خورند [1]. استخوان کودکان به‌طور کلی سریع‌تر جوش می‌خورد؛ سیگار، دیابت، تغذیهٔ ناکافی و حرکت دادن زودهنگام شکستگی جوش خوردن را به تأخیر می‌اندازد [2][3]. اگر در مدتی که عضو در گچ است درد رو به افزایش، بی‌حسی، تغییر رنگ انگشتان یا ناتوانی در حرکت دادن انگشتان وجود داشته باشد، باید بدون تأخیر مراجعه کرد [4][5][6].",
+   "sections": [
+    {
+     "h": "شکستگی چگونه جوش می‌خورد؟",
+     "p": [
+      "برای جوش خوردن شکستگی سه چیز لازم است: جا انداختن دو سر شکستگی و بی‌حرکت نگه داشتن آن‌ها، رسیدن خون کافی به ناحیه و تغذیهٔ کافی [3]. بهبودی در سه مرحله رخ می‌دهد [2]:"
+     ],
+     "list": [
+      "مرحلهٔ التهاب: بلافاصله پس از شکستگی شروع می‌شود و چند روز طول می‌کشد. خون در محل شکستگی لخته می‌شود؛ لخته پایداری اولیه را فراهم می‌کند و چارچوب استخوان تازه را می‌سازد",
+      "مرحلهٔ ساخت استخوان: جای لخته را کالوس نرم می‌گیرد که از بافت فیبری و غضروف ساخته شده است؛ کالوس نرم نیز به استخوان سخت (کالوس سخت) تبدیل می‌شود. کالوس سخت چند هفته پس از شکستگی در عکس رادیولوژی دیده می‌شود",
+      "مرحلهٔ بازسازی: چند ماه ادامه دارد. استخوان متراکم می‌شود و به شکل پیشین خود بازمی‌گردد؛ گردش خون ناحیه بهتر می‌شود"
+     ]
+    },
+    {
+     "h": "شکستگی چند روزه خوب می‌شود؟",
+     "p": [
+      "شکستگی از همان لحظه‌ای که رخ می‌دهد شروع به جوش خوردن می‌کند؛ اما این مدت نه با روز، بلکه با هفته سنجیده می‌شود [1][2]. برخی شکستگی‌ها، مانند شکستگی انگشتان دست، در ۳ تا ۴ هفته خوب می‌شوند؛ برخی دیگر ممکن است ۶ تا ۸ هفته، چند ماه (به‌طور میانگین ۳ تا ۶ ماه) یا بیشتر طول بکشند [1]. جوش خوردن استخوان تا حد چشمگیر معمولاً ۶ تا ۱۲ هفته زمان می‌برد [2]. بهبودی شکستگی دست یا مچ دست معمولاً حدود ۶ تا ۸ هفته طول می‌کشد و در آسیب‌های شدید ممکن است طولانی‌تر شود [5].",
+      "این مدت بسته به استخوان، سن و نوع آسیب فرق می‌کند. خون‌رسانی برخی استخوان‌ها، مانند استخوان‌های انگشتان پا، بسیار خوب است؛ اما خون‌رسانی برخی دیگر، مانند انتهای بالایی استخوان ران در نزدیکی مفصل لگن و استخوان اسکافوئید در مچ دست، محدود است [3]. استخوان کودکان به‌طور کلی سریع‌تر از بزرگسالان جوش می‌خورد [2]؛ سن بالا و شکستگی‌های باز و پیچیده جوش خوردن را دشوارتر می‌کنند [3].",
+      "درد بیشتر وقت‌ها مدت‌ها پیش از آن برطرف می‌شود که شکستگی به اندازه‌ای محکم شود که فشار فعالیت‌های معمول را تحمل کند [1]. مدت‌های ویژهٔ شکستگی مچ دست، مچ پا، ترقوه و لگن و شکستگی ساعد در کودکان در نوشته‌های مربوط آمده است؛ شکستگی‌های پا و انگشتان پا و شکستگی‌های استرسی نیز در نوشته‌های جداگانه شرح داده شده‌اند."
+     ]
+    },
+    {
+     "h": "چه چیزی به جوش خوردن شکستگی کمک می‌کند و چه چیزی آن را به تأخیر می‌اندازد؟",
+     "p": [
+      "بی‌حرکت نگه داشتن شکستگی بخش اصلی درمان است [2]. در تغذیه، آنچه توصیه می‌شود رژیم غذایی سالم و متعادلی است که پروتئین، کلسیم، ویتامین C و ویتامین D داشته باشد؛ مکمل‌هایی که از نیاز روزانه فراتر می‌روند مؤثر نیستند [3]. هیچ‌یک از منابعِ به‌کاررفته خوراکی یا فراوردهٔ گیاهی ویژه‌ای را که جوش خوردن را تندتر کند نام نمی‌برد [1][2][3]؛ خوراکی‌های دارای کلسیم و ویتامین D در نوشتهٔ پوکی استخوان آمده‌اند.",
+      "مهم‌ترین عواملی که جوش خوردن را کند می‌کنند یا مانع آن می‌شوند این‌ها هستند [2][3]:"
+     ],
+     "list": [
+      "حرکت کردن دو سر شکستگی و وزن گذاشتن زودهنگام",
+      "سیگار و نیکوتین به هر شکل (از جمله سیگار الکترونیکی، آدامس و برچسب نیکوتین)",
+      "دیابت، کم‌کاری تیروئید، بیماری‌های عروقی و کم‌خونی شدید",
+      "تغذیهٔ ناکافی و پایین بودن کلسیم و ویتامین D",
+      "داروهای کورتونی، دیگر داروهای سرکوب‌کنندهٔ ایمنی و مسکّن‌های ضدالتهاب؛ دربارهٔ فایده و خطر این داروها باید با پزشک صحبت شود",
+      "سن بالا و عفونت"
+     ]
+    },
+    {
+     "h": "گچ و آتل (نیم‌گچ) چه کاری می‌کنند؟",
+     "p": [
+      "گچ رایج‌ترین روش درمان شکستگی است: بسیاری از شکستگی‌ها وقتی دو سر استخوان جا انداخته شود و با گچ در وضعیت درست نگه داشته شود، با موفقیت جوش می‌خورند [1]. گچ و آتل استخوان‌ها را در جای خود نگه می‌دارند و درد، تورم و گرفتگی عضله را کم می‌کنند [4]. در برخی شکستگی‌ها جراحی لازم است [1][5]؛ برداشتن پلاک و پیچ‌هایی که در جراحی گذاشته می‌شوند در نوشته‌ای جداگانه بررسی شده است.",
+      "آتل که به آن نیم‌گچ هم می‌گویند، نسبت به گچ حمایت کمتری فراهم می‌کند، اما تنظیم آن با تورم آسان‌تر است [4]. در آسیب‌های تازه بیشتر وقت‌ها نخست آتل بسته می‌شود و با فروکش کردن تورم ممکن است گچ کامل جای آن را بگیرد [4]."
+     ]
+    },
+    {
+     "h": "مراقبت از گچ: تورم در گچ و خیس شدن",
+     "p": [
+      "تورم ناشی از آسیب ممکن است در ۴۸ تا ۷۲ ساعت نخست درون گچ فشار ایجاد کند و باعث شود گچ تنگ به نظر برسد؛ کم کردن تورم درد را سبک‌تر می‌کند [4]. گچ نباید خیس شود: رطوبت گچ را ضعیف می‌کند و نم‌دار ماندن لایهٔ نرمی که روی پوست قرار دارد نیز ممکن است پوست را تحریک کند [4][6]. نکته‌هایی که باید رعایت شوند [4][6]:"
+     ],
+     "list": [
+      "در ۲۴ تا ۷۲ ساعت نخست دست یا پا را با بالش بالاتر از سطح قلب نگه دارید",
+      "انگشتان دست یا پا را زیاد و به‌آرامی حرکت دهید؛ این کار از خشکی جلوگیری می‌کند",
+      "یخ را در کیسهٔ پلاستیکی خشک بگذارید و آن را شل، در سطح محل آسیب، دور گچ بپیچید",
+      "هنگام دوش گرفتن گچ را با دو لایه پلاستیک یا پوشش ضدآب بپوشانید؛ حتی اگر پوشیده است آن را در آب فرو نبرید و زیر آب روان نگیرید",
+      "لایهٔ نرم درون گچ را بیرون نکشید؛ لبه‌های گچ را بدون پرسیدن از پزشک نشکنید و نبُرید",
+      "اگر گچ نرم شده، ترک خورده یا شکسته است، بدون تأخیر مراجعه کنید"
+     ]
+    },
+    {
+     "h": "خارش زیر گچ چرا ایجاد می‌شود و چگونه برطرف می‌شود؟",
+     "p": [
+      "منابع علت خارش را به‌تفصیل توضیح نمی‌دهند؛ تنها بیان می‌کنند که لایهٔ نرمِ نم‌دار و جسمی که درون گچ افتاده باشد ممکن است پوست را تحریک کند [4].",
+      "برای خاراندن، چوب‌لباسی سیمی، خط‌کش یا هیچ جسم دیگری را درون گچ فرو نکنید؛ این کار ممکن است به زخم پوست و عفونت بینجامد [4][5][6]. روی پوستی که می‌خارد پودر یا دئودورانت هم نزنید [4]. برای کم کردن خارش می‌توان سشوار را روی حالت باد سرد امتحان کرد [6]. اگر خارش برطرف نمی‌شود، چیزی درون گچ افتاده یا پوست اطراف گچ قرمز شده است، به پزشک مراجعه کنید [4]."
+     ]
+    },
+    {
+     "h": "گچ کی باز می‌شود و پس از آن چه انتظاری باید داشت؟",
+     "p": [
+      "گچ یا آتل تا زمانی می‌ماند که استخوان کاملاً جوش بخورد و بتواند خود را نگه دارد؛ این مدت بسته به شکستگی از چند هفته تا چند ماه فرق می‌کند [4]. گچ را خودتان باز نکنید: ممکن است پوستتان را ببُرید یا بهبودی را مختل کنید [4]. گچ با اره‌ای بریده می‌شود که می‌لرزد اما نمی‌چرخد؛ لایهٔ نرم درون گچ از پوست محافظت می‌کند [4]. این کار سریع و بدون درد است، هرچند اره پرسروصدا است [6].",
+      "پس از باز شدن گچ، پوست زیر آن ممکن است خشک و پوسته‌پوسته به نظر برسد [6]. در مدتی که عضو در گچ است قدرت عضله و حرکت مفصل کم می‌شود؛ دست یا مچ دست ممکن است خشک و ضعیف باشد [1][5]. ورزش‌ها قدرت عضله و حرکت مفصل را بازمی‌گردانند؛ فیزیوتراپیست می‌تواند کمک کند، اما خشکی و ضعف گاهی چند ماه یا بیشتر طول می‌کشد [1][5]. پس از آن نیز ممکن است لازم باشد حرکت محدود بماند تا استخوان برای فعالیت‌های معمول به اندازهٔ کافی محکم شود [1]."
+     ]
+    },
+    {
+     "h": "دیر جوش خوردن و جوش نخوردن چیست؟",
+     "p": [
+      "اگر شکستگی دیرتر از معمول جوش بخورد به آن دیر جوش خوردن و اگر اصلاً جوش نخورد به آن جوش نخوردن (نان‌یونیون) می‌گویند [3]. در شکستگیِ جوش‌نخورده، مدت‌ها پس از برطرف شدن درد اولیه هنوز در محل شکستگی درد وجود دارد؛ تشخیص زمانی داده می‌شود که در تصویربرداری‌های پیاپی طی چند ماه پیشرفتی دیده نشود [3]. بی‌حرکت نگه داشتن شکستگی و دستگاه‌های تحریک استخوان که از روی پوست به کار می‌روند گزینه‌های غیرجراحی‌اند؛ در جراحی شکستگی دوباره تثبیت می‌شود و ممکن است از پیوند استخوان استفاده شود [3]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "به بالا رفتن فشار درون عضله که جریان خون را محدود می‌کند سندرم کمپارتمان می‌گویند؛ ممکن است پس از یک آسیب یا زمانی که باند یا گچ بیش از حد تنگ است ناگهان شروع شود و هرچه زودتر به جراحی نیاز دارد [7]. علائم آن درد شدید در عضله (که ممکن است با کشیده شدن عضله بیشتر شود)، تورم، بی‌حسی، ضعف یا گزگز، سفتی و دشواری در حرکت دادن آن ناحیه است [7].",
+      "اگر در مدتی که عضو در گچ یا آتل است یکی از موارد زیر وجود دارد، بدون انتظار برای نوبت به اورژانس مراجعه کنید [4][5][6][7]:"
+     ],
+     "list": [
+      "درد رو به افزایش یا شدید و احساس اینکه گچ بیش از حد تنگ است",
+      "بی‌حسی، گزگز، سوزش یا احساس سوزن‌سوزن شدن در دست یا پا",
+      "تورم بیش از حد انگشتان دست یا پا در انتهای گچ",
+      "بسیار رنگ‌پریده، سفید یا آبی به نظر رسیدن انگشتان",
+      "ناتوانی در حرکت دادن انگشتان دست یا پا به‌طور ارادی",
+      "بوی بد یا ترشح از گچ",
+      "تب بالا یا لرز",
+      "ترک خوردن، شکستن، نرم شدن یا گشاد شدن گچ"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "شکستگی دست چند روزه خوب می‌شود؟",
+     "a": "بهبودی شکستگی دست یا مچ دست معمولاً حدود ۶ تا ۸ هفته طول می‌کشد و اگر دست یا مچ آسیب شدیدی دیده باشد ممکن است طولانی‌تر شود [5]. استخوان کودکان به‌طور کلی سریع‌تر از بزرگسالان جوش می‌خورد [2]."
+    },
+    {
+     "q": "آیا خوراکی‌هایی هست که به جوش خوردن شکستگی کمک کند؟",
+     "a": "منابع خوراکی ویژه‌ای را نام نمی‌برند؛ تغذیهٔ متعادلی را که پروتئین، کلسیم و ویتامین‌های C و D داشته باشد توصیه می‌کنند و بیان می‌کنند مکمل‌هایی که از نیاز روزانه فراتر می‌روند مؤثر نیستند [3]. سیگار و نیکوتین به هر شکل بهبود استخوان را مهار می‌کند [3]."
+    },
+    {
+     "q": "آتل (نیم‌گچ) کی باز می‌شود؟",
+     "a": "آتل بیشتر وقت‌ها در آسیب تازه نخست بسته می‌شود و با فروکش کردن تورم ممکن است گچ کامل جای آن را بگیرد [4]. گچ یا آتل تا زمانی استفاده می‌شود که استخوان کاملاً جوش بخورد و بتواند خود را نگه دارد؛ آن را خودتان باز نکنید [4]."
+    },
+    {
+     "q": "برای خارش زیر گچ چه چیزی خوب است؟",
+     "a": "برای کم کردن خارش می‌توان سشوار را روی حالت باد سرد امتحان کرد [6]. جسمی درون گچ فرو نکنید و پودر یا دئودورانت نزنید؛ اگر خارش برطرف نشد به پزشک مراجعه کنید [4][6]."
+    },
+    {
+     "q": "اگر گچ خیس شود چه می‌شود؟",
+     "a": "رطوبت گچ را ضعیف می‌کند و لایهٔ نرمِ نم‌دار نیز ممکن است پوست را تحریک کند [4]. اگر گچ نرم شده، ترک خورده یا شکسته است، بدون تأخیر مراجعه کنید [4][6]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

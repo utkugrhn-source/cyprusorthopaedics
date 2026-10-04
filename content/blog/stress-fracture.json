@@ -1,0 +1,573 @@
+{
+ "id": "stress-fracture",
+ "area": "kirik-travma",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Stress Fractures",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/stress-fractures",
+   "year": "n.d."
+  },
+  {
+   "title": "Stress Fractures of the Foot and Ankle",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/stress-fractures-of-the-foot-and-ankle/",
+   "year": "n.d."
+  },
+  {
+   "title": "Stress fractures: diagnosis, treatment, and prevention",
+   "publisher": "American Family Physician (Patel DS, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21888126/",
+   "year": "2011"
+  },
+  {
+   "title": "Diagnosis, treatment, and rehabilitation of stress fractures in the lower extremity in runners",
+   "publisher": "Open Access Journal of Sports Medicine (Kahanov L, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25848327/",
+   "year": "2015"
+  },
+  {
+   "title": "Surgical versus conservative treatment for high-risk stress fractures of the lower leg (anterior tibial cortex, navicular and fifth metatarsal base): a systematic review",
+   "publisher": "British Journal of Sports Medicine (Mallee WH, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25138980/",
+   "year": "2015"
+  },
+  {
+   "title": "Interventions for preventing and treating stress fractures and stress reactions of bone of the lower limbs in young adults",
+   "publisher": "Cochrane Database of Systematic Reviews (Rome K, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15846606/",
+   "year": "2005"
+  },
+  {
+   "title": "Caring for a stress fracture",
+   "publisher": "Gloucestershire Hospitals NHS Foundation Trust",
+   "url": "https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/caring-for-a-stress-fracture/",
+   "year": "n.d."
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "stres-kirigi-yorgunluk-kirigi",
+   "title": "Stres kırığı (yorgunluk kırığı): belirtileri nedir, nasıl geçer?",
+   "description": "Stres kırığı nedir, neden olur? Ayakta, topukta, kaval kemiğinde ve kalçada belirtileri, röntgen ve MR ile tanısı, tedavisi ve ne zaman geçtiği.",
+   "summary": "Stres kırığı (yorgunluk kırığı), tek bir darbeyle değil, tekrarlayan yüklenmeyle kemikte oluşan küçük bir çatlaktır; çoğunlukla etkinlik kısa sürede artırıldığında, bacak ve ayak kemiklerinde görülür [1][2]. İlk röntgen çoğu zaman normaldir; tedavinin temeli kemiğe binen yükü azaltmaktır ve iyileşme genellikle 6–8 hafta sürer [1][2][3]. Uyluk boynu (kalça), kaval kemiğinin ön yüzü ve ayaktaki bazı kemiklerin kırıkları yüksek riskli sayılır; ameliyat gerekebilir [3][4][5].",
+   "sections": [
+    {
+     "h": "Stres kırığı (yorgunluk kırığı) nedir?",
+     "p": [
+      "Stres kırığı, kemikte oluşan küçük bir çatlak ya da kemik içinde şiddetli ezilmedir [1][2]. Kemik sürekli yıkılıp yeniden yapılır; tekrarlayan yüklenmede yıkım onarımı aştığında kemik zayıflar [1][2]. Erken evrede kemikte yalnızca şişme vardır; ağrıya rağmen egzersize devam edilirse kemik çatlayabilir [1].",
+      "Olağan kırıktan farkı oluş biçimidir: stres kırığına yol açan tekrarlayan kuvvet, düşme ya da çarpmayla bir anda oluşan kırıklardaki kadar büyük değildir [2]. Kemik erimesine bağlı kırıklar da ayrı bir durumdur: tümör, enfeksiyon ya da kemik erimesiyle zayıflamış kemik olağan yük altında kırılır [3]. Bu konu sitedeki kemik erimesi yazısında ele alınmıştır."
+     ]
+    },
+    {
+     "h": "Stres kırığı neden olur?",
+     "p": [
+      "En sık neden, fiziksel etkinliğin kısa sürede artırılmasıdır; yakınmalar çoğu zaman yeni bir egzersiz programına ya da spor sezonuna başladıktan 3–4 hafta sonra ortaya çıkar [1][2]. Koşu ve sıçrama içeren sporlarda ve askerlerde sık görülür; uzun yürüyüş ve yürüyüş eğitimi (marş) de nedenler arasındadır [1][3][7]. Riski artıran başlıca etkenler şunlardır [1][2][3][7]:"
+     ],
+     "list": [
+      "Beton gibi sert zeminde antrenman ya da zeminin değişmesi",
+      "Eskimiş, darbe emme özelliğini yitirmiş ayakkabılar",
+      "Kemik yoğunluğunun ya da D vitamini düzeyinin düşük olması, kemik erimesi, menopoz dönemi",
+      "Harcanan enerjiye göre yetersiz beslenme (sporda göreli enerji eksikliği, REDs)",
+      "Kadın olmak, ileri yaş ve daha önce stres kırığı geçirmiş olmak"
+     ]
+    },
+    {
+     "h": "Stres kırığı nerede olur?",
+     "p": [
+      "Stres kırıklarının çoğu bacak ve ayakta, vücut ağırlığını taşıyan kemiklerde görülür [1][4]. En sık tutulan yer kaval kemiğidir (tibia); ayaktaki naviküler kemik ile tarak kemikleri, uyluk kemiği ve leğen kemiği de tutulabilir [3][4]. Ayak ve ayak parmağı kırıkları bu sitede ayrı bir yazıda ele alınır."
+     ],
+     "list": [
+      "Bacak (kaval kemiği): belirli bir noktada ağrı, hassasiyet ve şişlik olur; hassasiyetin kemiğin iç-arka kenarı boyunca yaygın olması ve şişlik bulunmaması medial tibial stres sendromunu düşündürür [3]",
+      "Ayak: en sık ikinci ve üçüncü tarak kemiklerinde görülür; ayak üstünde şişlik olabilir [2]",
+      "Topuk: topuk kemiği, ayakta stres kırığının en sık görüldüğü ikinci yerdir [2]",
+      "Kalça ve uyluk: kırığın yerine göre kalça, kasık, kaba et, uyluk ya da diz ağrısı yapabilir [4]",
+      "Bel: bel omurlarında da stres kırığı görülebilir [3]; omurga sorunları ilgili uzmanlık dalınca değerlendirilir"
+     ]
+    },
+    {
+     "h": "Belirtileri nelerdir?",
+     "p": [
+      "Başlangıçta kemiğin belirli bir noktasında, yalnızca etkinliğin sonunda ve sonrasında kısa süre hissedilen bir rahatsızlık vardır [1]. Ağrı yavaş yavaş gelişir, yük verilen etkinliklerde artar ve dinlenince azalır [2]. Yüklenme sürerse şu belirtiler eklenebilir [1][2]:"
+     ],
+     "list": [
+      "Etkinlik boyunca, olağan yürüyüşte ve günlük işlerde süren ağrı",
+      "Topallama",
+      "Gece yatakta sızlama",
+      "Kemiğin üzerine bastırınca hassasiyet",
+      "Şişlik, bazen morarma"
+     ]
+    },
+    {
+     "h": "Nasıl anlaşılır? İlk röntgen neden temiz çıkabilir?",
+     "p": [
+      "Hekim yakınmaların başlangıcını ve etkinlik düzeyindeki değişiklikleri sorar; muayenede kemiğin üzerine bastırarak hassasiyetin tek bir noktada toplanıp toplanmadığına bakar [1][2]. Bacaktaki kırıklarda hastadan o bacağın üzerinde sıçraması istenebilir [1][4].",
+      "İlk görüntüleme röntgendir, ancak erken dönemde çoğu zaman normaldir: kemikteki şişme röntgende görülmez, çatlak ise başlangıçta çok incedir [1][2]. Bir derlemeye göre röntgenin duyarlılığı başlangıçta yüzde 10'dur; acil tanı gerekmiyorsa röntgen 2–3 hafta sonra yinelenebilir [3]. Kuşku sürüyorsa MR ya da kemik sintigrafisi istenebilir; ikisi de kırığı röntgenden daha erken gösterir [2]. MR günümüzde en duyarlı ve özgül yöntem sayılır [4]."
+     ]
+    },
+    {
+     "h": "Stres kırığı nasıl geçer? Tedavi",
+     "p": [
+      "Tedavinin amacı, kemiğin iyileşebilmesi için üzerindeki yükü azaltmaktır [1]. Ağrıya yol açan etkinliğe ara verilir; bu sürede yüzme ve bisiklet gibi etkinlikler yapılabilir [1][2]. Yürürken ağrı varsa sert tabanlı ayakkabı, yürüme botu ya da koltuk değneği yükü daha da azaltır [1]. Bazı kırıklarda alçı uygulanır ve genellikle 4–6 hafta sonra çıkarılır [2][7].",
+      "Bu yazının dayandığı hasta bilgilendirme kaynaklarında tedavi olarak krem ya da merhem yer almaz [1][2][7]. Yumuşak bir bandajla hafifçe sarmak, buz uygulamak ve ayağı yukarıda tutmak şişliği azaltmaya yönelik ilk yardım önlemleridir [2]. Amerikan Ortopedi Cerrahları Akademisi (AAOS), iltihap giderici ağrı kesicilerin ağrı ve şişliği azaltabildiğini belirtir [1]; bir derleme ise bunların, bazı hayvan çalışmalarında kırık iyileşmesini engelleyebildiği için dikkatle kullanılmasını önerir; hangisinin uygun olduğu eczacıya ya da hekime sorulabilir [3].",
+      "Spora dönüş yavaş ve kademeli olmalıdır: hekim izin verdikten sonra önce etkinlik ve dinlenme günleri dönüşümlü tutulur, ardından egzersizin sıklığı, süresi ve yoğunluğu yavaş yavaş artırılır [1][2]. Etkinliğe erken dönmek iyileşmeyi geciktirebilir ve kemiğin tümüyle kırılma riskini artırır [2]."
+     ]
+    },
+    {
+     "h": "Yüksek riskli stres kırıkları ve ameliyat",
+     "p": [
+      "Stres kırıklarının büyük çoğunluğu ameliyatsız iyileşir [4]. Bazı bölgelerdeki kırıklar ise tam kırığa ilerleme, geç kaynama ya da kaynamama riski taşıdığı için yüksek riskli sayılır; uyluk boynunun üst-dış kısmı, kaval kemiğinin ön yüzü, naviküler kemik ve beşinci tarak kemiği bunlardandır [3]. Bir sistematik derleme, ameliyat ile ameliyatsız tedaviyi karşılaştıran çalışmaların küçük, kanıt düzeyinin düşük olduğunu bildirir [5]."
+     ],
+     "list": [
+      "Uyluk boynu (kalça): boynun üst kısmındaki kırıklarda kayma riski daha yüksektir ve tedavide ameliyatla tespit yer alır; kaymamış uyluk kırıklarının çoğu ameliyatsız 8–14 haftada iyileşir [4]",
+      "Naviküler kemik: ameliyatın daha sık önerildiği kırıklardandır [2]; derlemede spora dönüş ameliyatla ortalama 16, ameliyatsız tedaviyle 22 hafta bulunmuştur [5]",
+      "Beşinci tarak kemiğinin tabanı: kanlanması zayıf olduğu için iyileşme daha uzun sürer; spora dönüş genellikle 12 haftadan önce olmaz [2]. Derlemede en iyi sonuçlar ameliyatla alınmıştır [5]",
+      "Kaval kemiğinin ön yüzü: ameliyatsız tedavinin sonuçları yetersiz bulunmuştur; başlangıçta ameliyatın yeri ise bilinmemektedir [5]"
+     ]
+    },
+    {
+     "h": "Ne zaman geçer, nasıl önlenir?",
+     "p": [
+      "Ayak ve ayak bileğindeki stres kırıklarının iyileşmesi genellikle 6–8 hafta sürer [2]. İyileşme genellikle en az 3 hafta alır, ağır kırıklarda 3 ay ya da daha uzun sürebilir [1].",
+      "Bir Cochrane derlemesine göre darbe emici tabanlıklar askerlerde stres kırığı sıklığını büyük olasılıkla azaltır; ısınmada bacak kaslarını germenin anlamlı bir etkisi gösterilememiştir [6]. Önleme için öneriler şunlardır [1][2]:"
+     ],
+     "list": [
+      "Yeni bir etkinliğe ya da spor sezonuna yavaş başlamak; süreyi, hızı ve mesafeyi kademeli artırmak",
+      "Yıpranmış spor ayakkabılarını değiştirmek",
+      "Koşu ve sıçramayı bisiklet ve yüzme gibi etkinliklerle dönüşümlü yapmak",
+      "Gece en az 7 saat uyumak ve haftada bir tam gün dinlenmek",
+      "Harcanan enerjiyi karşılayan, kalsiyum ve D vitamini açısından zengin bir beslenme"
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Stres kırığından kuşkulanıyorsanız en kısa sürede hekime başvurun; ağrıya rağmen egzersize devam etmeyin [1][2]. Şu durumlarda değerlendirme geciktirilmemelidir:"
+     ],
+     "list": [
+      "Koşu ya da yürüyüş eğitimi yapan birinde etkinlikle artan kasık, kalça ya da uyluk ağrısı: uyluk boynundaki stres kırığı yerinden kayabilir, bu nedenle görüntüleme acil olarak yapılır [3][4]",
+      "Olağan yürüyüşte ya da gece yatarken süren ağrı, topallama [1]",
+      "Tanı konmuş bir stres kırığında ağrının birden artması: kırık tümüyle ayrılıp yerinden kaymış olabilir [2]",
+      "Birkaç günlük dinlenmeye rağmen süren ağrı ya da şişlik [2]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Yorgunluk kırığı ile stres kırığı aynı şey mi?",
+     "a": "Evet, yorgunluk kırığı stres kırığının diğer adıdır: tekrarlayan yüklenmeyle kemikte oluşan küçük bir çatlak ya da kemik içi ezilmedir [1][2]. Kemik erimesiyle zayıflamış kemikte olağan yük altında oluşan kırıklar ise ayrı bir durumdur [3]."
+    },
+    {
+     "q": "Stres kırığı röntgende görünür mü?",
+     "a": "Erken dönemde çoğu zaman görünmez; bir derlemeye göre röntgenin başlangıçtaki duyarlılığı yüzde 10'dur [1][3]. Kuşku sürerse MR ya da kemik sintigrafisi kırığı daha erken gösterir [2]."
+    },
+    {
+     "q": "Stres kırığına krem ya da bandaj iyi gelir mi?",
+     "a": "Hasta bilgilendirme kaynaklarında tedavi olarak krem yer almaz; yumuşak bandaj yalnızca şişliği azaltmaya yönelik bir ilk yardım önlemidir [1][2]. Tedavinin temeli kemiğe binen yükü azaltmaktır [1]."
+    },
+    {
+     "q": "Stres kırığı kaç haftada iyileşir?",
+     "a": "Ayaktaki stres kırıkları genellikle 6–8 haftada iyileşir [2]. Kırığın yerine ve ağırlığına göre süre 3 hafta ile 3 ay ya da daha uzun arasında değişebilir [1]."
+    },
+    {
+     "q": "Kalçada stres kırığı nasıl belirti verir?",
+     "a": "Etkinlikle ortaya çıkan kasık, kalça ya da uyluk ağrısı yapar; röntgen genellikle normaldir ve tanı için en iyi yöntem MR'dir [3][4]. Uyluk boynundaki kırık yerinden kayabildiği için görüntüleme geciktirilmez [3][4]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "stress-fracture",
+   "title": "Stress fracture: what are the symptoms and how does it heal?",
+   "description": "What is a stress fracture and what causes it? Symptoms in the foot, heel, shin and hip, diagnosis by X-ray and MRI, treatment and how long healing takes.",
+   "summary": "A stress fracture (also called a fatigue fracture) is a small crack in a bone caused not by a single blow but by repeated loading; it mostly appears in the bones of the leg and foot when activity has been increased over a short time [1][2]. The first X-ray is often normal; the basis of treatment is reducing the load on the bone, and healing usually takes 6 to 8 weeks [1][2][3]. Fractures of the femoral neck (hip), the front of the shin bone and some bones of the foot are regarded as high risk; surgery may be needed [3][4][5].",
+   "sections": [
+    {
+     "h": "What is a stress fracture (fatigue fracture)?",
+     "p": [
+      "A stress fracture is a small crack in a bone, or severe bruising within a bone [1][2]. Bone is constantly broken down and rebuilt; under repeated loading, when breakdown outpaces repair, the bone weakens [1][2]. In the early stage there is only swelling in the bone; if exercise continues despite the pain, the bone can crack [1].",
+      "What sets it apart from an ordinary fracture is how it happens: the repeated force that causes a stress fracture is not as great as the force in fractures that occur in an instant from a fall or a collision [2]. Fractures due to osteoporosis are also a separate matter: bone weakened by a tumour, an infection or osteoporosis breaks under normal load [3]. That subject is covered in the osteoporosis article on this site."
+     ]
+    },
+    {
+     "h": "What causes a stress fracture?",
+     "p": [
+      "The commonest cause is increasing physical activity over a short time; symptoms often appear 3 to 4 weeks after starting a new exercise routine or a new sports season [1][2]. It is common in running and jumping sports and in military personnel; long walks and marching are also among the causes [1][3][7]. The main factors that raise the risk are [1][2][3][7]:"
+     ],
+     "list": [
+      "Training on hard surfaces such as concrete, or a change of surface",
+      "Worn-out shoes that have lost their ability to absorb shock",
+      "Low bone density or a low vitamin D level, osteoporosis, the menopause",
+      "Eating too little for the energy used (relative energy deficiency in sport, REDs)",
+      "Being female, older age and a previous stress fracture"
+     ]
+    },
+    {
+     "h": "Where do stress fractures occur?",
+     "p": [
+      "Most stress fractures occur in the leg and foot, in the bones that carry body weight [1][4]. The shin bone (tibia) is the most commonly affected site; the navicular and metatarsal bones of the foot, the thigh bone and the pelvis can also be affected [3][4]. Fractures of the foot and toes are covered in a separate article on this site."
+     ],
+     "list": [
+      "Leg (shin bone): pain, tenderness and swelling at one particular spot; tenderness spread along the inner back edge of the bone with no swelling suggests medial tibial stress syndrome instead [3]",
+      "Foot: most often the second and third metatarsals; there may be swelling on the top of the foot [2]",
+      "Heel: the heel bone is the second most common site of stress fracture in the foot [2]",
+      "Hip and thigh: depending on where the fracture is, it can cause pain in the hip, groin, buttock, thigh or knee [4]",
+      "Lower back: stress fractures can also occur in the lumbar vertebrae [3]; spinal problems are assessed by the relevant specialty"
+     ]
+    },
+    {
+     "h": "What are the symptoms?",
+     "p": [
+      "At first there is discomfort at one particular spot on the bone, felt only at the end of activity and for a short time afterwards [1]. The pain develops gradually, gets worse during weight-bearing activity and eases with rest [2]. If loading continues, the following may be added [1][2]:"
+     ],
+     "list": [
+      "Pain throughout activity, with ordinary walking and during daily tasks",
+      "Limping",
+      "Aching in bed at night",
+      "Tenderness when the bone is pressed",
+      "Swelling, sometimes bruising"
+     ]
+    },
+    {
+     "h": "How is it diagnosed? Why can the first X-ray be clear?",
+     "p": [
+      "The doctor asks how the symptoms began and about changes in your level of activity; on examination they press on the bone to see whether the tenderness is confined to one spot [1][2]. For fractures in the leg you may be asked to hop on that leg [1][4].",
+      "The first imaging test is an X-ray, but in the early period it is often normal: swelling in the bone cannot be seen on X-ray, and the crack is very fine to begin with [1][2]. According to one review, the sensitivity of X-ray is 10% at the outset; if an urgent diagnosis is not needed, the X-ray may be repeated after 2 to 3 weeks [3]. If suspicion remains, an MRI or a bone scan may be requested; both show the fracture earlier than X-ray does [2]. MRI is currently regarded as the most sensitive and specific test [4]."
+     ]
+    },
+    {
+     "h": "How does a stress fracture heal? Treatment",
+     "p": [
+      "The aim of treatment is to reduce the load on the bone so that it can heal [1]. The activity that causes the pain is stopped for a time; activities such as swimming and cycling can be done meanwhile [1][2]. If walking is painful, a hard-soled shoe, a walking boot or crutches reduce the load further [1]. For some fractures a cast is applied, and it is usually removed after 4 to 6 weeks [2][7].",
+      "The patient information sources this article is based on do not list any cream or ointment as a treatment [1][2][7]. Wrapping the area lightly in a soft bandage, applying ice and keeping the foot raised are first-aid measures aimed at reducing swelling [2]. The American Academy of Orthopaedic Surgeons (AAOS) states that anti-inflammatory painkillers can help relieve pain and reduce swelling [1]; one review, however, advises using them with caution because some animal studies have shown that they may inhibit fracture healing; a pharmacist or doctor can advise on which painkiller is suitable [3].",
+      "The return to sport must be slow and gradual: once the doctor has given clearance, days of activity are first alternated with days of rest, and then the frequency, duration and intensity of exercise are slowly increased [1][2]. Returning to activity too soon can delay healing and increases the risk of the bone breaking completely [2]."
+     ]
+    },
+    {
+     "h": "High-risk stress fractures and surgery",
+     "p": [
+      "The great majority of stress fractures heal without surgery [4]. Fractures at certain sites, however, are regarded as high risk because they may progress to a complete fracture, heal late or fail to unite; these include the upper outer part of the femoral neck, the front of the shin bone, the navicular and the fifth metatarsal [3]. A systematic review reports that the studies comparing surgical and non-surgical treatment are small and that the level of evidence is low [5]."
+     ],
+     "list": [
+      "Femoral neck (hip): fractures in the upper part of the neck carry a greater risk of displacement and their management includes surgical fixation; most undisplaced femoral stress fractures heal without surgery in 8 to 14 weeks [4]",
+      "Navicular: one of the fractures for which surgery is more commonly recommended [2]; in the review, return to sport averaged 16 weeks with surgery and 22 weeks with non-surgical treatment [5]",
+      "Base of the fifth metatarsal: because its blood supply is poor, healing takes longer; return to sport is usually not possible before 12 weeks [2]. In the review the best results were obtained with surgery [5]",
+      "Front of the shin bone: the results of non-surgical treatment were found to be unsatisfactory, while the role of surgery at the outset is unknown [5]"
+     ]
+    },
+    {
+     "h": "How long does it take to heal, and how is it prevented?",
+     "p": [
+      "Stress fractures of the foot and ankle typically take 6 to 8 weeks to heal [2]. Healing usually takes at least 3 weeks, and for more severe fractures it can take 3 months or longer [1].",
+      "According to a Cochrane review, shock-absorbing insoles probably reduce the incidence of stress fractures in military personnel; stretching the leg muscles during warm-up has not been shown to have a significant effect [6]. The recommendations for prevention are [1][2]:"
+     ],
+     "list": [
+      "Starting a new activity or sports season slowly; increasing time, speed and distance gradually",
+      "Replacing worn-out sports shoes",
+      "Alternating running and jumping with activities such as cycling and swimming",
+      "Sleeping at least 7 hours a night and taking one full rest day a week",
+      "A diet that covers the energy used and is rich in calcium and vitamin D"
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "If you think you have a stress fracture, see a doctor as soon as possible; do not carry on exercising through the pain [1][2]. Assessment should not be delayed in the following situations:"
+     ],
+     "list": [
+      "Groin, hip or thigh pain that increases with activity in someone who is running or in marching training: a stress fracture of the femoral neck can displace, so imaging is done urgently [3][4]",
+      "Pain that continues with ordinary walking or when lying in bed at night, or a limp [1]",
+      "A sudden increase in pain in a stress fracture that has already been diagnosed: the fracture may have broken completely and displaced [2]",
+      "Pain or swelling that continues despite a few days of rest [2]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Are a fatigue fracture and a stress fracture the same thing?",
+     "a": "Yes, fatigue fracture is another name for a stress fracture: a small crack in a bone, or bruising within it, caused by repeated loading [1][2]. Fractures that occur under normal load in bone weakened by osteoporosis are a separate matter [3]."
+    },
+    {
+     "q": "Does a stress fracture show on an X-ray?",
+     "a": "In the early period it often does not; according to one review the sensitivity of X-ray at the outset is 10% [1][3]. If suspicion remains, an MRI or a bone scan shows the fracture earlier [2]."
+    },
+    {
+     "q": "Does a cream or a bandage help a stress fracture?",
+     "a": "Patient information sources do not list any cream as a treatment; a soft bandage is only a first-aid measure aimed at reducing swelling [1][2]. The basis of treatment is reducing the load on the bone [1]."
+    },
+    {
+     "q": "How many weeks does a stress fracture take to heal?",
+     "a": "Stress fractures of the foot typically heal in 6 to 8 weeks [2]. Depending on the site and severity of the fracture, the time can range from 3 weeks to 3 months or longer [1]."
+    },
+    {
+     "q": "What does a stress fracture in the hip feel like?",
+     "a": "It causes pain in the groin, hip or thigh that comes on with activity; the X-ray is usually normal and MRI is the best test for diagnosis [3][4]. Because a fracture of the femoral neck can displace, imaging is not delayed [3][4]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "stressovyj-ustalostnyj-perelom",
+   "title": "Стрессовый (усталостный) перелом: каковы симптомы и как он заживает?",
+   "description": "Что такое стрессовый (усталостный) перелом и отчего он возникает? Симптомы в стопе, пятке, голени и бедре, рентген и МРТ, лечение и сроки заживления.",
+   "summary": "Стрессовый (усталостный) перелом — это небольшая трещина в кости, которая возникает не от одного удара, а от повторяющейся нагрузки; чаще всего он появляется в костях голени и стопы, когда нагрузку увеличили за короткое время [1][2]. Первый рентгеновский снимок часто нормален; основа лечения — уменьшить нагрузку на кость, а заживление обычно занимает 6–8 недель [1][2][3]. Переломы шейки бедренной кости (тазобедренный сустав), передней поверхности большеберцовой кости и некоторых костей стопы считаются переломами высокого риска; может потребоваться операция [3][4][5].",
+   "sections": [
+    {
+     "h": "Что такое стрессовый (усталостный) перелом?",
+     "p": [
+      "Стрессовый перелом — это небольшая трещина в кости или сильный ушиб внутри кости [1][2]. Костная ткань постоянно разрушается и строится заново; когда при повторяющейся нагрузке разрушение опережает восстановление, кость слабеет [1][2]. На ранней стадии в кости есть только отёк; если продолжать тренировки, несмотря на боль, в кости может появиться трещина [1].",
+      "От обычного перелома он отличается тем, как возникает: повторяющаяся сила, которая вызывает стрессовый перелом, не так велика, как при переломах, происходящих в один момент при падении или ударе [2]. Переломы на фоне остеопороза — тоже отдельное состояние: кость, ослабленная опухолью, инфекцией или остеопорозом, ломается под обычной нагрузкой [3]. Об этом рассказано в статье об остеопорозе на этом сайте."
+     ]
+    },
+    {
+     "h": "Отчего возникает стрессовый перелом?",
+     "p": [
+      "Самая частая причина — увеличение физической нагрузки за короткое время; жалобы часто появляются через 3–4 недели после начала новой программы тренировок или нового спортивного сезона [1][2]. Такой перелом часто встречается в видах спорта с бегом и прыжками и у военнослужащих; к причинам относятся также долгая ходьба и марши [1][3][7]. Основные факторы, повышающие риск [1][2][3][7]:"
+     ],
+     "list": [
+      "Тренировки на твёрдом покрытии, например на бетоне, или смена покрытия",
+      "Изношенная обувь, которая перестала гасить удар",
+      "Низкая плотность костей или низкий уровень витамина D, остеопороз, менопауза",
+      "Питание, не покрывающее затраты энергии (относительный дефицит энергии в спорте, REDs)",
+      "Женский пол, старший возраст и стрессовый перелом в прошлом"
+     ]
+    },
+    {
+     "h": "Где бывает стрессовый перелом?",
+     "p": [
+      "Большая часть стрессовых переломов приходится на голень и стопу — кости, которые несут вес тела [1][4]. Чаще всего страдает большеберцовая кость; могут быть затронуты также ладьевидная и плюсневые кости стопы, бедренная кость и кости таза [3][4]. Переломам стопы и пальцев стопы на этом сайте посвящена отдельная статья."
+     ],
+     "list": [
+      "Голень (большеберцовая кость): боль, болезненность и отёк в одной определённой точке; если же болезненность разлита вдоль внутренне-заднего края кости, а отёка нет, это говорит в пользу медиального большеберцового стресс-синдрома [3]",
+      "Стопа: чаще всего вторая и третья плюсневые кости; возможен отёк в верхней части стопы [2]",
+      "Пятка: пяточная кость — второе по частоте место стрессового перелома в стопе [2]",
+      "Тазобедренный сустав и бедро: в зависимости от места перелома может болеть область тазобедренного сустава, пах, ягодица, бедро или колено [4]",
+      "Поясница: стрессовые переломы бывают и в поясничных позвонках [3]; проблемы позвоночника оценивает врач соответствующей специальности"
+     ]
+    },
+    {
+     "h": "Каковы симптомы?",
+     "p": [
+      "Вначале в одной определённой точке кости появляется неприятное ощущение, которое чувствуется только в конце нагрузки и недолго после неё [1]. Боль развивается постепенно, усиливается при нагрузке весом тела и уменьшается в покое [2]. Если нагрузка продолжается, могут добавиться такие симптомы [1][2]:"
+     ],
+     "list": [
+      "Боль на протяжении всей нагрузки, при обычной ходьбе и в повседневных делах",
+      "Хромота",
+      "Ноющая боль ночью в постели",
+      "Болезненность при надавливании на кость",
+      "Отёк, иногда синяк"
+     ]
+    },
+    {
+     "h": "Как его распознают? Почему первый рентген может быть «чистым»?",
+     "p": [
+      "Врач спрашивает, как начались жалобы и как менялся уровень нагрузки; при осмотре он надавливает на кость, чтобы понять, сосредоточена ли болезненность в одной точке [1][2]. При переломах в ноге вас могут попросить попрыгать на этой ноге [1][4].",
+      "Первое исследование — рентген, но на раннем этапе снимок часто нормален: отёк кости на рентгене не виден, а трещина поначалу очень тонкая [1][2]. По данным одного обзора, чувствительность рентгена вначале составляет 10%; если срочный диагноз не нужен, снимок можно повторить через 2–3 недели [3]. Если подозрение остаётся, могут назначить МРТ или сцинтиграфию костей; оба метода показывают перелом раньше, чем рентген [2]. МРТ сегодня считается самым чувствительным и специфичным методом [4]."
+     ]
+    },
+    {
+     "h": "Как проходит стрессовый перелом? Лечение",
+     "p": [
+      "Цель лечения — уменьшить нагрузку на кость, чтобы она могла зажить [1]. Нагрузку, которая вызывает боль, на время прекращают; в этот период можно заниматься, например, плаванием и ездой на велосипеде [1][2]. Если больно ходить, нагрузку дополнительно снижают обувь на жёсткой подошве, ортопедический сапожок или костыли [1]. При некоторых переломах накладывают гипс; обычно его снимают через 4–6 недель [2][7].",
+      "В источниках для пациентов, на которых основана эта статья, кремы и мази как лечение не упоминаются [1][2][7]. Лёгкое бинтование мягким бинтом, холод и возвышенное положение стопы — меры первой помощи, направленные на уменьшение отёка [2]. Американская академия хирургов-ортопедов (AAOS) указывает, что противовоспалительные обезболивающие могут уменьшить боль и отёк [1]; в одном обзоре, однако, советуют применять их с осторожностью, поскольку в некоторых исследованиях на животных они могли тормозить заживление перелома; какое обезболивающее подходит, можно спросить у фармацевта или врача [3].",
+      "Возвращение к спорту должно быть медленным и постепенным: после разрешения врача сначала чередуют дни нагрузки и дни отдыха, а затем понемногу увеличивают частоту, продолжительность и интенсивность занятий [1][2]. Слишком раннее возвращение к нагрузке может задержать заживление и повышает риск полного перелома кости [2]."
+     ]
+    },
+    {
+     "h": "Стрессовые переломы высокого риска и операция",
+     "p": [
+      "Подавляющее большинство стрессовых переломов заживает без операции [4]. Однако переломы некоторых локализаций считаются переломами высокого риска, поскольку могут перейти в полный перелом, срастаться с задержкой или не срастись; к ним относятся верхненаружная часть шейки бедренной кости, передняя поверхность большеберцовой кости, ладьевидная кость и пятая плюсневая кость [3]. Один систематический обзор сообщает, что исследования, сравнивающие оперативное и консервативное лечение, невелики, а уровень доказательности низок [5]."
+     ],
+     "list": [
+      "Шейка бедренной кости (тазобедренный сустав): при переломах в верхней части шейки риск смещения выше, и лечение включает оперативную фиксацию; большинство стрессовых переломов бедренной кости без смещения заживает без операции за 8–14 недель [4]",
+      "Ладьевидная кость: один из переломов, при которых операцию рекомендуют чаще [2]; в обзоре возвращение к спорту занимало в среднем 16 недель после операции и 22 недели при консервативном лечении [5]",
+      "Основание пятой плюсневой кости: из-за слабого кровоснабжения заживление идёт дольше; вернуться к спорту обычно удаётся не раньше чем через 12 недель [2]. В обзоре лучшие результаты получены при операции [5]",
+      "Передняя поверхность большеберцовой кости: результаты консервативного лечения признаны неудовлетворительными, а роль операции на начальном этапе неизвестна [5]"
+     ]
+    },
+    {
+     "h": "Когда он пройдёт и как его предупредить?",
+     "p": [
+      "Заживление стрессовых переломов стопы и голеностопа обычно занимает 6–8 недель [2]. Как правило, на заживление уходит не менее 3 недель, а при тяжёлых переломах — 3 месяца и более [1].",
+      "По данным кокрейновского обзора, амортизирующие стельки, вероятно, снижают частоту стрессовых переломов у военнослужащих; значимого эффекта от растяжки мышц ног во время разминки показать не удалось [6]. Рекомендации по профилактике таковы [1][2]:"
+     ],
+     "list": [
+      "Начинать новый вид нагрузки или спортивный сезон медленно; постепенно увеличивать время, скорость и дистанцию",
+      "Менять изношенную спортивную обувь",
+      "Чередовать бег и прыжки с такими занятиями, как велосипед и плавание",
+      "Спать не менее 7 часов в сутки и раз в неделю отдыхать целый день",
+      "Питание, которое покрывает затраты энергии и богато кальцием и витамином D"
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Если вы подозреваете у себя стрессовый перелом, обратитесь к врачу как можно скорее; не продолжайте тренировки через боль [1][2]. Откладывать осмотр не следует в таких случаях:"
+     ],
+     "list": [
+      "Боль в паху, в области тазобедренного сустава или в бедре, которая усиливается при нагрузке у человека, занимающегося бегом или маршевой подготовкой: стрессовый перелом шейки бедренной кости может сместиться, поэтому исследование выполняют срочно [3][4]",
+      "Боль, которая сохраняется при обычной ходьбе или ночью в постели, либо хромота [1]",
+      "Внезапное усиление боли при уже установленном стрессовом переломе: кость могла сломаться полностью и сместиться [2]",
+      "Боль или отёк, которые не проходят, несмотря на несколько дней отдыха [2]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Усталостный и стрессовый перелом — это одно и то же?",
+     "a": "Да, усталостный перелом — другое название стрессового перелома: это небольшая трещина в кости или ушиб внутри неё, возникающие от повторяющейся нагрузки [1][2]. Переломы, которые происходят под обычной нагрузкой в кости, ослабленной остеопорозом, — отдельное состояние [3]."
+    },
+    {
+     "q": "Виден ли стрессовый перелом на рентгене?",
+     "a": "На раннем этапе чаще всего не виден; по данным одного обзора, чувствительность рентгена вначале составляет 10% [1][3]. Если подозрение остаётся, МРТ или сцинтиграфия костей показывают перелом раньше [2]."
+    },
+    {
+     "q": "Помогают ли при стрессовом переломе крем или бинт?",
+     "a": "В источниках для пациентов кремы как лечение не упоминаются; мягкий бинт — лишь мера первой помощи для уменьшения отёка [1][2]. Основа лечения — уменьшить нагрузку на кость [1]."
+    },
+    {
+     "q": "За сколько недель заживает стрессовый перелом?",
+     "a": "Стрессовые переломы стопы обычно заживают за 6–8 недель [2]. В зависимости от места и тяжести перелома срок может составлять от 3 недель до 3 месяцев и более [1]."
+    },
+    {
+     "q": "Как проявляется стрессовый перелом в области тазобедренного сустава?",
+     "a": "Он вызывает боль в паху, в области тазобедренного сустава или в бедре, которая появляется при нагрузке; рентген обычно нормален, а лучший метод диагностики — МРТ [3][4]. Поскольку перелом шейки бедренной кости может сместиться, исследование не откладывают [3][4]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "shekastegi-esteresi",
+   "title": "شکستگی استرسی (شکستگی ناشی از خستگی): علائم آن چیست و چگونه خوب می‌شود؟",
+   "description": "شکستگی استرسی چیست و چرا رخ می‌دهد؟ علائم آن در پا، پاشنه، ساق و لگن، تشخیص با عکس رادیولوژی و ام‌آرآی، درمان و مدت بهبود.",
+   "summary": "شکستگی استرسی (شکستگی ناشی از خستگی) ترک کوچکی در استخوان است که نه با یک ضربه، بلکه بر اثر فشار تکراری ایجاد می‌شود؛ بیشتر زمانی که فعالیت در مدت کوتاهی افزایش یافته باشد، در استخوان‌های ساق و پا دیده می‌شود [1][2]. نخستین عکس رادیولوژی بیشتر وقت‌ها طبیعی است؛ پایهٔ درمان کم کردن باری است که روی استخوان می‌افتد و بهبود معمولاً ۶ تا ۸ هفته طول می‌کشد [1][2][3]. شکستگی‌های گردن استخوان ران (لگن)، سطح جلویی استخوان درشت‌نی و برخی استخوان‌های پا پرخطر به شمار می‌آیند؛ ممکن است جراحی لازم شود [3][4][5].",
+   "sections": [
+    {
+     "h": "شکستگی استرسی (شکستگی ناشی از خستگی) چیست؟",
+     "p": [
+      "شکستگی استرسی ترک کوچکی در استخوان یا کوفتگی شدید درون استخوان است [1][2]. استخوان پیوسته تخریب و دوباره ساخته می‌شود؛ هنگامی که در فشار تکراری تخریب از ترمیم پیشی بگیرد، استخوان ضعیف می‌شود [1][2]. در مرحلهٔ آغازین فقط تورم در استخوان وجود دارد؛ اگر با وجود درد ورزش ادامه یابد، استخوان ممکن است ترک بخورد [1].",
+      "تفاوت آن با شکستگی معمولی در شیوهٔ پدید آمدن است: نیروی تکراری‌ای که شکستگی استرسی را ایجاد می‌کند به بزرگی نیرو در شکستگی‌هایی نیست که در یک لحظه بر اثر زمین خوردن یا برخورد رخ می‌دهند [2]. شکستگی‌های ناشی از پوکی استخوان نیز وضعیت جداگانه‌ای هستند: استخوانی که بر اثر تومور، عفونت یا پوکی استخوان ضعیف شده است زیر بار عادی می‌شکند [3]. این موضوع در نوشتهٔ پوکی استخوان در همین سایت بررسی شده است."
+     ]
+    },
+    {
+     "h": "شکستگی استرسی چرا رخ می‌دهد؟",
+     "p": [
+      "شایع‌ترین علت، افزایش فعالیت بدنی در مدت کوتاه است؛ علائم بیشتر وقت‌ها ۳ تا ۴ هفته پس از شروع یک برنامهٔ ورزشی تازه یا فصل ورزشی جدید پدیدار می‌شوند [1][2]. این شکستگی در ورزش‌های همراه با دویدن و پریدن و در نظامیان شایع است؛ پیاده‌روی‌های طولانی و راه‌پیمایی نظامی نیز از علت‌ها هستند [1][3][7]. عوامل اصلی افزایش‌دهندهٔ خطر این‌ها هستند [1][2][3][7]:"
+     ],
+     "list": [
+      "تمرین روی سطح سخت مانند بتن یا تغییر سطح تمرین",
+      "کفش‌های کهنه که توان جذب ضربه را از دست داده‌اند",
+      "پایین بودن تراکم استخوان یا سطح ویتامین D، پوکی استخوان، دوران یائسگی",
+      "تغذیهٔ ناکافی نسبت به انرژی مصرف‌شده (کمبود نسبی انرژی در ورزش، REDs)",
+      "زن بودن، سن بالا و سابقهٔ شکستگی استرسی"
+     ]
+    },
+    {
+     "h": "شکستگی استرسی در کجا رخ می‌دهد؟",
+     "p": [
+      "بخش بزرگی از شکستگی‌های استرسی در ساق و پا، در استخوان‌هایی که وزن بدن را تحمل می‌کنند، دیده می‌شود [1][4]. شایع‌ترین محل استخوان درشت‌نی (تیبیا) است؛ استخوان ناوی و استخوان‌های کف پا (متاتارس)، استخوان ران و استخوان‌های لگن خاصره نیز ممکن است درگیر شوند [3][4]. شکستگی‌های پا و انگشتان پا در نوشتهٔ جداگانه‌ای در همین سایت بررسی می‌شوند."
+     ],
+     "list": [
+      "ساق (استخوان درشت‌نی): درد، حساسیت به فشار و تورم در یک نقطهٔ مشخص؛ اگر حساسیت در طول لبهٔ داخلی و پشتی استخوان گسترده باشد و تورم وجود نداشته باشد، سندرم فشار داخلی درشت‌نی مطرح است [3]",
+      "پا: بیشتر در استخوان‌های دوم و سوم کف پا دیده می‌شود؛ ممکن است روی پا متورم باشد [2]",
+      "پاشنه: استخوان پاشنه دومین محل شایع شکستگی استرسی در پا است [2]",
+      "لگن و ران: بسته به محل شکستگی ممکن است در لگن، کشالهٔ ران، باسن، ران یا زانو درد ایجاد کند [4]",
+      "کمر: شکستگی استرسی در مهره‌های کمر نیز دیده می‌شود [3]؛ مشکلات ستون فقرات را تخصص مربوط ارزیابی می‌کند"
+     ]
+    },
+    {
+     "h": "علائم آن چیست؟",
+     "p": [
+      "در آغاز، در یک نقطهٔ مشخص از استخوان ناراحتی‌ای وجود دارد که فقط در پایان فعالیت و مدت کوتاهی پس از آن حس می‌شود [1]. درد به‌تدریج ایجاد می‌شود، در فعالیت‌هایی که وزن روی اندام می‌افتد بیشتر می‌شود و با استراحت کم می‌شود [2]. اگر فشار ادامه یابد، این علائم ممکن است افزوده شوند [1][2]:"
+     ],
+     "list": [
+      "دردی که در سراسر فعالیت، در راه رفتن عادی و در کارهای روزمره ادامه دارد",
+      "لنگیدن",
+      "درد مبهم شبانه در بستر",
+      "حساسیت هنگام فشار دادن روی استخوان",
+      "تورم و گاهی کبودی"
+     ]
+    },
+    {
+     "h": "چگونه تشخیص داده می‌شود؟ چرا نخستین عکس ممکن است سالم باشد؟",
+     "p": [
+      "پزشک می‌پرسد علائم چگونه شروع شده‌اند و سطح فعالیت چه تغییری کرده است؛ در معاینه روی استخوان فشار می‌دهد تا ببیند حساسیت در یک نقطه متمرکز است یا نه [1][2]. در شکستگی‌های ساق و ران ممکن است از بیمار خواسته شود روی همان پا بپرد [1][4].",
+      "نخستین تصویربرداری عکس رادیولوژی است، اما در مراحل آغازین بیشتر وقت‌ها طبیعی است: تورم استخوان در عکس رادیولوژی دیده نمی‌شود و ترک در آغاز بسیار ظریف است [1][2]. بر پایهٔ یک مقالهٔ مروری، حساسیت عکس رادیولوژی در آغاز ۱۰ درصد است؛ اگر تشخیص فوری لازم نباشد، می‌توان عکس را ۲ تا ۳ هفته بعد تکرار کرد [3]. اگر شک باقی باشد، ممکن است ام‌آرآی یا اسکن استخوان درخواست شود؛ هر دو شکستگی را زودتر از عکس رادیولوژی نشان می‌دهند [2]. ام‌آرآی امروزه حساس‌ترین و اختصاصی‌ترین روش به شمار می‌آید [4]."
+     ]
+    },
+    {
+     "h": "شکستگی استرسی چگونه خوب می‌شود؟ درمان",
+     "p": [
+      "هدف درمان کم کردن بار روی استخوان است تا بتواند ترمیم شود [1]. فعالیتی که درد ایجاد می‌کند برای مدتی کنار گذاشته می‌شود؛ در این مدت می‌توان فعالیت‌هایی مانند شنا و دوچرخه‌سواری انجام داد [1][2]. اگر راه رفتن دردناک باشد، کفش با کف سفت، بوت طبی یا عصای زیر بغل بار را بیشتر کم می‌کند [1]. در برخی شکستگی‌ها گچ گرفته می‌شود؛ گچ معمولاً پس از ۴ تا ۶ هفته برداشته می‌شود [2][7].",
+      "در منابع آموزش بیمار که این نوشته بر آن‌ها تکیه دارد، کرم یا پماد به‌عنوان درمان نیامده است [1][2][7]. بستن سبک با بانداژ نرم، گذاشتن یخ و بالا نگه داشتن پا اقدام‌های کمک‌های اولیه برای کم کردن تورم هستند [2]. آکادمی جراحان ارتوپدی آمریکا (AAOS) بیان می‌کند که مسکن‌های ضدالتهاب می‌توانند درد و تورم را کم کنند [1]؛ اما یک مقالهٔ مروری توصیه می‌کند این داروها با احتیاط مصرف شوند، زیرا در برخی مطالعات حیوانی توانسته‌اند ترمیم شکستگی را مهار کنند؛ دربارهٔ اینکه کدام مسکن مناسب است می‌توان از داروساز یا پزشک پرسید [3].",
+      "بازگشت به ورزش باید آهسته و تدریجی باشد: پس از اجازهٔ پزشک، نخست روزهای فعالیت و روزهای استراحت یک‌درمیان می‌شوند و سپس دفعات، مدت و شدت ورزش کم‌کم افزایش می‌یابد [1][2]. بازگشت زودهنگام به فعالیت ممکن است بهبود را به تأخیر بیندازد و خطر شکستن کامل استخوان را بالا می‌برد [2]."
+     ]
+    },
+    {
+     "h": "شکستگی‌های استرسی پرخطر و جراحی",
+     "p": [
+      "بیشترِ شکستگی‌های استرسی بدون جراحی بهبود می‌یابند [4]. اما شکستگی در برخی محل‌ها پرخطر به شمار می‌آید، زیرا ممکن است به شکستگی کامل پیش برود، دیر جوش بخورد یا جوش نخورد؛ بخش بالایی و بیرونی گردن استخوان ران، سطح جلویی استخوان درشت‌نی، استخوان ناوی و استخوان پنجم کف پا از این محل‌ها هستند [3]. یک مرور نظام‌مند گزارش می‌کند که مطالعات مقایسه‌کنندهٔ درمان جراحی و غیرجراحی کوچک‌اند و سطح شواهد پایین است [5]."
+     ],
+     "list": [
+      "گردن استخوان ران (لگن): در شکستگی‌های بخش بالایی گردن خطر جابه‌جایی بیشتر است و درمان شامل ثابت کردن با جراحی است؛ بیشترِ شکستگی‌های استرسی بدون جابه‌جاییِ استخوان ران بدون جراحی طی ۸ تا ۱۴ هفته بهبود می‌یابند [4]",
+      "استخوان ناوی: از شکستگی‌هایی است که جراحی در آن‌ها بیشتر توصیه می‌شود [2]؛ در این مرور، بازگشت به ورزش با جراحی به‌طور میانگین ۱۶ هفته و با درمان غیرجراحی ۲۲ هفته بوده است [5]",
+      "قاعدهٔ استخوان پنجم کف پا: چون خون‌رسانی آن ضعیف است، بهبود بیشتر طول می‌کشد؛ بازگشت به ورزش معمولاً پیش از ۱۲ هفته ممکن نیست [2]. در این مرور بهترین نتایج با جراحی به دست آمده است [5]",
+      "سطح جلویی استخوان درشت‌نی: نتایج درمان غیرجراحی نامطلوب بوده است و جایگاه جراحی از همان آغاز روشن نیست [5]"
+     ]
+    },
+    {
+     "h": "چه زمانی خوب می‌شود و چگونه می‌توان پیشگیری کرد؟",
+     "p": [
+      "بهبود شکستگی‌های استرسی پا و مچ پا معمولاً ۶ تا ۸ هفته طول می‌کشد [2]. بهبود معمولاً دست‌کم ۳ هفته زمان می‌برد و در شکستگی‌های شدیدتر ممکن است ۳ ماه یا بیشتر طول بکشد [1].",
+      "بر پایهٔ یک مرور کاکرین، کفی‌های ضربه‌گیر احتمالاً بروز شکستگی استرسی را در نظامیان کم می‌کنند؛ برای کشش عضلات پا هنگام گرم کردن اثر معناداری نشان داده نشده است [6]. توصیه‌ها برای پیشگیری این‌ها هستند [1][2]:"
+     ],
+     "list": [
+      "آهسته شروع کردن فعالیت تازه یا فصل ورزشی جدید؛ افزایش تدریجی زمان، سرعت و مسافت",
+      "عوض کردن کفش‌های ورزشی فرسوده",
+      "یک‌درمیان کردن دویدن و پریدن با فعالیت‌هایی مانند دوچرخه‌سواری و شنا",
+      "دست‌کم ۷ ساعت خواب شبانه و یک روز استراحت کامل در هفته",
+      "تغذیه‌ای که انرژی مصرف‌شده را تأمین کند و سرشار از کلسیم و ویتامین D باشد"
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "اگر به شکستگی استرسی شک دارید، در نخستین فرصت به پزشک مراجعه کنید؛ با وجود درد به ورزش ادامه ندهید [1][2]. در این موارد ارزیابی نباید به تأخیر بیفتد:"
+     ],
+     "list": [
+      "درد کشالهٔ ران، لگن یا ران که با فعالیت بیشتر می‌شود، در کسی که می‌دود یا آموزش راه‌پیمایی نظامی می‌بیند: شکستگی استرسی گردن استخوان ران ممکن است جابه‌جا شود و به همین دلیل تصویربرداری فوری انجام می‌شود [3][4]",
+      "دردی که در راه رفتن عادی یا شب در بستر ادامه دارد، یا لنگیدن [1]",
+      "شدت گرفتن ناگهانی درد در شکستگی استرسیِ تشخیص‌داده‌شده: ممکن است استخوان کاملاً شکسته و جابه‌جا شده باشد [2]",
+      "درد یا تورمی که با وجود چند روز استراحت ادامه دارد [2]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "آیا شکستگی ناشی از خستگی همان شکستگی استرسی است؟",
+     "a": "بله، شکستگی ناشی از خستگی نام دیگر شکستگی استرسی است: ترک کوچکی در استخوان یا کوفتگی درون آن که بر اثر فشار تکراری ایجاد می‌شود [1][2]. شکستگی‌هایی که در استخوانِ ضعیف‌شده بر اثر پوکی استخوان زیر بار عادی رخ می‌دهند وضعیت جداگانه‌ای هستند [3]."
+    },
+    {
+     "q": "آیا شکستگی استرسی در عکس رادیولوژی دیده می‌شود؟",
+     "a": "در مراحل آغازین بیشتر وقت‌ها دیده نمی‌شود؛ بر پایهٔ یک مقالهٔ مروری حساسیت عکس رادیولوژی در آغاز ۱۰ درصد است [1][3]. اگر شک باقی باشد، ام‌آرآی یا اسکن استخوان شکستگی را زودتر نشان می‌دهد [2]."
+    },
+    {
+     "q": "آیا کرم یا بانداژ برای شکستگی استرسی مفید است؟",
+     "a": "در منابع آموزش بیمار کرم به‌عنوان درمان نیامده است؛ بانداژ نرم فقط یک اقدام کمک‌های اولیه برای کم کردن تورم است [1][2]. پایهٔ درمان کم کردن باری است که روی استخوان می‌افتد [1]."
+    },
+    {
+     "q": "شکستگی استرسی چند هفته‌ای خوب می‌شود؟",
+     "a": "شکستگی‌های استرسی پا معمولاً طی ۶ تا ۸ هفته بهبود می‌یابند [2]. بسته به محل و شدت شکستگی، این مدت ممکن است از ۳ هفته تا ۳ ماه یا بیشتر باشد [1]."
+    },
+    {
+     "q": "شکستگی استرسی لگن چه علائمی دارد؟",
+     "a": "درد کشالهٔ ران، لگن یا ران ایجاد می‌کند که با فعالیت پدیدار می‌شود؛ عکس رادیولوژی معمولاً طبیعی است و بهترین روش تشخیص ام‌آرآی است [3][4]. چون شکستگی گردن استخوان ران ممکن است جابه‌جا شود، تصویربرداری به تأخیر انداخته نمی‌شود [3][4]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

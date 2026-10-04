@@ -1,0 +1,541 @@
+{
+ "id": "patellofemoral-pain",
+ "area": "diz",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Patellofemoral Pain Syndrome",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/patellofemoral-pain-syndrome/",
+   "year": "n.d."
+  },
+  {
+   "title": "Chondromalacia Patella",
+   "publisher": "StatPearls, NCBI Bookshelf (Habusta SF, et al.)",
+   "url": "https://www.ncbi.nlm.nih.gov/books/NBK459195/",
+   "year": "2023"
+  },
+  {
+   "title": "Patellofemoral Pain: Clinical Practice Guidelines",
+   "publisher": "Journal of Orthopaedic & Sports Physical Therapy (Willy RW, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31475628/",
+   "year": "2019"
+  },
+  {
+   "title": "Exercise for treating patellofemoral pain syndrome",
+   "publisher": "Cochrane Database of Systematic Reviews (van der Heijden RA, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25603546/",
+   "year": "2015"
+  },
+  {
+   "title": "Knee orthoses for treating patellofemoral pain syndrome",
+   "publisher": "Cochrane Database of Systematic Reviews (Smith TO, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26645724/",
+   "year": "2015"
+  },
+  {
+   "title": "Structural Abnormalities on Magnetic Resonance Imaging in Patients With Patellofemoral Pain: A Cross-sectional Case-Control Study",
+   "publisher": "The American Journal of Sports Medicine (van der Heijden RA, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27206691/",
+   "year": "2016"
+  },
+  {
+   "title": "Knee pain",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/knee-pain/",
+   "year": "2023"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "diz-kapagi-agrisi-kondromalazi-patella",
+   "title": "Diz kapağı ağrısı ve kondromalazi patella: neden olur, nasıl geçer?",
+   "description": "Diz kapağı ağrısı neden olur, ne iyi gelir? MR'da kondromalazi patella ve evreleri ne demek, iyileşir mi? Egzersiz, dizlik, bant, iğne ve ameliyatın yeri.",
+   "summary": "Diz kapağı ağrısı (patellofemoral ağrı), dizin önünde, diz kapağının çevresinde ya da arkasında hissedilen ve merdiven, çömelme ve dizler bükülü uzun süre oturmayla artan ağrıdır [1][3]. MR raporundaki \"kondromalazi patella\" diz kapağının arkasındaki kıkırdağın yumuşamasını ve bozulmasını anlatır; hafif kıkırdak kusurları ağrısı olmayanlarda da benzer sıklıkta görülür [1][6]. Temel tedavi kalça ve uyluk kaslarını güçlendiren egzersizdir; ameliyat çok nadiren gerekir [1][3].",
+   "sections": [
+    {
+     "h": "Diz kapağı ağrısı nedir, neden olur?",
+     "p": [
+      "Diz kapağı (patella), diz bükülüp açılırken uyluk kemiğinin ucundaki bir olukta kayar [1]. Dizin önünde, diz kapağının çevresinde ya da arkasında hissedilen ağrıya patellofemoral ağrı denir; \"koşucu dizi\" ve \"ön diz ağrısı\" adlarıyla da bilinir [1][4].",
+      "İki başlıca etken aşırı yüklenme ve diz kapağının oluğunda düzgün kaymamasıdır [1]. Koşu, çömelme ve merdiven çıkma gibi dize yinelenen yük bindiren etkinlikler ya da etkinliğin birden artırılması ağrıyı başlatabilir; bacak dizilimindeki sorunlar ve özellikle uyluğun ön kasındaki (kuadriseps) güçsüzlük de diz kapağının kayışını bozabilir [1]."
+     ]
+    },
+    {
+     "h": "MR raporunda \"kondromalazi patella\" ne demek, evreleri nelerdir?",
+     "p": [
+      "Kondromalazi patella, diz kapağının arka yüzündeki eklem kıkırdağının yumuşaması ve bozulmasıdır; diz kapağı ağrısı olanların bir bölümünde bulunur [1]. Kıkırdakta sinir yoktur; bu yüzden kıkırdak hasarı doğrudan ağrı yapmaz, ancak eklem zarının iltihaplanmasına ve alttaki kemikte ağrıya yol açabilir [1].",
+      "Rapordaki kondromalazi kıkırdağın görünümünü anlatır; tedaviyi tek başına belirlemez [2][6]. 64 hasta ile ağrısı olmayan 70 kişinin MR'larını karşılaştıran bir çalışmada diz kapağındaki hafif kıkırdak kusurları hastaların yüzde 23'ünde, ağrısı olmayanların yüzde 21'inde görülmüş, yapısal değişikliklerin hiçbiri ağrıyla ilişkili bulunmamıştır; çalışmada tam kalınlıkta kıkırdak kaybı olan kimse yoktu [6]. İncelenen kaynak da tedaviyi evreye göre ayırmaz [2].",
+      "Kıkırdağı değerlendirmek için tercih edilen yöntem MR'dır; değişiklik dört evreye ayrılır [2]:"
+     ],
+     "list": [
+      "Evre 1: kıkırdak yüzeyi sağlam, ancak kıkırdak yumuşamış ve şişmiş",
+      "Evre 2: çapı yarım inç (yaklaşık 1,3 santimetre) ya da daha küçük bir alanda yüzeyde yarıklar ve parçalanma",
+      "Evre 3: çapı yarım inçten büyük bir alanda, kıkırdak kalınlığının bir bölümünü tutan kayıp",
+      "Evre 4: alttaki kemiğe kadar inen, tam kalınlıkta kayıp"
+     ]
+    },
+    {
+     "h": "Belirtileri nelerdir, kimlerde görülür?",
+     "p": [
+      "Özellikle ergenleri ve genç yetişkinleri etkiler [4]; spor yapanlarda ve kadınlarda sıktır, ancak spor yapmayanlarda da görülebilir [1].",
+      "En sık belirti dizin önünde künt, sızlayıcı bir ağrıdır; yavaş yavaş başlayabildiği gibi birden de ortaya çıkabilir [1][3]. Amerikan Ortopedi Cerrahları Akademisi'nin (AAOS) saydığı belirtiler arasında dizin şişmesi, kilitlenmesi ya da sıcak ve kızarık olması yer almaz [1]. Tipik özellikler şunlardır [1][3]:"
+     ],
+     "list": [
+      "Merdiven inip çıkarken, çömelirken, koşarken ve sıçrarken ağrı",
+      "Dizler bükülü uzun süre oturduktan sonra ağrı",
+      "Diz çökmekte güçlük",
+      "Merdiven çıkarken ya da uzun süre oturduktan sonra kalkarken dizden gelen çıtırtı"
+     ]
+    },
+    {
+     "h": "Hangi bölüme gidilir, tanı nasıl konur?",
+     "p": [
+      "Diz kapağı ağrısına ortopedi ve travmatoloji bölümü bakar. Tanı genellikle yalnızca muayeneyle konabilir [1]: çömelme gibi hareketlerde ağrının ortaya çıkıp çıkmadığına, bacak dizilimine, diz kapağının hareketine, kalça ve uyluk kaslarının gücüne ve yürüyüşe bakılır [1][3].",
+      "Kemiklerde hasar olmadığını görmek için çoğu zaman röntgen de istenir; MR ise yakınmalar fizyoterapi ve ev egzersizlerine rağmen bir süre sonra düzelmezse istenebilir [1].",
+      "Dizin önündeki her ağrı patellofemoral ağrı değildir. Tendon sorunları, menisküs ve bağ yaralanmaları, kireçlenme, büyüme çağındaki Osgood-Schlatter hastalığı ve diz kapağının çıkması ya da yerinden kayması (instabilite) ayrı durumlardır ve ayrıca değerlendirilir [3]."
+     ]
+    },
+    {
+     "h": "Temel tedavi: kalça ve uyluk kaslarına yönelik egzersiz",
+     "p": [
+      "Amerikan Fizik Tedavi Derneği (APTA) kılavuzu, ağrıyı azaltmak ve işlevi iyileştirmek için kalçaya ve dize yönelik egzersizlerin birlikte uygulanmasını güçlü kanıta dayanarak önerir [3]. Kalça egzersizleri kalçanın arka ve yan kaslarını, diz egzersizleri uyluğun ön kasını çalıştırır [1][3].",
+      "31 çalışmayı inceleyen bir Cochrane derlemesi, egzersizin ağrıyı klinik açıdan önemli ölçüde azaltabileceğine ve işlevi iyileştirebileceğine ilişkin çok düşük kaliteli ama tutarlı kanıt bulmuştur; en iyi egzersiz biçimini belirlemek için kanıt yetersizdir [4]."
+     ]
+    },
+    {
+     "h": "Diz kapağı ağrısına evde ne iyi gelir?",
+     "p": [
+      "İltihap giderici ağrı kesiciler (NSAİİ) ağrıyı azaltabilir [1]; hangisinin size uygun olduğunu eczacınıza ya da hekiminize sorun. Bu yazının dayandığı kaynaklarda ilaç olarak yalnızca ağrı kesiciler yer alır; kıkırdağı yenileyen bir ilaçtan ya da besin desteğinden söz edilmez [1][2]. Evde alınabilecek başlıca önlemler şunlardır [1][7]:"
+     ],
+     "list": [
+      "Ağrıyı artıran etkinliklere ağrı geçene kadar ara vermek",
+      "Sabit bisiklet ve yüzme gibi dize daha az yük bindiren etkinliklere geçmek",
+      "Havluya sarılı buz torbasını 2–3 saatte bir, 20 dakikaya kadar uygulamak",
+      "Fazla kilo varsa kilo vermek",
+      "Antrenmanın yoğunluğunu ve süresini yavaş yavaş artırmak"
+     ]
+    },
+    {
+     "h": "Bant, dizlik, tabanlık ve iğnelerin yeri",
+     "p": [
+      "Bant: Kılavuza göre kişiye göre uygulanan diz kapağı bantlaması, egzersizle birlikte ağrıyı hemen azaltmaya ve kısa vadede (4 hafta) egzersizin sonucunu iyileştirmeye yardımcı olabilir [3].",
+      "Dizlik: Bir Cochrane derlemesi, egzersiz de yapan yetişkinlerde dizliğin kısa vadede (üç aydan kısa sürede) ağrıyı azaltmadığına ve işlevi iyileştirmediğine ilişkin çok düşük kaliteli kanıt bulmuştur [5]; kılavuz da dizlik verilmesini önermez [3].",
+      "Tabanlık: Kılavuz, ayağı normalden fazla içe basan kişilerde hazır tabanlığın kısa süreyle (en çok 6 hafta) ve egzersizle birlikte kullanılmasını önerir [3].",
+      "İğneler: İncelenen kaynağa göre PRP bazen önerilse de standart tedavi değildir ve sonuçları tutarlı biçimde iyileştirdiği gösterilmemiştir; yüksek dozda ya da sık yapılan eklem içi kortizon iğneleri ise kıkırdağı yumuşatabilir [2]. İğne türleri ve kortizonun kıkırdağa etkisine ilişkin tartışma bu rehberde diz iğnesi yazısında anlatılmıştır."
+     ]
+    },
+    {
+     "h": "Ameliyat ne zaman düşünülür, ne kadar sürede iyileşir?",
+     "p": [
+      "Ameliyat çok nadiren gerekir; yalnızca ameliyatsız tedaviye yanıt vermeyen ağır olgularda yapılır [1]. Bir kaynak önce en az bir yıl ameliyatsız tedavi önerir [2]. Seçenekler arasında artroskopiyle (kapalı yöntemle) hasarlı kıkırdağın temizlenmesi ve diz kapağının dizilimini düzelten girişimler vardır [1][2]. Kıkırdak hasarı ve kıkırdak onarım ameliyatları bu rehberde ayrı bir yazıda anlatılmıştır.",
+      "İyileşme bir ay kadar kısa sürebildiği gibi yıllar da alabilir [2]. AAOS'a göre ağrı çoğunlukla basit önlemlerle ya da fizyoterapiyle tümüyle geçer; antrenman düzeni değiştirilmezse yineleyebilir [1]. Fizyoterapi kılavuzu ise bunun kendiliğinden geçen bir durum olmadığını, yıllarca sürebildiğini belirtir; klinik araştırmalara katılanların yarısından fazlası 5–8 yıl sonra kötü sonuç bildirmiştir [3]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Ağrı birkaç hafta içinde düzelmiyorsa ya da dizi hareket ettirmek güçleşiyorsa hekime başvurun [1][7]. Şu durumlarda ise beklemeden bir sağlık kuruluşuna başvurun [7]:"
+     ],
+     "list": [
+      "Diz çok ağrılıysa, hareket ettirilemiyor ya da üzerine hiç basılamıyorsa",
+      "Diz çok şişmiş ya da şekli değişmişse",
+      "Diz kilitleniyor, boşalıyor ya da ağrılı biçimde çıtırdıyorsa",
+      "Yüksek ateş ve titremeyle birlikte dizde kızarıklık ya da sıcaklık varsa (enfeksiyon belirtisi olabilir)",
+      "Bir çarpışma ya da ani yön değiştirmeden sonra diz kapağının şekli değiştiyse (diz kapağı çıkığı olabilir)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kondromalazi patella iyileşir mi?",
+     "a": "Kondromalazi geri dönebilir ya da diz kapağı eklemi kireçlenmesine ilerleyebilir; ağrısı kondromalaziye bağlı hastalar çoğu zaman tam iyileşir [2]. Tedavinin temeli kalça ve uyluk kaslarına yönelik egzersizdir [3]."
+    },
+    {
+     "q": "Kondromalazi patella evre 3 ya da evre 4 ise tedavi nasıl olur?",
+     "a": "İncelenen kaynak evreye göre ayrı bir tedavi tanımlamaz; önce en az bir yıl ameliyatsız tedavi uygulanmasını önerir [2]. Ameliyat çok nadiren, ameliyatsız tedaviye yanıt vermeyen ağır olgularda yapılır [1]."
+    },
+    {
+     "q": "Kondromalazi patella ne kadar sürede iyileşir?",
+     "a": "Kişiden kişiye değişir; iyileşme bir ay kadar kısa sürebildiği gibi yıllar da alabilir [2]. Antrenman düzeni ya da etkinlik düzeyi değiştirilmezse ağrı yineleyebilir [1]."
+    },
+    {
+     "q": "Diz kapağı ağrısı için dizlik takmalı mıyım?",
+     "a": "Egzersiz de yapan yetişkinlerde dizliğin kısa vadede ağrıyı azaltmadığına ve işlevi iyileştirmediğine ilişkin çok düşük kaliteli kanıt vardır [5]. Fizyoterapi kılavuzu bu ağrıda dizlik, diz bandajı ya da diz kapağı bandı verilmesini önermez [3]."
+    },
+    {
+     "q": "Kondromalazi patella için ilaç ya da iğne var mı?",
+     "a": "İltihap giderici ağrı kesiciler ağrıyı azaltabilir [1]; hangisinin uygun olduğunu eczacınıza ya da hekiminize sorun. PRP standart tedavi değildir ve sonuçları tutarlı biçimde iyileştirdiği gösterilmemiştir [2]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "kneecap-pain-chondromalacia-patella",
+   "title": "Kneecap pain and chondromalacia patella: what causes it and how does it settle?",
+   "description": "What causes pain around the kneecap and what helps? Chondromalacia patella on an MRI report and its grades, exercises, braces, taping, injections and surgery.",
+   "summary": "Kneecap pain (patellofemoral pain) is pain felt at the front of the knee, around or behind the kneecap, that gets worse with stairs, squatting and sitting for a long time with the knees bent [1][3]. \"Chondromalacia patella\" on an MRI report describes softening and breakdown of the cartilage behind the kneecap; minor cartilage defects are seen about as often in people who have no pain [1][6]. The main treatment is exercise that strengthens the hip and thigh muscles; surgery is very rarely needed [1][3].",
+   "sections": [
+    {
+     "h": "What is kneecap pain and what causes it?",
+     "p": [
+      "As the knee bends and straightens, the kneecap (patella) glides in a groove at the end of the thigh bone [1]. Pain felt at the front of the knee, around or behind the kneecap, is called patellofemoral pain; it is also known as \"runner's knee\" and \"anterior knee pain\" [1][4].",
+      "The two main factors are overuse and the kneecap not gliding properly in its groove [1]. Activities that put repeated stress on the knee, such as running, squatting and climbing stairs, or a sudden increase in activity, can start the pain; problems with the alignment of the leg, and weakness of the muscles, especially the muscle at the front of the thigh (the quadriceps), can also disturb the way the kneecap glides [1]."
+     ]
+    },
+    {
+     "h": "What does \"chondromalacia patella\" on an MRI report mean, and what are its grades?",
+     "p": [
+      "Chondromalacia patella is softening and breakdown of the joint cartilage on the back surface of the kneecap; it is present in some people with kneecap pain [1]. Cartilage has no nerves, so damage to the cartilage does not cause pain directly, but it can lead to inflammation of the joint lining and pain in the underlying bone [1].",
+      "Chondromalacia in the report describes how the cartilage looks; on its own it does not decide the treatment [2][6]. In a study that compared the MRI scans of 64 patients with those of 70 people who had no pain, minor cartilage defects of the kneecap were seen in 23% of the patients and 21% of the people without pain, and none of the structural changes was associated with pain; no one in the study had full-thickness cartilage loss [6]. The source reviewed likewise does not divide treatment by grade [2].",
+      "MRI is the method of choice for assessing cartilage; the change is divided into four grades [2]:"
+     ],
+     "list": [
+      "Grade 1: the cartilage surface is intact, but the cartilage is soft and swollen",
+      "Grade 2: fissures and fragmentation of the surface in an area half an inch (about 1.3 centimetres) or less in diameter",
+      "Grade 3: loss involving part of the thickness of the cartilage, in an area more than half an inch in diameter",
+      "Grade 4: full-thickness loss down to the underlying bone"
+     ]
+    },
+    {
+     "h": "What are the symptoms and who gets it?",
+     "p": [
+      "It particularly affects adolescents and young adults [4]; it is common in people who play sport and in women, but it can also occur in people who do not play sport [1].",
+      "The most common symptom is a dull, aching pain at the front of the knee; it can come on gradually or appear suddenly [1][3]. Swelling, locking, or a hot and red knee are not among the symptoms listed by the American Academy of Orthopaedic Surgeons (AAOS) [1]. The typical features are [1][3]:"
+     ],
+     "list": [
+      "Pain when going up or down stairs, squatting, running and jumping",
+      "Pain after sitting for a long time with the knees bent",
+      "Difficulty kneeling",
+      "Crackling sounds from the knee when climbing stairs or when standing up after sitting for a long time"
+     ]
+    },
+    {
+     "h": "Which specialty should you see and how is it diagnosed?",
+     "p": [
+      "Kneecap pain is assessed by orthopaedics and traumatology. The diagnosis can usually be made by examination alone [1]: this checks whether movements such as squatting bring on the pain, and looks at the alignment of the leg, the movement of the kneecap, the strength of the hip and thigh muscles, and the way you walk [1][3].",
+      "An X-ray is also requested in most cases to make sure there is no damage to the bones; an MRI may be requested if, after a period of time, the symptoms have not improved with physiotherapy and home exercises [1].",
+      "Not every pain at the front of the knee is patellofemoral pain. Tendon problems, meniscus and ligament injuries, osteoarthritis, Osgood-Schlatter disease in the growing years, and a kneecap that dislocates or slips out of place (instability) are separate conditions and are assessed separately [3]."
+     ]
+    },
+    {
+     "h": "The main treatment: exercise for the hip and thigh muscles",
+     "p": [
+      "The American Physical Therapy Association (APTA) guideline recommends, on strong evidence, combining hip-targeted and knee-targeted exercises to reduce pain and improve function [3]. The hip exercises work the muscles at the back and side of the hip, and the knee exercises work the muscle at the front of the thigh [1][3].",
+      "A Cochrane review of 31 trials found very low quality but consistent evidence that exercise may bring a clinically important reduction in pain and improve function; there is not enough evidence to determine the best form of exercise [4]."
+     ]
+    },
+    {
+     "h": "What helps kneecap pain at home?",
+     "p": [
+      "Anti-inflammatory painkillers (NSAIDs) can reduce the pain [1]; ask your pharmacist or doctor which one is suitable for you. Painkillers are the only medicines that appear in the sources this article is based on; they do not mention any medicine or food supplement that renews cartilage [1][2]. The main measures that can be taken at home are [1][7]:"
+     ],
+     "list": [
+      "Stopping the activities that make the pain worse until the pain has gone",
+      "Switching to activities that put less stress on the knee, such as a stationary bike and swimming",
+      "An ice pack wrapped in a towel for up to 20 minutes every 2 to 3 hours",
+      "Losing weight if you are overweight",
+      "Increasing the intensity and duration of training gradually"
+     ]
+    },
+    {
+     "h": "The place of taping, knee braces, insoles and injections",
+     "p": [
+      "Taping: according to the guideline, taping of the kneecap tailored to the individual, used together with exercise, may help reduce pain immediately and improve the results of exercise in the short term (4 weeks) [3].",
+      "Knee braces: a Cochrane review found very low quality evidence that, in adults who were also exercising, a knee brace did not reduce pain or improve function in the short term (under three months) [5]; the guideline likewise does not recommend prescribing a knee brace [3].",
+      "Insoles: the guideline recommends ready-made insoles, for a short period (up to 6 weeks) and together with exercise, for people whose feet roll inwards more than normal [3].",
+      "Injections: according to the source reviewed, PRP is sometimes advocated but is not standard care and has not been shown to improve outcomes consistently; high-dose or frequent cortisone injections into the joint, meanwhile, can soften the cartilage [2]. The types of injection, and the debate about the effect of cortisone on cartilage, are described in the article on knee injections in this guide."
+     ]
+    },
+    {
+     "h": "When is surgery considered and how long does recovery take?",
+     "p": [
+      "Surgery is very rarely needed; it is performed only in severe cases that have not responded to non-surgical treatment [1]. One source recommends at least one year of non-surgical treatment first [2]. The options include removing damaged cartilage by arthroscopy (keyhole surgery) and procedures that correct the alignment of the kneecap [1][2]. Cartilage damage and cartilage repair operations are described in a separate article in this guide.",
+      "Recovery can take as little as a month or it can take years [2]. According to the AAOS, the pain is usually fully relieved with simple measures or physiotherapy; it may come back if the training routine is not adjusted [1]. The physiotherapy guideline, however, states that this is not a condition that goes away by itself and that it can last for years; more than half of the people who took part in clinical trials reported an unfavourable outcome 5 to 8 years later [3]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "See a doctor if the pain does not improve within a few weeks or if it becomes more difficult to move your knee [1][7]. In the following situations seek care without waiting [7]:"
+     ],
+     "list": [
+      "The knee is very painful, cannot be moved, or you cannot put any weight on it",
+      "The knee is badly swollen or has changed shape",
+      "The knee locks, gives way or clicks painfully",
+      "A high temperature and shivering together with redness or heat around the knee (this can be a sign of infection)",
+      "The kneecap has changed shape after a collision or a sudden change of direction (this may be a dislocated kneecap)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does chondromalacia patella heal?",
+     "a": "Chondromalacia may be reversible or may progress to osteoarthritis of the kneecap joint; patients whose pain is due to chondromalacia often recover fully [2]. The mainstay of treatment is exercise for the hip and thigh muscles [3]."
+    },
+    {
+     "q": "How is grade 3 or grade 4 chondromalacia patella treated?",
+     "a": "The source reviewed does not define a separate treatment for each grade; it recommends at least one year of non-surgical treatment first [2]. Surgery is performed very rarely, in severe cases that have not responded to non-surgical treatment [1]."
+    },
+    {
+     "q": "How long does chondromalacia patella take to get better?",
+     "a": "It varies from person to person; recovery can take as little as a month or it can take years [2]. The pain may come back if the training routine or activity level is not adjusted [1]."
+    },
+    {
+     "q": "Should I wear a knee brace for kneecap pain?",
+     "a": "There is very low quality evidence that, in adults who are also exercising, a knee brace does not reduce pain or improve function in the short term [5]. The physiotherapy guideline does not recommend prescribing knee braces, sleeves or kneecap straps for this pain [3]."
+    },
+    {
+     "q": "Is there a medicine or an injection for chondromalacia patella?",
+     "a": "Anti-inflammatory painkillers can reduce the pain [1]; ask your pharmacist or doctor which one is suitable. PRP is not standard care and has not been shown to improve outcomes consistently [2]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "bol-v-kolennoj-chashechke-khondromalyatsiya-nadkolennika",
+   "title": "Боль в коленной чашечке и хондромаляция надколенника: причины и что помогает",
+   "description": "Почему болит коленная чашечка и что помогает? Хондромаляция надколенника на МРТ и её степени, упражнения, наколенник, тейп, уколы и операция.",
+   "summary": "Боль в коленной чашечке (пателлофеморальная боль) — это боль в передней части колена, вокруг надколенника или за ним, которая усиливается при ходьбе по лестнице, приседании и долгом сидении с согнутыми коленями [1][3]. «Хондромаляция надколенника» в заключении МРТ означает размягчение и разрушение хряща на задней поверхности надколенника; небольшие дефекты хряща примерно так же часто встречаются у людей без боли [1][6]. Основное лечение — упражнения, укрепляющие мышцы тазобедренной области и бедра; операция требуется очень редко [1][3].",
+   "sections": [
+    {
+     "h": "Что такое боль в коленной чашечке и отчего она возникает?",
+     "p": [
+      "Коленная чашечка (надколенник) при сгибании и разгибании колена скользит в борозде на конце бедренной кости [1]. Боль в передней части колена, вокруг надколенника или за ним, называют пателлофеморальной болью; её также называют «коленом бегуна» и «болью в переднем отделе колена» [1][4].",
+      "Два основных фактора — перегрузка и нарушение скольжения надколенника в его борозде [1]. Боль могут вызвать занятия, при которых колено испытывает повторяющуюся нагрузку, — бег, приседания, подъём по лестнице — или резкое увеличение нагрузки; нарушения оси ноги и слабость мышц, особенно передней мышцы бедра (четырёхглавой), тоже могут нарушать скольжение надколенника [1]."
+     ]
+    },
+    {
+     "h": "Что означает «хондромаляция надколенника» в заключении МРТ и какие у неё степени?",
+     "p": [
+      "Хондромаляция надколенника — это размягчение и разрушение суставного хряща на задней поверхности надколенника; она обнаруживается у части людей с болью в коленной чашечке [1]. В хряще нет нервов, поэтому повреждение хряща само по себе не вызывает боли, но может приводить к воспалению синовиальной оболочки сустава и боли в подлежащей кости [1].",
+      "Хондромаляция в заключении описывает, как выглядит хрящ; сама по себе она не определяет лечение [2][6]. В исследовании, где сравнили МРТ 64 пациентов и 70 человек без боли, небольшие дефекты хряща надколенника обнаружены у 23% пациентов и у 21% людей без боли, и ни одно из структурных изменений не было связано с болью; потери хряща на всю толщину в этом исследовании не было ни у кого [6]. Изученный источник также не разделяет лечение по степеням [2].",
+      "Предпочтительный метод оценки хряща — МРТ; изменения делят на четыре степени [2]:"
+     ],
+     "list": [
+      "Степень 1: поверхность хряща цела, но хрящ размягчён и отёчен",
+      "Степень 2: трещины и фрагментация поверхности на участке диаметром полдюйма (около 1,3 сантиметра) или меньше",
+      "Степень 3: потеря части толщины хряща на участке диаметром более полудюйма",
+      "Степень 4: потеря хряща на всю толщину, до подлежащей кости"
+     ]
+    },
+    {
+     "h": "Каковы симптомы и у кого она бывает?",
+     "p": [
+      "Чаще всего она встречается у подростков и молодых взрослых [4]; она распространена среди людей, занимающихся спортом, и среди женщин, но бывает и у тех, кто спортом не занимается [1].",
+      "Самый частый симптом — тупая, ноющая боль в передней части колена; она может начинаться постепенно или возникать внезапно [1][3]. Отёк колена, его блокировка или горячее и покрасневшее колено не входят в число симптомов, которые перечисляет Американская академия хирургов-ортопедов (AAOS) [1]. Типичные признаки [1][3]:"
+     ],
+     "list": [
+      "Боль при подъёме и спуске по лестнице, приседании, беге и прыжках",
+      "Боль после долгого сидения с согнутыми коленями",
+      "Трудно вставать на колени",
+      "Хруст в колене при подъёме по лестнице или при вставании после долгого сидения"
+     ]
+    },
+    {
+     "h": "К какому врачу обращаться и как ставят диагноз?",
+     "p": [
+      "Болью в коленной чашечке занимается ортопедия и травматология. Диагноз обычно можно поставить на основании одного осмотра [1]: проверяют, появляется ли боль при таких движениях, как приседание, оценивают ось ноги, подвижность надколенника, силу мышц тазобедренной области и бедра и походку [1][3].",
+      "Чтобы убедиться, что кости не повреждены, в большинстве случаев назначают и рентген; МРТ могут назначить, если жалобы спустя некоторое время не уменьшаются, несмотря на физиотерапию и домашние упражнения [1].",
+      "Не всякая боль в передней части колена — пателлофеморальная. Заболевания сухожилий, повреждения мениска и связок, артроз, болезнь Осгуда — Шлаттера в период роста, вывих или смещение надколенника (нестабильность) — это отдельные состояния, и их оценивают отдельно [3]."
+     ]
+    },
+    {
+     "h": "Основное лечение: упражнения для мышц тазобедренной области и бедра",
+     "p": [
+      "Руководство Американской ассоциации физической терапии (APTA) на основании убедительных доказательств рекомендует сочетать упражнения для тазобедренной области и для колена, чтобы уменьшить боль и улучшить функцию [3]. Упражнения для тазобедренной области нагружают мышцы её задней и боковой поверхности, упражнения для колена — переднюю мышцу бедра [1][3].",
+      "Кокрейновский обзор 31 исследования нашёл доказательства очень низкого качества, но согласующиеся между собой, в пользу того, что лечебная физкультура может давать клинически значимое уменьшение боли и улучшать функцию; доказательств, позволяющих определить наилучший вид упражнений, недостаточно [4]."
+     ]
+    },
+    {
+     "h": "Что помогает при боли в коленной чашечке дома?",
+     "p": [
+      "Противовоспалительные обезболивающие средства (НПВП) могут уменьшить боль [1]; какое средство подходит вам, спросите у фармацевта или врача. Из лекарств в источниках, на которых основан этот текст, упоминаются только обезболивающие; о лекарстве или пищевой добавке, восстанавливающих хрящ, в них не говорится [1][2]. Основные меры, которые можно принять дома [1][7]:"
+     ],
+     "list": [
+      "На время, пока боль не пройдёт, прекратить занятия, которые её усиливают",
+      "Перейти к нагрузкам, меньше нагружающим колено, таким как велотренажёр и плавание",
+      "Прикладывать пакет со льдом, завёрнутый в полотенце, на время до 20 минут каждые 2–3 часа",
+      "При избыточном весе — снизить его",
+      "Увеличивать интенсивность и продолжительность тренировок постепенно"
+     ]
+    },
+    {
+     "h": "Тейп, наколенник, стельки и уколы: какова их роль",
+     "p": [
+      "Тейп: согласно руководству, индивидуально подобранное тейпирование надколенника в сочетании с упражнениями может помочь сразу уменьшить боль и в краткосрочной перспективе (4 недели) улучшить результат упражнений [3].",
+      "Наколенник: Кокрейновский обзор нашёл доказательства очень низкого качества в пользу того, что у взрослых, выполнявших также упражнения, наколенник в краткосрочной перспективе (менее трёх месяцев) не уменьшал боль и не улучшал функцию [5]; руководство также не рекомендует назначать наколенник [3].",
+      "Стельки: руководство рекомендует готовые стельки на короткий срок (не более 6 недель) и вместе с упражнениями людям, у которых стопа заваливается внутрь сильнее обычного [3].",
+      "Уколы: согласно изученному источнику, PRP иногда предлагают, однако это не стандартное лечение, и не показано, что оно стабильно улучшает результаты; внутрисуставные уколы кортизона в высоких дозах или частые, в свою очередь, могут размягчать хрящ [2]. Виды уколов и спор о влиянии кортизона на хрящ описаны в тексте этого раздела об уколах в колено."
+     ]
+    },
+    {
+     "h": "Когда рассматривают операцию и сколько времени занимает выздоровление?",
+     "p": [
+      "Операция требуется очень редко; её делают только в тяжёлых случаях, когда безоперационное лечение не помогло [1]. Один источник рекомендует сначала не менее года безоперационного лечения [2]. Среди вариантов — удаление повреждённого хряща при артроскопии (операции через небольшие проколы) и вмешательства, исправляющие положение надколенника [1][2]. Повреждения хряща и операции по его восстановлению описаны в отдельном тексте этого раздела.",
+      "Выздоровление может занять всего месяц, а может — годы [2]. По данным AAOS, боль обычно полностью проходит при простых мерах или физиотерапии; если не изменить режим тренировок, она может вернуться [1]. В руководстве по физической терапии, однако, указано, что это состояние не из тех, что проходят сами, и что оно может сохраняться годами; более половины участников клинических исследований сообщали о неблагоприятном исходе через 5–8 лет [3]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Если боль не проходит в течение нескольких недель или двигать коленом становится труднее, обратитесь к врачу [1][7]. В следующих случаях обратитесь в медицинское учреждение без промедления [7]:"
+     ],
+     "list": [
+      "Колено очень болит, им невозможно двигать или на ногу совсем нельзя наступить",
+      "Колено сильно отекло или изменило форму",
+      "Колено блокируется, подкашивается или болезненно щёлкает",
+      "Покраснение или жар в области колена сопровождаются высокой температурой и ознобом (это может быть признаком инфекции)",
+      "После столкновения или резкой смены направления надколенник изменил форму (это может быть вывих надколенника)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Проходит ли хондромаляция надколенника?",
+     "a": "Хондромаляция может быть обратимой или прогрессировать до артроза сустава между надколенником и бедренной костью; пациенты, у которых боль связана с хондромаляцией, часто выздоравливают полностью [2]. Основа лечения — упражнения для мышц тазобедренной области и бедра [3]."
+    },
+    {
+     "q": "Как лечат хондромаляцию надколенника 3-й или 4-й степени?",
+     "a": "Изученный источник не описывает отдельного лечения для каждой степени; он рекомендует сначала не менее года безоперационного лечения [2]. Операцию делают очень редко, в тяжёлых случаях, когда безоперационное лечение не помогло [1]."
+    },
+    {
+     "q": "За какое время проходит хондромаляция надколенника?",
+     "a": "У разных людей по-разному; выздоровление может занять всего месяц, а может — годы [2]. Если не изменить режим тренировок или уровень нагрузки, боль может вернуться [1]."
+    },
+    {
+     "q": "Нужно ли носить наколенник при боли в коленной чашечке?",
+     "a": "Есть доказательства очень низкого качества в пользу того, что у взрослых, выполняющих также упражнения, наколенник в краткосрочной перспективе не уменьшает боль и не улучшает функцию [5]. Руководство по физической терапии не рекомендует назначать при такой боли наколенники, эластичные бандажи или ремешки для надколенника [3]."
+    },
+    {
+     "q": "Есть ли лекарство или укол от хондромаляции надколенника?",
+     "a": "Противовоспалительные обезболивающие средства могут уменьшить боль [1]; какое подходит, спросите у фармацевта или врача. PRP не является стандартным лечением, и не показано, что оно стабильно улучшает результаты [2]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "dard-keshkak-zanoo-kondromalasi-patella",
+   "title": "درد کشکک زانو و کندرومالاسی کشکک: علت چیست و چگونه خوب می‌شود؟",
+   "description": "درد کشکک زانو چرا ایجاد می‌شود و چه چیزی کمک می‌کند؟ کندرومالاسی کشکک (پاتلا) در ام‌آرآی و درجه‌های آن، ورزش، زانوبند، چسب، تزریق و جراحی.",
+   "summary": "درد کشکک زانو (درد پاتلوفمورال) دردی است که در جلوی زانو، اطراف کشکک یا پشت آن حس می‌شود و با بالا و پایین رفتن از پله، چمباتمه زدن و نشستن طولانی با زانوهای خم بیشتر می‌شود [1][3]. «کندرومالاسی کشکک» (کندرومالاسی پاتلا) در گزارش ام‌آرآی به معنای نرم شدن و تخریب غضروف پشت کشکک است؛ نقص‌های خفیف غضروف در افراد بدون درد نیز تقریباً به همان اندازه دیده می‌شود [1][6]. درمان اصلی ورزش‌هایی است که عضلات لگن و ران را تقویت می‌کنند؛ جراحی بسیار به‌ندرت لازم می‌شود [1][3].",
+   "sections": [
+    {
+     "h": "درد کشکک زانو چیست و چرا ایجاد می‌شود؟",
+     "p": [
+      "کشکک (پاتلا) هنگام خم و راست شدن زانو در شیاری در انتهای استخوان ران می‌لغزد [1]. دردی که در جلوی زانو، اطراف کشکک یا پشت آن حس می‌شود درد پاتلوفمورال نام دارد؛ به آن «زانوی دونده» و «درد جلوی زانو» نیز می‌گویند [1][4].",
+      "دو عامل اصلی عبارت‌اند از فشار بیش از حد و درست نلغزیدن کشکک در شیار خود [1]. فعالیت‌هایی که بار مکرر بر زانو وارد می‌کنند، مانند دویدن، چمباتمه زدن و بالا رفتن از پله، یا افزایش ناگهانی فعالیت می‌توانند درد را آغاز کنند؛ مشکلات راستای پا و ضعف عضلات، به‌ویژه عضلهٔ جلوی ران (چهارسر ران)، نیز ممکن است لغزش کشکک را مختل کنند [1]."
+     ]
+    },
+    {
+     "h": "«کندرومالاسی کشکک» در گزارش ام‌آرآی یعنی چه و چه درجه‌هایی دارد؟",
+     "p": [
+      "کندرومالاسی کشکک نرم شدن و تخریب غضروف مفصلی در سطح پشتی کشکک است و در بخشی از افراد دچار درد کشکک وجود دارد [1]. غضروف عصب ندارد؛ از این رو آسیب غضروف مستقیماً درد ایجاد نمی‌کند، اما می‌تواند به التهاب پردهٔ مفصلی و درد در استخوان زیرین بینجامد [1].",
+      "کندرومالاسی در گزارش، ظاهر غضروف را توصیف می‌کند و به‌تنهایی درمان را تعیین نمی‌کند [2][6]. در مطالعه‌ای که ام‌آرآی ۶۴ بیمار را با ۷۰ فرد بدون درد مقایسه کرد، نقص‌های خفیف غضروف کشکک در ۲۳ درصد بیماران و ۲۱ درصد افراد بدون درد دیده شد و هیچ‌یک از تغییرات ساختاری با درد ارتباط نداشت؛ در این مطالعه هیچ‌کس دچار از دست رفتن غضروف در تمام ضخامت نبود [6]. منبع بررسی‌شده نیز درمان را بر اساس درجه تفکیک نمی‌کند [2].",
+      "روش ارجح برای ارزیابی غضروف ام‌آرآی است؛ تغییرات به چهار درجه تقسیم می‌شود [2]:"
+     ],
+     "list": [
+      "درجهٔ ۱: سطح غضروف سالم است، اما غضروف نرم و متورم شده است",
+      "درجهٔ ۲: شکاف و تکه‌تکه شدن سطح در ناحیه‌ای به قطر نیم اینچ (حدود ۱٫۳ سانتی‌متر) یا کمتر",
+      "درجهٔ ۳: از دست رفتن بخشی از ضخامت غضروف در ناحیه‌ای به قطر بیش از نیم اینچ",
+      "درجهٔ ۴: از دست رفتن غضروف در تمام ضخامت، تا استخوان زیرین"
+     ]
+    },
+    {
+     "h": "علائم آن چیست و در چه کسانی دیده می‌شود؟",
+     "p": [
+      "این درد به‌ویژه نوجوانان و جوانان را درگیر می‌کند [4]؛ در کسانی که ورزش می‌کنند و در زنان شایع است، اما در افرادی که ورزش نمی‌کنند نیز دیده می‌شود [1].",
+      "شایع‌ترین علامت دردی مبهم و گنگ در جلوی زانو است که ممکن است به‌تدریج یا ناگهانی شروع شود [1][3]. تورم زانو، قفل شدن آن یا داغ و قرمز بودن زانو در میان علائمی که آکادمی جراحان ارتوپدی آمریکا (AAOS) برمی‌شمارد نیست [1]. ویژگی‌های معمول این‌هاست [1][3]:"
+     ],
+     "list": [
+      "درد هنگام بالا و پایین رفتن از پله، چمباتمه زدن، دویدن و پریدن",
+      "درد پس از نشستن طولانی با زانوهای خم",
+      "دشواری در زانو زدن",
+      "صدای تق‌تق زانو هنگام بالا رفتن از پله یا برخاستن پس از نشستن طولانی"
+     ]
+    },
+    {
+     "h": "به کدام تخصص مراجعه کنیم و تشخیص چگونه داده می‌شود؟",
+     "p": [
+      "درد کشکک زانو را ارتوپدی و تروماتولوژی بررسی می‌کند. تشخیص معمولاً تنها با معاینه ممکن است [1]: بررسی می‌شود که آیا حرکاتی مانند چمباتمه زدن درد را برمی‌انگیزد، و راستای پا، حرکت کشکک، قدرت عضلات لگن و ران و شیوهٔ راه رفتن ارزیابی می‌شود [1][3].",
+      "برای اطمینان از اینکه استخوان‌ها آسیب ندیده‌اند، در بیشتر موارد عکس رادیولوژی نیز درخواست می‌شود؛ ام‌آرآی ممکن است زمانی درخواست شود که علائم پس از مدتی با وجود فیزیوتراپی و ورزش در خانه بهتر نشود [1].",
+      "هر دردی در جلوی زانو درد پاتلوفمورال نیست. مشکلات تاندون، آسیب منیسک و رباط، آرتروز، بیماری ازگود-اشلاتر در سن رشد و دررفتگی یا جابه‌جا شدن کشکک (ناپایداری) وضعیت‌هایی جداگانه‌اند و جداگانه ارزیابی می‌شوند [3]."
+     ]
+    },
+    {
+     "h": "درمان اصلی: ورزش برای عضلات لگن و ران",
+     "p": [
+      "راهنمای انجمن فیزیوتراپی آمریکا (APTA) بر پایهٔ شواهد قوی توصیه می‌کند که برای کاهش درد و بهبود عملکرد، ورزش‌های مربوط به لگن و زانو با هم انجام شود [3]. ورزش‌های لگن عضلات پشت و کنار لگن را و ورزش‌های زانو عضلهٔ جلوی ران را به کار می‌گیرند [1][3].",
+      "یک مرور کاکرین که ۳۱ مطالعه را بررسی کرده است شواهدی با کیفیت بسیار پایین اما همسو یافته است مبنی بر اینکه ورزش ممکن است درد را به اندازه‌ای که از نظر بالینی مهم است کاهش دهد و عملکرد را بهتر کند؛ برای تعیین بهترین نوع ورزش شواهد کافی نیست [4]."
+     ]
+    },
+    {
+     "h": "برای درد کشکک زانو در خانه چه چیزی کمک می‌کند؟",
+     "p": [
+      "مسکن‌های ضدالتهابی (NSAID) می‌توانند درد را کم کنند [1]؛ اینکه کدام برای شما مناسب است را از داروساز یا پزشک خود بپرسید. در منابعی که این نوشته بر آن‌ها تکیه دارد، از داروها تنها مسکن‌ها آمده‌اند و از دارو یا مکملی که غضروف را بازسازی کند سخنی نیست [1][2]. اقدامات اصلی که می‌توان در خانه انجام داد این‌هاست [1][7]:"
+     ],
+     "list": [
+      "کنار گذاشتن فعالیت‌هایی که درد را بیشتر می‌کنند تا زمانی که درد برطرف شود",
+      "روی آوردن به فعالیت‌هایی که بار کمتری بر زانو می‌گذارند، مانند دوچرخهٔ ثابت و شنا",
+      "گذاشتن کیسهٔ یخِ پیچیده در حوله، هر ۲ تا ۳ ساعت و تا ۲۰ دقیقه",
+      "کاهش وزن در صورت اضافه‌وزن",
+      "افزایش تدریجی شدت و مدت تمرین"
+     ]
+    },
+    {
+     "h": "جایگاه چسب، زانوبند، کفی و تزریق",
+     "p": [
+      "چسب: بنا بر راهنما، چسب‌زنی کشکک که متناسب با هر فرد انجام شود، همراه با ورزش ممکن است به کاهش فوری درد و بهتر شدن نتیجهٔ ورزش در کوتاه‌مدت (۴ هفته) کمک کند [3].",
+      "زانوبند: یک مرور کاکرین شواهدی با کیفیت بسیار پایین یافته است مبنی بر اینکه در بزرگسالانی که ورزش نیز می‌کردند، زانوبند در کوتاه‌مدت (کمتر از سه ماه) درد را کاهش نداده و عملکرد را بهبود نبخشیده است [5]؛ راهنما نیز تجویز زانوبند را توصیه نمی‌کند [3].",
+      "کفی: راهنما برای کسانی که پایشان بیش از حد طبیعی به داخل می‌چرخد، استفاده از کفی آماده را برای مدتی کوتاه (حداکثر ۶ هفته) و همراه با ورزش توصیه می‌کند [3].",
+      "تزریق: بنا بر منبع بررسی‌شده، PRP گاهی پیشنهاد می‌شود، اما درمان استاندارد نیست و نشان داده نشده است که نتایج را به‌طور پایدار بهتر کند؛ تزریق‌های داخل‌مفصلی کورتون با دوز بالا یا به دفعات زیاد نیز ممکن است غضروف را نرم کند [2]. انواع تزریق و بحث دربارهٔ اثر کورتون بر غضروف در نوشتهٔ «تزریق زانو» در همین راهنما شرح داده شده است."
+     ]
+    },
+    {
+     "h": "جراحی چه زمانی مطرح می‌شود و بهبودی چقدر طول می‌کشد؟",
+     "p": [
+      "جراحی بسیار به‌ندرت لازم می‌شود و تنها در موارد شدیدی انجام می‌شود که به درمان غیرجراحی پاسخ نداده‌اند [1]. یک منبع توصیه می‌کند که نخست دست‌کم یک سال درمان غیرجراحی انجام شود [2]. از جملهٔ گزینه‌ها برداشتن غضروف آسیب‌دیده با آرتروسکوپی (جراحی بستهٔ مفصل) و روش‌هایی است که راستای کشکک را اصلاح می‌کنند [1][2]. آسیب غضروف و جراحی‌های ترمیم غضروف در نوشته‌ای جداگانه در همین راهنما شرح داده شده است.",
+      "بهبودی ممکن است تنها یک ماه یا چند سال طول بکشد [2]. به گفتهٔ AAOS، این درد بیشتر با اقدامات ساده یا فیزیوتراپی کاملاً برطرف می‌شود و اگر برنامهٔ تمرین تغییر نکند ممکن است بازگردد [1]. اما راهنمای فیزیوتراپی بیان می‌کند که این درد از وضعیت‌هایی نیست که خودبه‌خود برطرف شود و ممکن است سال‌ها ادامه یابد؛ بیش از نیمی از شرکت‌کنندگان در کارآزمایی‌های بالینی ۵ تا ۸ سال بعد نتیجهٔ نامطلوب گزارش کرده‌اند [3]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "اگر درد ظرف چند هفته بهتر نشد یا حرکت دادن زانو دشوارتر شد به پزشک مراجعه کنید [1][7]. در این موارد بدون تأخیر به یک مرکز درمانی مراجعه کنید [7]:"
+     ],
+     "list": [
+      "اگر زانو بسیار دردناک است، نمی‌توان آن را حرکت داد یا اصلاً نمی‌توان روی آن وزن گذاشت",
+      "اگر زانو بسیار متورم است یا تغییر شکل داده است",
+      "اگر زانو قفل می‌شود، خالی می‌کند یا با درد صدای تق می‌دهد",
+      "اگر همراه با تب بالا و لرز، قرمزی یا گرمی در اطراف زانو وجود دارد (می‌تواند نشانهٔ عفونت باشد)",
+      "اگر پس از برخورد یا تغییر جهت ناگهانی، شکل کشکک تغییر کرده است (ممکن است دررفتگی کشکک باشد)"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "آیا کندرومالاسی کشکک خوب می‌شود؟",
+     "a": "کندرومالاسی ممکن است برگشت‌پذیر باشد یا به آرتروز مفصل کشکک پیشرفت کند؛ بیمارانی که دردشان ناشی از کندرومالاسی است اغلب کاملاً بهبود می‌یابند [2]. اساس درمان ورزش برای عضلات لگن و ران است [3]."
+    },
+    {
+     "q": "کندرومالاسی کشکک درجهٔ ۳ یا ۴ چگونه درمان می‌شود؟",
+     "a": "منبع بررسی‌شده برای هر درجه درمان جداگانه‌ای تعریف نمی‌کند و توصیه می‌کند نخست دست‌کم یک سال درمان غیرجراحی انجام شود [2]. جراحی بسیار به‌ندرت و در موارد شدیدی انجام می‌شود که به درمان غیرجراحی پاسخ نداده‌اند [1]."
+    },
+    {
+     "q": "کندرومالاسی کشکک چقدر طول می‌کشد تا خوب شود؟",
+     "a": "در افراد مختلف فرق می‌کند؛ بهبودی ممکن است تنها یک ماه یا چند سال طول بکشد [2]. اگر برنامهٔ تمرین یا سطح فعالیت تغییر نکند، درد ممکن است بازگردد [1]."
+    },
+    {
+     "q": "آیا برای درد کشکک زانو باید زانوبند ببندم؟",
+     "a": "شواهدی با کیفیت بسیار پایین وجود دارد مبنی بر اینکه در بزرگسالانی که ورزش نیز می‌کنند، زانوبند در کوتاه‌مدت درد را کاهش نمی‌دهد و عملکرد را بهتر نمی‌کند [5]. راهنمای فیزیوتراپی تجویز زانوبند، زانوبند کشی یا بند کشکک را در این درد توصیه نمی‌کند [3]."
+    },
+    {
+     "q": "آیا برای کندرومالاسی کشکک دارو یا تزریقی وجود دارد؟",
+     "a": "مسکن‌های ضدالتهابی می‌توانند درد را کم کنند [1]؛ اینکه کدام مناسب است را از داروساز یا پزشک خود بپرسید. PRP درمان استاندارد نیست و نشان داده نشده است که نتایج را به‌طور پایدار بهتر کند [2]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

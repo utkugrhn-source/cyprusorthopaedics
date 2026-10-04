@@ -1,0 +1,509 @@
+{
+ "id": "in-toeing",
+ "area": "cocuk",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Intoeing",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/intoeing",
+   "year": "n.d."
+  },
+  {
+   "title": "In-Toeing",
+   "publisher": "Pediatric Orthopaedic Society of North America (POSNA OrthoKids)",
+   "url": "https://orthokids.org/conditions/in-toeing",
+   "year": "n.d."
+  },
+  {
+   "title": "Angular and Rotational Lower Limb Alignment Variations in Children: Practical Guidance for Paediatricians",
+   "publisher": "Medicina (Vlaic J, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42654396/",
+   "year": "2026"
+  },
+  {
+   "title": "Torsional Problems (POSNA Study Guide)",
+   "publisher": "Pediatric Orthopaedic Society of North America (POSNA)",
+   "url": "https://posna.org/physician-education/study-guide/torsional-problems",
+   "year": "n.d."
+  },
+  {
+   "title": "Lower Extremity Abnormalities in Children",
+   "publisher": "American Family Physician (Baird DC, et al.)",
+   "url": "https://www.aafp.org/afp/2025/0200/lower-extremity-abnormalities-children",
+   "year": "2025"
+  },
+  {
+   "title": "Pediatric orthopedic mythbusters: the truth about flexible flatfeet, tibial and femoral torsion, W-sitting, and idiopathic toe-walking",
+   "publisher": "Current Opinion in Pediatrics (Honig EL, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33315688/",
+   "year": "2021"
+  },
+  {
+   "title": "Effectiveness of gait plate insole and lateral sole wedged shoes on foot progression angle in children with in-toeing gait: A prospective randomized control trial",
+   "publisher": "Gait & Posture (Parian S, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38301334/",
+   "year": "2024"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "cocuklarda-ice-basma",
+   "title": "Çocuklarda içe basma: neden olur, kaç yaşında düzelir?",
+   "description": "İçe basma nedir, neden olur, nasıl anlaşılır? Çocuklarda kaç yaşında düzelir; tabanlık, ayakkabı ve egzersiz işe yarar mı, ameliyat ne zaman gerekir?",
+   "summary": "İçe basma, çocuk yürürken ya da koşarken ayak uçlarının içe dönük olmasıdır [1][2]. Olağan üç nedeni vardır: bebeklerde ayağın içe kıvrık olması, yürümeye yeni başlayan çocuklarda kaval kemiğinin, daha büyük çocuklarda uyluk kemiğinin içe dönüklüğü [1][3]. 8 yaşından küçük çocukların büyük çoğunluğunda kendiliğinden düzelir; özel ayakkabı, tabanlık, cihaz ve egzersizin düzelmeyi hızlandırdığı gösterilmemiştir [1][2][3].",
+   "sections": [
+    {
+     "h": "İçe basma nedir, nasıl anlaşılır?",
+     "p": [
+      "İçe basma, çocuk yürürken ya da koşarken ayakların düz ileriye bakmak yerine içe dönmesidir [1][2]. Çoğu zaman bebek yürümeye başladığında aile tarafından fark edilir; ailede başka kişilerde de bulunabilir [1][2].",
+      "Günlük dilde \"içe basma\", ayağın iç kenarına yatması ve ayak kemerinin düzleşmesi için de söylenir. Bu yazı yürürken ayak uçlarının içe dönük olmasını ele alır; taban çökmesi bu rehberdeki düz taban yazısında anlatılmıştır.",
+      "Ayağın kendisi kıvrıksa dış kenarı kavislidir [3]; dönüklük uyluk kemiğindeyse ayaklarla birlikte dizler de içe bakar [1]. Olağan biçimlerinde dönüklük çoğunlukla iki bacakta benzerdir ve hareketi kısıtlamaz [3]."
+     ]
+    },
+    {
+     "h": "İçe basma neden olur?",
+     "p": [
+      "Kemiklerdeki dönüklük büyümeyle değişir: yenidoğanda uyluk kemiğindeki dönüklük 40 dereceye kadar çıkabilir ve genç erişkinlikte yaklaşık 15 dereceye iner; kaval kemiği de bebeklikte içe dönüktür ve 5 yaşına kadar dışa doğru döner [3].",
+      "Olağan üç nedeni vardır; hangisinin söz konusu olduğu çoğunlukla çocuğun yaşından anlaşılır [1][3][4]:"
+     ],
+     "list": [
+      "Bebeklik: ayağın orta kısmından parmaklara doğru içe kıvrık olması (metatarsus adduktus)",
+      "1–3 yaş: kaval kemiğinin içe dönük olması (tibial torsiyon); bu yaşlarda en sık nedendir",
+      "3–6 yaş ve ilkokul çağı: uyluk kemiğinin içe dönük olması (femoral anteversiyon); genel olarak en sık nedendir"
+     ]
+    },
+    {
+     "h": "Bebeklerde içe basma: ayağın içe kıvrık olması",
+     "p": [
+      "Ayak, orta kısmından parmaklara doğru içe kıvrıktır; bazı bebeklerde hafif ve esnek, bazılarında belirgin ve serttir [1]. Çoğu zaman kendiliğinden, genellikle yaşamın ilk 4–6 ayında düzelir [1].",
+      "Şekil bozukluğu ağır ya da ayağı çok sert olan 6–9 aylık bebeklerde alçı ya da özel ayakkabı uygulanabilir; başarı oranı yüksektir, ameliyat nadiren gerekir [1]. Kuzey Amerika Çocuk Ortopedisi Derneği'ne (POSNA) göre ayak ilk yılda düzelmezse cihaz ya da alçı önerilebilir [2]. Ağır olgular kısmen çarpık ayağı andırabilir; çarpık ayak ise doğumdan kısa süre sonra tedavi gerektiren, daha ağır ve ayrı bir durumdur [1]."
+     ]
+    },
+    {
+     "h": "Çocuklarda içe basma kaç yaşında düzelir?",
+     "p": [
+      "Amerikan Ortopedi Cerrahları Akademisi'ne (AAOS) göre 8 yaşından küçük çocukların büyük çoğunluğunda içe basma alçı, cihaz ya da ameliyat olmadan kendiliğinden düzelir [1]. Bacak kemiklerindeki dönüklük büyümeyle yavaş yavaş çözülür; kas kontrolü ve denge de yaşla gelişir [2].",
+      "Kaval kemiğindeki dönüklük neredeyse her zaman tedavisiz ve çoğunlukla okul çağından önce düzelir [1]; bir derlemeye göre genellikle 3–4 yaşına kadar düzelir, 6 yaşından sonra nadiren sürer [5].",
+      "Uyluk kemiğindeki dönüklük çoğu zaman 5–6 yaş dolayında en belirgin hâlini alır ve çoğu çocukta büyüdükçe kendiliğinden düzelir [1]; düzelme ilkokul yıllarında, yıllar içinde gerçekleşir, olguların çoğu 8 yaşına kadar düzelir [2][3]."
+     ]
+    },
+    {
+     "h": "Hekim içe basmayı nasıl değerlendirir?",
+     "p": [
+      "Çocukların büyük çoğunluğunda öykü ve muayene yeterlidir [2]. Doğum, gelişim basamakları, içe basmanın başlangıcı ve seyri, ağrı sorulur [2][3].",
+      "Çocuk çıplak ayakla yürürken izlenir; ardından yüzüstü yatarken kalçanın dönme açıklığına, uyluk ile ayak arasındaki açıya ve ayağın biçimine bakılarak dönüklüğün ayakta mı, kaval kemiğinde mi, uyluk kemiğinde mi olduğu ayırt edilir [3]. Kas gerginliği ve koordinasyon da kontrol edilir [2].",
+      "Röntgen çoğu çocukta gerekmez; başka bir hastalıktan kuşkulanıldığında, düzelme olmadığında ya da dönüklük tek taraflı olduğunda istenir [3][4]. Bulgular yaşa uygunsa 6–12 ay arayla izlem yeterlidir [3]."
+     ]
+    },
+    {
+     "h": "Ayakkabı, tabanlık, egzersiz ve \"W\" oturuşu",
+     "p": [
+      "Bebeklerdeki ayak kıvrıklığı ayrı tutulursa, okunan kaynakların hiçbiri içe basma için özel ayakkabı, tabanlık, cihaz ya da egzersiz önermez. AAOS'a göre kaval kemiği dönüklüğünde atel, özel ayakkabı ve egzersiz programları, uyluk kemiği dönüklüğünde özel ayakkabı, cihaz ve egzersiz yardımcı olmaz [1]. POSNA'ya göre çalışmalar içe basmanın kendiliğinden düzeldiğini, ayakkabı ve cihazların bunu hızlandırmadığını göstermiştir; kayropraktik uygulamalar da hızlandırmaz [2].",
+      "Bir derlemeye göre ortez, tabanlık ve egzersizin olağan içe basmada kanıtlanmış bir etkisi yoktur; ortez ve özel ayakkabı doğal seyri değiştirmez ve olumsuz psikolojik etkileri olabilir [3][4]. Diğer derlemeler de ortez ve cihazları destekleyen kanıtın çok az olduğunu, fizik tedavinin etkisinin kanıtlanmadığını bildirir [5][6].",
+      "Tabanlıklarla ilgili küçük çalışmalar vardır: 7–10 yaş arası 11 kız çocuğuyla yapılan randomize bir çalışmada, özel biçimli tabanlık ya da dış kenarı yükseltilmiş ayakkabıyla dört hafta sonunda ayağın yürüme doğrultusuyla yaptığı açıda düzelme ölçülmüş; yazarlar sonuca varmak için daha uzun ve daha büyük çalışmalar gerektiğini belirtmiştir [7].",
+      "\"W\" oturuşunda çocuk dizleri bükük, ayakları arkada ve yanlara açık oturur; uyluk kemiği dönüklüğü olan çocuklarda sıktır [1][2]. Bu oturuş dönüklüğe neden olmaz ve engellenmesi gerekmez [5]; gelişimsel kalça displazisiyle ilişkili bulunmamıştır, kalça çıkığına ya da işlev kaybına yol açtığına ilişkin bilimsel kanıt da yoktur [6]."
+     ]
+    },
+    {
+     "h": "İçe basma nelere sebep olur?",
+     "p": [
+      "AAOS'a göre içe basma tek başına ağrı yapmaz ve artrite yol açmaz [1]. POSNA'nın hekim rehberine göre uyluk kemiği dönüklüğü kalça ya da dizde kireçlenmeyle (dejeneratif eklem hastalığı) ilişkili bulunmamıştır, kaval kemiğinin içe dönüklüğü de bunun için bir risk etkeni değildir; ancak uyluk kemiği dönüklüğü, özellikle kaval kemiğinin dışa dönüklüğüyle birlikteyse, diz ağrısıyla ilişkilidir [4].",
+      "İçe basan çocukların çoğu, diğer çocuklar gibi yürümeyi, koşmayı ve spor yapmayı öğrenir [2]. Yürümeye yeni başlayan ve içe basan çocukların birçoğu sık takılıp düşer; POSNA bunu, bu yaşta kas kontrolünün, dengenin ve koordinasyonun henüz gelişmemiş olmasıyla açıklar [2]. Uyluk kemiği dönüklüğünde hafif sakarlık sıktır [3].",
+      "Yetişkinlerde içe basma bu yazının konusu değildir; okunan kaynaklar yetişkinler için ayrı bir değerlendirme ya da tedavi önerisi içermez."
+     ]
+    },
+    {
+     "h": "Çocuklarda içe basma ameliyatı ne zaman düşünülür?",
+     "p": [
+      "Ameliyat, başka bir hastalığı olmayan çocuklarda çok nadiren gerekir; dönüklük ortaokul yıllarında da sürüyor ve takılıp düşmeye ya da yürüme sorununa yol açıyorsa düşünülebilir [2].",
+      "AAOS'a göre ameliyat, kaval kemiği için en az 8–10 yaşında olan ve belirgin yürüme sorununa yol açan ağır dönüklüğü bulunan çocukta yapılabilir; uyluk kemiği için çocuk 9–10 yaşından büyük olmadıkça ve takılıp düşmeye, yürüyüş bozukluğuna yol açan ağır bir şekil bozukluğu bulunmadıkça genellikle düşünülmez [1]. Ameliyatta kemik kesilir ve döndürülerek doğru hizaya getirilir [1][4]. Serebral palsi gibi sinir ve kas hastalığı olan çocuklarda ameliyat gereksinimi daha olasıdır [4]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "İçe basma çoğu zaman büyümenin olağan bir evresidir; ancak şu durumlarda beklemeden hekime başvurun [1][2][3]:"
+     ],
+     "list": [
+      "Ağrı, şişlik ya da topallama varsa",
+      "İçe basma yalnızca tek bacaktaysa",
+      "Giderek artıyor ya da yürüyüş kötüleşiyorsa",
+      "Ana sınıfı çağına (ilkokuldan önceki yıl) gelindiğinde düzelme yoksa",
+      "8 yaşından sonra ya da ergenlikte aniden ortaya çıktıysa",
+      "Yürüme ve diğer gelişim basamakları geciktiyse",
+      "Kalçada sertlik varsa ya da bebekte ayak elle düzeltilemeyecek kadar sertse",
+      "Sporu ya da günlük etkinlikleri engelliyorsa"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Çocuklarda içe basma kendiliğinden düzelir mi?",
+     "a": "Çoğu çocukta evet: 8 yaşından küçük çocukların büyük çoğunluğunda alçı, cihaz ya da ameliyat gerekmeden kendiliğinden düzelir [1]. Düzelme büyümeyle birlikte, yıllar içinde olur [2]."
+    },
+    {
+     "q": "İçe basma için tabanlık ya da içe basmayı engelleyen ayakkabı almalı mıyım?",
+     "a": "Kemik dönüklüğüne bağlı olağan içe basmada kaynaklar bunu önermez: özel ayakkabı ve cihazlar düzelmeyi hızlandırmaz [1][2], tabanlık ve ortezin kanıtlanmış bir etkisi yoktur [3]. Küçük ve kısa süreli bir çalışmada tabanlıkla ayak açısında değişiklik ölçülmüş, ancak yazarlar daha büyük çalışmalar gerektiğini belirtmiştir [7]."
+    },
+    {
+     "q": "Çocuklarda içe basma egzersizleri işe yarar mı?",
+     "a": "AAOS, egzersiz programlarının yardımcı olmadığını bildirir [1]. Derlemelere göre de egzersizin ve fizik tedavinin olağan içe basmada etkili olduğu kanıtlanmamıştır [3][6]."
+    },
+    {
+     "q": "İçe basma nasıl tedavi edilir?",
+     "a": "Olağan biçimlerinde yapılan, çocuğun büyümesini izlemektir [2][3]. Ağır ya da sert ayak kıvrıklığı olan bebekte alçı ya da özel ayakkabı, büyük çocukta süren ve yürümeyi bozan ağır dönüklükte ise nadiren ameliyat gündeme gelir [1]."
+    },
+    {
+     "q": "İçe basma ileride kireçlenme ya da başka bir sorun yapar mı?",
+     "a": "İçe basma tek başına ağrı yapmaz ve artrite yol açmaz [1]; çocukların çoğu diğer çocuklar gibi yürür, koşar ve spor yapar [2]. Uyluk kemiği dönüklüğü, özellikle kaval kemiğinin dışa dönüklüğüyle birlikteyse, diz ağrısıyla ilişkili bulunmuştur [4]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "in-toeing-in-children",
+   "title": "In-toeing in children: what causes it and at what age does it correct?",
+   "description": "What is in-toeing (pigeon toe) in children, what causes it and when does it correct? Do special shoes, insoles or exercises help, and when is surgery needed?",
+   "summary": "In-toeing means that a child's toes point inwards when walking or running [1][2]. It has three usual causes: a foot that curves inwards in babies, an inward twist of the shin bone in toddlers, and an inward twist of the thigh bone in older children [1][3]. In the vast majority of children younger than 8 it corrects by itself; special shoes, insoles, braces and exercises have not been shown to speed this up [1][2][3].",
+   "sections": [
+    {
+     "h": "What is in-toeing and how do you recognise it?",
+     "p": [
+      "In-toeing means that when a child walks or runs, the feet turn inwards instead of pointing straight ahead [1][2]. Parents most often notice it when the baby begins to walk; other members of the family may have it too [1][2].",
+      "In everyday speech, similar words are also used for a foot that rolls onto its inner edge with a flattened arch. This article is about the toes pointing inwards when walking; fallen arches are covered in the flat feet article in this guide.",
+      "If the foot itself is curved, its outer border is rounded [3]; if the twist is in the thigh bone, the knees as well as the feet point inwards [1]. In the usual forms the turn is mostly similar in both legs and does not limit movement [3]."
+     ]
+    },
+    {
+     "h": "What causes in-toeing?",
+     "p": [
+      "The twist in the bones changes with growth: in a newborn the twist of the thigh bone can be as much as 40 degrees and it falls to about 15 degrees in young adulthood; the shin bone is also turned inwards in infancy and turns outwards by the age of 5 [3].",
+      "There are three usual causes; which one is involved can mostly be told from the child's age [1][3][4]:"
+     ],
+     "list": [
+      "Infancy: the foot curves inwards from its middle part to the toes (metatarsus adductus)",
+      "Ages 1–3: the shin bone is twisted inwards (tibial torsion); this is the most common cause at these ages",
+      "Ages 3–6 and primary-school age: the thigh bone is twisted inwards (femoral anteversion); this is the most common cause overall"
+     ]
+    },
+    {
+     "h": "In-toeing in babies: a foot that curves inwards",
+     "p": [
+      "The foot bends inwards from its middle part to the toes; in some babies it is mild and flexible, in others obvious and rigid [1]. It improves by itself most of the time, usually over the first 4 to 6 months of life [1].",
+      "Babies aged 6 to 9 months with a severe deformity or very rigid feet may be treated with casts or special shoes; the success rate is high and surgery is rarely required [1]. According to the Pediatric Orthopaedic Society of North America (POSNA), braces or casts may be recommended if the foot does not improve during the first year [2]. Severe cases may partly resemble a clubfoot; clubfoot, however, is a separate and more severe condition that requires treatment soon after birth [1]."
+     ]
+    },
+    {
+     "h": "At what age do children grow out of in-toeing?",
+     "p": [
+      "According to the American Academy of Orthopaedic Surgeons (AAOS), in the vast majority of children younger than 8, in-toeing corrects itself without casts, braces or surgery [1]. The twist in the leg bones gradually untwists with growth; muscle control and balance also improve with age [2].",
+      "The twist in the shin bone almost always improves without treatment, and usually before school age [1]; according to one review it usually resolves by 3 to 4 years of age and rarely persists beyond 6 [5].",
+      "The twist in the thigh bone is often most obvious at about 5 or 6 years of age and corrects by itself in most children as they grow older [1]; this happens during the primary-school years, over many years, and most cases resolve by the age of 8 [2][3]."
+     ]
+    },
+    {
+     "h": "How does a doctor assess in-toeing?",
+     "p": [
+      "For the vast majority of children a history and physical examination are enough [2]. The doctor asks about the birth, developmental milestones, when the in-toeing started and how it has changed, and pain [2][3].",
+      "The child is watched walking barefoot; then, with the child lying face down, the rotation of the hip, the angle between the thigh and the foot, and the shape of the foot are examined to tell whether the turn lies in the foot, the shin bone or the thigh bone [3]. Muscle tightness and coordination are also checked [2].",
+      "X-rays are not needed for most children; they are requested when another disorder is suspected, when there is no improvement, or when the turn affects one side only [3][4]. If the findings fit the child's age, follow-up at intervals of 6 to 12 months is sufficient [3]."
+     ]
+    },
+    {
+     "h": "Shoes, insoles, exercises and \"W\" sitting",
+     "p": [
+      "Leaving aside the curved foot of infancy, none of the sources read recommends special shoes, insoles, braces or exercises for in-toeing. According to the AAOS, splints, special shoes and exercise programmes do not help in tibial torsion, and special shoes, braces and exercises do not help in femoral anteversion [1]. According to POSNA, studies have shown that in-toeing improves on its own and that shoes and braces did not make this happen any faster; nor does chiropractic manipulation [2].",
+      "According to one review, orthotics, shoe inserts and exercises have no proven effectiveness in the usual forms of in-toeing; orthotics and special shoes do not alter the natural course and may have negative psychological effects [3][4]. Other reviews likewise report that there is minimal evidence to support orthotics and braces and that physical therapy has not been proven effective [5][6].",
+      "There are small studies of insoles: in a randomised trial of 11 girls aged 7 to 10, a specially shaped insole or a shoe raised along its outer edge was followed after four weeks by a measured improvement in the angle between the foot and the direction of walking; the authors state that longer and larger studies are needed to reach a conclusion [7].",
+      "In \"W\" sitting the child sits with the knees bent and the feet out behind and to the sides; it is common in children with femoral anteversion [1][2]. This position does not cause the twist and there is no need to discourage it [5]; it has not been found to be associated with developmental dysplasia of the hip, and there is no scientific evidence that it leads to hip dislocation or loss of function [6]."
+     ]
+    },
+    {
+     "h": "What problems can in-toeing lead to?",
+     "p": [
+      "According to the AAOS, in-toeing by itself does not cause pain and does not lead to arthritis [1]. According to the POSNA guide for doctors, femoral anteversion has not been found to be associated with osteoarthritis (degenerative joint disease) of the hip or knee, and an inward twist of the shin bone is not a risk factor for it either; femoral anteversion is, however, associated with knee pain, particularly together with an outward twist of the shin bone [4].",
+      "Most children with in-toeing learn to walk, run and play sports just like other children [2]. Many toddlers who in-toe also trip and fall often; POSNA explains this by the fact that muscle control, balance and coordination are not yet developed at this age [2]. Mild clumsiness is common with femoral anteversion [3].",
+      "In-toeing in adults is outside the scope of this article; the sources read contain no separate assessment or treatment advice for adults."
+     ]
+    },
+    {
+     "h": "When is surgery considered for in-toeing in children?",
+     "p": [
+      "Surgery is very rarely needed in children who have no other disorder; it may be considered if the twist is still present during the middle-school years and causes problems with tripping or walking [2].",
+      "According to the AAOS, surgery for the shin bone may be done in a child who is at least 8 to 10 years old and has a severe twist that causes significant walking problems; for the thigh bone it is usually not considered unless the child is older than 9 or 10 and has a severe deformity that causes tripping and an abnormal gait [1]. In the operation the bone is cut and rotated into the correct alignment [1][4]. Children with a nerve and muscle disorder such as cerebral palsy are more likely to need surgery [4]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "In-toeing is most often a normal stage of growth; in the following situations, however, see a doctor without waiting [1][2][3]:"
+     ],
+     "list": [
+      "There is pain, swelling or a limp",
+      "The in-toeing affects one leg only",
+      "It is increasing or the walking is getting worse",
+      "There is no improvement by kindergarten age (the year before primary school)",
+      "It appeared after the age of 8, or suddenly in adolescence",
+      "Walking and other developmental milestones are delayed",
+      "The hip is stiff, or in a baby the foot is too rigid to be straightened by hand",
+      "It gets in the way of sport or everyday activities"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does in-toeing in children correct by itself?",
+     "a": "In most children, yes: in the vast majority of children younger than 8 it corrects by itself without casts, braces or surgery [1]. The improvement comes with growth, over years [2]."
+    },
+    {
+     "q": "Should I buy insoles or corrective shoes for in-toeing?",
+     "a": "For the usual in-toeing that comes from a twist in the bone, the sources do not recommend them: special shoes and braces do not make it improve faster [1][2], and insoles and orthotics have no proven effectiveness [3]. One small, short study measured a change in foot angle with insoles, but its authors state that larger studies are needed [7]."
+    },
+    {
+     "q": "Do exercises for in-toeing in children work?",
+     "a": "The AAOS reports that exercise programmes do not help [1]. According to reviews, exercises and physical therapy have likewise not been proven effective in the usual forms of in-toeing [3][6]."
+    },
+    {
+     "q": "How is in-toeing treated?",
+     "a": "In the usual forms, what is done is to follow the child's growth [2][3]. Casts or special shoes come into question for a baby with a severe or rigid curved foot, and surgery, rarely, for an older child with a severe twist that persists and disturbs walking [1]."
+    },
+    {
+     "q": "Does in-toeing cause arthritis or other problems later in life?",
+     "a": "In-toeing by itself does not cause pain and does not lead to arthritis [1]; most children walk, run and play sports like other children [2]. Femoral anteversion has been found to be associated with knee pain, particularly together with an outward twist of the shin bone [4]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "khodba-noskami-vnutr-u-detej",
+   "title": "Ребёнок ходит носками внутрь: почему и в каком возрасте это проходит?",
+   "description": "Ребёнок косолапит, ходит носками внутрь: причины, как распознать, в каком возрасте проходит, помогают ли стельки, обувь и упражнения, когда нужна операция.",
+   "summary": "Ходьба носками внутрь — это когда при ходьбе или беге стопы ребёнка развёрнуты носками внутрь [1][2]. У неё три обычные причины: у младенцев — изогнутая внутрь стопа, у детей, недавно начавших ходить, — поворот большеберцовой кости внутрь, у детей постарше — поворот бедренной кости внутрь [1][3]. У подавляющего большинства детей младше 8 лет она проходит сама; не показано, что специальная обувь, стельки, ортезы и упражнения ускоряют исправление [1][2][3].",
+   "sections": [
+    {
+     "h": "Что такое ходьба носками внутрь и как её распознать?",
+     "p": [
+      "Ходьба носками внутрь — это когда при ходьбе или беге стопы ребёнка смотрят не прямо вперёд, а внутрь [1][2]. Чаще всего родители замечают это, когда малыш начинает ходить; такая особенность может встречаться и у других членов семьи [1][2].",
+      "В быту о таком ребёнке говорят, что он «косолапит»; так же называют и заваливание стопы на внутренний край с уплощением свода. В этой статье речь идёт о стопах, развёрнутых носками внутрь при ходьбе; опущение свода описано в этом справочнике в статье о плоскостопии.",
+      "Если изогнута сама стопа, её наружный край закруглён [3]; если поворот находится в бедренной кости, внутрь смотрят не только стопы, но и колени [1]. При обычных формах поворот чаще всего одинаков на обеих ногах и не ограничивает движения [3]."
+     ]
+    },
+    {
+     "h": "Почему ребёнок ходит носками внутрь?",
+     "p": [
+      "Поворот костей меняется по мере роста: у новорождённого поворот бедренной кости может достигать 40 градусов и к молодому взрослому возрасту уменьшается примерно до 15 градусов; большеберцовая кость в младенчестве также повёрнута внутрь и к 5 годам поворачивается кнаружи [3].",
+      "Обычных причин три; какая из них имеет место, чаще всего понятно по возрасту ребёнка [1][3][4]:"
+     ],
+     "list": [
+      "Младенчество: стопа изогнута внутрь от средней части к пальцам (приведение переднего отдела стопы, metatarsus adductus)",
+      "1–3 года: большеберцовая кость повёрнута внутрь (внутренняя торсия большеберцовой кости); в этом возрасте это самая частая причина",
+      "3–6 лет и младший школьный возраст: бедренная кость повёрнута внутрь (антеверсия бедренной кости); в целом это самая частая причина"
+     ]
+    },
+    {
+     "h": "Носки внутрь у младенцев: изогнутая внутрь стопа",
+     "p": [
+      "Стопа изогнута внутрь от средней части к пальцам; у одних младенцев изгиб лёгкий и гибкий, у других — выраженный и жёсткий [1]. Чаще всего он проходит сам, обычно в первые 4–6 месяцев жизни [1].",
+      "Младенцам 6–9 месяцев с тяжёлой деформацией или очень жёсткой стопой могут наложить гипсовые повязки или назначить специальную обувь; такое лечение часто бывает успешным, операция требуется редко [1]. По данным Общества детских ортопедов Северной Америки (POSNA), если стопа не выправляется в течение первого года, могут рекомендовать ортезы или гипсование [2]. Тяжёлые случаи могут отчасти напоминать косолапость; однако косолапость — отдельное, более тяжёлое состояние, которое требует лечения вскоре после рождения [1]."
+     ]
+    },
+    {
+     "h": "В каком возрасте дети перестают ходить носками внутрь?",
+     "p": [
+      "По данным Американской академии хирургов-ортопедов (AAOS), у подавляющего большинства детей младше 8 лет ходьба носками внутрь проходит сама, без гипса, ортезов и операции [1]. Поворот костей ног с ростом постепенно уменьшается; управление мышцами и равновесие также улучшаются с возрастом [2].",
+      "Поворот большеберцовой кости почти всегда проходит без лечения и чаще всего до школьного возраста [1]; согласно одному обзору, обычно он проходит к 3–4 годам и редко сохраняется после 6 лет [5].",
+      "Поворот бедренной кости часто наиболее заметен примерно в 5–6 лет и у большинства детей по мере взросления исправляется сам [1]; это происходит в годы начальной школы, в течение многих лет, и в большинстве случаев он проходит к 8 годам [2][3]."
+     ]
+    },
+    {
+     "h": "Как врач оценивает ходьбу носками внутрь?",
+     "p": [
+      "Подавляющему большинству детей достаточно расспроса и осмотра [2]. Врач спрашивает о родах, этапах развития, о том, когда появилась ходьба носками внутрь и как она менялась, о боли [2][3].",
+      "Врач наблюдает, как ребёнок ходит босиком; затем, когда ребёнок лежит на животе, оценивает объём вращения в тазобедренном суставе, угол между бедром и стопой и форму стопы, чтобы понять, где находится поворот — в стопе, в большеберцовой или в бедренной кости [3]. Проверяют также напряжение мышц и координацию [2].",
+      "Рентген большинству детей не нужен; его назначают при подозрении на другое заболевание, при отсутствии улучшения или если поворот есть только с одной стороны [3][4]. Если результаты осмотра соответствуют возрасту, достаточно наблюдения с интервалом 6–12 месяцев [3]."
+     ]
+    },
+    {
+     "h": "Обувь, стельки, упражнения и поза W",
+     "p": [
+      "Если не считать изогнутой стопы у младенцев, ни один из прочитанных источников не рекомендует при ходьбе носками внутрь специальную обувь, стельки, ортезы или упражнения. По данным AAOS, при повороте большеберцовой кости не помогают шины, специальная обувь и программы упражнений, а при повороте бедренной кости — специальная обувь, ортезы и упражнения [1]. По данным POSNA, исследования показали, что ходьба носками внутрь проходит сама, а обувь и ортезы этого не ускоряют; не ускоряют и хиропрактические манипуляции [2].",
+      "Согласно одному обзору, ортезы, стельки и упражнения не имеют доказанной эффективности при обычной ходьбе носками внутрь; ортезы и специальная обувь не меняют естественного течения и могут оказывать отрицательное психологическое влияние [3][4]. Другие обзоры также сообщают, что доказательств в пользу ортезов очень мало, а эффективность лечебной физкультуры не доказана [5][6].",
+      "Есть небольшие исследования стелек: в рандомизированном исследовании с участием 11 девочек 7–10 лет после четырёх недель ношения стельки особой формы или обуви с приподнятым наружным краем было зафиксировано улучшение угла между стопой и направлением ходьбы; авторы отмечают, что для вывода нужны более длительные и более крупные исследования [7].",
+      "В позе W ребёнок сидит с согнутыми коленями, а стопы разведены назад и в стороны; так часто сидят дети с поворотом бедренной кости [1][2]. Эта поза не вызывает поворота, и отучать от неё ребёнка не нужно [5]; связи с дисплазией тазобедренного сустава не обнаружено, и научных доказательств того, что она приводит к вывиху бедра или нарушению функции, нет [6]."
+     ]
+    },
+    {
+     "h": "К чему может привести ходьба носками внутрь?",
+     "p": [
+      "По данным AAOS, сама по себе ходьба носками внутрь не вызывает боли и не приводит к артриту [1]. Согласно руководству POSNA для врачей, связи поворота бедренной кости с артрозом (дегенеративным заболеванием суставов) тазобедренного или коленного сустава не обнаружено, и поворот большеберцовой кости внутрь также не является фактором его риска; однако поворот бедренной кости, особенно в сочетании с поворотом большеберцовой кости кнаружи, связан с болью в колене [4].",
+      "Большинство детей, которые ходят носками внутрь, учатся ходить, бегать и заниматься спортом так же, как другие дети [2]. Многие малыши, которые недавно начали ходить и ставят носки внутрь, часто спотыкаются и падают; POSNA объясняет это тем, что в этом возрасте управление мышцами, равновесие и координация ещё не развиты [2]. При повороте бедренной кости часто встречается лёгкая неловкость [3].",
+      "Ходьба носками внутрь у взрослых в этой статье не рассматривается; прочитанные источники не содержат отдельных рекомендаций по обследованию или лечению взрослых."
+     ]
+    },
+    {
+     "h": "Когда при ходьбе носками внутрь у детей рассматривают операцию?",
+     "p": [
+      "Детям без других заболеваний операция требуется очень редко; о ней может идти речь, если поворот сохраняется и в годы средней школы и из-за него ребёнок спотыкается или ему трудно ходить [2].",
+      "По данным AAOS, операцию на большеберцовой кости могут выполнить ребёнку не младше 8–10 лет с тяжёлым поворотом, который существенно затрудняет ходьбу; операцию на бедренной кости обычно рассматривают только у ребёнка старше 9–10 лет с тяжёлой деформацией, из-за которой он спотыкается и у него нарушена походка [1]. Во время операции кость пересекают и поворачивают в правильное положение [1][4]. Детям с заболеваниями нервов и мышц, такими как детский церебральный паралич, операция требуется с большей вероятностью [4]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Ходьба носками внутрь чаще всего — обычный этап роста; однако в следующих случаях обратитесь к врачу без промедления [1][2][3]:"
+     ],
+     "list": [
+      "Есть боль, отёк или хромота",
+      "Стопа развёрнута носком внутрь только на одной ноге",
+      "Поворот усиливается или походка ухудшается",
+      "К возрасту подготовительного класса (год перед начальной школой) улучшения нет",
+      "Ходьба носками внутрь появилась после 8 лет или внезапно в подростковом возрасте",
+      "Ребёнок поздно начал ходить или отстаёт в других этапах развития",
+      "Движения в тазобедренном суставе скованы или у младенца стопа настолько жёсткая, что её не удаётся выпрямить рукой",
+      "Это мешает заниматься спортом или повседневными делами"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Проходит ли ходьба носками внутрь у детей сама?",
+     "a": "У большинства детей — да: у подавляющего большинства детей младше 8 лет она проходит сама, без гипса, ортезов и операции [1]. Улучшение происходит по мере роста, в течение нескольких лет [2]."
+    },
+    {
+     "q": "Нужно ли покупать стельки или ортопедическую обувь, если ребёнок ходит носками внутрь?",
+     "a": "При обычной ходьбе носками внутрь, связанной с поворотом кости, источники этого не рекомендуют: специальная обувь и ортезы не ускоряют исправление [1][2], а стельки и ортезы не имеют доказанной эффективности [3]. В одном небольшом и коротком исследовании при ношении стелек зафиксировано изменение угла стопы, однако его авторы отмечают, что нужны более крупные исследования [7]."
+    },
+    {
+     "q": "Помогают ли упражнения, если ребёнок ходит носками внутрь?",
+     "a": "AAOS сообщает, что программы упражнений не помогают [1]. Согласно обзорам, эффективность упражнений и лечебной физкультуры при обычной ходьбе носками внутрь также не доказана [3][6]."
+    },
+    {
+     "q": "Как лечат ходьбу носками внутрь?",
+     "a": "При обычных формах ребёнка наблюдают по мере роста [2][3]. Младенцу с тяжёлым или жёстким изгибом стопы могут наложить гипс или назначить специальную обувь, а у более старшего ребёнка с сохраняющимся тяжёлым поворотом, который нарушает ходьбу, изредка рассматривают операцию [1]."
+    },
+    {
+     "q": "Приведёт ли ходьба носками внутрь к артрозу или другим проблемам в будущем?",
+     "a": "Сама по себе ходьба носками внутрь не вызывает боли и не приводит к артриту [1]; большинство детей ходят, бегают и занимаются спортом, как другие дети [2]. Обнаружена связь поворота бедренной кости с болью в колене, особенно в сочетании с поворотом большеберцовой кости кнаружи [4]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "charkhesh-pa-be-dakhel-dar-koodakan",
+   "title": "چرخش پا به داخل در کودکان: علت چیست و در چه سنی برطرف می‌شود؟",
+   "description": "چرخش پا به داخل در کودکان چیست، چرا ایجاد می‌شود و در چه سنی برطرف می‌شود؟ آیا کفی، کفش مخصوص و ورزش کمک می‌کنند و جراحی چه زمانی لازم است؟",
+   "summary": "چرخش پا به داخل یعنی هنگام راه رفتن یا دویدن، پنجهٔ پاهای کودک رو به داخل است [1][2]. سه علت معمول دارد: در شیرخواران خمیدگی خودِ پا به داخل، در کودکانی که تازه راه افتاده‌اند چرخش استخوان ساق به داخل و در کودکان بزرگ‌تر چرخش استخوان ران به داخل [1][3]. در اکثریت قاطع کودکان زیر ۸ سال خودبه‌خود برطرف می‌شود؛ نشان داده نشده است که کفش مخصوص، کفی، بریس و ورزش این بهبود را سریع‌تر کنند [1][2][3].",
+   "sections": [
+    {
+     "h": "چرخش پا به داخل چیست و چگونه تشخیص داده می‌شود؟",
+     "p": [
+      "چرخش پا به داخل یعنی هنگام راه رفتن یا دویدن، پاهای کودک به‌جای آنکه مستقیم رو به جلو باشند به داخل می‌چرخند [1][2]. بیشتر وقت‌ها خانواده هنگامی متوجه آن می‌شود که کودک راه رفتن را آغاز می‌کند؛ ممکن است در افراد دیگر خانواده هم دیده شود [1][2].",
+      "در زبان روزمره، تعبیرهای مشابه برای خوابیدن پا روی لبهٔ داخلی و صاف شدن قوس کف پا هم به کار می‌رود. این نوشته دربارهٔ رو به داخل بودن پنجهٔ پاها هنگام راه رفتن است؛ افتادگی قوس پا در نوشتهٔ صافی کف پا در همین راهنما توضیح داده شده است.",
+      "اگر خودِ پا خمیده باشد، لبهٔ خارجی آن انحنا دارد [3]؛ اگر چرخش در استخوان ران باشد، علاوه بر پاها زانوها هم رو به داخل قرار می‌گیرند [1]. در شکل‌های معمول، چرخش بیشتر وقت‌ها در هر دو پا مشابه است و حرکت را محدود نمی‌کند [3]."
+     ]
+    },
+    {
+     "h": "چرخش پا به داخل چرا ایجاد می‌شود؟",
+     "p": [
+      "چرخش استخوان‌ها با رشد تغییر می‌کند: در نوزاد چرخش استخوان ران ممکن است تا ۴۰ درجه باشد و در آغاز بزرگسالی به حدود ۱۵ درجه می‌رسد؛ استخوان ساق نیز در شیرخوارگی به داخل چرخیده است و تا ۵ سالگی به سمت بیرون می‌چرخد [3].",
+      "سه علت معمول دارد؛ اینکه کدام‌یک مطرح است بیشتر وقت‌ها از سن کودک مشخص می‌شود [1][3][4]:"
+     ],
+     "list": [
+      "شیرخوارگی: خمیدگی پا به داخل از بخش میانی تا انگشتان (متاتارسوس اداکتوس)",
+      "۱ تا ۳ سالگی: چرخش استخوان ساق به داخل (تورشن تیبیا)؛ در این سن شایع‌ترین علت است",
+      "۳ تا ۶ سالگی و سال‌های دبستان: چرخش استخوان ران به داخل (آنتی‌ورژن فمور)؛ در مجموع شایع‌ترین علت است"
+     ]
+    },
+    {
+     "h": "چرخش پا به داخل در شیرخواران: خمیدگی پا به داخل",
+     "p": [
+      "پا از بخش میانی تا انگشتان به داخل خم شده است؛ در برخی شیرخواران خفیف و انعطاف‌پذیر و در برخی دیگر آشکار و سفت است [1]. بیشتر وقت‌ها خودبه‌خود و معمولاً در ۴ تا ۶ ماه نخست زندگی بهبود می‌یابد [1].",
+      "برای شیرخواران ۶ تا ۹ ماهه‌ای که تغییر شکل شدید یا پای بسیار سفت دارند ممکن است گچ‌گیری یا کفش مخصوص به کار رود؛ میزان موفقیت بالاست و جراحی به‌ندرت لازم می‌شود [1]. به گفتهٔ انجمن ارتوپدی کودکان آمریکای شمالی (POSNA)، اگر پا در سال نخست بهبود نیابد ممکن است بریس یا گچ‌گیری توصیه شود [2]. موارد شدید ممکن است تا حدی به پاچنبری شبیه باشند؛ اما پاچنبری وضعیتی جداگانه و شدیدتر است که اندکی پس از تولد به درمان نیاز دارد [1]."
+     ]
+    },
+    {
+     "h": "چرخش پا به داخل در کودکان در چه سنی برطرف می‌شود؟",
+     "p": [
+      "به گفتهٔ آکادمی جراحان ارتوپدی آمریکا (AAOS)، در اکثریت قاطع کودکان زیر ۸ سال چرخش پا به داخل بدون گچ، بریس یا جراحی خودبه‌خود برطرف می‌شود [1]. چرخش استخوان‌های پا با رشد کم‌کم باز می‌شود؛ کنترل عضلات و تعادل نیز با بالا رفتن سن بهتر می‌شود [2].",
+      "چرخش استخوان ساق تقریباً همیشه بدون درمان و معمولاً پیش از سن مدرسه بهبود می‌یابد [1]؛ بر پایهٔ یک مقالهٔ مروری معمولاً تا ۳ یا ۴ سالگی برطرف می‌شود و به‌ندرت پس از ۶ سالگی ادامه می‌یابد [5].",
+      "چرخش استخوان ران اغلب در حدود ۵ یا ۶ سالگی از همیشه آشکارتر است و در بیشتر کودکان با بزرگ‌تر شدن خودبه‌خود اصلاح می‌شود [1]؛ این بهبود در سال‌های دبستان و طی سال‌ها رخ می‌دهد و بیشتر موارد تا ۸ سالگی برطرف می‌شوند [2][3]."
+     ]
+    },
+    {
+     "h": "پزشک چرخش پا به داخل را چگونه ارزیابی می‌کند؟",
+     "p": [
+      "برای اکثریت قاطع کودکان شرح‌حال و معاینه کافی است [2]. دربارهٔ تولد، مراحل رشد و تکامل، زمان شروع چرخش پا به داخل و روند آن و نیز درد پرسیده می‌شود [2][3].",
+      "راه رفتن کودک با پای برهنه مشاهده می‌شود؛ سپس در حالی که کودک به شکم خوابیده است، دامنهٔ چرخش مفصل لگن، زاویهٔ میان ران و پا و شکل پا بررسی می‌شود تا مشخص شود چرخش در خودِ پا، در استخوان ساق یا در استخوان ران است [3]. سفتی عضلات و هماهنگی حرکات نیز بررسی می‌شود [2].",
+      "عکس رادیولوژی برای بیشتر کودکان لازم نیست؛ زمانی درخواست می‌شود که به بیماری دیگری شک باشد، بهبودی دیده نشود یا چرخش فقط در یک سمت باشد [3][4]. اگر یافته‌ها با سن کودک هم‌خوان باشند، پیگیری با فاصلهٔ ۶ تا ۱۲ ماه کافی است [3]."
+     ]
+    },
+    {
+     "h": "کفش، کفی، ورزش و نشستن به شکل W",
+     "p": [
+      "اگر خمیدگی پا در شیرخواران را کنار بگذاریم، هیچ‌یک از منابع خوانده‌شده برای چرخش پا به داخل کفش مخصوص، کفی، بریس یا ورزش توصیه نمی‌کند. به گفتهٔ AAOS، در چرخش استخوان ساق آتل، کفش مخصوص و برنامه‌های ورزشی و در چرخش استخوان ران کفش مخصوص، بریس و ورزش کمکی نمی‌کنند [1]. به گفتهٔ POSNA، مطالعات نشان داده‌اند که چرخش پا به داخل خودبه‌خود بهبود می‌یابد و کفش و بریس آن را سریع‌تر نمی‌کنند؛ کایروپراکتیک نیز آن را سریع‌تر نمی‌کند [2].",
+      "بر پایهٔ یک مقالهٔ مروری، ارتز، کفی و ورزش در چرخش معمول پا به داخل اثر ثابت‌شده‌ای ندارند؛ ارتز و کفش مخصوص سیر طبیعی را تغییر نمی‌دهند و ممکن است اثر روانی منفی داشته باشند [3][4]. مقاله‌های مروری دیگر نیز گزارش می‌کنند که شواهد در تأیید ارتز و بریس بسیار اندک است و اثربخشی فیزیوتراپی ثابت نشده است [5][6].",
+      "مطالعه‌های کوچکی دربارهٔ کفی وجود دارد: در یک کارآزمایی تصادفی با ۱۱ دختر ۷ تا ۱۰ ساله، پس از چهار هفته استفاده از کفی با شکل ویژه یا کفشی که لبهٔ خارجی آن بالاتر بود، بهبودی در زاویهٔ میان پا و راستای راه رفتن اندازه‌گیری شد؛ نویسندگان بیان کرده‌اند که برای نتیجه‌گیری به مطالعه‌های طولانی‌تر و بزرگ‌تر نیاز است [7].",
+      "در نشستن به شکل W، کودک با زانوهای خم می‌نشیند و پاهایش در پشت و به دو طرف باز است؛ این حالت در کودکانی که چرخش استخوان ران دارند شایع است [1][2]. این شیوهٔ نشستن باعث چرخش نمی‌شود و لازم نیست کودک را از آن بازدارید [5]؛ ارتباطی میان آن و دیسپلازی تکاملی لگن یافت نشده است و شواهد علمی‌ای هم وجود ندارد که نشان دهد به دررفتگی لگن یا کاهش عملکرد می‌انجامد [6]."
+     ]
+    },
+    {
+     "h": "چرخش پا به داخل چه پیامدهایی دارد؟",
+     "p": [
+      "به گفتهٔ AAOS، چرخش پا به داخل به‌تنهایی درد ایجاد نمی‌کند و به آرتریت نمی‌انجامد [1]. بر پایهٔ راهنمای POSNA برای پزشکان، ارتباطی میان چرخش استخوان ران و آرتروز (بیماری دژنراتیو مفصل) در لگن یا زانو یافت نشده است و چرخش استخوان ساق به داخل نیز عامل خطری برای آن نیست؛ اما چرخش استخوان ران، به‌ویژه هنگامی که با چرخش استخوان ساق به بیرون همراه باشد، با درد زانو ارتباط دارد [4].",
+      "بیشتر کودکانی که چرخش پا به داخل دارند، مانند کودکان دیگر راه رفتن، دویدن و ورزش کردن را یاد می‌گیرند [2]. بسیاری از کودکانی که تازه راه افتاده‌اند و چرخش پا به داخل دارند زیاد پایشان گیر می‌کند و زمین می‌خورند؛ POSNA این را چنین توضیح می‌دهد که در این سن کنترل عضلات، تعادل و هماهنگی هنوز کامل نشده است [2]. در چرخش استخوان ران، ناشی‌گری خفیف در حرکات شایع است [3].",
+      "چرخش پا به داخل در بزرگسالان موضوع این نوشته نیست؛ منابع خوانده‌شده توصیهٔ جداگانه‌ای برای ارزیابی یا درمان بزرگسالان ندارند."
+     ]
+    },
+    {
+     "h": "جراحی چرخش پا به داخل در کودکان چه زمانی مطرح می‌شود؟",
+     "p": [
+      "در کودکانی که بیماری دیگری ندارند، جراحی بسیار به‌ندرت لازم می‌شود؛ اگر چرخش در سال‌های متوسطهٔ اول (راهنمایی) همچنان ادامه داشته باشد و باعث زمین خوردن یا مشکل در راه رفتن شود، ممکن است مطرح شود [2].",
+      "به گفتهٔ AAOS، جراحی استخوان ساق ممکن است برای کودکی انجام شود که دست‌کم ۸ تا ۱۰ سال دارد و چرخش شدیدی دارد که مشکل قابل‌توجهی در راه رفتن ایجاد می‌کند؛ جراحی استخوان ران معمولاً مطرح نمی‌شود مگر آنکه کودک بیش از ۹ یا ۱۰ سال داشته باشد و تغییر شکل شدیدی داشته باشد که باعث زمین خوردن و اختلال در راه رفتن شود [1]. در جراحی، استخوان بریده و چرخانده می‌شود تا در راستای درست قرار گیرد [1][4]. در کودکانی که بیماری عصبی و عضلانی مانند فلج مغزی دارند، احتمال نیاز به جراحی بیشتر است [4]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "چرخش پا به داخل بیشتر وقت‌ها مرحله‌ای عادی از رشد است؛ اما در این موارد بدون معطلی به پزشک مراجعه کنید [1][2][3]:"
+     ],
+     "list": [
+      "درد، تورم یا لنگیدن وجود دارد",
+      "چرخش فقط در یک پا دیده می‌شود",
+      "چرخش بیشتر می‌شود یا راه رفتن بدتر می‌شود",
+      "تا سن پیش‌دبستانی (سال پیش از دبستان) بهبودی دیده نمی‌شود",
+      "پس از ۸ سالگی یا به‌طور ناگهانی در نوجوانی پدید آمده است",
+      "راه افتادن و دیگر مراحل رشد و تکامل با تأخیر همراه بوده است",
+      "مفصل لگن خشک است یا پای شیرخوار آن‌قدر سفت است که با دست صاف نمی‌شود",
+      "مانع ورزش یا فعالیت‌های روزمره می‌شود"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "آیا چرخش پا به داخل در کودکان خودبه‌خود برطرف می‌شود؟",
+     "a": "در بیشتر کودکان، بله: در اکثریت قاطع کودکان زیر ۸ سال بدون گچ، بریس یا جراحی خودبه‌خود برطرف می‌شود [1]. بهبودی همراه با رشد و طی سال‌ها رخ می‌دهد [2]."
+    },
+    {
+     "q": "آیا برای چرخش پا به داخل باید کفی یا کفش طبی بخرم؟",
+     "a": "در چرخش معمول پا به داخل که از چرخش استخوان ناشی می‌شود، منابع این را توصیه نمی‌کنند: کفش مخصوص و بریس بهبود را سریع‌تر نمی‌کنند [1][2] و کفی و ارتز اثر ثابت‌شده‌ای ندارند [3]. در یک مطالعهٔ کوچک و کوتاه‌مدت با کفی تغییری در زاویهٔ پا اندازه‌گیری شد، اما نویسندگان آن بیان کرده‌اند که به مطالعه‌های بزرگ‌تر نیاز است [7]."
+    },
+    {
+     "q": "آیا ورزش برای چرخش پا به داخل در کودکان مؤثر است؟",
+     "a": "AAOS گزارش می‌کند که برنامه‌های ورزشی کمکی نمی‌کنند [1]. بر پایهٔ مقاله‌های مروری نیز اثربخشی ورزش و فیزیوتراپی در چرخش معمول پا به داخل ثابت نشده است [3][6]."
+    },
+    {
+     "q": "چرخش پا به داخل چگونه درمان می‌شود؟",
+     "a": "در شکل‌های معمول، کاری که انجام می‌شود پیگیری رشد کودک است [2][3]. برای شیرخواری که خمیدگی شدید یا سفت پا دارد گچ‌گیری یا کفش مخصوص و برای کودک بزرگ‌تری که چرخش شدید و ماندگار راه رفتنش را مختل می‌کند، به‌ندرت، جراحی مطرح می‌شود [1]."
+    },
+    {
+     "q": "آیا چرخش پا به داخل در آینده باعث آرتروز یا مشکل دیگری می‌شود؟",
+     "a": "چرخش پا به داخل به‌تنهایی درد ایجاد نمی‌کند و به آرتریت نمی‌انجامد [1]؛ بیشتر کودکان مانند کودکان دیگر راه می‌روند، می‌دوند و ورزش می‌کنند [2]. میان چرخش استخوان ران و درد زانو ارتباط دیده شده است، به‌ویژه هنگامی که با چرخش استخوان ساق به بیرون همراه باشد [4]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

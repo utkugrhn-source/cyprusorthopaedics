@@ -1,0 +1,529 @@
+{
+ "id": "tendinitis",
+ "area": "omuz-dirsek",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Tendonitis",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/tendonitis/",
+   "year": "2023"
+  },
+  {
+   "title": "Sprains, Strains and Other Soft-Tissue Injuries",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/sprains-strains-and-other-soft-tissue-injuries/",
+   "year": "n.d."
+  },
+  {
+   "title": "Tendinopathy",
+   "publisher": "Nature Reviews Disease Primers (Millar NL, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33414454/",
+   "year": "2021"
+  },
+  {
+   "title": "Dutch multidisciplinary guideline on Achilles tendinopathy",
+   "publisher": "British Journal of Sports Medicine (de Vos RJ, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34187784/",
+   "year": "2021"
+  },
+  {
+   "title": "Efficacy and safety of corticosteroid injections and other injections for management of tendinopathy: a systematic review of randomised controlled trials",
+   "publisher": "The Lancet (Coombes BK, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20970844/",
+   "year": "2010"
+  },
+  {
+   "title": "The effectiveness of extracorporeal shockwave therapy in common lower limb conditions: a systematic review including quantification of patient-rated pain reduction",
+   "publisher": "British Journal of Sports Medicine (Korakakis V, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28954794/",
+   "year": "2018"
+  },
+  {
+   "title": "Platelet-rich therapies for musculoskeletal soft tissue injuries",
+   "publisher": "Cochrane Database of Systematic Reviews (Moraes VY, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24782334/",
+   "year": "2014"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "tendinit-tendon-iltihabi",
+   "title": "Tendinit (tendon iltihabı): neden olur, nasıl geçer, ne iyi gelir?",
+   "description": "Tendinit (tendon iltihabı) nedir, belirtileri nelerdir, neden olur? Ne iyi gelir, krem ve ilaç, egzersiz, kortizon iğnesi, şok dalga ve PRP; ne zaman geçer?",
+   "summary": "Tendinit (tendon iltihabı), kası kemiğe bağlayan tendonun ya da kılıfının çoğunlukla tekrarlayan zorlanmayla tahriş olmasıdır; hareketle artan ağrı yapar [1][2]. Hafif bir tendon yaralanması evde tedavi edilebilir ve 2–3 hafta içinde düzelmesi beklenir [1]. Uzun süren yakınmalarda tedavi yükün düzenlenmesi ve kademeli egzersiz programlarıyla başlar [3][4]; kortizon iğnesinin etkisi kısa sürelidir, şok dalga tedavisi ve PRP için kanıtlar sınırlıdır [5][6][7].",
+   "sections": [
+    {
+     "h": "Tendinit nedir, tendinopatiden farkı ne?",
+     "p": [
+      "Tendonlar, kasları kemiğe bağlayan lifli doku bantlarıdır [1][2]. Tendinit (tendon iltihabı), tendonun ya da onu saran kılıfın iltihabı ya da tahrişidir [2].",
+      "Güncel uzlaşıya göre, tendonu yükleyen etkinliklerle ortaya çıkan yerel tendon ağrısına \"tendinopati\" denir [4]. Tendinopatide dokuda iltihap hücrelerinin yanı sıra kolajen liflerinin düzeninin bozulması gibi değişiklikler de görülür [3]. Bu yazıda yaygın kullanılan \"tendinit\" sözcüğü tendinopatiyi de kapsar.",
+      "Bursit ise kemiklerle yumuşak dokular arasında yastık görevi gören, sıvı içeren küçük keselerin (bursa) iltihabıdır; tendinitte etkilenen, tendonun kendisi ya da kılıfıdır [2]. İkisi birlikte görülebilir; bursit bu rehberde ayrı bir yazıda anlatılmıştır [2]."
+     ]
+    },
+    {
+     "h": "Tendinit neden olur?",
+     "p": [
+      "Tendinit çoğunlukla aşırı kullanıma bağlıdır: tendonu tekrar tekrar zorlayan küçük yüklenmeler birikir ve doku toparlanmaya yetecek zamanı bulamaz [2]. Koşma, sıçrama ve fırlatma gibi tekrarlayan egzersizler, ani ve sert hareketler, işte ya da sporda yinelenen hareketler ile kötü duruş ya da teknik başlıca nedenlerdir [1].",
+      "Hollanda'nın Aşil tendinopatisi kılavuzuna göre sporcuda dış yükün fazla olması, hareketsiz kişide ise kapasitenin çok düşük olması görece bir aşırı yüklenmeye yol açabilir [4]. Aşil tendonunda sorun genellikle yaşlanma ve aşırı kullanımla ilişkilidir; daha önce bacakta tendinopati geçirmiş olmak riski artırır [4]. Kılavuz, önlem olarak, başka bir seçenek varsa ve klinik tablo izin veriyorsa florokinolon grubu antibiyotiklerden kaçınılmasının düşünülmesini de önerir [4]."
+     ]
+    },
+    {
+     "h": "Tendinit nerede olur?",
+     "p": [
+      "Aşırı kullanıma bağlı tendon sorunları en sık omuzda rotator manşet tendonlarını, dirseğin iç ve dış yanını, dizde patellar (diz kapağı) tendonunu, kalça (gluteal) tendonlarını ve Aşil tendonunu tutar [3]. Omuz ve dirsek tendiniti yüzme, tenis, voleybol ve golfte; diz ve ayak bileği tendiniti futbol, basketbol ve koşuda daha sık görülür [2]. Rehberde ayrı yazısı olan konular:"
+     ],
+     "list": [
+      "Omuz: rotator manşet sorunları ve omuzda kireçlenme (kalsifik tendinit)",
+      "Dirsek: tenisçi dirseği",
+      "El bileği ve başparmak: tendon kılıfını tutan De Quervain tenosinoviti",
+      "Aşil tendonu: Aşil tendonu yırtığı",
+      "Topuk altı ağrısı (plantar fasiit, topuk dikeni) ve kas yırtılması"
+     ]
+    },
+    {
+     "h": "Belirtileri nelerdir, nasıl teşhis edilir?",
+     "p": [
+      "Yakınmalar genellikle yavaş yavaş gelişir [2]. Başlıca belirtiler tendonda hareketle artan ağrı, eklemi hareket ettirmekte güçlük, tendon hareket ederken sürtünme ya da çıtırtı hissi ve bazen sıcaklık ya da kızarıklığın eşlik ettiği şişliktir [1]. İşlev ve egzersize dayanıklılık azalabilir [3].",
+      "Tanı çoğunlukla yakınmalara ve muayeneye dayanır; bazı durumlarda ağrıyı ortaya çıkaran testler ve görüntüleme gerekebilir [3]. Aşil tendonunda muayenedeki tanı ölçütlerinin tümü karşılanıyorsa ek görüntüleme gerekmez; tanı kesin değilse ya da ameliyat düşünülüyorsa ilk tercih ultrasondur [4]."
+     ]
+    },
+    {
+     "h": "Tendinite ne iyi gelir? Krem ve ilaç",
+     "p": [
+      "Hafif bir tendon yaralanması evde tedavi edilebilir [1]. Hangi ağrı kesicinin size uygun olduğunu eczacınız söyleyebilir: basit ağrı kesiciler ağrıyı hafifletebilir, cilde sürülen iltihap giderici jel de önerilebilir [1]. İltihap giderici ilaçlar tendinit tedavisinde kullanılabilir [2]; Aşil tendinopatisi kılavuzu ise bu ilaçlarda temkinli olunmasını ister [4].",
+      "İlk 2–3 gün için önerilenler şunlardır [1]:"
+     ],
+     "list": [
+      "Dinlenme: tendonu 2–3 gün hareket ettirmemeye çalışmak",
+      "Havluya sarılı buz torbasını 2–3 saatte bir, 20 dakikaya kadar uygulamak",
+      "Bölgeyi elastik bandajla sarmak ya da yumuşak bir destek kullanmak",
+      "Ağrı izin verince, eklem sertleşmesin diye bölgeyi yeniden hareket ettirmek",
+      "Ağır kaldırmaktan, güçlü kavramadan, burma hareketlerinden ve tendon iyileşene kadar spordan kaçınmak"
+     ]
+    },
+    {
+     "h": "Egzersiz: tendonu kademeli yüklemek",
+     "p": [
+      "Ağrı şiddetliyse, uzun sürüyorsa ya da hareket kısıtlıysa fizyoterapi önerilebilir [1]. Tendinopati tedavisinde farklı egzersiz ve yükleme programları kullanılır; ancak etkinlikleri konusunda belirsizlik sürmektedir [3].",
+      "Aşil tendinopatisi kılavuzu, süregen olgularda yalnızca beklemekle kısa vadede düzelme olmadığını ya da sınırlı kaldığını belirtir ve etkin tedavi önerir; bu tedavide yük adım adım artırılır [4]. Önerilen başlangıç tedavisi üç parçadan oluşur [4]:"
+     ],
+     "list": [
+      "Bilgilendirme: durumun ve beklenen seyrin anlatılması",
+      "Yükün düzenlenmesi: ağrıyı başlatan etkinliklere ara vermek, sonra yükü ağrıya göre kademeli olarak artırmak",
+      "En az 12 hafta süren, baldır kaslarını güçlendiren ve giderek ağırlaşan egzersizler; ilerleme hızını ağrı ve kas yorgunluğu belirler"
+     ]
+    },
+    {
+     "h": "Kortizon iğnesi, şok dalga tedavisi ve PRP",
+     "p": [
+      "Şiddetli tendinitte kortizon (steroid) iğnesi önerilebilir; kısa süreli ağrı azalması sağlayabilir [1]. 41 randomize çalışmayı inceleyen bir derleme, kortizon iğnesinin kısa vadede ağrıyı diğer yöntemlerden fazla azalttığını, ancak bu etkinin orta ve uzun vadede tersine döndüğünü bulmuştur; tenisçi dirseği bunun örneğidir, rotator manşette ise kısa vadeli etki net değildir [5]. Yan etki bildiren çalışmalarda kortizon yapılan 991 kişiden birinde tendon kopması görülmüş; yanıtın bölgeye göre değiştiği ve genellenmemesi gerektiği belirtilmiştir [5]. Aşil tendinopatisi kılavuzu kortizon iğnesinde temkinli olunmasını ister [4]. Bölgeye özgü bilgiler ilgili yazılardadır.",
+      "Şok dalga tedavisi (ESWT), Aşil tendinopatisinde egzersiz ve yük düzenlemesine rağmen 3 ayda düzelme olmazsa düşünülebilecek ek seçeneklerdendir; ek yararı belirsizdir [4]. Bacakta sık görülen sorunlara ilişkin bir sistematik derleme, bazılarında etkili olabileceğine dair düşük düzeyde kanıt bulmuştur; patellar tendinopatide (diz tendiniti) ise odaklı şok dalga ile plasebo arasında kısa ve orta vadede fark olmadığına dair orta düzeyde kanıt vardır [6].",
+      "Trombositten zengin plazma (PRP) için bir Cochrane derlemesi, yumuşak doku yaralanmalarında kullanımını destekleyecek yeterli kanıt bulunmadığı sonucuna varmıştır; kanıtın kalitesi çok düşüktür [7]. Aşil tendinopatisinde PRP plasebodan daha etkili bulunmamıştır [5]."
+     ]
+    },
+    {
+     "h": "Ne kadar sürede iyileşir, ameliyat ne zaman?",
+     "p": [
+      "Hafif bir tendon yaralanmasının 2–3 hafta içinde düzelmesi beklenir; birkaç hafta içinde düzelme olmazsa hekime başvurmak gerekir [1]. Uzun süren tendinopatide iyileşme yavaştır: Aşil tendonunda aylar, hatta yıllar sürebilir ve yakınmasız tam yüklenmeye dönüş genellikle en az birkaç aylık etkin tedaviden sonra mümkündür [4]. Hastaların çoğu iyileşir; ancak yüzde 23–37'sinde yakınmalar tedaviye rağmen uzun vadede sürebilir [4].",
+      "Yakınmalar sürerse hasta ortopedi uzmanına yönlendirilebilir; hasarlı dokuyu çıkarmak ya da kopmuş tendonu onarmak için ameliyat önerilebilir [1]. Aşil tendinopatisinde ameliyat, yalnızca en az altı aylık etkin tedaviye rağmen iyileşmeyen hastalarda düşünülür [4]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Ağrı bir kaza ya da etkinlik sırasında aniden ve şiddetli başladıysa tendon kopmuş olabilir; ağrı başlarken \"pat\" ya da kopma sesi duyulmuş olabilir [1]. Şu durumlarda beklemeden bir sağlık kuruluşuna başvurun [1]:"
+     ],
+     "list": [
+      "Aniden başlayan şiddetli ağrı",
+      "Ağrı başlarken duyulan \"pat\" ya da kopma sesi",
+      "Tendonun koptuğunu düşünüyorsanız",
+      "Ağrınız çok şiddetliyse"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Tendinit için en iyi ilaç ya da krem hangisi?",
+     "a": "Size uygun ağrı kesiciyi eczacınız önerebilir; basit ağrı kesiciler ağrıyı hafifletebilir, cilde sürülen iltihap giderici jel de önerilebilir [1]. Aşil tendinopatisi kılavuzu iltihap giderici ilaçlarda temkinli olunmasını ister [4]."
+    },
+    {
+     "q": "Tendinit ne zaman geçer?",
+     "a": "Hafif bir tendon yaralanmasının 2–3 hafta içinde düzelmesi beklenir [1]. Uzun süredir devam eden tendinopatide iyileşme aylar sürebilir; yakınmasız tam yüklenmeye dönüş genellikle en az birkaç aylık etkin tedaviden sonra mümkündür [4]."
+    },
+    {
+     "q": "Tendon iltihabı nasıl geçer?",
+     "a": "İlk 2–3 gün dinlenme, havluya sarılı buz ve destek önerilir; ağrı izin verdiğinde eklem yeniden hareket ettirilir [1]. Yakınma sürerse tedavi yükün düzenlenmesi ve kademeli güçlendirme egzersizleriyle sürdürülür [4]."
+    },
+    {
+     "q": "Diz tendiniti (patellar tendinit) nedir?",
+     "a": "Diz kapağı tendonunun (patellar tendon) aşırı kullanıma bağlı sorunudur ve en sık görülen tendinopatilerdendir [3]; futbol, basketbol ve koşuda diz tendonları daha sık etkilenir [2]. Şok dalga tedavisinin bu bölgede kısa ve orta vadede plasebodan farklı olmadığına dair orta düzeyde kanıt vardır [6]."
+    },
+    {
+     "q": "Omuz tendiniti nasıl tedavi edilir?",
+     "a": "Omuzda en sık rotator manşet tendonları tutulur [3]. Kortizon iğnesinin bu bölgedeki kısa vadeli etkisi net değildir [5]; egzersiz, iğne ve ameliyat kararı rotator manşet yazısında ayrıntılı olarak anlatılmıştır."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "tendinitis-tendinopathy",
+   "title": "Tendinitis (tendon inflammation): what causes it and what helps it settle?",
+   "description": "What is tendinitis (tendonitis), what are the symptoms and causes? What helps: gels and painkillers, exercise, steroid injection, shock waves, PRP; how long?",
+   "summary": "Tendinitis (tendon inflammation) is irritation of a tendon, the tissue that attaches muscle to bone, or of its sheath, most often from repeated strain; it causes pain that gets worse with movement [1][2]. A mild tendon injury can be treated at home and should feel better within 2 to 3 weeks [1]. For long-lasting symptoms, treatment starts with managing the load and with progressive exercise programmes [3][4]; the effect of a steroid injection is short-lived, and the evidence for shock-wave therapy and PRP is limited [5][6][7].",
+   "sections": [
+    {
+     "h": "What is tendinitis, and how does it differ from tendinopathy?",
+     "p": [
+      "Tendons are fibrous cords of tissue that attach muscles to bone [1][2]. Tendinitis (tendon inflammation) is inflammation or irritation of a tendon or of the sheath that covers it [2].",
+      "According to the current consensus, local pain in a tendon that comes on with tendon-loading activities is called \"tendinopathy\" [4]. In tendinopathy the tissue shows, alongside inflammatory cells, changes such as disorganised collagen fibres [3]. In this article the commonly used word \"tendinitis\" also covers tendinopathy.",
+      "Bursitis, by contrast, is inflammation of the small fluid-containing sacs (bursae) that act as cushions between bones and soft tissues; in tendinitis it is the tendon itself or its sheath that is affected [2]. The two can also occur together; bursitis is covered in a separate article in this guide [2]."
+     ]
+    },
+    {
+     "h": "What causes tendinitis?",
+     "p": [
+      "Tendinitis is mostly the result of overuse: small stresses that repeatedly strain the tendon add up, and the tissue does not have enough time to recover [2]. The main causes are repetitive exercise such as running, jumping and throwing, sudden sharp movements, repeated movements at work or in sport, and poor posture or technique [1].",
+      "According to the Dutch guideline on Achilles tendinopathy, an external load that is too high in an athlete, or a very low capacity in an inactive person, can lead to relative overload [4]. In the Achilles tendon the problem is generally related to ageing and overuse; having had a tendinopathy in the leg before increases the risk [4]. As a preventive measure, the guideline also recommends considering avoiding fluoroquinolone antibiotics if another option is available and the clinical picture allows [4]."
+     ]
+    },
+    {
+     "h": "Where does tendinitis occur?",
+     "p": [
+      "Overuse tendon problems most often involve the rotator cuff tendons in the shoulder, the inner and outer sides of the elbow, the patellar (kneecap) tendon in the knee, the hip (gluteal) tendons and the Achilles tendon [3]. Tendinitis of the shoulder and elbow is more common in swimming, tennis, volleyball and golf; tendinitis of the knee and ankle in football, basketball and running [2]. The topics that have a separate article in this guide are:"
+     ],
+     "list": [
+      "Shoulder: rotator cuff problems and calcific tendinitis of the shoulder",
+      "Elbow: tennis elbow",
+      "Wrist and thumb: De Quervain's tenosynovitis, which affects the tendon sheath",
+      "Achilles tendon: Achilles tendon rupture",
+      "Pain under the heel (plantar fasciitis, heel spur) and muscle tears"
+     ]
+    },
+    {
+     "h": "What are the symptoms and how is it diagnosed?",
+     "p": [
+      "Symptoms usually develop gradually [2]. The main ones are pain in a tendon that gets worse with movement, difficulty moving the joint, a grating or crackling sensation when the tendon moves, and swelling, sometimes with heat or redness [1]. Function and exercise tolerance may decline [3].",
+      "The diagnosis is mostly based on the symptoms and the examination; in some cases pain-provoking tests and imaging may be needed [3]. In the Achilles tendon, no additional imaging is needed when all the diagnostic criteria on examination are met; when the diagnosis is uncertain or surgery is being considered, ultrasound is the first choice [4]."
+     ]
+    },
+    {
+     "h": "What helps tendinitis? Gels and medicines",
+     "p": [
+      "A mild tendon injury can be treated at home [1]. Your pharmacist can tell you which painkiller is suitable for you: simple painkillers can ease the pain, and an anti-inflammatory gel rubbed on the skin may also be recommended [1]. Anti-inflammatory medicines may be used in the treatment of tendinitis [2]; the Achilles tendinopathy guideline, however, asks for caution with these medicines [4].",
+      "The steps recommended for the first 2 to 3 days are [1]:"
+     ],
+     "list": [
+      "Rest: trying not to move the tendon for 2 to 3 days",
+      "An ice pack wrapped in a towel for up to 20 minutes every 2 to 3 hours",
+      "Wrapping the area with an elastic bandage or using a soft brace",
+      "Moving the area again once pain allows, so that the joint does not become stiff",
+      "Avoiding heavy lifting, strong gripping, twisting actions and, until the tendon has recovered, sport"
+     ]
+    },
+    {
+     "h": "Exercise: loading the tendon gradually",
+     "p": [
+      "If the pain is severe, lasts a long time or movement is limited, physiotherapy may be offered [1]. Different exercise and loading programmes are used in the management of tendinopathy; however, uncertainty remains about how effective they are [3].",
+      "The Achilles tendinopathy guideline states that in long-standing cases simply waiting brings no improvement, or only limited improvement, in the short term, and it advises active treatment, in which the load is increased step by step [4]. The recommended initial treatment has three parts [4]:"
+     ],
+     "list": [
+      "Education: an explanation of the condition and of the expected course",
+      "Managing the load: stopping the activities that bring on the pain, then increasing the load gradually according to the pain",
+      "Progressive exercises that strengthen the calf muscles, for at least 12 weeks; the pace of progression is set by pain and muscle fatigue"
+     ]
+    },
+    {
+     "h": "Steroid injections, shock-wave therapy and PRP",
+     "p": [
+      "In severe tendinitis a cortisone (steroid) injection may be offered; it may provide short-term pain relief [1]. A review of 41 randomised trials found that cortisone injections reduced pain more than other interventions in the short term, but that this effect was reversed in the intermediate and long term; tennis elbow is the example, whereas in the rotator cuff the short-term effect is not clear [5]. In the studies that reported adverse events, tendon rupture occurred in one of 991 people who received cortisone; the review stated that the response varies by site and should not be generalised [5]. The Achilles tendinopathy guideline asks for caution with cortisone injections [4]. Site-specific information is given in the relevant articles.",
+      "In Achilles tendinopathy, shock-wave therapy (ESWT) is one of the additional options that can be considered if there is no improvement after 3 months despite exercise and load management; its additional benefit is uncertain [4]. A systematic review of common conditions of the leg found low-level evidence that it may be effective in some of them; in patellar tendinopathy (knee tendinitis), however, there is moderate-level evidence of no difference between focused shock-wave therapy and placebo in the short and medium term [6].",
+      "For platelet-rich plasma (PRP), a Cochrane review concluded that there is insufficient evidence to support its use in soft tissue injuries; the quality of the evidence is very low [7]. In Achilles tendinopathy PRP was not found to be more effective than placebo [5]."
+     ]
+    },
+    {
+     "h": "How long does it take to heal, and when is surgery considered?",
+     "p": [
+      "A mild tendon injury should feel better within 2 to 3 weeks; if there is no improvement within a few weeks, you should see a doctor [1]. In long-lasting tendinopathy recovery is slow: in the Achilles tendon it can take months or even years, and a return to full loading without symptoms is generally possible only after at least a few months of active treatment [4]. Most patients recover; nevertheless, in 23–37% symptoms may persist in the long term despite treatment [4].",
+      "If symptoms continue, the patient may be referred to an orthopaedic specialist; surgery may be recommended to remove damaged tissue or repair a ruptured tendon [1]. In Achilles tendinopathy, surgery is considered only in patients who have not recovered despite at least six months of active treatment [4]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "If the pain started suddenly and severely during an accident or an activity, the tendon may have ruptured; a popping or snapping sound may have been heard when the pain began [1]. In the following situations seek care without waiting [1]:"
+     ],
+     "list": [
+      "Severe pain that started suddenly",
+      "A popping or snapping sound heard when the pain began",
+      "You think the tendon has ruptured",
+      "Your pain is very severe"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "What is the best medicine or cream for tendinitis?",
+     "a": "Your pharmacist can recommend a painkiller that suits you; simple painkillers can ease the pain, and an anti-inflammatory gel rubbed on the skin may also be recommended [1]. The Achilles tendinopathy guideline asks for caution with anti-inflammatory medicines [4]."
+    },
+    {
+     "q": "When does tendinitis go away?",
+     "a": "A mild tendon injury should feel better within 2 to 3 weeks [1]. In long-standing tendinopathy recovery can take months; a return to full loading without symptoms is generally possible only after at least a few months of active treatment [4]."
+    },
+    {
+     "q": "How does tendon inflammation settle?",
+     "a": "For the first 2 to 3 days, rest, ice wrapped in a towel and support are recommended; the joint is moved again once pain allows [1]. If symptoms continue, treatment carries on with load management and progressive strengthening exercises [4]."
+    },
+    {
+     "q": "What is knee tendinitis (patellar tendinitis)?",
+     "a": "It is an overuse problem of the kneecap tendon (patellar tendon) and is among the most common tendinopathies [3]; the tendons of the knee are affected more often in football, basketball and running [2]. There is moderate-level evidence that shock-wave therapy at this site is no different from placebo in the short and medium term [6]."
+    },
+    {
+     "q": "How is shoulder tendinitis treated?",
+     "a": "In the shoulder the rotator cuff tendons are affected most often [3]. The short-term effect of a cortisone injection at this site is not clear [5]; exercise, injection and the decision about surgery are described in detail in the rotator cuff article."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "tendinit-vospalenie-sukhozhiliya",
+   "title": "Тендинит (воспаление сухожилия): отчего возникает и как проходит?",
+   "description": "Что такое тендинит (воспаление сухожилия), его симптомы и причины. Что помогает: мази и лекарства, упражнения, укол кортизона, ударно-волновая терапия, PRP.",
+   "summary": "Тендинит (воспаление сухожилия) — это раздражение сухожилия, которое прикрепляет мышцу к кости, или его оболочки, чаще всего из-за повторяющейся перегрузки; он вызывает боль, усиливающуюся при движении [1][2]. Лёгкую травму сухожилия можно лечить дома, и улучшения следует ожидать через 2–3 недели [1]. При длительных жалобах лечение начинают с изменения нагрузки и программ постепенно усложняемых упражнений [3][4]; эффект укола кортизона кратковременный, а доказательства в пользу ударно-волновой терапии и PRP ограничены [5][6][7].",
+   "sections": [
+    {
+     "h": "Что такое тендинит и чем он отличается от тендинопатии?",
+     "p": [
+      "Сухожилия — это тяжи волокнистой ткани, прикрепляющие мышцы к кости [1][2]. Тендинит (воспаление сухожилия) — это воспаление или раздражение сухожилия либо покрывающей его оболочки (влагалища) [2].",
+      "Согласно современному консенсусу, локальную боль в сухожилии, возникающую при нагрузке на него, называют «тендинопатией» [4]. При тендинопатии в ткани, помимо воспалительных клеток, обнаруживают и такие изменения, как нарушение упорядоченности коллагеновых волокон [3]. В этой статье общеупотребительное слово «тендинит» охватывает и тендинопатию.",
+      "Бурсит же — это воспаление небольших содержащих жидкость сумок (бурс), которые служат прокладкой между костями и мягкими тканями; при тендините поражается само сухожилие или его оболочка [2]. Эти два состояния могут встречаться и вместе; бурситу в этом справочнике посвящена отдельная статья [2]."
+     ]
+    },
+    {
+     "h": "Отчего возникает тендинит?",
+     "p": [
+      "Тендинит чаще всего связан с чрезмерной нагрузкой: небольшие нагрузки, раз за разом перенапрягающие сухожилие, накапливаются, и ткань не успевает восстановиться [2]. Основные причины — повторяющиеся упражнения, такие как бег, прыжки и броски, внезапные резкие движения, однообразные движения на работе или в спорте, а также неправильная осанка или техника [1].",
+      "Согласно нидерландскому руководству по тендинопатии ахиллова сухожилия, слишком высокая внешняя нагрузка у спортсмена или очень низкая способность переносить нагрузку у малоподвижного человека могут приводить к относительной перегрузке [4]. В ахилловом сухожилии проблема обычно связана со старением и чрезмерной нагрузкой; перенесённая ранее тендинопатия на ноге повышает риск [4]. В целях профилактики руководство также рекомендует рассмотреть отказ от антибиотиков группы фторхинолонов, если есть другой вариант и клиническая картина это позволяет [4]."
+     ]
+    },
+    {
+     "h": "Где бывает тендинит?",
+     "p": [
+      "Связанные с перегрузкой проблемы сухожилий чаще всего затрагивают сухожилия вращательной манжеты плеча, внутреннюю и наружную стороны локтя, сухожилие (связку) надколенника в колене, сухожилия ягодичных мышц в области тазобедренного сустава и ахиллово сухожилие [3]. Тендинит плеча и локтя чаще встречается в плавании, теннисе, волейболе и гольфе; тендинит колена и голеностопа — в футболе, баскетболе и беге [2]. Отдельные статьи в этом справочнике посвящены следующим темам:"
+     ],
+     "list": [
+      "Плечо: проблемы вращательной манжеты и отложение кальция в плече (кальцифицирующий тендинит)",
+      "Локоть: локоть теннисиста",
+      "Запястье и большой палец: тендовагинит де Кервена, при котором поражается оболочка сухожилия",
+      "Ахиллово сухожилие: разрыв ахиллова сухожилия",
+      "Боль под пяткой (подошвенный фасциит, пяточная шпора) и разрыв мышцы"
+     ]
+    },
+    {
+     "h": "Каковы симптомы и как ставят диагноз?",
+     "p": [
+      "Жалобы обычно развиваются постепенно [2]. Основные симптомы — боль в сухожилии, усиливающаяся при движении, затруднение движений в суставе, ощущение трения или хруста при движении сухожилия и отёк, иногда с ощущением тепла или покраснением [1]. Функция и переносимость физической нагрузки могут снижаться [3].",
+      "Диагноз чаще всего основывается на жалобах и осмотре; в некоторых случаях могут понадобиться пробы, провоцирующие боль, и визуализирующие исследования [3]. При поражении ахиллова сухожилия дополнительная визуализация не нужна, если при осмотре выполняются все диагностические критерии; если диагноз неясен или рассматривается операция, предпочтительно УЗИ [4]."
+     ]
+    },
+    {
+     "h": "Что помогает при тендините? Мази и лекарства",
+     "p": [
+      "Лёгкую травму сухожилия можно лечить дома [1]. Какое обезболивающее подходит именно вам, подскажет фармацевт: простые обезболивающие могут облегчить боль, также могут порекомендовать противовоспалительный гель, наносимый на кожу [1]. Противовоспалительные препараты могут применять при лечении тендинита [2]; руководство по тендинопатии ахиллова сухожилия, однако, призывает к осторожности с этими препаратами [4].",
+      "В первые 2–3 дня рекомендуется следующее [1]:"
+     ],
+     "list": [
+      "Покой: стараться не двигать поражённой областью 2–3 дня",
+      "Прикладывать пакет со льдом, завёрнутый в полотенце, каждые 2–3 часа на время до 20 минут",
+      "Наложить на область эластичный бинт или использовать мягкий бандаж",
+      "Когда боль позволит, снова начать двигаться, чтобы сустав не стал тугоподвижным",
+      "Не поднимать тяжести, избегать сильного захвата, скручивающих движений и, пока сухожилие не восстановится, занятий спортом"
+     ]
+    },
+    {
+     "h": "Упражнения: постепенно нагружать сухожилие",
+     "p": [
+      "Если боль сильная, длится долго или движения ограничены, могут предложить физиотерапию [1]. При лечении тендинопатии применяют различные программы упражнений и нагрузки; однако неопределённость в отношении их эффективности сохраняется [3].",
+      "Руководство по тендинопатии ахиллова сухожилия указывает, что при хроническом течении простое выжидание в краткосрочной перспективе не даёт улучшения или даёт лишь ограниченное улучшение, и рекомендует активное лечение, при котором нагрузку увеличивают шаг за шагом [4]. Рекомендуемое начальное лечение состоит из трёх частей [4]:"
+     ],
+     "list": [
+      "Информирование: объяснение сути состояния и ожидаемого течения",
+      "Изменение нагрузки: прекратить занятия, вызывающие боль, затем постепенно увеличивать нагрузку с учётом боли",
+      "Постепенно усложняемые упражнения, укрепляющие икроножные мышцы, в течение не менее 12 недель; скорость усложнения определяют боль и мышечная усталость"
+     ]
+    },
+    {
+     "h": "Укол кортизона, ударно-волновая терапия и PRP",
+     "p": [
+      "При выраженном тендините могут предложить укол кортизона (стероида); он может обеспечить кратковременное уменьшение боли [1]. Обзор 41 рандомизированного исследования показал, что в краткосрочной перспективе укол кортизона уменьшает боль сильнее, чем другие методы, однако в среднесрочной и долгосрочной перспективе этот эффект меняется на противоположный; пример — локоть теннисиста, а при поражении вращательной манжеты краткосрочный эффект неясен [5]. В исследованиях, сообщавших о нежелательных явлениях, разрыв сухожилия произошёл у одного из 991 человека, получивших кортизон; в обзоре указано, что ответ на лечение зависит от области и его не следует обобщать [5]. Руководство по тендинопатии ахиллова сухожилия призывает к осторожности с уколами кортизона [4]. Сведения по отдельным областям приведены в соответствующих статьях.",
+      "Ударно-волновая терапия (ESWT) при тендинопатии ахиллова сухожилия — один из дополнительных вариантов, которые можно рассмотреть, если за 3 месяца нет улучшения несмотря на упражнения и изменение нагрузки; её дополнительная польза не определена [4]. Систематический обзор, посвящённый распространённым проблемам ноги, нашёл доказательства низкого уровня в пользу того, что при некоторых из них она может быть эффективна; при тендинопатии надколенника (тендините колена), напротив, есть доказательства умеренного уровня, что между фокусированной ударно-волновой терапией и плацебо в краткосрочной и среднесрочной перспективе разницы нет [6].",
+      "В отношении плазмы, обогащённой тромбоцитами (PRP), Кокрейновский обзор пришёл к выводу, что доказательств, достаточных для обоснования её применения при повреждениях мягких тканей, нет; качество доказательств очень низкое [7]. При тендинопатии ахиллова сухожилия PRP не оказалась эффективнее плацебо [5]."
+     ]
+    },
+    {
+     "h": "За какое время проходит и когда нужна операция?",
+     "p": [
+      "При лёгкой травме сухожилия улучшения следует ожидать через 2–3 недели; если улучшения нет в течение нескольких недель, нужно обратиться к врачу [1]. При длительной тендинопатии выздоровление идёт медленно: при поражении ахиллова сухожилия оно может занять месяцы и даже годы, а возвращение к полной нагрузке без жалоб, как правило, возможно лишь после как минимум нескольких месяцев активного лечения [4]. Большинство пациентов выздоравливают; тем не менее у 23–37% жалобы могут сохраняться в долгосрочной перспективе несмотря на лечение [4].",
+      "Если жалобы сохраняются, пациента могут направить к ортопеду; для удаления повреждённой ткани или восстановления разорванного сухожилия могут рекомендовать операцию [1]. При тендинопатии ахиллова сухожилия операцию рассматривают только у пациентов, которые не выздоровели несмотря на активное лечение в течение не менее шести месяцев [4]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Если боль возникла внезапно и была сильной во время несчастного случая или физической активности, сухожилие могло разорваться; в момент появления боли мог быть слышен хлопок или щелчок [1]. В следующих случаях без промедления обратитесь в медицинское учреждение [1]:"
+     ],
+     "list": [
+      "Внезапно возникшая сильная боль",
+      "Хлопок или щелчок, услышанный в момент появления боли",
+      "Вы думаете, что сухожилие разорвалось",
+      "Боль очень сильная"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Какое лекарство или какая мазь лучше всего при тендините?",
+     "a": "Подходящее вам обезболивающее может порекомендовать фармацевт; простые обезболивающие могут облегчить боль, также могут порекомендовать противовоспалительный гель, наносимый на кожу [1]. Руководство по тендинопатии ахиллова сухожилия призывает к осторожности с противовоспалительными препаратами [4]."
+    },
+    {
+     "q": "Когда проходит тендинит?",
+     "a": "При лёгкой травме сухожилия улучшения следует ожидать через 2–3 недели [1]. При давней тендинопатии выздоровление может занять месяцы; возвращение к полной нагрузке без жалоб, как правило, возможно лишь после как минимум нескольких месяцев активного лечения [4]."
+    },
+    {
+     "q": "Как проходит воспаление сухожилия?",
+     "a": "В первые 2–3 дня рекомендуются покой, лёд, завёрнутый в полотенце, и поддерживающая повязка; когда боль позволит, суставом снова начинают двигать [1]. Если жалобы сохраняются, лечение продолжают изменением нагрузки и постепенно усложняемыми укрепляющими упражнениями [4]."
+    },
+    {
+     "q": "Что такое тендинит колена (тендинит надколенника)?",
+     "a": "Это связанная с перегрузкой проблема сухожилия надколенника, одна из самых частых тендинопатий [3]; сухожилия колена чаще страдают в футболе, баскетболе и беге [2]. Есть доказательства умеренного уровня, что ударно-волновая терапия в этой области в краткосрочной и среднесрочной перспективе не отличается от плацебо [6]."
+    },
+    {
+     "q": "Как лечат тендинит плеча?",
+     "a": "В плече чаще всего поражаются сухожилия вращательной манжеты [3]. Краткосрочный эффект укола кортизона в этой области неясен [5]; упражнения, уколы и решение об операции подробно описаны в статье о вращательной манжете."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "tandonit-eltehab-tandon",
+   "title": "تاندونیت (التهاب تاندون): چرا ایجاد می‌شود و چگونه خوب می‌شود؟",
+   "description": "تاندونیت (التهاب تاندون) چیست، علائم و علت آن کدام است؟ چه چیزی مفید است: پماد و دارو، ورزش، تزریق کورتون، شاک‌ویو و PRP؛ چه مدت طول می‌کشد؟",
+   "summary": "تاندونیت (التهاب تاندون) تحریک شدن تاندون، یعنی بافتی که عضله را به استخوان وصل می‌کند، یا غلاف آن است که بیشتر بر اثر فشار تکراری رخ می‌دهد؛ دردی ایجاد می‌کند که با حرکت بیشتر می‌شود [1][2]. آسیب خفیف تاندون را می‌توان در خانه درمان کرد و انتظار می‌رود طی ۲ تا ۳ هفته بهتر شود [1]. در ناراحتی‌های طولانی‌مدت، درمان با تنظیم بار و برنامه‌های ورزشیِ تدریجی آغاز می‌شود [3][4]؛ اثر تزریق کورتون کوتاه‌مدت است و شواهد مربوط به شاک‌ویو و PRP محدود است [5][6][7].",
+   "sections": [
+    {
+     "h": "تاندونیت چیست و چه تفاوتی با تاندینوپاتی دارد؟",
+     "p": [
+      "تاندون‌ها نوارهایی از بافت رشته‌ای هستند که عضلات را به استخوان وصل می‌کنند [1][2]. تاندونیت (التهاب تاندون) التهاب یا تحریک تاندون یا غلافی است که آن را می‌پوشاند [2].",
+      "بر اساس اجماع کنونی، به درد موضعی تاندون که با فعالیت‌های واردکنندهٔ بار بر تاندون پدید می‌آید «تاندینوپاتی» گفته می‌شود [4]. در تاندینوپاتی، در کنار سلول‌های التهابی، تغییرهایی مانند به‌هم‌ریختگی نظم رشته‌های کلاژن نیز در بافت دیده می‌شود [3]. در این نوشته واژهٔ رایجِ «تاندونیت» تاندینوپاتی را نیز در بر می‌گیرد.",
+      "اما بورسیت التهاب کیسه‌های کوچکِ دارای مایع (بورس) است که میان استخوان‌ها و بافت‌های نرم نقش بالشتک را دارند؛ در تاندونیت خودِ تاندون یا غلاف آن درگیر است [2]. این دو ممکن است با هم نیز دیده شوند؛ بورسیت در نوشتهٔ جداگانه‌ای در همین راهنما شرح داده شده است [2]."
+     ]
+    },
+    {
+     "h": "تاندونیت چرا ایجاد می‌شود؟",
+     "p": [
+      "تاندونیت بیشتر به استفادهٔ بیش از حد مربوط است: فشارهای کوچکی که بارها و بارها به تاندون وارد می‌شوند روی هم جمع می‌شوند و بافت فرصت کافی برای ترمیم پیدا نمی‌کند [2]. علت‌های اصلی عبارت‌اند از ورزش‌های تکراری مانند دویدن، پریدن و پرتاب کردن، حرکات ناگهانی و تند، حرکات تکراری در کار یا ورزش، و وضعیت بدنی یا تکنیک نادرست [1].",
+      "بر اساس راهنمای بالینی هلند دربارهٔ تاندینوپاتی آشیل، زیاد بودن بار بیرونی در ورزشکار، یا بسیار پایین بودن ظرفیت در فرد کم‌تحرک، می‌تواند به اضافه‌بار نسبی بینجامد [4]. در تاندون آشیل این مشکل معمولاً با افزایش سن و استفادهٔ بیش از حد ارتباط دارد؛ سابقهٔ تاندینوپاتی در پا خطر را بیشتر می‌کند [4]. این راهنما همچنین برای پیشگیری توصیه می‌کند که اگر گزینهٔ دیگری در دسترس باشد و وضعیت بالینی اجازه دهد، پرهیز از آنتی‌بیوتیک‌های گروه فلوروکینولون در نظر گرفته شود [4]."
+     ]
+    },
+    {
+     "h": "تاندونیت در کجا ایجاد می‌شود؟",
+     "p": [
+      "مشکلات تاندون ناشی از استفادهٔ بیش از حد بیشتر تاندون‌های روتاتور کاف در شانه، سمت داخلی و خارجی آرنج، تاندون کشکک (پاتلار) در زانو، تاندون‌های ناحیهٔ مفصل لگن (گلوتئال) و تاندون آشیل را درگیر می‌کنند [3]. تاندونیت شانه و آرنج در شنا، تنیس، والیبال و گلف، و تاندونیت زانو و مچ پا در فوتبال، بسکتبال و دویدن بیشتر دیده می‌شود [2]. موضوع‌هایی که در همین راهنما نوشتهٔ جداگانه دارند چنین‌اند:"
+     ],
+     "list": [
+      "شانه: مشکلات روتاتور کاف و رسوب کلسیم در شانه (تاندونیت کلسیفیه)",
+      "آرنج: آرنج تنیس‌بازان",
+      "مچ دست و شست: تنوسینوویت دکورون که غلاف تاندون را درگیر می‌کند",
+      "تاندون آشیل: پارگی تاندون آشیل",
+      "درد زیر پاشنه (فاشئیت پلانتار، خار پاشنه) و پارگی عضله"
+     ]
+    },
+    {
+     "h": "علائم آن چیست و چگونه تشخیص داده می‌شود؟",
+     "p": [
+      "ناراحتی‌ها معمولاً به‌تدریج پدید می‌آیند [2]. علائم اصلی عبارت‌اند از درد تاندون که با حرکت بیشتر می‌شود، دشواری در حرکت دادن مفصل، احساس سایش یا خش‌خش هنگام حرکت تاندون، و تورم که گاهی با گرما یا قرمزی همراه است [1]. عملکرد و تحمل ورزش ممکن است کم شود [3].",
+      "تشخیص بیشتر بر پایهٔ علائم و معاینه است؛ در برخی موارد ممکن است آزمون‌های برانگیزانندهٔ درد و تصویربرداری لازم شود [3]. در تاندون آشیل اگر همهٔ معیارهای تشخیصی در معاینه وجود داشته باشند، تصویربرداری اضافی لازم نیست؛ اگر تشخیص قطعی نباشد یا جراحی در نظر باشد، انتخاب نخست سونوگرافی است [4]."
+     ]
+    },
+    {
+     "h": "چه چیزی برای تاندونیت مفید است؟ پماد و دارو",
+     "p": [
+      "آسیب خفیف تاندون را می‌توان در خانه درمان کرد [1]. داروساز می‌تواند بگوید کدام مسکّن برای شما مناسب است: مسکّن‌های ساده می‌توانند درد را کم کنند و ممکن است ژل ضدالتهابی که روی پوست مالیده می‌شود نیز توصیه شود [1]. داروهای ضدالتهاب ممکن است در درمان تاندونیت به کار روند [2]؛ اما راهنمای تاندینوپاتی آشیل خواستار احتیاط در مصرف این داروهاست [4].",
+      "توصیه‌ها برای ۲ تا ۳ روز نخست چنین است [1]:"
+     ],
+     "list": [
+      "استراحت: تلاش برای حرکت ندادن تاندون به مدت ۲ تا ۳ روز",
+      "گذاشتن کیسهٔ یخِ پیچیده در حوله هر ۲ تا ۳ ساعت یک بار، تا ۲۰ دقیقه",
+      "بستن ناحیه با باند کشی یا استفاده از یک محافظ نرم",
+      "حرکت دادن دوبارهٔ ناحیه هنگامی که درد اجازه دهد، تا مفصل خشک نشود",
+      "پرهیز از بلند کردن اجسام سنگین، گرفتن محکم اشیا، حرکات چرخشی و، تا زمان بهبود تاندون، ورزش"
+     ]
+    },
+    {
+     "h": "ورزش: وارد کردن تدریجی بار بر تاندون",
+     "p": [
+      "اگر درد شدید باشد، مدت زیادی طول بکشد یا حرکت محدود شده باشد، ممکن است فیزیوتراپی پیشنهاد شود [1]. در درمان تاندینوپاتی برنامه‌های گوناگون ورزش و بارگذاری به کار می‌رود؛ اما دربارهٔ اثربخشی آن‌ها همچنان عدم قطعیت وجود دارد [3].",
+      "راهنمای تاندینوپاتی آشیل بیان می‌کند که در موارد مزمن، تنها صبر کردن در کوتاه‌مدت بهبودی به همراه ندارد یا بهبودی محدودی دارد، و درمان فعال را توصیه می‌کند؛ در این درمان بار گام‌به‌گام افزایش می‌یابد [4]. درمان آغازینِ توصیه‌شده سه بخش دارد [4]:"
+     ],
+     "list": [
+      "آموزش: توضیح دربارهٔ بیماری و سیر مورد انتظار آن",
+      "تنظیم بار: کنار گذاشتن فعالیت‌هایی که درد را برمی‌انگیزند، سپس افزایش تدریجی بار با توجه به درد",
+      "تمرین‌های پیش‌رونده برای تقویت عضلات پشت ساق به مدت دست‌کم ۱۲ هفته؛ سرعت پیشرفت را درد و خستگی عضله تعیین می‌کند"
+     ]
+    },
+    {
+     "h": "تزریق کورتون، شاک‌ویو و PRP",
+     "p": [
+      "در تاندونیت شدید ممکن است تزریق کورتون (استروئید) پیشنهاد شود؛ این تزریق ممکن است درد را برای مدتی کوتاه کم کند [1]. مروری بر ۴۱ کارآزمایی تصادفی نشان داده است که تزریق کورتون در کوتاه‌مدت درد را بیش از روش‌های دیگر کم می‌کند، اما این اثر در میان‌مدت و بلندمدت وارونه می‌شود؛ آرنج تنیس‌بازان نمونهٔ آن است، ولی در روتاتور کاف اثر کوتاه‌مدت روشن نیست [5]. در مطالعه‌هایی که عوارض را گزارش کرده‌اند، در یک نفر از ۹۹۱ نفری که کورتون دریافت کرده بودند پارگی تاندون رخ داده است؛ در این مرور بیان شده که پاسخ به درمان به ناحیه بستگی دارد و نباید تعمیم داده شود [5]. راهنمای تاندینوپاتی آشیل خواستار احتیاط در تزریق کورتون است [4]. اطلاعات ویژهٔ هر ناحیه در نوشته‌های مربوط آمده است.",
+      "شاک‌ویو (ESWT) در تاندینوپاتی آشیل یکی از گزینه‌های تکمیلی است که اگر با وجود ورزش و تنظیم بار طی ۳ ماه بهبودی حاصل نشود می‌توان آن را در نظر گرفت؛ فایدهٔ افزودهٔ آن نامعلوم است [4]. یک مرور نظام‌مند دربارهٔ مشکلات شایع اندام تحتانی شواهدی سطح پایین یافته است که این روش ممکن است در برخی از آن‌ها مؤثر باشد؛ اما در تاندینوپاتی کشکک (تاندونیت زانو) شواهدی سطح متوسط وجود دارد که میان شاک‌ویو متمرکز و دارونما در کوتاه‌مدت و میان‌مدت تفاوتی نیست [6].",
+      "دربارهٔ پلاسمای غنی از پلاکت (PRP)، یک مرور کاکرین نتیجه گرفته است که شواهد کافی برای پشتیبانی از کاربرد آن در آسیب‌های بافت نرم وجود ندارد؛ کیفیت شواهد بسیار پایین است [7]. در تاندینوپاتی آشیل، PRP مؤثرتر از دارونما نبوده است [5]."
+     ]
+    },
+    {
+     "h": "در چه مدتی خوب می‌شود و جراحی چه زمانی مطرح است؟",
+     "p": [
+      "انتظار می‌رود آسیب خفیف تاندون طی ۲ تا ۳ هفته بهتر شود؛ اگر طی چند هفته بهبودی حاصل نشود باید به پزشک مراجعه کرد [1]. در تاندینوپاتی طولانی‌مدت بهبودی کند است: در تاندون آشیل ممکن است ماه‌ها و حتی سال‌ها طول بکشد و بازگشت به بارگذاری کامل و بدون ناراحتی معمولاً تنها پس از دست‌کم چند ماه درمان فعال ممکن است [4]. بیشتر بیماران بهبود می‌یابند؛ با این همه، در ۲۳ تا ۳۷ درصد ممکن است ناراحتی‌ها با وجود درمان در بلندمدت ادامه یابد [4].",
+      "اگر ناراحتی‌ها ادامه یابد، بیمار ممکن است به متخصص ارتوپدی ارجاع شود؛ ممکن است جراحی برای برداشتن بافت آسیب‌دیده یا ترمیم تاندون پاره‌شده توصیه شود [1]. در تاندینوپاتی آشیل، جراحی تنها در بیمارانی در نظر گرفته می‌شود که با وجود دست‌کم شش ماه درمان فعال بهبود نیافته‌اند [4]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "اگر درد هنگام یک حادثه یا فعالیت به‌طور ناگهانی و شدید آغاز شده باشد، ممکن است تاندون پاره شده باشد؛ ممکن است هنگام شروع درد صدای «تق» یا پاره شدن شنیده شده باشد [1]. در موارد زیر بدون تأخیر به یک مرکز درمانی مراجعه کنید [1]:"
+     ],
+     "list": [
+      "درد شدیدی که ناگهان آغاز شده است",
+      "صدای «تق» یا پاره شدن که هنگام شروع درد شنیده شده است",
+      "فکر می‌کنید تاندون پاره شده است",
+      "درد شما بسیار شدید است"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "بهترین دارو یا پماد برای تاندونیت کدام است؟",
+     "a": "داروساز می‌تواند مسکّنی را که برای شما مناسب است توصیه کند؛ مسکّن‌های ساده می‌توانند درد را کم کنند و ممکن است ژل ضدالتهابی که روی پوست مالیده می‌شود نیز توصیه شود [1]. راهنمای تاندینوپاتی آشیل خواستار احتیاط در مصرف داروهای ضدالتهاب است [4]."
+    },
+    {
+     "q": "تاندونیت چه زمانی برطرف می‌شود؟",
+     "a": "انتظار می‌رود آسیب خفیف تاندون طی ۲ تا ۳ هفته بهتر شود [1]. در تاندینوپاتی‌ای که مدت زیادی ادامه داشته، بهبودی ممکن است ماه‌ها طول بکشد؛ بازگشت به بارگذاری کامل و بدون ناراحتی معمولاً تنها پس از دست‌کم چند ماه درمان فعال ممکن است [4]."
+    },
+    {
+     "q": "التهاب تاندون چگونه خوب می‌شود؟",
+     "a": "در ۲ تا ۳ روز نخست استراحت، یخِ پیچیده در حوله و بانداژ حمایتی توصیه می‌شود؛ هنگامی که درد اجازه دهد مفصل دوباره حرکت داده می‌شود [1]. اگر ناراحتی ادامه یابد، درمان با تنظیم بار و تمرین‌های تقویتیِ پیش‌رونده ادامه می‌یابد [4]."
+    },
+    {
+     "q": "تاندونیت زانو (تاندونیت کشکک) چیست؟",
+     "a": "مشکل تاندون کشکک (تاندون پاتلار) بر اثر استفادهٔ بیش از حد است و از شایع‌ترین تاندینوپاتی‌ها به شمار می‌رود [3]؛ تاندون‌های زانو در فوتبال، بسکتبال و دویدن بیشتر درگیر می‌شوند [2]. شواهدی سطح متوسط وجود دارد که شاک‌ویو در این ناحیه در کوتاه‌مدت و میان‌مدت تفاوتی با دارونما ندارد [6]."
+    },
+    {
+     "q": "تاندونیت شانه چگونه درمان می‌شود؟",
+     "a": "در شانه بیشتر تاندون‌های روتاتور کاف درگیر می‌شوند [3]. اثر کوتاه‌مدت تزریق کورتون در این ناحیه روشن نیست [5]؛ ورزش، تزریق و تصمیم دربارهٔ جراحی در نوشتهٔ روتاتور کاف به‌تفصیل شرح داده شده است."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

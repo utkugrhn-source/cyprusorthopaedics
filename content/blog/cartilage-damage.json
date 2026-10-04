@@ -1,0 +1,505 @@
+{
+ "id": "cartilage-damage",
+ "area": "diz",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Articular Cartilage Restoration",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/treatment/articular-cartilage-restoration",
+   "year": "n.d."
+  },
+  {
+   "title": "Osteochondritis Dissecans",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/osteochondritis-dissecans/",
+   "year": "n.d."
+  },
+  {
+   "title": "Knee Arthroscopy",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/treatment/knee-arthroscopy",
+   "year": "n.d."
+  },
+  {
+   "title": "Surgical interventions (microfracture, drilling, mosaicplasty, and allograft transplantation) for treating isolated cartilage defects of the knee in adults",
+   "publisher": "Cochrane Database of Systematic Reviews (Gracitelli GC, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27590275/",
+   "year": "2016"
+  },
+  {
+   "title": "Autologous chondrocyte implantation for treating symptomatic articular cartilage defects of the knee (TA477)",
+   "publisher": "National Institute for Health and Care Excellence (NICE)",
+   "url": "https://www.nice.org.uk/guidance/ta477",
+   "year": "2017"
+  },
+  {
+   "title": "Effects of glucosamine, chondroitin, or placebo in patients with osteoarthritis of hip or knee: network meta-analysis",
+   "publisher": "BMJ (Wandel S, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20847017/",
+   "year": "2010"
+  },
+  {
+   "title": "Knee pain",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/symptoms/knee-pain/",
+   "year": "2023"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "diz-kikirdak-hasari",
+   "title": "Kıkırdak hasarı: diz kıkırdağı iyileşir mi, tedavisi nedir?",
+   "description": "Kıkırdak hasarı nedir, belirtileri nelerdir? Diz kıkırdağı yenilenir mi, ne iyi gelir? Kıkırdak yenileyici ilaçlar, mikrokırık, kıkırdak nakli ve iyileşme.",
+   "summary": "Dizde kıkırdak hasarı, kemik uçlarını örten eklem kıkırdağının yaralanma, osteokondritis adlı hastalık ya da yıpranmayla zedelenmesidir [1][4]. Kıkırdak kendiliğinden iyileşmez; fizyoterapi gibi yöntemler yakınmaları hafifletebilir, ancak hasarı onarmaz [4]. Mikrokırık ve kıkırdak nakli gibi ameliyatların adayları çoğunlukla tek bir hasarı olan genç erişkinlerdir; yaygın aşınma (kireçlenme) ayrı bir durumdur [1][5].",
+   "sections": [
+    {
+     "h": "Kıkırdak nedir, kıkırdak hasarı ne demektir?",
+     "p": [
+      "Eklem kıkırdağı, kemiklerin eklemde karşılaşan uçlarını örten düz, beyaz dokudur; kemiklerin çok az sürtünmeyle kaymasını sağlar [1]. Hasar gördüğünde eklem yüzeyi pürüzlenebilir, hareket ağrılı olur ve kireçlenme gelişebilir [1].",
+      "Menisküs ayrı bir yapıdır; menisküs yırtığı bu rehberde ayrı bir yazıda anlatılmıştır."
+     ]
+    },
+    {
+     "h": "Kıkırdak hasarı neden olur?",
+     "p": [
+      "Eklem kıkırdağı bir yaralanmayla ya da normal kullanıma bağlı yıpranmayla hasar görebilir [1]. Üç tablo ayırt edilir:"
+     ],
+     "list": [
+      "Sınırlı (lokal) kıkırdak hasarı: çoğunlukla sporda geçirilen bir yaralanmadan sonra ortaya çıkar [4][5]",
+      "Osteokondritis dissekans: çocuklarda ve ergenlerde görülür. Küçük bir kemik parçası, kanlanması bozulduğu için çevresinden ayrılmaya başlar; parça ve üzerindeki kıkırdak çatlayıp gevşeyebilir. Tekrarlayan zorlanmalarla ilişkili olduğu düşünülür; en sık dizde, uyluk kemiğinin alt ucunda görülür [2]",
+      "Yaygın aşınma (diz kıkırdak aşınması, kireçlenme, osteoartrit): kıkırdağın zamanla yıpranmasıyla gelişir [1]; tedavi edilmeyen kıkırdak yaralanması da buna yol açabilir [4]. İki dizde ağrı ve sertlik yapar, ileri yaşta daha sıktır [7]"
+     ]
+    },
+    {
+     "h": "Kıkırdak hasarı belirtileri nelerdir?",
+     "p": [
+      "Diz kıkırdağı hasarının belirtileri ağrı, şişlik, kilitlenme ve dizde güvensizlik (boşalma) hissidir [5]. Bir yaralanmadan sonra diz tam düzleştirilemeyebilir, yaralanma anında \"pat\" sesi duyulmuş olabilir; aynı belirtiler bağ ve menisküs yırtığında da görülür [7].",
+      "Osteokondritis dissekansta ilk belirtiler çoğunlukla sporla ortaya çıkan ağrı ve şişliktir; ilerlemiş olgularda eklemde takılma ya da kilitlenme olabilir [2]."
+     ]
+    },
+    {
+     "h": "Kıkırdak hasarı nasıl anlaşılır?",
+     "p": [
+      "Değerlendirme öykü ve muayeneyle başlar [2]. Eklem kıkırdağı kalsiyum içermediği için röntgende görünmez [1]. Röntgen kemiği gösterir ve osteokondritis dissekansın ilk tanısı için gereklidir; MR kıkırdak gibi yumuşak dokuları daha iyi görüntüler [2].",
+      "Artroskopide diz eklemine küçük bir kamera yerleştirilir; bu yöntem diz sorunlarının hem tanısında hem tedavisinde kullanılır [3]."
+     ]
+    },
+    {
+     "h": "Kıkırdak hasarı iyileşir mi, kıkırdak yenilenir mi?",
+     "p": [
+      "Kıkırdak kendi kendini iyi onaramaz [1]. Bir Cochrane derlemesine göre tedavi edilmeyen kıkırdak yaralanmaları kendiliğinden iyileşmez ve kireçlenmeye yol açabilir; eldeki tedaviler de çoğu zaman kesin iyileşmeden çok ağrı gibi yakınmaları gidermeye yöneliktir [4].",
+      "Çocuklarda osteokondritis dissekans farklı seyreder: pek çok çocukta, özellikle büyüme sürüyorsa, etkilenen kemik ve kıkırdak kendiliğinden iyileşir; çoğu çocuk 2–4 aylık dinlenme ve ameliyatsız tedaviyle kendini daha iyi hissetmeye başlar [2]. Büyümesini tamamlamış gençlerde ve genç erişkinlerde parçanın ayrılma olasılığı daha yüksektir [2]."
+     ]
+    },
+    {
+     "h": "Kıkırdak hasarına ne iyi gelir? \"Kıkırdak yenileyici\" ilaçlar",
+     "p": [
+      "İngiltere'deki NICE'a göre kıkırdak hasarında önce destekleyici tedavi uygulanır; bunlar arasında egzersiz, kilo verme, fizyoterapi, ağrı kesiciler, dize binen yükün azaltılması, sıcak ya da soğuk uygulama ve eklem içine kortizon iğnesi vardır [5]. Fizyoterapi gibi ameliyatsız yöntemler yakınmaları hafifletebilir, ancak hasarı iyileştiremez [4].",
+      "Evde dize olabildiğince az yük vermek ve havluya sarılı buz torbasını 2–3 saatte bir, 20 dakikaya kadar uygulamak önerilir [7]. Hangi ağrı kesicinin uygun olduğunu eczacınıza ya da hekiminize sorun.",
+      "\"Kıkırdak yenileyici\" ya da \"güçlendirici\" olarak bilinen glukozamin ve kondroitin, diz ve kalça kireçlenmesi olan hastalardaki 10 büyük çalışmayı (3803 hasta) birleştiren bir analizde, tek tek ya da birlikte, etkisiz ilaca (plasebo) kıyasla eklem ağrısını klinik açıdan anlamlı düzeyde azaltmamış, röntgende eklem aralığının daralmasını da etkilememiştir [6].",
+      "Hyalüronik asit, PRP ve kök hücre iğnelerine ilişkin kanıtlar bu rehberde diz iğnesi yazısında anlatılmıştır."
+     ]
+    },
+    {
+     "h": "Kıkırdak hasarı ameliyatı: kimlere, hangi yöntemle?",
+     "p": [
+      "NICE'a göre ameliyat, destekleyici tedaviye rağmen yakınmaları süren kişilerde düşünülür [5]. Adayların çoğu tek bir hasarı olan genç erişkinlerdir; ileri yaştaki ya da aynı eklemde çok sayıda hasarı olan kişilerin yarar görme olasılığı daha düşüktür [1].",
+      "Yaygın aşınma (kireçlenme) ayrı bir durumdur: NICE, kıkırdak hücresi naklinin ileri kireçlenmede uygulanmaması gerektiğini belirtir; hasar ileri kireçlenmeye yol açarsa diz protezi seçenek olur [5]. Bunlar rehberde diz kireçlenmesi ve diz protezi yazılarında anlatılmıştır.",
+      "Osteokondritis dissekansta ameliyat; ameliyatsız tedavi yetersiz kaldığında, parça oynak ya da ayrılmışsa, çapı 1 santimetreden büyükse ya da büyümesi tamamlanmak üzere olan gençlerde düşünülür. Parça delinebilir, pim ve vidalarla tespit edilebilir ya da yerine kemik ve kıkırdak parçası (greft) konabilir [2].",
+      "Girişimlerin birçoğu artroskopiyle (kapalı yöntemle) yapılır [1]. Başlıca yöntemler şunlardır:"
+     ],
+     "list": [
+      "Temizleme (debridman): artroskopiyle hasarlı kıkırdak tıraşlanır, eklem içindeki serbest kemik ya da kıkırdak parçaları çıkarılır [3]",
+      "Mikrokırık: kıkırdağın altındaki kemikte küçük delikler açılarak bölgeye kan ulaşması ve yeni kıkırdak oluşması amaçlanır. Oluşan doku, eklemin normal (hiyalin) kıkırdağı kadar dayanıklı olmayan fibröz kıkırdaktır; yöntem küçük ve tek hasarı olan, dizini daha az zorlayan kişilere daha uygundur [1]",
+      "Kıkırdak nakli (osteokondral greft, mozaikplasti): eklemin yük taşımayan bir bölgesinden alınan kemik ve kıkırdak parçaları hasarlı bölgeye aktarılır; küçük hasarlarda kullanılır. Daha büyük hasarlarda vericiden (kadavradan) alınan parça düşünülebilir [1]",
+      "Kıkırdak hücresi nakli (otolog kondrosit implantasyonu): ilk ameliyatta dizin hasarsız bir bölgesinden alınan kıkırdak hücreleri laboratuvarda çoğaltılır, ikinci ameliyatta hasarlı bölgeye yerleştirilir. NICE bu yöntemi yalnızca daha önce kıkırdak onarımı ameliyatı geçirmemiş, hasarı 2 santimetrekareden büyük ve dizinde kireçlenme hasarı çok az olan kişilerde, üçüncü basamak bir merkezde yapılması koşuluyla önerir [5]"
+     ]
+    },
+    {
+     "h": "Ameliyattan sonra iyileşme ve sonuçlar",
+     "p": [
+      "Ameliyattan sonra eklem yüzeyinin korunması gerekir: ilk haftalarda, girişimin türüne göre daha uzun süre, bacağa yük verilmeyebilir ve koltuk değneği kullanılır; spora ve ağır etkinliklere dönmek birkaç ay alabilir [1]. Osteokondritis dissekans ameliyatından sonra yaklaşık 6 hafta koltuk değneği, ardından 2–4 ay fizik tedavi gerekir; spora kademeli dönüş yaklaşık 4–5 ay sonra mümkün olabilir [2].",
+      "Amerikan Ortopedi Cerrahları Akademisi'ne göre kıkırdağın onarılması ağrıyı azaltabilir, işlevi iyileştirebilir ve kireçlenmeyi geciktirebilir ya da önleyebilir [1]. Mikrokırık ile mozaikplastiyi karşılaştıran Cochrane derlemesi ise üç küçük çalışma (133 hasta) bulmuş, kanıt kalitesini çok düşük saymış ve hangisinin daha iyi olduğu sonucuna varamamıştır; iki yöntemde de yakınmaları yineleyen hastalar olmuştur [4]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Diz ağrısı birkaç hafta içinde düzelmiyorsa hekime başvurun; şu durumlarda ise beklemeden bir sağlık kuruluşuna başvurun [7]:"
+     ],
+     "list": [
+      "Diz çok ağrılıysa, hareket ettirilemiyor ya da üzerine hiç basılamıyorsa",
+      "Diz çok şişmiş ya da şekli değişmişse",
+      "Diz kilitleniyor, boşalıyor ya da ağrılı biçimde çıtırdıyorsa",
+      "Yüksek ateşle birlikte dizde kızarıklık ya da sıcaklık varsa"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Diz kıkırdağı kendiliğinden yenilenir mi?",
+     "a": "Tedavi edilmeyen kıkırdak yaralanmaları kendiliğinden iyileşmez; fizyoterapi gibi ameliyatsız yöntemler yakınmaları hafifletebilir, ancak hasarı onarmaz [4]. Büyüme çağındaki çocuklarda osteokondritis dissekans ise pek çok olguda kendiliğinden iyileşir [2]."
+    },
+    {
+     "q": "Diz kıkırdak zedelenmesi ne kadar sürede iyileşir?",
+     "a": "Hasarın türüne ve tedaviye göre değişir. Osteokondritis dissekanslı çocukların çoğu 2–4 aylık dinlenme ve ameliyatsız tedaviyle kendini daha iyi hissetmeye başlar [2]. Kıkırdak onarımı ameliyatlarından sonra ilk haftalarda koltuk değneği gerekir, spora dönmek birkaç ay alabilir [1]."
+    },
+    {
+     "q": "Kıkırdak yenileyici ya da güçlendirici ilaçlar işe yarar mı?",
+     "a": "Diz ve kalça kireçlenmesi olan 3803 hastanın verilerini birleştiren bir analizde glukozamin, kondroitin ve ikisinin birlikte kullanımı plaseboya kıyasla ağrıyı klinik açıdan anlamlı düzeyde azaltmamış, eklem aralığının daralmasını da etkilememiştir [6]."
+    },
+    {
+     "q": "Diz kıkırdak nakli nedir, kimlere yapılır?",
+     "a": "Eklemin yük taşımayan bir bölgesinden alınan kemik ve kıkırdak parçalarının hasarlı bölgeye aktarılmasıdır; küçük hasarlarda kullanılır [1]. Kıkırdak hücresi nakli ise NICE tarafından yalnızca hasarı 2 santimetrekareden büyük, dizinde kireçlenme hasarı çok az olan ve daha önce kıkırdak onarımı ameliyatı geçirmemiş kişilerde önerilir [5]."
+    },
+    {
+     "q": "Diz kıkırdak aşınması ameliyatla onarılır mı?",
+     "a": "Yaygın aşınma, yani kireçlenme, ayrı bir durumdur. NICE, kıkırdak hücresi naklinin ileri kireçlenmede uygulanmaması gerektiğini belirtir; hasar ileri kireçlenmeye yol açarsa diz protezi seçenek olur [5]. Aynı eklemde çok sayıda hasarı olanların kıkırdak onarımı ameliyatlarından yarar görme olasılığı da daha düşüktür [1]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "knee-cartilage-damage",
+   "title": "Cartilage damage in the knee: does cartilage heal, and how is it treated?",
+   "description": "What is knee cartilage damage and what are its symptoms? Does cartilage grow back, what helps? Cartilage supplements, microfracture, cartilage grafts, recovery.",
+   "summary": "Cartilage damage in the knee is injury to the articular cartilage that covers the ends of the bones, caused by trauma, by a condition called osteochondritis or by wear [1][4]. Cartilage does not heal by itself; methods such as physiotherapy may relieve symptoms but do not repair the damage [4]. Candidates for operations such as microfracture and cartilage grafting are mostly young adults with a single area of damage; widespread wear (osteoarthritis) is a separate condition [1][5].",
+   "sections": [
+    {
+     "h": "What is cartilage, and what does cartilage damage mean?",
+     "p": [
+      "Articular cartilage is the smooth, white tissue that covers the ends of the bones where they meet in a joint; it lets the bones glide with very little friction [1]. When it is damaged the joint surface may become rough, movement becomes painful and arthritis can develop [1].",
+      "The meniscus is a separate structure; meniscus tears are covered in a separate article in this guide."
+     ]
+    },
+    {
+     "h": "What causes cartilage damage?",
+     "p": [
+      "Articular cartilage can be damaged by an injury or by normal wear and tear [1]. Three situations are distinguished:"
+     ],
+     "list": [
+      "Localised (focal) cartilage damage: usually appears after an injury sustained during sport [4][5]",
+      "Osteochondritis dissecans: occurs in children and adolescents. A small segment of bone begins to separate from the bone around it because its blood supply is disrupted; the segment and the cartilage covering it can crack and loosen. It is thought to be related to repetitive stresses; it is most often found in the knee, at the lower end of the thigh bone [2]",
+      "Widespread wear (worn knee cartilage, osteoarthritis): develops as the cartilage wears over time [1]; an untreated cartilage injury can also lead to it [4]. It causes pain and stiffness in both knees and is more common in older people [7]"
+     ]
+    },
+    {
+     "h": "What are the symptoms of cartilage damage?",
+     "p": [
+      "The symptoms of knee cartilage damage are pain, swelling, locking and a feeling that the knee is unstable (giving way) [5]. After an injury the knee may not straighten fully, and a popping sound may have been heard at the time of the injury; the same symptoms occur with ligament and meniscus tears [7].",
+      "In osteochondritis dissecans the first symptoms are usually pain and swelling brought on by sport; in advanced cases the joint may catch or lock [2]."
+     ]
+    },
+    {
+     "h": "How is cartilage damage diagnosed?",
+     "p": [
+      "Assessment begins with the history and an examination [2]. Articular cartilage contains no calcium and so cannot be seen on an X-ray [1]. An X-ray shows bone and is essential for the initial diagnosis of osteochondritis dissecans; MRI gives better images of soft tissues such as cartilage [2].",
+      "In arthroscopy a small camera is inserted into the knee joint; the method is used both to diagnose and to treat knee problems [3]."
+     ]
+    },
+    {
+     "h": "Does cartilage damage heal, and does cartilage grow back?",
+     "p": [
+      "Cartilage does not heal itself well [1]. According to a Cochrane review, untreated cartilage injuries do not mend by themselves and can lead to osteoarthritis; the available treatments, too, are often aimed at relieving symptoms such as pain rather than providing a cure [4].",
+      "Osteochondritis dissecans in children follows a different course: in many children, especially while they are still growing, the affected bone and cartilage heal on their own; most children start to feel better over 2 to 4 months of rest and non-surgical treatment [2]. In young people who have finished growing and in young adults the segment is more likely to separate [2]."
+     ]
+    },
+    {
+     "h": "What helps cartilage damage? \"Cartilage-rebuilding\" medicines",
+     "p": [
+      "According to NICE in the UK, supportive care is used first for cartilage damage; this includes exercise, weight loss, physiotherapy, painkillers, taking load off the knee, applying heat or cold, and a cortisone injection into the joint [5]. Non-surgical methods such as physiotherapy may relieve symptoms but cannot heal the damage [4].",
+      "At home, it is advised to put as little weight as possible on the knee and to apply an ice pack wrapped in a towel for up to 20 minutes every 2 to 3 hours [7]. Ask your pharmacist or doctor which painkiller is suitable.",
+      "Glucosamine and chondroitin, known as \"cartilage-rebuilding\" or \"cartilage-strengthening\" products, did not, alone or together, reduce joint pain to a clinically meaningful degree compared with a dummy medicine (placebo) in an analysis combining 10 large trials (3803 patients) in people with knee and hip osteoarthritis, nor did they affect the narrowing of the joint space on X-ray [6].",
+      "The evidence on hyaluronic acid, PRP and stem cell injections is set out in the knee injections article in this guide."
+     ]
+    },
+    {
+     "h": "Surgery for cartilage damage: for whom, and by which method?",
+     "p": [
+      "According to NICE, surgery is considered for people whose symptoms persist despite supportive care [5]. Most candidates are young adults with a single area of damage; older people, and those with many areas of damage in the same joint, are less likely to benefit [1].",
+      "Widespread wear (osteoarthritis) is a separate condition: NICE states that cartilage cell implantation should not be used in severe osteoarthritis; if the damage leads to advanced osteoarthritis, knee replacement becomes an option [5]. These are covered in the knee osteoarthritis and knee replacement articles in this guide.",
+      "In osteochondritis dissecans, surgery is considered when non-surgical treatment has not been enough, when the segment is loose or detached, when it is more than 1 centimetre in diameter, or in teenagers who are close to the end of growth. The segment may be drilled, fixed with pins and screws, or replaced with a piece of bone and cartilage (a graft) [2].",
+      "Many of the procedures are done by arthroscopy (keyhole surgery) [1]. The main methods are:"
+     ],
+     "list": [
+      "Clean-up (debridement): by arthroscopy the damaged cartilage is trimmed and loose fragments of bone or cartilage inside the joint are removed [3]",
+      "Microfracture: small holes are made in the bone beneath the cartilage so that blood can reach the area and new cartilage can form. The tissue that forms is fibrocartilage, which is not as durable as the joint's normal (hyaline) cartilage; the method is better suited to less active people with a single, smaller area of damage [1]",
+      "Cartilage grafting (osteochondral graft, mosaicplasty): pieces of bone and cartilage taken from a non-weightbearing part of the joint are transferred to the damaged area; it is used for smaller defects. For larger defects a piece taken from a donor (cadaver) may be considered [1]",
+      "Cartilage cell implantation (autologous chondrocyte implantation): in a first operation cartilage cells are taken from an undamaged part of the knee and multiplied in a laboratory, and in a second operation they are placed in the damaged area. NICE recommends this method only for people who have not had previous cartilage repair surgery, whose defect is larger than 2 square centimetres and who have minimal osteoarthritic damage in the knee, and on condition that it is done at a tertiary referral centre [5]"
+     ]
+    },
+    {
+     "h": "Recovery after surgery and results",
+     "p": [
+      "After surgery the joint surface must be protected: for the first few weeks, or longer depending on the type of procedure, you may not be able to put weight on the leg and crutches are used; it may be several months before a return to sport and strenuous activities [1]. After surgery for osteochondritis dissecans, crutches are needed for about 6 weeks, followed by 2 to 4 months of physiotherapy; a gradual return to sport may be possible after about 4 to 5 months [2].",
+      "According to the American Academy of Orthopaedic Surgeons, restoring cartilage can relieve pain, allow better function and delay or prevent arthritis [1]. The Cochrane review comparing microfracture with mosaicplasty, however, found three small trials (133 patients), judged the quality of the evidence to be very low and could not conclude which is better; with both methods there were patients whose symptoms came back [4]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "See a doctor if knee pain does not improve within a few weeks; in the following situations seek care without waiting [7]:"
+     ],
+     "list": [
+      "The knee is very painful, cannot be moved or cannot take any weight",
+      "The knee is badly swollen or has changed shape",
+      "The knee locks, gives way or painfully clicks",
+      "There is a very high temperature together with redness or heat around the knee"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does knee cartilage grow back by itself?",
+     "a": "Untreated cartilage injuries do not mend by themselves; non-surgical methods such as physiotherapy may relieve symptoms but do not repair the damage [4]. In growing children, however, osteochondritis dissecans heals on its own in many cases [2]."
+    },
+    {
+     "q": "How long does a knee cartilage injury take to heal?",
+     "a": "It depends on the type of damage and on the treatment. Most children with osteochondritis dissecans start to feel better over 2 to 4 months of rest and non-surgical treatment [2]. After cartilage repair operations crutches are needed for the first few weeks, and a return to sport may take several months [1]."
+    },
+    {
+     "q": "Do cartilage-rebuilding or cartilage-strengthening medicines work?",
+     "a": "In an analysis combining data from 3803 patients with knee and hip osteoarthritis, glucosamine, chondroitin and the two together did not reduce pain to a clinically meaningful degree compared with placebo, nor did they affect the narrowing of the joint space [6]."
+    },
+    {
+     "q": "What is a knee cartilage graft, and who is it for?",
+     "a": "It is the transfer of pieces of bone and cartilage taken from a non-weightbearing part of the joint to the damaged area; it is used for smaller defects [1]. Cartilage cell implantation, in turn, is recommended by NICE only for people whose defect is larger than 2 square centimetres, who have minimal osteoarthritic damage in the knee and who have not had previous cartilage repair surgery [5]."
+    },
+    {
+     "q": "Can worn knee cartilage be repaired by surgery?",
+     "a": "Widespread wear, that is osteoarthritis, is a separate condition. NICE states that cartilage cell implantation should not be used in severe osteoarthritis; if the damage leads to advanced osteoarthritis, knee replacement becomes an option [5]. People with many areas of damage in the same joint are also less likely to benefit from cartilage repair operations [1]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "povrezhdenie-khryashcha-kolena",
+   "title": "Повреждение хряща колена: восстанавливается ли хрящ и как его лечат?",
+   "description": "Что такое повреждение хряща колена и каковы симптомы? Восстанавливается ли хрящ, что помогает? Хондропротекторы, микрофрактурирование, пересадка хряща.",
+   "summary": "Повреждение хряща в колене — это повреждение суставного хряща, покрывающего концы костей, вследствие травмы, заболевания под названием остеохондрит или износа [1][4]. Хрящ сам не заживает; такие методы, как физиотерапия, могут облегчить жалобы, но не восстанавливают повреждение [4]. Кандидаты на такие операции, как микрофрактурирование и пересадка хряща, — в основном молодые взрослые с одним очагом повреждения; распространённый износ (артроз) — отдельное состояние [1][5].",
+   "sections": [
+    {
+     "h": "Что такое хрящ и что означает его повреждение?",
+     "p": [
+      "Суставной хрящ — это гладкая белая ткань, покрывающая концы костей там, где они соприкасаются в суставе; он позволяет костям скользить с очень небольшим трением [1]. При его повреждении поверхность сустава может стать неровной, движения становятся болезненными и может развиться артроз [1].",
+      "Мениск — отдельная структура; разрыв мениска описан в отдельном тексте этого раздела."
+     ]
+    },
+    {
+     "h": "Почему возникает повреждение хряща?",
+     "p": [
+      "Суставной хрящ может повреждаться при травме или вследствие износа при обычной нагрузке [1]. Различают три ситуации:"
+     ],
+     "list": [
+      "Ограниченное (локальное) повреждение хряща: чаще всего возникает после травмы, полученной во время занятий спортом [4][5]",
+      "Рассекающий остеохондрит: встречается у детей и подростков. Небольшой участок кости начинает отделяться от окружающей кости из-за нарушения кровоснабжения; этот участок и покрывающий его хрящ могут растрескиваться и расшатываться. Считается, что он связан с повторяющимися нагрузками; чаще всего встречается в колене, на нижнем конце бедренной кости [2]",
+      "Распространённый износ (износ хряща колена, артроз, остеоартрит): развивается при постепенном изнашивании хряща [1]; к нему может привести и нелеченая травма хряща [4]. Вызывает боль и скованность в обоих коленях, чаще встречается в пожилом возрасте [7]"
+     ]
+    },
+    {
+     "h": "Каковы симптомы повреждения хряща?",
+     "p": [
+      "Симптомы повреждения хряща колена — боль, отёк, блокировка и ощущение неустойчивости колена (колено подкашивается) [5]. После травмы колено может не разгибаться полностью, а в момент травмы мог быть слышен «хлопок»; такие же симптомы бывают при разрыве связки и мениска [7].",
+      "При рассекающем остеохондрите первые симптомы — обычно боль и отёк, возникающие при занятиях спортом; в запущенных случаях сустав может заедать или блокироваться [2]."
+     ]
+    },
+    {
+     "h": "Как выявляют повреждение хряща?",
+     "p": [
+      "Обследование начинается с расспроса и осмотра [2]. Суставной хрящ не содержит кальция и поэтому не виден на рентгене [1]. Рентген показывает кость и необходим для первичной диагностики рассекающего остеохондрита; МРТ лучше показывает мягкие ткани, такие как хрящ [2].",
+      "При артроскопии в коленный сустав вводят небольшую камеру; этот метод применяют и для диагностики, и для лечения заболеваний колена [3]."
+     ]
+    },
+    {
+     "h": "Заживает ли повреждение хряща, восстанавливается ли хрящ?",
+     "p": [
+      "Хрящ плохо восстанавливается сам [1]. По данным Кокрейновского обзора, нелеченые травмы хряща сами не заживают и могут привести к артрозу; существующие методы лечения тоже чаще направлены на облегчение жалоб, например боли, чем на полное излечение [4].",
+      "У детей рассекающий остеохондрит протекает иначе: у многих детей, особенно если рост продолжается, поражённые кость и хрящ заживают сами; большинство детей начинают чувствовать себя лучше за 2–4 месяца покоя и безоперационного лечения [2]. У подростков, завершивших рост, и у молодых взрослых вероятность отделения фрагмента выше [2]."
+     ]
+    },
+    {
+     "h": "Что помогает при повреждении хряща? Препараты «для восстановления хряща»",
+     "p": [
+      "По данным британского NICE, при повреждении хряща сначала проводят поддерживающее лечение; к нему относятся упражнения, снижение веса, физиотерапия, обезболивающие, уменьшение нагрузки на колено, тепло или холод и укол кортизона в сустав [5]. Безоперационные методы, такие как физиотерапия, могут облегчить жалобы, но не способны вылечить повреждение [4].",
+      "Дома рекомендуется как можно меньше нагружать колено и прикладывать пакет со льдом, завёрнутый в полотенце, на время до 20 минут каждые 2–3 часа [7]. Какое обезболивающее вам подходит, спросите у фармацевта или врача.",
+      "Глюкозамин и хондроитин, известные как средства «для восстановления» или «укрепления» хряща (хондропротекторы), в анализе, объединившем 10 крупных исследований (3803 пациента) у людей с артрозом коленного и тазобедренного суставов, ни по отдельности, ни вместе не уменьшали боль в суставе в клинически значимой степени по сравнению с препаратом-пустышкой (плацебо) и не влияли на сужение суставной щели на рентгене [6].",
+      "Данные об инъекциях гиалуроновой кислоты, PRP и стволовых клеток изложены в тексте этого раздела об уколах в колено."
+     ]
+    },
+    {
+     "h": "Операция при повреждении хряща: кому и каким методом?",
+     "p": [
+      "По данным NICE, вопрос об операции рассматривают у людей, у которых жалобы сохраняются несмотря на поддерживающее лечение [5]. Большинство кандидатов — молодые взрослые с одним очагом повреждения; у людей старшего возраста и у тех, у кого в одном суставе много очагов, вероятность получить пользу ниже [1].",
+      "Распространённый износ (артроз) — отдельное состояние: NICE указывает, что имплантацию хрящевых клеток не следует применять при тяжёлом артрозе; если повреждение приводит к выраженному артрозу, вариантом становится эндопротезирование коленного сустава [5]. Об этом рассказано в текстах этого раздела об артрозе коленного сустава и об эндопротезировании коленного сустава.",
+      "При рассекающем остеохондрите вопрос об операции рассматривают, когда безоперационное лечение оказалось недостаточным, когда фрагмент подвижен или отделился, когда его диаметр больше 1 сантиметра, а также у подростков, у которых рост близок к завершению. Фрагмент могут просверлить, закрепить спицами и винтами либо заменить участком кости и хряща (трансплантатом) [2].",
+      "Многие вмешательства выполняют артроскопически (закрытым способом) [1]. Основные методы:"
+     ],
+     "list": [
+      "Очищение (дебридмент): при артроскопии повреждённый хрящ сглаживают, а свободные фрагменты кости или хряща удаляют из сустава [3]",
+      "Микрофрактурирование: в кости под хрящом делают небольшие отверстия, чтобы к этому участку поступала кровь и образовывался новый хрящ. Образующаяся ткань — волокнистый хрящ, не такой прочный, как нормальный (гиалиновый) хрящ сустава; метод больше подходит менее активным людям с одним небольшим очагом повреждения [1]",
+      "Пересадка хряща (костно-хрящевой трансплантат, мозаичная пластика): фрагменты кости и хряща, взятые из ненагружаемой части сустава, переносят в повреждённый участок; метод применяют при небольших дефектах. При более крупных дефектах может рассматриваться фрагмент, взятый у донора (трупный) [1]",
+      "Имплантация хрящевых клеток (имплантация аутологичных хондроцитов): при первой операции из неповреждённой части колена берут хрящевые клетки и размножают их в лаборатории, при второй — помещают в повреждённый участок. NICE рекомендует этот метод только людям, которые раньше не переносили операцию по восстановлению хряща, у которых дефект больше 2 квадратных сантиметров, а артрозные изменения в колене минимальны, и при условии, что вмешательство выполняется в специализированном центре третьего уровня [5]"
+     ]
+    },
+    {
+     "h": "Восстановление после операции и результаты",
+     "p": [
+      "После операции поверхность сустава нужно беречь: в первые недели, а в зависимости от вида вмешательства и дольше, на ногу может быть нельзя опираться и используют костыли; возвращение к спорту и тяжёлым нагрузкам может занять несколько месяцев [1]. После операции по поводу рассекающего остеохондрита костыли нужны около 6 недель, затем требуется 2–4 месяца физиотерапии; постепенное возвращение к спорту может стать возможным примерно через 4–5 месяцев [2].",
+      "По данным Американской академии хирургов-ортопедов, восстановление хряща может уменьшить боль, улучшить функцию и отсрочить или предотвратить артроз [1]. Кокрейновский обзор, сравнивавший микрофрактурирование и мозаичную пластику, однако, нашёл три небольших исследования (133 пациента), оценил качество доказательств как очень низкое и не смог сделать вывод о том, какой метод лучше; при обоих методах были пациенты, у которых жалобы возобновились [4]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Если боль в колене не проходит в течение нескольких недель, обратитесь к врачу; в следующих случаях обратитесь в медицинское учреждение без промедления [7]:"
+     ],
+     "list": [
+      "Колено очень болит, им невозможно двигать или на ногу совсем нельзя наступить",
+      "Колено сильно отекло или изменило форму",
+      "Колено блокируется, подкашивается или болезненно щёлкает",
+      "Высокая температура сопровождается покраснением или жаром в области колена"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Восстанавливается ли хрящ колена сам?",
+     "a": "Нелеченые травмы хряща сами не заживают; безоперационные методы, такие как физиотерапия, могут облегчить жалобы, но не восстанавливают повреждение [4]. У детей в период роста рассекающий остеохондрит, однако, во многих случаях заживает сам [2]."
+    },
+    {
+     "q": "За какое время заживает повреждение хряща колена?",
+     "a": "Это зависит от вида повреждения и от лечения. Большинство детей с рассекающим остеохондритом начинают чувствовать себя лучше за 2–4 месяца покоя и безоперационного лечения [2]. После операций по восстановлению хряща в первые недели нужны костыли, а возвращение к спорту может занять несколько месяцев [1]."
+    },
+    {
+     "q": "Помогают ли препараты для восстановления или укрепления хряща?",
+     "a": "В анализе, объединившем данные 3803 пациентов с артрозом коленного и тазобедренного суставов, глюкозамин, хондроитин и их сочетание не уменьшали боль в клинически значимой степени по сравнению с плацебо и не влияли на сужение суставной щели [6]."
+    },
+    {
+     "q": "Что такое пересадка хряща колена и кому её делают?",
+     "a": "Это перенос фрагментов кости и хряща, взятых из ненагружаемой части сустава, в повреждённый участок; метод применяют при небольших дефектах [1]. Имплантацию хрящевых клеток NICE рекомендует только людям, у которых дефект больше 2 квадратных сантиметров, артрозные изменения в колене минимальны и которые раньше не переносили операцию по восстановлению хряща [5]."
+    },
+    {
+     "q": "Можно ли восстановить изношенный хрящ колена операцией?",
+     "a": "Распространённый износ, то есть артроз, — отдельное состояние. NICE указывает, что имплантацию хрящевых клеток не следует применять при тяжёлом артрозе; если повреждение приводит к выраженному артрозу, вариантом становится эндопротезирование коленного сустава [5]. У людей, у которых в одном суставе много очагов повреждения, вероятность получить пользу от операций по восстановлению хряща тоже ниже [1]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "asib-ghozroof-zanoo",
+   "title": "آسیب غضروف زانو: آیا غضروف ترمیم می‌شود و درمان آن چیست؟",
+   "description": "آسیب غضروف زانو چیست و چه علائمی دارد؟ آیا غضروف دوباره ساخته می‌شود و چه چیزی کمک می‌کند؟ داروهای غضروف‌ساز، میکروفرکچر، پیوند غضروف و بهبودی.",
+   "summary": "آسیب غضروف زانو یعنی صدمه دیدن غضروف مفصلی که سر استخوان‌ها را می‌پوشاند، بر اثر آسیب‌دیدگی، بیماری‌ای به نام استئوکندریت یا ساییدگی [1][4]. غضروف خودبه‌خود ترمیم نمی‌شود؛ روش‌هایی مانند فیزیوتراپی می‌توانند علائم را کم کنند، اما آسیب را ترمیم نمی‌کنند [4]. نامزدهای جراحی‌هایی مانند میکروفرکچر و پیوند غضروف بیشتر بزرگسالان جوانی هستند که یک ضایعهٔ منفرد دارند؛ ساییدگی گسترده (آرتروز) وضعیتی جداگانه است [1][5].",
+   "sections": [
+    {
+     "h": "غضروف چیست و آسیب غضروف به چه معناست؟",
+     "p": [
+      "غضروف مفصلی بافت صاف و سفیدی است که سر استخوان‌ها را در محل تماس آن‌ها در مفصل می‌پوشاند و باعث می‌شود استخوان‌ها با اصطکاک بسیار کم روی هم بلغزند [1]. وقتی آسیب ببیند، سطح مفصل ممکن است ناهموار شود، حرکت دردناک می‌شود و ممکن است آرتروز پدید آید [1].",
+      "منیسک ساختاری جداگانه است؛ پارگی منیسک در نوشته‌ای جداگانه در این راهنما شرح داده شده است."
+     ]
+    },
+    {
+     "h": "آسیب غضروف چرا ایجاد می‌شود؟",
+     "p": [
+      "غضروف مفصلی ممکن است بر اثر آسیب‌دیدگی یا فرسودگی ناشی از استفادهٔ معمول صدمه ببیند [1]. سه وضعیت از هم بازشناخته می‌شود:"
+     ],
+     "list": [
+      "آسیب محدود (موضعی) غضروف: بیشتر پس از آسیبی که هنگام ورزش رخ می‌دهد پدید می‌آید [4][5]",
+      "استئوکندریت دیسکان: در کودکان و نوجوانان دیده می‌شود. قطعهٔ کوچکی از استخوان به دلیل اختلال در خون‌رسانی شروع به جدا شدن از استخوان اطراف می‌کند؛ این قطعه و غضروف روی آن ممکن است ترک بخورد و لق شود. گمان می‌رود با فشارهای تکرارشونده ارتباط داشته باشد؛ بیشتر در زانو و در انتهای پایینی استخوان ران دیده می‌شود [2]",
+      "ساییدگی گسترده (ساییدگی غضروف زانو، آرتروز، استئوآرتریت): با فرسوده شدن تدریجی غضروف پدید می‌آید [1]؛ آسیب غضروفی که درمان نشود نیز می‌تواند به آن بینجامد [4]. در هر دو زانو درد و خشکی ایجاد می‌کند و در سن بالا شایع‌تر است [7]"
+     ]
+    },
+    {
+     "h": "علائم آسیب غضروف چیست؟",
+     "p": [
+      "علائم آسیب غضروف زانو عبارت‌اند از درد، تورم، قفل شدن و احساس ناپایداری زانو (خالی کردن) [5]. پس از آسیب‌دیدگی ممکن است زانو کاملاً صاف نشود و در لحظهٔ آسیب صدای «تَق» شنیده شده باشد؛ همین علائم در پارگی رباط و منیسک نیز دیده می‌شود [7].",
+      "در استئوکندریت دیسکان نخستین علائم بیشتر درد و تورمی است که با ورزش پدید می‌آید؛ در موارد پیشرفته ممکن است مفصل گیر کند یا قفل شود [2]."
+     ]
+    },
+    {
+     "h": "آسیب غضروف چگونه تشخیص داده می‌شود؟",
+     "p": [
+      "ارزیابی با شرح حال و معاینه آغاز می‌شود [2]. غضروف مفصلی کلسیم ندارد و به همین دلیل در عکس رادیولوژی دیده نمی‌شود [1]. عکس رادیولوژی استخوان را نشان می‌دهد و برای تشخیص اولیهٔ استئوکندریت دیسکان ضروری است؛ ام‌آرآی بافت‌های نرم مانند غضروف را بهتر نشان می‌دهد [2].",
+      "در آرتروسکوپی دوربین کوچکی وارد مفصل زانو می‌شود؛ این روش هم برای تشخیص و هم برای درمان مشکلات زانو به کار می‌رود [3]."
+     ]
+    },
+    {
+     "h": "آیا آسیب غضروف خوب می‌شود و غضروف دوباره ساخته می‌شود؟",
+     "p": [
+      "غضروف نمی‌تواند خود را به‌خوبی ترمیم کند [1]. بر پایهٔ یک مرور کاکرین، آسیب‌های غضروفی که درمان نشوند خودبه‌خود خوب نمی‌شوند و می‌توانند به آرتروز بینجامند؛ درمان‌های موجود نیز بیشتر وقت‌ها به‌جای درمان قطعی، برای کاستن از علائمی مانند درد به کار می‌روند [4].",
+      "در کودکان، استئوکندریت دیسکان سیر متفاوتی دارد: در بسیاری از کودکان، به‌ویژه اگر رشد ادامه داشته باشد، استخوان و غضروف درگیر خودبه‌خود ترمیم می‌شود؛ بیشتر کودکان با ۲ تا ۴ ماه استراحت و درمان غیرجراحی کم‌کم احساس بهتری پیدا می‌کنند [2]. در نوجوانانی که رشدشان کامل شده و در بزرگسالان جوان، احتمال جدا شدن قطعه بیشتر است [2]."
+     ]
+    },
+    {
+     "h": "برای آسیب غضروف چه چیزی کمک می‌کند؟ داروهای «غضروف‌ساز»",
+     "p": [
+      "به گفتهٔ NICE در بریتانیا، در آسیب غضروف نخست درمان حمایتی به کار می‌رود؛ از جملهٔ آن ورزش، کاهش وزن، فیزیوتراپی، مسکن، کم کردن بار وارد بر زانو، گرما یا سرما و تزریق کورتون به داخل مفصل است [5]. روش‌های غیرجراحی مانند فیزیوتراپی می‌توانند علائم را کم کنند، اما نمی‌توانند آسیب را درمان کنند [4].",
+      "در خانه توصیه می‌شود تا حد ممکن وزن کمتری روی زانو گذاشته شود و کیسهٔ یخِ پیچیده در حوله هر ۲ تا ۳ ساعت و تا ۲۰ دقیقه روی زانو گذاشته شود [7]. اینکه کدام مسکن مناسب است را از داروساز یا پزشک خود بپرسید.",
+      "گلوکزامین و کندرویتین که به «غضروف‌ساز» یا «تقویت‌کنندهٔ غضروف» معروف‌اند، در تحلیلی که ۱۰ مطالعهٔ بزرگ (۳۸۰۳ بیمار) را در افراد دچار آرتروز زانو و مفصل لگن با هم ترکیب کرد، نه به‌تنهایی و نه با هم، در مقایسه با داروی بی‌اثر (دارونما) درد مفصل را به اندازه‌ای که از نظر بالینی معنادار باشد کاهش ندادند و بر باریک شدن فاصلهٔ مفصلی در عکس رادیولوژی نیز اثری نداشتند [6].",
+      "شواهد دربارهٔ تزریق هیالورونیک اسید، PRP و سلول بنیادی در نوشتهٔ مربوط به تزریق زانو در این راهنما آمده است."
+     ]
+    },
+    {
+     "h": "جراحی آسیب غضروف: برای چه کسانی و با چه روشی؟",
+     "p": [
+      "به گفتهٔ NICE، جراحی برای کسانی در نظر گرفته می‌شود که با وجود درمان حمایتی علائمشان ادامه دارد [5]. بیشتر نامزدها بزرگسالان جوانی هستند که یک ضایعهٔ منفرد دارند؛ در افراد مسن‌تر یا کسانی که در یک مفصل ضایعه‌های متعدد دارند، احتمال سود بردن کمتر است [1].",
+      "ساییدگی گسترده (آرتروز) وضعیتی جداگانه است: NICE بیان می‌کند که کاشت سلول‌های غضروفی نباید در آرتروز شدید انجام شود؛ اگر آسیب به آرتروز پیشرفته بینجامد، تعویض مفصل زانو یک گزینه می‌شود [5]. این موضوع‌ها در نوشته‌های مربوط به آرتروز زانو و تعویض مفصل زانو در این راهنما شرح داده شده‌اند.",
+      "در استئوکندریت دیسکان، جراحی هنگامی در نظر گرفته می‌شود که درمان غیرجراحی کافی نباشد، قطعه لق یا جدا شده باشد، قطر آن بیش از ۱ سانتی‌متر باشد، یا در نوجوانانی که رشدشان رو به پایان است. ممکن است قطعه سوراخ شود، با پین و پیچ ثابت شود یا به‌جای آن قطعه‌ای از استخوان و غضروف (گرافت) گذاشته شود [2].",
+      "بسیاری از این جراحی‌ها با آرتروسکوپی (جراحی بستهٔ مفصل) انجام می‌شود [1]. روش‌های اصلی این‌هاست:"
+     ],
+     "list": [
+      "پاک‌سازی (دبریدمان): با آرتروسکوپی غضروف آسیب‌دیده تراشیده و صاف می‌شود و قطعه‌های آزاد استخوان یا غضروف از درون مفصل برداشته می‌شود [3]",
+      "میکروفرکچر: در استخوان زیر غضروف سوراخ‌های کوچکی ایجاد می‌شود تا خون به آن ناحیه برسد و غضروف تازه ساخته شود. بافتی که ساخته می‌شود غضروف فیبری است که به اندازهٔ غضروف طبیعی (هیالین) مفصل بادوام نیست؛ این روش برای کسانی مناسب‌تر است که ضایعه‌ای کوچک و منفرد دارند و فشار کمتری به زانو وارد می‌کنند [1]",
+      "پیوند غضروف (گرافت استئوکندرال، موزاییک‌پلاستی): قطعه‌هایی از استخوان و غضروف که از بخشی از مفصل که وزن را تحمل نمی‌کند برداشته شده، به ناحیهٔ آسیب‌دیده منتقل می‌شود؛ در ضایعه‌های کوچک به کار می‌رود. در ضایعه‌های بزرگ‌تر ممکن است قطعه‌ای که از اهداکننده (جسد) گرفته شده در نظر گرفته شود [1]",
+      "کاشت سلول‌های غضروفی (کاشت کندروسیت اتولوگ): در جراحی نخست سلول‌های غضروفی از بخش سالم زانو برداشته و در آزمایشگاه تکثیر می‌شود و در جراحی دوم در ناحیهٔ آسیب‌دیده گذاشته می‌شود. NICE این روش را فقط برای کسانی توصیه می‌کند که پیش‌تر جراحی ترمیم غضروف نداشته‌اند، ضایعه‌شان بزرگ‌تر از ۲ سانتی‌متر مربع است و آسیب ناشی از آرتروز در زانویشان بسیار اندک است، آن هم به شرط آنکه در یک مرکز ارجاعی سطح سوم انجام شود [5]"
+     ]
+    },
+    {
+     "h": "بهبودی پس از جراحی و نتایج",
+     "p": [
+      "پس از جراحی باید از سطح مفصل محافظت شود: در هفته‌های نخست، و بسته به نوع جراحی برای مدتی طولانی‌تر، ممکن است نتوان روی پا وزن گذاشت و از عصای زیربغل استفاده می‌شود؛ بازگشت به ورزش و فعالیت‌های سنگین ممکن است چند ماه طول بکشد [1]. پس از جراحی استئوکندریت دیسکان حدود ۶ هفته عصای زیربغل و سپس ۲ تا ۴ ماه فیزیوتراپی لازم است؛ بازگشت تدریجی به ورزش ممکن است پس از حدود ۴ تا ۵ ماه امکان‌پذیر شود [2].",
+      "به گفتهٔ آکادمی جراحان ارتوپدی آمریکا، ترمیم غضروف می‌تواند درد را کم کند، عملکرد را بهتر کند و آرتروز را به تأخیر بیندازد یا از آن پیشگیری کند [1]. اما مرور کاکرین که میکروفرکچر را با موزاییک‌پلاستی مقایسه کرده است، سه مطالعهٔ کوچک (۱۳۳ بیمار) یافته، کیفیت شواهد را بسیار پایین دانسته و نتوانسته است نتیجه بگیرد که کدام روش بهتر است؛ در هر دو روش بیمارانی بوده‌اند که علائمشان بازگشته است [4]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "اگر درد زانو ظرف چند هفته بهتر نشد به پزشک مراجعه کنید؛ در این موارد بدون تأخیر به یک مرکز درمانی مراجعه کنید [7]:"
+     ],
+     "list": [
+      "اگر زانو بسیار دردناک است، نمی‌توان آن را حرکت داد یا اصلاً نمی‌توان روی آن وزن گذاشت",
+      "اگر زانو بسیار متورم است یا تغییر شکل داده است",
+      "اگر زانو قفل می‌شود، خالی می‌کند یا با درد صدای تق می‌دهد",
+      "اگر همراه با تب بالا، قرمزی یا گرمی در اطراف زانو وجود دارد"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "آیا غضروف زانو خودبه‌خود دوباره ساخته می‌شود؟",
+     "a": "آسیب‌های غضروفی که درمان نشوند خودبه‌خود خوب نمی‌شوند؛ روش‌های غیرجراحی مانند فیزیوتراپی می‌توانند علائم را کم کنند، اما آسیب را ترمیم نمی‌کنند [4]. اما در کودکانِ در سن رشد، استئوکندریت دیسکان در بسیاری از موارد خودبه‌خود ترمیم می‌شود [2]."
+    },
+    {
+     "q": "آسیب غضروف زانو چه مدت طول می‌کشد تا خوب شود؟",
+     "a": "به نوع آسیب و درمان بستگی دارد. بیشتر کودکان دچار استئوکندریت دیسکان با ۲ تا ۴ ماه استراحت و درمان غیرجراحی کم‌کم احساس بهتری پیدا می‌کنند [2]. پس از جراحی‌های ترمیم غضروف در هفته‌های نخست عصای زیربغل لازم است و بازگشت به ورزش ممکن است چند ماه طول بکشد [1]."
+    },
+    {
+     "q": "آیا داروهای غضروف‌ساز یا تقویت‌کنندهٔ غضروف مؤثرند؟",
+     "a": "در تحلیلی که داده‌های ۳۸۰۳ بیمار دچار آرتروز زانو و مفصل لگن را با هم ترکیب کرد، گلوکزامین، کندرویتین و ترکیب این دو در مقایسه با دارونما درد را به اندازه‌ای که از نظر بالینی معنادار باشد کاهش ندادند و بر باریک شدن فاصلهٔ مفصلی نیز اثری نداشتند [6]."
+    },
+    {
+     "q": "پیوند غضروف زانو چیست و برای چه کسانی انجام می‌شود؟",
+     "a": "یعنی انتقال قطعه‌هایی از استخوان و غضروف که از بخشی از مفصل که وزن را تحمل نمی‌کند برداشته شده، به ناحیهٔ آسیب‌دیده؛ در ضایعه‌های کوچک به کار می‌رود [1]. کاشت سلول‌های غضروفی را NICE فقط برای کسانی توصیه می‌کند که ضایعه‌شان بزرگ‌تر از ۲ سانتی‌متر مربع است، آسیب ناشی از آرتروز در زانویشان بسیار اندک است و پیش‌تر جراحی ترمیم غضروف نداشته‌اند [5]."
+    },
+    {
+     "q": "آیا ساییدگی غضروف زانو با جراحی ترمیم می‌شود؟",
+     "a": "ساییدگی گسترده، یعنی آرتروز، وضعیتی جداگانه است. NICE بیان می‌کند که کاشت سلول‌های غضروفی نباید در آرتروز شدید انجام شود؛ اگر آسیب به آرتروز پیشرفته بینجامد، تعویض مفصل زانو یک گزینه می‌شود [5]. در کسانی که در یک مفصل ضایعه‌های متعدد دارند نیز احتمال سود بردن از جراحی‌های ترمیم غضروف کمتر است [1]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

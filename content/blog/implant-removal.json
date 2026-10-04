@@ -1,0 +1,581 @@
+{
+ "id": "implant-removal",
+ "area": "kirik-travma",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Internal Fixation for Fractures",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/treatment/internal-fixation-for-fractures/",
+   "year": "n.d."
+  },
+  {
+   "title": "Indications for implant removal after fracture healing: a review of the literature",
+   "publisher": "European Journal of Trauma and Emergency Surgery (Vos DI, Verhofstad MHJ)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26815392/",
+   "year": "2013"
+  },
+  {
+   "title": "Indications for and Risks Associated With Implant Removal After Pediatric Trauma",
+   "publisher": "JAAOS Global Research & Reviews (Montgomery BK, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35427259/",
+   "year": "2022"
+  },
+  {
+   "title": "Removal of Forearm Plate Leads to a Higher Risk of Refracture: A Systematic Review and Meta-Analysis",
+   "publisher": "Orthopaedic Surgery (Cao R, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39660612/",
+   "year": "2024"
+  },
+  {
+   "title": "Patient Information Leaflet for: Removal of Metalwork Surgery",
+   "publisher": "Norfolk and Norwich University Hospitals NHS Foundation Trust",
+   "url": "https://www.nnuh.nhs.uk/publication/download/removal-of-metalwork-surgery-upper-limb-v7",
+   "year": "2023"
+  },
+  {
+   "title": "Removal of Metalwork: Foot and Ankle",
+   "publisher": "The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust",
+   "url": "https://www.rjah.nhs.uk/media/5dihvwkj/removal-of-metalwork-v1.pdf",
+   "year": "2024"
+  },
+  {
+   "title": "Detection of orthopaedic implants in vivo by enhanced-sensitivity, walk-through metal detectors",
+   "publisher": "The Journal of Bone and Joint Surgery, American Volume (Ramirez MA, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17403795/",
+   "year": "2007"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "platin-ameliyati-platin-cikarma",
+   "title": "Platin ameliyatı ve platin çıkarma: şart mı, riskleri nelerdir?",
+   "description": "Platin ameliyatı nedir, platin çıkarılmalı mı, ne zaman çıkarılır? Plak ve vida çıkarma ameliyatı ne kadar sürer, riskleri ve sonrası iyileşme süreci.",
+   "summary": "Kırık ameliyatında takılan ve gündelik dilde \"platin\" denen plak, vida ve çiviler çoğunlukla paslanmaz çelik ya da titanyumdan yapılır; kırık kaynadıktan sonra yerinde bırakılabilir ya da seçilmiş durumlarda çıkarılabilir [1]. Bugünkü genel öneri, implantın yalnızca yakınmaya yol açtığında ve riskler anlatıldıktan sonra çıkarılmasıdır [2]. Çıkarma ameliyatının da yeniden kırık, sinir yaralanması ve enfeksiyon gibi riskleri vardır [3][4].",
+   "sections": [
+    {
+     "h": "\"Platin\" nedir, neyden yapılır?",
+     "p": [
+      "Kırık ameliyatında kemik parçaları yerine oturtulur ve plak, vida, çivi, tel gibi implantlarla bir arada tutulur; buna iç tespit (internal fiksasyon) denir [1]. Gündelik dilde bu implantların hepsine \"platin\", ameliyata da \"platin ameliyatı\" denir. Oysa implantlar platinden değil, çoğunlukla paslanmaz çelik ya da titanyumdan yapılır [1].",
+      "İmplantlar nadiren alerjik tepkiye yol açar. İstisnası nikel alerjisidir: ortopedide kullanılan bazı metallerde nikel bulunur; nikel alerjiniz varsa cerrahınıza söyleyin [1]."
+     ]
+    },
+    {
+     "h": "Hangi implant ne işe yarar?",
+     "p": [
+      "İç tespit çoğu zaman işleve daha erken dönmeyi sağlar; yine de kırık gerektiği gibi kaynamayabilir, plak ya da çivi kırılabilir, enfeksiyon riski de azalsa bile ortadan kalkmaz [1]. Kırığın ne zaman iyileşeceği, hasta rehberindeki el bileği, ayak bileği, köprücük kemiği, kalça ve çocuk ön kol kırığı yazılarında; kırık iyileşmesi ve alçı ise ayrı bir yazıda anlatılmaktadır. İlk ameliyatın kaç saat süreceğini hekiminize sorun.",
+      "Başlıca implant türleri şunlardır [1]:"
+     ],
+     "list": [
+      "Plak: kırık parçalarını bir arada tutan bir iç atel gibidir; kemiğe vidalarla tutturulur",
+      "Vida: en sık kullanılan implanttır; tek başına ya da plak ve çiviyle birlikte kullanılır",
+      "Çivi (intramedüller çivi): kemiğin ortasındaki boşluğa yerleştirilir; uyluk kemiği ve kaval kemiği gövdesi kırıklarının çoğunda kullanılır",
+      "Tel ve pim: vidayla tutturulamayacak kadar küçük parçaları tutar; genellikle bir süre sonra çıkarılır"
+     ]
+    },
+    {
+     "h": "Platin çıkarılmalı mı, şart mı?",
+     "p": [
+      "Kırık kaynadıktan sonra plak ve vidalar yerinde bırakılabilir ya da seçilmiş durumlarda çıkarılabilir; çiviler de kemikte bırakılabilir [1]. Bir hastane broşürüne göre implantın vücutta kalması genellikle zarar vermez [6].",
+      "Metal implantlar korozyon, alerji ve kanser kaygılarıyla onlarca yıl rutin olarak çıkarılmıştır [2]. Bugün, kırık implantlarının çevresinde tümör gelişmesinin son derece nadir, implanta bağlı alerjik sorunların da seyrek olduğu bildirilmektedir [3].",
+      "Çıkarmanın ne zaman gerektiği iyi tanımlanmamıştır; kılavuz yok denecek kadar azdır, görüşler ve uygulamalar arasında büyük farklar vardır [2]. Bugünkü genel öneri, implantın yalnızca yakınması olan hastalarda ve riskler anlatıldıktan sonra çıkarılmasıdır; çünkü yakınması olmayan hastalarda çıkarma sonrasında yakınma geliştiği bildirilmiştir [2]. Yetişkinlerde ön kol gövde kırıklarına ilişkin bir meta-analiz de özellikle yakınması olmayanlarda plağın çıkarılmasını önermez, ancak daha güvenilir kanıta ihtiyaç olduğunu belirtir [4].",
+      "Havalimanı dedektörleri de sık sorulur: 2007 tarihli bir çalışmada havalimanı ayarındaki kapı tipi dedektör eklem protezlerinin yüzde 88'ini, plakların yüzde 32'sini algılamış; kemik içi çiviler ve teller algılanmamıştır [7]."
+     ]
+    },
+    {
+     "h": "Hangi durumlarda çıkarılır?",
+     "p": [
+      "Çıkarma nedenlerinin çoğu görecelidir ve hastanın yakınmasına ya da isteğine dayanır; enfeksiyon ya da eklem içine uzanan implant gibi gerçek tıbbi nedenler daha az görülür [2]. Ağrı nedeniyle yapılan çıkarmada ağrının geçeceği garanti edilemez [3]. Omurgadaki vida ve çubuklar ayrı bir konudur ve ilgili uzmanlık dalınca değerlendirilir.",
+      "Başlıca çıkarma nedenleri şunlardır [2][3][6]:"
+     ],
+     "list": [
+      "İmplant bölgesinde ağrı ya da rahatsızlık",
+      "Çıkıntı yapan, yumuşak dokuyu tahriş eden ya da deride yara açan implant",
+      "İmplant çevresinde enfeksiyon",
+      "Yerinden oynayan ya da kırılan implant",
+      "Büyümesi süren çocuklardaki bazı implantlar",
+      "Riskler anlatıldıktan sonra hastanın ya da ailenin isteği"
+     ]
+    },
+    {
+     "h": "Çıkarma zamanı ve çocuklarda durum",
+     "p": [
+      "Çıkarma kararı verilmişse ameliyat kırık kaynadıktan sonra yapılır [1][4]. Çocuklarda kemik büyüdüğü için implantla kemiğin birbirini nasıl etkileyeceği ayrıca düşünülür; implantın çıkarılıp çıkarılmayacağına ve zamanına ilişkin kanıta dayalı bir kılavuz yoktur [3]. Yerinde bırakılan implantlara bağlı sorun oranı oldukça düşüktür; karar çoğu zaman hasta, ailesi ve cerrah tarafından birlikte verilir [3]. Çocuk kırıklarına ilişkin bir derlemeye göre [3]:"
+     ],
+     "list": [
+      "Teller ve pimler geçici tespit sağlar ve genellikle 3–4 hafta sonra çıkarılır; ucu deri dışında olanlar çoğu zaman poliklinikte alınabilir",
+      "Esnek çiviler ön kolda uçları dışarıdaysa 1–2 ayda, gömülüyse 3–6 ayda; uyluk kemiğinde birçok cerrah tarafından 6–12 ayda çıkarılır",
+      "Plak ve vidalar için uygun zaman iyi belirlenmemiştir; yayınlarda 8–14 ay bildirilmiştir"
+     ]
+    },
+    {
+     "h": "Platin çıkarma ameliyatı nasıl yapılır, ne kadar sürer?",
+     "p": [
+      "Kol ve eldeki implantlar genellikle genel anesteziyle, bazen yalnızca kolu uyuşturan bölgesel anesteziyle çıkarılır [5]. Cerrah implantı genellikle ilk ameliyatın kesisinden çıkarır [6]. Hastaların çoğu aynı gün evine döner [5][6].",
+      "Süre neyin çıkarılacağına ve bölgeye bağlıdır: ayak ve ayak bileğine ilişkin bir hastane broşürü yarım saat ile bir buçuk saat arası bir süre verir [6].",
+      "\"Vida çıkarma ameliyatı\" her zaman kolay değildir; girişim çok zorlu olabilir [2]. Vida sıyrılabilir ya da kırılabilir, özellikle kemik implantın üzerini örtmüşse daha büyük ya da yeni kesiler gerekebilir; ameliyat ilk ameliyat kadar ya da ondan uzun sürebilir [3]. Hepsini çıkarmak kemiğe fazla zarar verecekse cerrah implantın bir bölümünü yerinde bırakabilir [5]."
+     ]
+    },
+    {
+     "h": "Platin çıkarma ameliyatının riskleri",
+     "p": [
+      "Çıkarma ameliyatı zararsız bir girişim değildir; riskleri önceden konuşulmalıdır [3].",
+      "Yetişkinlerde ön kol gövde kırıklarına ilişkin 23 çalışmanın meta-analizinde, plağı çıkarılan 732 hastada 52, plağı bırakılan 1.670 hastada 21 yeniden kırık görülmüştür; çıkarma bu riski anlamlı biçimde artırmıştır, ancak kanıtın kesinliği çok düşüktür [4]. Çocuk kırıklarına ilişkin bir derlemenin aktardığı, 871 hastayı kapsayan sistematik derlemede implant çıkarmaya bağlı sorun oranı yüzde 10'dur [3].",
+      "Kaynakların bildirdiği başlıca riskler şunlardır [2][3][4][5][6]:"
+     ],
+     "list": [
+      "Yeniden kırık: kemik geçici olarak zayıflar ve vida deliği gibi zayıf bir noktadan kırılabilir",
+      "Sinir ya da damar yaralanması",
+      "Enfeksiyon ve yara iyileşmesinde sorun",
+      "İmplantın tamamının çıkarılamaması",
+      "Kanama, damarda pıhtı, hassas yara izi, uzun süren şişlik ve eklem sertliği",
+      "Yakınmaların geçmemesi ya da artması"
+     ]
+    },
+    {
+     "h": "Ameliyat sonrası iyileşme: işe, araca ve spora dönüş",
+     "p": [
+      "Aşağıdaki süreler İngiltere'deki iki hastanenin hasta broşürlerinden alınmıştır; sizin için geçerli olanı cerrahınız söyler [5][6].",
+      "Kol ve elde: kol 24–48 saat yüksekte tutulur, dikişler yaklaşık iki hafta sonra alınır; çoğu kişi bir hafta sonra araç kullanabilir, 1–2 hafta sonra işe dönebilir [5]. Kemik geçici olarak zayıfladığı için temas sporlarından 6 hafta kaçınılır [5].",
+      "Ayak ve ayak bileğinde: ilk bir iki hafta dinlenmek ve bacağı yüksekte tutmak gerekir; izin verilene kadar çalışılmaz ve araç kullanılmaz, tam iyileşme birkaç ay sürebilir [6].",
+      "Ağrı için basit ağrı kesiciler kullanılır; hangisinin uygun olduğunu hekiminize ya da eczacınıza sorabilirsiniz [5]. Şişlik (ödem) üç aya kadar sürebilir, yara izi sekiz haftaya kadar sert ve hassas olabilir [5]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "İmplantınız yerindeyken ya da çıkarma ameliyatından sonra şu durumlarda beklemeden bir sağlık kuruluşuna başvurun [3][5][6]:"
+     ],
+     "list": [
+      "Ameliyat bölgesinde artan ağrı, kızarıklık, şişlik ya da ateş; enfeksiyon belirtisi olabilir",
+      "Parmaklarda solukluk ya da morarma, soğukluk, his kaybı ya da karıncalanma",
+      "Bacakta ağrı, şişlik ya da kızarıklık; damarda pıhtı belirtisi olabilir",
+      "İmplantın deriyi delmesi ya da üzerindeki deride yara açılması",
+      "Çıkarma sonrasında aynı bölgeye düşme ya da darbe; kemik geçici olarak zayıftır ve kırılabilir"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Platin çıkarılmalı mı, vücutta kalması zararlı mı?",
+     "a": "Her hastada çıkarılması şart değildir: plak ve vidalar kırık kaynadıktan sonra yerinde bırakılabilir ya da seçilmiş durumlarda çıkarılabilir [1]. Bugünkü genel öneri, implantın yalnızca yakınmaya yol açtığında çıkarılmasıdır [2]; implantın vücutta kalması genellikle zarar vermez [6]."
+    },
+    {
+     "q": "Platin ne zaman çıkarılır?",
+     "a": "Çıkarılacaksa kırık kaynadıktan sonra çıkarılır [1][4]. Çocuklarda teller genellikle 3–4 hafta sonra alınır; plak ve vidalar için yayınlarda 8–14 ay bildirilmiştir, ancak uygun zaman iyi belirlenmemiştir [3]."
+    },
+    {
+     "q": "Platin çıkarma ameliyatı ne kadar sürer?",
+     "a": "Ayak ve ayak bileğine ilişkin bir hastane broşürü yarım saat ile bir buçuk saat arası bir süre verir; süre neyin çıkarılacağına ve bölgeye bağlıdır [6]. Çıkarma ameliyatı ilk ameliyat kadar ya da ondan uzun da sürebilir [3]."
+    },
+    {
+     "q": "Platin çıkarma ameliyatı zor mu, riskleri nelerdir?",
+     "a": "Girişim çok zorlu olabilir ve yakınmaların artmasıyla da sonuçlanabilir [2]. Başlıca riskleri yeniden kırık, sinir ya da damar yaralanması, enfeksiyon ve implantın tamamının çıkarılamamasıdır [3][4]."
+    },
+    {
+     "q": "Platin çıkarma ameliyatı sonrası iyileşme süreci nasıldır?",
+     "a": "Hastaların çoğu aynı gün evine döner [5][6]. Kol ameliyatlarından sonra çoğu kişi 1–2 hafta içinde işe döner ve temas sporlarından 6 hafta kaçınır [5]; ayak ve ayak bileğinde tam iyileşme birkaç ay sürebilir [6]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "plate-and-screw-removal-after-fracture",
+   "title": "Plates and screws after a fracture: do they have to be removed?",
+   "description": "Plates, screws and nails after a broken bone: what they are made of, whether and when they are removed, how long removal surgery takes, risks and recovery.",
+   "summary": "The plates, screws and nails put in during fracture surgery (all called \"platin\" in everyday Turkish) are usually made of stainless steel or titanium; once the fracture has healed they may be left in place or, in selected cases, removed [1]. The general advice today is to remove an implant only when it causes symptoms and after the risks have been explained [2]. Removal surgery has risks of its own, such as refracture, nerve injury and infection [3][4].",
+   "sections": [
+    {
+     "h": "What is \"platin\", and what is it made of?",
+     "p": [
+      "In fracture surgery the bone fragments are put back into position and held together with implants such as plates, screws, nails and wires; this is called internal fixation [1]. In everyday Turkish all of these implants are called \"platin\" (platinum) and the operation \"platin surgery\". The implants, however, are not made of platinum; they are usually made of stainless steel or titanium [1].",
+      "Implants rarely cause an allergic reaction. The exception is nickel allergy: nickel is found in some of the metals used in orthopaedics, so tell your surgeon if you have a nickel allergy [1]."
+     ]
+    },
+    {
+     "h": "What does each implant do?",
+     "p": [
+      "Internal fixation often allows an earlier return to function; even so, the fracture may not heal properly, the plate or nail may break, and the risk of infection is reduced but not removed [1]. When the fracture will heal is described in the patient guide's articles on wrist, ankle, collarbone, hip and children's forearm fractures; fracture healing and casts are covered in a separate article. Ask your doctor how many hours the first operation will take.",
+      "The main types of implant are [1]:"
+     ],
+     "list": [
+      "Plate: like an internal splint that holds the broken pieces together; it is attached to the bone with screws",
+      "Screw: the most commonly used implant; used alone or together with plates and nails",
+      "Nail (intramedullary nail): placed in the hollow centre of the bone; used for most fractures of the thighbone and of the shaft of the shinbone",
+      "Wire and pin: hold pieces too small to be fixed with screws; usually removed after a certain time"
+     ]
+    },
+    {
+     "h": "Do the implants have to come out?",
+     "p": [
+      "Once the fracture has healed, plates and screws may be left in place or, in selected cases, removed; nails may also be left in the bone [1]. According to one hospital leaflet, leaving the implant in the body generally does no harm [6].",
+      "For decades metal implants were removed routinely because of concerns about corrosion, allergy and cancer [2]. It is now reported that a tumour developing near an implant used in fracture care is extremely rare, and that allergic problems caused by implants are uncommon [3].",
+      "When removal is necessary is not well defined; guidelines hardly exist, and opinions and practices differ widely [2]. The general advice today is to remove implants only in patients with symptoms and after the risks have been explained, because patients without symptoms have been reported to develop complaints after removal [2]. A meta-analysis of forearm shaft fractures in adults likewise does not recommend removing the plate, especially in patients without symptoms, but states that more reliable evidence is needed [4].",
+      "Airport detectors are another common question: in a 2007 study a walk-through detector at airport security settings picked up 88 per cent of joint replacements and 32 per cent of plates; intramedullary nails and wires were not detected [7]."
+     ]
+    },
+    {
+     "h": "Reasons for removing them",
+     "p": [
+      "Most reasons for removal are relative and based on the patient's complaints or wishes; true medical reasons, such as infection or an implant that reaches into a joint, are less common [2]. When an implant is removed because of pain, relief of the pain cannot be guaranteed [3]. Screws and rods in the spine are a separate subject and are assessed by the relevant specialty.",
+      "The main reasons for removal are [2][3][6]:"
+     ],
+     "list": [
+      "Pain or discomfort where the implant lies",
+      "An implant that is prominent, irritates the soft tissue or has caused a sore in the skin",
+      "Infection around the implant",
+      "An implant that has moved or broken",
+      "Some implants in children who are still growing",
+      "The wish of the patient or family, after the risks have been explained"
+     ]
+    },
+    {
+     "h": "Timing of removal, and children",
+     "p": [
+      "If the decision is to remove the implant, the operation is done after the fracture has healed [1][4]. In children the bone is still growing, so how the implant and the growing bone will affect each other is considered separately; there is no evidence-based guideline on whether and when an implant should be removed [3]. The rate of problems from implants left in place is quite low; the decision is often made jointly by the patient, the family and the surgeon [3]. According to a review of children's fractures [3]:"
+     ],
+     "list": [
+      "Wires and pins provide temporary fixation and are usually removed after 3–4 weeks; those with ends outside the skin can often be taken out in the outpatient clinic",
+      "Flexible nails in the forearm are removed at 1–2 months if their ends are exposed and at 3–6 months if buried; in the thighbone many surgeons remove them at 6–12 months",
+      "For plates and screws the appropriate time is not well established; the literature reports 8–14 months"
+     ]
+    },
+    {
+     "h": "How is the removal operation done, and how long does it take?",
+     "p": [
+      "Implants in the arm and hand are usually removed under general anaesthetic, sometimes under a regional anaesthetic that numbs only the arm [5]. The surgeon usually removes the implant through the incision of the first operation [6]. Most patients go home the same day [5][6].",
+      "How long it takes depends on what is to be removed and where: a hospital leaflet on the foot and ankle gives between half an hour and one and a half hours [6].",
+      "\"Screw removal surgery\" is not always easy; the procedure can be very challenging [2]. A screw can strip or break, and larger or new incisions may be needed, especially if bone has grown over the implant; the operation can take as long as the first one or longer [3]. If removing all of it would do too much damage to the bone, the surgeon may leave part of the implant in place [5]."
+     ]
+    },
+    {
+     "h": "Risks of removal surgery",
+     "p": [
+      "Removal is not a harmless procedure; its risks should be discussed beforehand [3].",
+      "In a meta-analysis of 23 studies of forearm shaft fractures in adults, there were 52 refractures among 732 patients whose plate was removed and 21 among 1,670 patients whose plate was left in; removal significantly increased the risk of refracture, but the certainty of the evidence is very low [4]. A systematic review of 871 patients, cited in a review of children's fractures, found a complication rate of 10 per cent with implant removal [3].",
+      "The main risks reported by the sources are [2][3][4][5][6]:"
+     ],
+     "list": [
+      "Refracture: the bone is temporarily weaker and can break through a weak point such as a screw hole",
+      "Injury to a nerve or blood vessel",
+      "Infection and problems with wound healing",
+      "Not being able to remove the whole implant",
+      "Bleeding, a blood clot in a vein, a tender scar, lasting swelling and joint stiffness",
+      "Symptoms that do not go away or get worse"
+     ]
+    },
+    {
+     "h": "Recovery after the operation: work, driving and sport",
+     "p": [
+      "The times below are taken from the patient leaflets of two hospitals in England; your surgeon will tell you which apply to you [5][6].",
+      "Arm and hand: the arm is kept raised for 24–48 hours and the stitches are removed after about two weeks; most people can drive after one week and return to work after 1–2 weeks [5]. Because the bone is temporarily weaker, contact sports are avoided for 6 weeks [5].",
+      "Foot and ankle: the first week or two should be spent resting with the leg raised; you should not work or drive until you are told you may, and full recovery can take several months [6].",
+      "Simple painkillers are used for pain; a doctor or pharmacist can advise which is suitable [5]. Swelling (oedema) may last up to three months, and the scar may be firm and tender for up to eight weeks [5]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Whether your implant is still in place or has been removed, seek medical care without waiting in the following situations [3][5][6]:"
+     ],
+     "list": [
+      "Increasing pain, redness or swelling at the site of the operation, or a fever; these may be signs of infection",
+      "Fingers that turn pale or blue, feel cold, lose feeling or tingle",
+      "Pain, swelling or redness in the leg; these may be signs of a blood clot in a vein",
+      "An implant that comes through the skin, or a sore in the skin over it",
+      "A fall or a blow to the same area after the implant has been removed; the bone is temporarily weaker and can break"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Should the implants be removed, and is it harmful to leave them in?",
+     "a": "Removal is not necessary in every patient: once the fracture has healed, plates and screws may be left in place or, in selected cases, removed [1]. The general advice today is to remove an implant only when it causes symptoms [2]; leaving the implant in the body generally does no harm [6]."
+    },
+    {
+     "q": "When are plates and screws removed?",
+     "a": "If they are to be removed, this is done after the fracture has healed [1][4]. In children, wires are usually taken out after 3–4 weeks; for plates and screws the literature reports 8–14 months, but the appropriate time is not well established [3]."
+    },
+    {
+     "q": "How long does removal surgery take?",
+     "a": "A hospital leaflet on the foot and ankle gives between half an hour and one and a half hours; it depends on what is to be removed and where [6]. Removal can also take as long as the first operation or longer [3]."
+    },
+    {
+     "q": "Is removal surgery difficult, and what are the risks?",
+     "a": "The procedure can be very challenging and can also end with the complaints getting worse [2]. The main risks are refracture, injury to a nerve or blood vessel, infection and being unable to remove the whole implant [3][4]."
+    },
+    {
+     "q": "What is recovery like after the implants are removed?",
+     "a": "Most patients go home the same day [5][6]. After operations on the arm most people return to work within 1–2 weeks and avoid contact sports for 6 weeks [5]; in the foot and ankle full recovery can take several months [6]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "udalenie-plastin-i-vintov-posle-pereloma",
+   "title": "Удаление пластин и винтов после перелома: обязательно ли и каковы риски?",
+   "description": "Пластины, винты и стержни после перелома: из чего их делают, нужно ли удалять металлоконструкцию и когда, сколько длится операция, риски и восстановление.",
+   "summary": "Пластины, винты и стержни, которые устанавливают при операции по поводу перелома (в Турции в быту их называют «платин»), чаще всего делают из нержавеющей стали или титана; после сращения перелома их можно оставить на месте или, в отдельных случаях, удалить [1]. Сегодня обычно советуют удалять имплантат только тогда, когда он вызывает жалобы, и после разъяснения рисков [2]. У операции по удалению есть и свои риски — например, повторный перелом, повреждение нерва и инфекция [3][4].",
+   "sections": [
+    {
+     "h": "Что такое «платин» и из чего его делают?",
+     "p": [
+      "При операции по поводу перелома костные отломки возвращают в правильное положение и скрепляют такими имплантатами, как пластины, винты, стержни и спицы; это называется внутренней фиксацией [1]. В Турции в быту все эти имплантаты называют словом «платин» (платина), а саму операцию — «операцией с платиной». Однако делают их не из платины, а чаще всего из нержавеющей стали или титана [1].",
+      "Имплантаты редко вызывают аллергическую реакцию. Исключение — аллергия на никель: он входит в состав некоторых металлов, применяемых в ортопедии, поэтому, если у вас аллергия на никель, скажите об этом хирургу [1]."
+     ]
+    },
+    {
+     "h": "Какой имплантат для чего нужен?",
+     "p": [
+      "Внутренняя фиксация часто позволяет раньше вернуться к обычной активности; тем не менее перелом может срастись неправильно, пластина или стержень могут сломаться, а риск инфекции снижается, но не исчезает [1]. Когда срастётся перелом, описано в статьях справочника для пациентов о переломах запястья, лодыжки, ключицы, бедра и предплечья у детей; сращению переломов и гипсу посвящена отдельная статья. О том, сколько часов займёт первая операция, спросите своего врача.",
+      "Основные виды имплантатов [1]:"
+     ],
+     "list": [
+      "Пластина: работает как внутренняя шина, удерживающая отломки вместе; крепится к кости винтами",
+      "Винт: самый часто используемый имплантат; применяется отдельно или вместе с пластинами и стержнями",
+      "Стержень (интрамедуллярный стержень): вводится в полость в центре кости; применяется при большинстве переломов бедренной кости и средней части большеберцовой кости",
+      "Спицы и штифты: удерживают фрагменты, слишком мелкие для фиксации винтами; обычно их удаляют через некоторое время"
+     ]
+    },
+    {
+     "h": "Нужно ли удалять металлоконструкцию, обязательно ли это?",
+     "p": [
+      "После сращения перелома пластины и винты можно оставить на месте или, в отдельных случаях, удалить; стержни тоже можно оставить в кости [1]. Как сказано в одной больничной памятке, имплантат, оставленный в организме, как правило, не причиняет вреда [6].",
+      "Десятилетиями металлические имплантаты рутинно удаляли из-за опасений по поводу коррозии, аллергии и рака [2]. Сейчас сообщается, что развитие опухоли рядом с имплантатом, установленным при лечении перелома, — крайняя редкость, а аллергические проблемы из-за имплантатов встречаются нечасто [3].",
+      "В каких случаях удаление необходимо, чётко не определено; клинических рекомендаций почти нет, а мнения и практика сильно различаются [2]. Сегодня обычно советуют удалять имплантаты только у пациентов с жалобами и после разъяснения рисков, поскольку описаны случаи, когда у пациентов без жалоб жалобы появлялись после удаления [2]. Метаанализ, посвящённый переломам диафиза костей предплечья у взрослых, также не рекомендует удалять пластину, особенно у пациентов без жалоб, но отмечает, что нужны более надёжные доказательства [4].",
+      "Часто спрашивают и о металлодетекторах в аэропорту: в исследовании 2007 года арочный детектор с настройками, принятыми в аэропортах, обнаружил 88 процентов эндопротезов суставов и 32 процента пластин; интрамедуллярные стержни и спицы обнаружены не были [7]."
+     ]
+    },
+    {
+     "h": "В каких случаях удаляют?",
+     "p": [
+      "Большинство показаний к удалению относительны и основаны на жалобах или желании пациента; настоящие медицинские показания — например, инфекция или имплантат, выступающий в полость сустава, — встречаются реже [2]. Если имплантат удаляют из-за боли, нельзя гарантировать, что боль пройдёт [3]. Винты и стержни в позвоночнике — отдельная тема, их оценивают врачи соответствующей специальности.",
+      "Основные причины удаления [2][3][6]:"
+     ],
+     "list": [
+      "Боль или неприятные ощущения в области имплантата",
+      "Имплантат, который выступает, раздражает мягкие ткани или вызвал язву на коже",
+      "Инфекция вокруг имплантата",
+      "Сместившийся или сломавшийся имплантат",
+      "Некоторые имплантаты у детей, которые ещё растут",
+      "Желание пациента или семьи после разъяснения рисков"
+     ]
+    },
+    {
+     "h": "Сроки удаления и особенности у детей",
+     "p": [
+      "Если решено удалить имплантат, операцию проводят после сращения перелома [1][4]. У детей кость продолжает расти, поэтому отдельно оценивают, как имплантат и растущая кость повлияют друг на друга; основанных на доказательствах рекомендаций о том, удалять ли имплантат и когда, нет [3]. Проблемы из-за оставленных имплантатов возникают довольно редко; решение часто принимают совместно пациент, семья и хирург [3]. Согласно обзору, посвящённому детским переломам [3]:"
+     ],
+     "list": [
+      "Спицы и штифты обеспечивают временную фиксацию, и их обычно удаляют через 3–4 недели; те, концы которых оставлены над кожей, часто можно удалить в поликлинике",
+      "Эластичные стержни на предплечье удаляют через 1–2 месяца, если их концы оставлены снаружи, и через 3–6 месяцев, если они погружены под кожу; на бедренной кости многие хирурги удаляют их через 6–12 месяцев",
+      "Для пластин и винтов оптимальный срок чётко не установлен; в литературе указывают 8–14 месяцев"
+     ]
+    },
+    {
+     "h": "Как проходит операция по удалению и сколько она длится?",
+     "p": [
+      "Имплантаты руки и кисти обычно удаляют под общим наркозом, иногда — под регионарной анестезией, при которой обезболивается только рука [5]. Обычно хирург удаляет имплантат через разрез первой операции [6]. Большинство пациентов уходят домой в тот же день [5][6].",
+      "Длительность зависит от того, что нужно удалить и в какой области: в больничной памятке о стопе и голеностопном суставе указано от получаса до полутора часов [6].",
+      "«Операция по удалению винтов» не всегда проста; вмешательство может оказаться очень сложным [2]. Шлиц винта может сорваться, а сам винт — сломаться; могут понадобиться более крупные или новые разрезы, особенно если кость наросла поверх имплантата; операция может длиться столько же, сколько первая, или дольше [3]. Если полное удаление слишком сильно повредило бы кость, хирург может оставить часть имплантата на месте [5]."
+     ]
+    },
+    {
+     "h": "Риски операции по удалению",
+     "p": [
+      "Удаление имплантата — не безобидное вмешательство; его риски следует обсудить заранее [3].",
+      "В метаанализе 23 исследований переломов диафиза костей предплечья у взрослых у 732 пациентов с удалённой пластиной было 52 повторных перелома, а у 1670 пациентов с оставленной пластиной — 21; удаление значимо повышало риск повторного перелома, однако достоверность доказательств очень низкая [4]. Систематический обзор с участием 871 пациента, на который ссылается обзор детских переломов, показал частоту осложнений при удалении имплантатов 10 процентов [3].",
+      "Основные риски, о которых сообщают источники [2][3][4][5][6]:"
+     ],
+     "list": [
+      "Повторный перелом: кость временно ослаблена и может сломаться в слабом месте, например через отверстие от винта",
+      "Повреждение нерва или сосуда",
+      "Инфекция и проблемы с заживлением раны",
+      "Невозможность удалить имплантат целиком",
+      "Кровотечение, тромб в вене, чувствительный рубец, длительный отёк и тугоподвижность сустава",
+      "Жалобы не проходят или усиливаются"
+     ]
+    },
+    {
+     "h": "Восстановление после операции: работа, вождение и спорт",
+     "p": [
+      "Приведённые ниже сроки взяты из памяток для пациентов двух больниц в Англии; какие из них относятся к вам, скажет ваш хирург [5][6].",
+      "Рука и кисть: руку 24–48 часов держат приподнятой, швы снимают примерно через две недели; большинство людей могут водить машину через неделю и вернуться к работе через 1–2 недели [5]. Поскольку кость временно ослаблена, контактных видов спорта избегают 6 недель [5].",
+      "Стопа и голеностопный сустав: первую неделю-две нужно отдыхать и держать ногу приподнятой; работать и водить машину нельзя, пока это не разрешат, а полное восстановление может занять несколько месяцев [6].",
+      "При боли применяют простые обезболивающие; какое из них подходит, можно узнать у врача или фармацевта [5]. Отёк может сохраняться до трёх месяцев, а рубец — оставаться плотным и болезненным до восьми недель [5]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Пока имплантат на месте или после операции по его удалению без промедления обратитесь в медицинское учреждение в следующих случаях [3][5][6]:"
+     ],
+     "list": [
+      "Усиливающаяся боль, покраснение, отёк в области операции или повышение температуры; это могут быть признаки инфекции",
+      "Побледнение или посинение пальцев, похолодание, потеря чувствительности или покалывание",
+      "Боль, отёк или покраснение ноги; это могут быть признаки тромба в вене",
+      "Имплантат прорезался через кожу или на коже над ним образовалась язва",
+      "Падение или удар по той же области после удаления имплантата; кость временно ослаблена и может сломаться"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Нужно ли удалять пластину и вредно ли оставлять её в теле?",
+     "a": "Удаление обязательно не для каждого пациента: после сращения перелома пластины и винты можно оставить на месте или, в отдельных случаях, удалить [1]. Сегодня обычно советуют удалять имплантат только тогда, когда он вызывает жалобы [2]; имплантат, оставленный в организме, как правило, не причиняет вреда [6]."
+    },
+    {
+     "q": "Когда удаляют пластины и винты?",
+     "a": "Если их решено удалить, это делают после сращения перелома [1][4]. У детей спицы обычно удаляют через 3–4 недели; для пластин и винтов в литературе указывают 8–14 месяцев, однако оптимальный срок чётко не установлен [3]."
+    },
+    {
+     "q": "Сколько длится операция по удалению металлоконструкции?",
+     "a": "В больничной памятке о стопе и голеностопном суставе указано от получаса до полутора часов; длительность зависит от того, что нужно удалить и в какой области [6]. Удаление может длиться столько же, сколько первая операция, или дольше [3]."
+    },
+    {
+     "q": "Сложна ли операция по удалению и каковы её риски?",
+     "a": "Вмешательство может оказаться очень сложным и даже закончиться усилением жалоб [2]. Основные риски — повторный перелом, повреждение нерва или сосуда, инфекция и невозможность удалить имплантат целиком [3][4]."
+    },
+    {
+     "q": "Как проходит восстановление после удаления металлоконструкции?",
+     "a": "Большинство пациентов уходят домой в тот же день [5][6]. После операций на руке большинство людей возвращаются к работе в течение 1–2 недель и 6 недель избегают контактных видов спорта [5]; при операции на стопе и голеностопном суставе полное восстановление может занять несколько месяцев [6]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "kharej-kardan-pelatin-pas-az-shekastegi",
+   "title": "خارج کردن پلاتین پس از شکستگی: آیا لازم است و چه خطرهایی دارد؟",
+   "description": "پلاتین (پلاک، پیچ و میله) پس از شکستگی: از چه ساخته می‌شود، آیا باید خارج شود و چه زمانی، جراحی خارج کردن پلاتین چقدر طول می‌کشد، خطرها و دورهٔ بهبودی.",
+   "summary": "پلاک، پیچ و میله‌ای که در جراحی شکستگی کار گذاشته می‌شود و در زبان روزمره «پلاتین» نامیده می‌شود، بیشتر از فولاد ضدزنگ یا تیتانیوم ساخته می‌شود؛ پس از جوش خوردن شکستگی می‌توان آن را در جای خود باقی گذاشت یا در موارد انتخاب‌شده خارج کرد [1]. توصیهٔ کلی امروز این است که ایمپلنت فقط وقتی خارج شود که شکایتی ایجاد کرده باشد و پس از آنکه خطرها توضیح داده شد [2]. جراحی خارج کردن نیز خطرهای خود را دارد، مانند شکستگی دوباره، آسیب عصب و عفونت [3][4].",
+   "sections": [
+    {
+     "h": "«پلاتین» چیست و از چه ساخته می‌شود؟",
+     "p": [
+      "در جراحی شکستگی، قطعه‌های استخوان در جای خود قرار داده می‌شوند و با ایمپلنت‌هایی مانند پلاک، پیچ، میله و سیم کنار هم نگه داشته می‌شوند؛ به این کار تثبیت داخلی می‌گویند [1]. در زبان روزمره به همهٔ این ایمپلنت‌ها «پلاتین» و به خود عمل «جراحی پلاتین» گفته می‌شود. اما ایمپلنت‌ها از پلاتین ساخته نمی‌شوند، بلکه بیشتر از فولاد ضدزنگ یا تیتانیوم ساخته می‌شوند [1].",
+      "ایمپلنت‌ها به‌ندرت واکنش آلرژیک ایجاد می‌کنند. استثنای آن آلرژی به نیکل است: در برخی فلزهای مورد استفاده در ارتوپدی نیکل وجود دارد، پس اگر به نیکل آلرژی دارید به جراح خود بگویید [1]."
+     ]
+    },
+    {
+     "h": "هر ایمپلنت چه کاری انجام می‌دهد؟",
+     "p": [
+      "تثبیت داخلی اغلب بازگشت زودتر به کارکرد را ممکن می‌سازد؛ با این حال ممکن است شکستگی به‌درستی جوش نخورد، پلاک یا میله بشکند و خطر عفونت هم کم می‌شود اما از بین نمی‌رود [1]. اینکه شکستگی چه زمانی بهبود می‌یابد، در نوشته‌های راهنمای بیماران دربارهٔ شکستگی مچ دست، مچ پا، ترقوه، لگن و ساعد کودکان توضیح داده شده است؛ جوش خوردن شکستگی و گچ موضوع نوشته‌ای جداگانه است. اینکه جراحی نخست چند ساعت طول می‌کشد را از پزشک خود بپرسید.",
+      "انواع اصلی ایمپلنت عبارت‌اند از [1]:"
+     ],
+     "list": [
+      "پلاک: مانند آتلی داخلی است که قطعه‌های شکسته را کنار هم نگه می‌دارد؛ با پیچ به استخوان بسته می‌شود",
+      "پیچ: پرکاربردترین ایمپلنت است؛ به‌تنهایی یا همراه با پلاک و میله به کار می‌رود",
+      "میله (میلهٔ داخل استخوانی): در فضای خالی میان استخوان قرار داده می‌شود؛ در بیشتر شکستگی‌های استخوان ران و بخش میانی استخوان ساق به کار می‌رود",
+      "سیم و پین: قطعه‌هایی را نگه می‌دارند که برای ثابت شدن با پیچ بیش از حد کوچک‌اند؛ معمولاً پس از مدتی برداشته می‌شوند"
+     ]
+    },
+    {
+     "h": "آیا پلاتین باید خارج شود؟ آیا این کار الزامی است؟",
+     "p": [
+      "پس از جوش خوردن شکستگی، پلاک و پیچ‌ها را می‌توان در جای خود باقی گذاشت یا در موارد انتخاب‌شده خارج کرد؛ میله‌ها را هم می‌توان در استخوان باقی گذاشت [1]. بنا بر یک برگهٔ اطلاعات بیمارستانی، ماندن ایمپلنت در بدن معمولاً زیانی ندارد [6].",
+      "ایمپلنت‌های فلزی ده‌ها سال به‌دلیل نگرانی از خوردگی، آلرژی و سرطان به‌طور معمول خارج می‌شدند [2]. امروزه گزارش می‌شود که پیدایش تومور در کنار ایمپلنت‌های درمان شکستگی بسیار نادر و مشکلات آلرژیک ناشی از ایمپلنت نیز ناشایع است [3].",
+      "اینکه خارج کردن چه زمانی لازم است به‌خوبی تعریف نشده است؛ راهنمای بالینی تقریباً وجود ندارد و دیدگاه‌ها و شیوه‌های کار بسیار متفاوت است [2]. توصیهٔ کلی امروز این است که ایمپلنت فقط در بیمارانی که شکایت دارند و پس از توضیح خطرها خارج شود؛ زیرا گزارش شده است که بیمارانِ بدون شکایت پس از خارج کردن دچار شکایت شده‌اند [2]. یک متاآنالیز دربارهٔ شکستگی‌های تنهٔ استخوان‌های ساعد در بزرگسالان نیز خارج کردن پلاک را، به‌ویژه در بیماران بدون شکایت، توصیه نمی‌کند، اما می‌گوید به شواهد معتبرتری نیاز است [4].",
+      "دربارهٔ فلزیاب‌های فرودگاه نیز بسیار پرسیده می‌شود: در مطالعه‌ای در سال ۲۰۰۷، فلزیاب دروازه‌ای با تنظیمات امنیتی فرودگاه ۸۸ درصد پروتزهای مفصل و ۳۲ درصد پلاک‌ها را تشخیص داد؛ میله‌های داخل استخوانی و سیم‌ها تشخیص داده نشدند [7]."
+     ]
+    },
+    {
+     "h": "در چه مواردی خارج می‌شود؟",
+     "p": [
+      "بیشتر دلایل خارج کردن نسبی‌اند و بر شکایت یا خواست بیمار تکیه دارند؛ دلایل پزشکی واقعی، مانند عفونت یا ایمپلنتی که به درون مفصل راه یافته، کمتر دیده می‌شوند [2]. وقتی ایمپلنت به‌دلیل درد خارج می‌شود، نمی‌توان تضمین کرد که درد برطرف شود [3]. پیچ‌ها و میله‌های ستون فقرات موضوعی جداگانه‌اند و تخصص مربوط آن‌ها را ارزیابی می‌کند.",
+      "دلایل اصلی خارج کردن عبارت‌اند از [2][3][6]:"
+     ],
+     "list": [
+      "درد یا ناراحتی در محل ایمپلنت",
+      "ایمپلنتی که برجسته است، بافت نرم را تحریک می‌کند یا روی پوست زخم ایجاد کرده است",
+      "عفونت در اطراف ایمپلنت",
+      "ایمپلنتی که جابه‌جا شده یا شکسته است",
+      "برخی ایمپلنت‌ها در کودکانی که هنوز در حال رشدند",
+      "خواست بیمار یا خانواده، پس از توضیح خطرها"
+     ]
+    },
+    {
+     "h": "زمان خارج کردن و وضعیت در کودکان",
+     "p": [
+      "اگر تصمیم به خارج کردن گرفته شده باشد، جراحی پس از جوش خوردن شکستگی انجام می‌شود [1][4]. در کودکان استخوان هنوز رشد می‌کند، بنابراین جداگانه بررسی می‌شود که ایمپلنت و استخوانِ در حال رشد چه اثری بر یکدیگر خواهند داشت؛ دربارهٔ اینکه آیا ایمپلنت باید خارج شود و چه زمانی، راهنمای مبتنی بر شواهد وجود ندارد [3]. میزان بروز مشکل به‌دلیل ایمپلنت‌های باقی‌مانده نسبتاً کم است؛ تصمیم اغلب به‌طور مشترک میان بیمار، خانواده و جراح گرفته می‌شود [3]. بنا بر یک مقالهٔ مروری دربارهٔ شکستگی‌های کودکان [3]:"
+     ],
+     "list": [
+      "سیم‌ها و پین‌ها تثبیت موقت فراهم می‌کنند و معمولاً پس از ۳ تا ۴ هفته برداشته می‌شوند؛ آن‌هایی که سرشان بیرون از پوست است اغلب در درمانگاه برداشته می‌شوند",
+      "میله‌های انعطاف‌پذیر در ساعد، اگر سرشان بیرون باشد پس از ۱ تا ۲ ماه و اگر زیر پوست باشند پس از ۳ تا ۶ ماه خارج می‌شوند؛ در استخوان ران بسیاری از جراحان آن‌ها را پس از ۶ تا ۱۲ ماه خارج می‌کنند",
+      "برای پلاک و پیچ زمان مناسب به‌خوبی مشخص نشده است؛ در منابع ۸ تا ۱۴ ماه گزارش شده است"
+     ]
+    },
+    {
+     "h": "جراحی خارج کردن پلاتین چگونه انجام می‌شود و چقدر طول می‌کشد؟",
+     "p": [
+      "ایمپلنت‌های بازو و دست معمولاً با بیهوشی عمومی و گاهی با بی‌حسی ناحیه‌ای که فقط دست را بی‌حس می‌کند خارج می‌شوند [5]. جراح معمولاً ایمپلنت را از همان برش جراحی نخست خارج می‌کند [6]. بیشتر بیماران همان روز به خانه می‌روند [5][6].",
+      "مدت جراحی به این بستگی دارد که چه چیزی و از کجا باید خارج شود: در یک برگهٔ اطلاعات بیمارستانی دربارهٔ پا و مچ پا، مدتی میان نیم ساعت تا یک ساعت و نیم ذکر شده است [6].",
+      "«جراحی خارج کردن پیچ» همیشه آسان نیست؛ این عمل می‌تواند بسیار دشوار باشد [2]. پیچ ممکن است هرز شود یا بشکند و به‌ویژه اگر استخوان روی ایمپلنت را پوشانده باشد، برش‌های بزرگ‌تر یا تازه لازم شود؛ جراحی ممکن است به اندازهٔ جراحی نخست یا بیشتر از آن طول بکشد [3]. اگر خارج کردن همهٔ ایمپلنت به استخوان آسیب زیادی بزند، جراح ممکن است بخشی از آن را در جای خود باقی بگذارد [5]."
+     ]
+    },
+    {
+     "h": "خطرهای جراحی خارج کردن پلاتین",
+     "p": [
+      "خارج کردن ایمپلنت عملی بی‌خطر نیست؛ خطرهای آن باید از پیش در میان گذاشته شود [3].",
+      "در متاآنالیزِ ۲۳ مطالعه دربارهٔ شکستگی‌های تنهٔ استخوان‌های ساعد در بزرگسالان، در ۷۳۲ بیماری که پلاکشان خارج شده بود ۵۲ شکستگی دوباره و در ۱۶۷۰ بیماری که پلاکشان باقی مانده بود ۲۱ شکستگی دوباره دیده شد؛ خارج کردن خطر شکستگی دوباره را به‌طور معنادار افزایش داده بود، اما قطعیت شواهد بسیار پایین است [4]. یک مرور نظام‌مند با ۸۷۱ بیمار، که در مقاله‌ای مروری دربارهٔ شکستگی‌های کودکان نقل شده، میزان عوارض خارج کردن ایمپلنت را ۱۰ درصد گزارش کرده است [3].",
+      "خطرهای اصلی که منابع گزارش کرده‌اند عبارت‌اند از [2][3][4][5][6]:"
+     ],
+     "list": [
+      "شکستگی دوباره: استخوان به‌طور موقت ضعیف می‌شود و ممکن است از نقطه‌ای ضعیف مانند سوراخ پیچ بشکند",
+      "آسیب عصب یا رگ",
+      "عفونت و مشکل در ترمیم زخم",
+      "اینکه نتوان همهٔ ایمپلنت را خارج کرد",
+      "خونریزی، لخته در سیاهرگ، جای زخمِ حساس، تورم طولانی و خشکی مفصل",
+      "برطرف نشدن یا بیشتر شدن شکایت‌ها"
+     ]
+    },
+    {
+     "h": "بهبودی پس از جراحی: بازگشت به کار، رانندگی و ورزش",
+     "p": [
+      "زمان‌های زیر از برگه‌های اطلاعات بیمارِ دو بیمارستان در انگلستان گرفته شده است؛ اینکه کدام‌یک دربارهٔ شما صدق می‌کند را جراحتان می‌گوید [5][6].",
+      "بازو و دست: دست ۲۴ تا ۴۸ ساعت بالا نگه داشته می‌شود و بخیه‌ها حدود دو هفته بعد کشیده می‌شوند؛ بیشتر افراد پس از یک هفته می‌توانند رانندگی کنند و پس از ۱ تا ۲ هفته به کار بازگردند [5]. چون استخوان به‌طور موقت ضعیف شده است، ۶ هفته از ورزش‌های برخوردی پرهیز می‌شود [5].",
+      "پا و مچ پا: یکی دو هفتهٔ نخست باید استراحت کرد و پا را بالا نگه داشت؛ تا زمانی که اجازه داده نشده نباید کار یا رانندگی کرد و بهبودی کامل ممکن است چند ماه طول بکشد [6].",
+      "برای درد از مسکن‌های ساده استفاده می‌شود؛ می‌توانید از پزشک یا داروساز بپرسید کدام‌یک مناسب است [5]. تورم (ادم) ممکن است تا سه ماه ادامه یابد و جای زخم تا هشت هفته سفت و حساس باشد [5]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "چه ایمپلنت هنوز در جای خود باشد و چه پس از جراحی خارج کردن آن، در موارد زیر بدون معطلی به یک مرکز درمانی مراجعه کنید [3][5][6]:"
+     ],
+     "list": [
+      "افزایش درد، قرمزی یا تورم در محل جراحی، یا تب؛ این‌ها می‌توانند نشانهٔ عفونت باشند",
+      "رنگ‌پریدگی یا کبودی انگشتان، سرد شدن، از دست رفتن حس یا گزگز",
+      "درد، تورم یا قرمزی در پا؛ این‌ها می‌توانند نشانهٔ لخته در سیاهرگ باشند",
+      "بیرون زدن ایمپلنت از پوست یا ایجاد زخم روی پوستِ بالای آن",
+      "زمین خوردن یا ضربه به همان ناحیه پس از خارج کردن ایمپلنت؛ استخوان به‌طور موقت ضعیف است و ممکن است بشکند"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "آیا پلاتین باید خارج شود و ماندن آن در بدن زیان دارد؟",
+     "a": "خارج کردن آن در همهٔ بیماران الزامی نیست: پس از جوش خوردن شکستگی، پلاک و پیچ‌ها را می‌توان در جای خود باقی گذاشت یا در موارد انتخاب‌شده خارج کرد [1]. توصیهٔ کلی امروز این است که ایمپلنت فقط وقتی خارج شود که شکایتی ایجاد کرده باشد [2]؛ ماندن ایمپلنت در بدن معمولاً زیانی ندارد [6]."
+    },
+    {
+     "q": "پلاتین چه زمانی خارج می‌شود؟",
+     "a": "اگر قرار باشد خارج شود، این کار پس از جوش خوردن شکستگی انجام می‌شود [1][4]. در کودکان سیم‌ها معمولاً پس از ۳ تا ۴ هفته برداشته می‌شوند؛ برای پلاک و پیچ در منابع ۸ تا ۱۴ ماه گزارش شده، اما زمان مناسب به‌خوبی مشخص نشده است [3]."
+    },
+    {
+     "q": "جراحی خارج کردن پلاتین چقدر طول می‌کشد؟",
+     "a": "در یک برگهٔ اطلاعات بیمارستانی دربارهٔ پا و مچ پا، مدتی میان نیم ساعت تا یک ساعت و نیم ذکر شده است؛ این مدت به آنچه باید خارج شود و به محل آن بستگی دارد [6]. جراحی خارج کردن ممکن است به اندازهٔ جراحی نخست یا بیشتر از آن هم طول بکشد [3]."
+    },
+    {
+     "q": "آیا جراحی خارج کردن پلاتین سخت است و چه خطرهایی دارد؟",
+     "a": "این عمل می‌تواند بسیار دشوار باشد و حتی به بدتر شدن شکایت‌ها بینجامد [2]. خطرهای اصلی آن شکستگی دوباره، آسیب عصب یا رگ، عفونت و این است که نتوان همهٔ ایمپلنت را خارج کرد [3][4]."
+    },
+    {
+     "q": "دورهٔ بهبودی پس از خارج کردن پلاتین چگونه است؟",
+     "a": "بیشتر بیماران همان روز به خانه می‌روند [5][6]. پس از جراحی‌های بازو و دست، بیشتر افراد ظرف ۱ تا ۲ هفته به کار بازمی‌گردند و ۶ هفته از ورزش‌های برخوردی پرهیز می‌کنند [5]؛ در پا و مچ پا بهبودی کامل ممکن است چند ماه طول بکشد [6]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

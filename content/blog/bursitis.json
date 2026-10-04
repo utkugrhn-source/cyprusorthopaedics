@@ -1,0 +1,541 @@
+{
+ "id": "bursitis",
+ "area": "omuz-dirsek",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Bursitis",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/bursitis/",
+   "year": "2023"
+  },
+  {
+   "title": "Elbow (Olecranon) Bursitis",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/elbow-olecranon-bursitis",
+   "year": "n.d."
+  },
+  {
+   "title": "Common Superficial Bursitis",
+   "publisher": "American Family Physician (Khodaee M)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28290630/",
+   "year": "2017"
+  },
+  {
+   "title": "Treatment of olecranon bursitis: a systematic review",
+   "publisher": "Archives of Orthopaedic and Trauma Surgery (Sayegh ET, Strauch RJ)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25234151/",
+   "year": "2014"
+  },
+  {
+   "title": "Non-surgical treatment of aseptic olecranon bursitis: A systematic review",
+   "publisher": "Reumatología Clínica (Kaur IP, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37945181/",
+   "year": "2023"
+  },
+  {
+   "title": "Hip Bursitis",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/hip-bursitis/",
+   "year": "n.d."
+  },
+  {
+   "title": "Education plus exercise versus corticosteroid injection use versus a wait and see approach on global outcome and pain from gluteal tendinopathy: prospective, single blinded, randomised clinical trial",
+   "publisher": "BMJ (Mellor R, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29720374/",
+   "year": "2018"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "bursit",
+   "title": "Bursit nedir, neden olur? Dirsek bursiti, belirtileri ve tedavisi",
+   "description": "Bursit nedir, neden olur, belirtileri nelerdir? Dirsek, diz, omuz ve kalça bursiti nasıl geçer: buz, sıvının boşaltılması, iğne, antibiyotik ve ameliyat.",
+   "summary": "Bursit, eklem çevresinde yastık görevi yapan, içi sıvı dolu kesenin (bursa) şişip ağrılı hâle gelmesidir; en sık omuz, kalça, dirsek ve dizde görülür [1]. Genellikle dinlenme, buz ve ağrı kesiciyle evde tedavi edilebilir ve birkaç hafta içinde geçmesi beklenir [1]. Kese sıcak ve kızarıksa ya da ateş varsa enfeksiyon (septik bursit) olabilir; bu durumda beklemeden değerlendirme ve antibiyotik gerekir [1][2][3].",
+   "sections": [
+    {
+     "h": "Bursit nedir?",
+     "p": [
+      "Bursalar omuz, dirsek, kalça, diz ve topuk çevresinde bulunan küçük, içi sıvılı keselerdir; kemik ile yumuşak dokular arasında yastık görevi yaparak sürtünmeyi azaltırlar [6]. Kese tahriş olduğunda içinde fazla sıvı birikir, şişer ve ağrır; buna bursit denir [1][2].",
+      "Bursit tendinitle sık karıştırılır: bursitte etkilenen yapı kesedir, tendinitte ise kası kemiğe bağlayan tendon [3][6]. İki ad bazen aynı yakınma için kullanılır: kalçanın dış yanındaki tendon sorunu çoğu zaman \"trokanterik bursit\" olarak da adlandırılır [7]. Tendinit ayrı bir yazıda ele alınmıştır."
+     ]
+    },
+    {
+     "h": "Bursit neden olur?",
+     "p": [
+      "Deriye yakın keselerde en sık neden, kesenin üzerine tekrar tekrar binen basınç ve sürtünmedir [3]. Erkeklerde, özellikle tamirci, tesisatçı ve bahçıvan gibi el işçiliği yapanlarda daha sık görülür [3]. Başlıca nedenler:"
+     ],
+     "list": [
+      "Uzun süreli basınç: diz çökerek çalışmak ya da dirseği sert bir yüzeye yaslamak [2][3]",
+      "Darbe: kesenin fazla sıvı üretmesine ya da içine kanamaya yol açabilir [2][3]",
+      "Enfeksiyon: böcek ısırığı, sıyrık ya da batma gibi deriyi açan bir yaralanmadan bakteriler keseye girebilir; bazen belirgin bir yara olmadan da gelişir [2]",
+      "Gut ve romatoid artrit gibi hastalıklar [2][3]"
+     ]
+    },
+    {
+     "h": "Bursit nerelerde olur?",
+     "p": [
+      "Bursit en sık omuz, kalça, dirsek ve dizde görülür, ancak her eklemi etkileyebilir [1]. Deriye yakın keselerden en çok dirsek ucundaki ve diz kapağının önündeki etkilenir [3].",
+      "Kalça bursitinde ağrıyı artıran etkinliklerden kaçınmak, ağrı kesiciler ve fizik tedavi birçok kişiyi rahatlatabilir; egzersizler uyluğun dış yanındaki bandı germeyi, kalçanın gücünü ve esnekliğini artırmayı amaçlar [6]. Kalçanın dış yanında ağrısı olan 204 kişilik bir çalışmada eğitim ve egzersiz programı, 8. haftada tek kortizon iğnesinden ve bekleyip izlemekten daha iyi sonuç vermiştir [7]. Ayrıntılar kalça ağrısı yazısındadır. Başlıca yerler:"
+     ],
+     "list": [
+      "Dirsek ucu: aşağıda ayrıca anlatılmıştır",
+      "Diz kapağının önü: çoğunlukla diz çökmekle ilişkilidir [3]. Diz arkasındaki şişlik (Baker kisti) ayrı bir yazıdadır",
+      "Omuz: omuz ağrısı ve rotator manşet yazılarında ele alınmıştır",
+      "Kalçanın dış yanı: ağrı genellikle uyluğun dış yüzüne yayılır, gece o tarafa yatınca artar [6]",
+      "Topuğun arkası: başlıca nedenlerden biri ayağa uymayan ayakkabıdır [3]"
+     ]
+    },
+    {
+     "h": "Dirsek bursiti nedir, nasıl tedavi edilir?",
+     "p": [
+      "Dirsek bursiti (olekranon bursiti), dirseğin kemik ucundaki ince kesenin şişmesidir [2]. İlk belirti çoğu zaman şişliktir; kese gerildikçe ağrı başlar, dirseğe bastırınca ya da dirseği bükünce artar [2]. Nedenleri arasında dirsek ucuna alınan darbe, dirseği sert yüzeylere uzun süre yaslamak, enfeksiyon, gut ve romatoid artrit vardır [2].",
+      "Enfeksiyon yoksa tedavi dirseklik, dirseğe basınç yapan işlerden kaçınmak ve iltihap giderici ağrı kesicilerle başlar; şişlik ve ağrı 3–6 haftada düzelmezse hekim sıvının boşaltılmasını ve keseye kortizon uygulanmasını önerebilir [2].",
+      "Kese enfekte olduğunda deri kızarır ve ısınır; enfeksiyon hemen tedavi edilmezse kola ya da kana yayılabilir [2]. Bu nedenle sıcak, kızarık ve ağrılı bir dirsek şişliği, özellikle ateş varsa, beklemeden değerlendirilmelidir [2][3]."
+     ]
+    },
+    {
+     "h": "Belirtileri nelerdir, nasıl teşhis edilir?",
+     "p": [
+      "Ağrı genellikle künt ve sızlayıcıdır; eklem hassas, şiş ya da çevresinden daha sıcak olabilir, ağrı hareketle ya da üzerine bastırınca artar [1]. Deri kızarabilir; bu, koyu tenlerde daha zor fark edilir [1].",
+      "Tanı genellikle öykü ve muayeneyle konur [3]. Röntgen, yaralanma varsa ya da yabancı cisim ve kemik çıkıntısı aranırken istenir [2][3]; ultrason bursiti deri altı enfeksiyonundan ayırmaya yardımcı olabilir [3].",
+      "Enfeksiyonlu (septik) bursit seyrektir; olguların yarıya varan bölümü şeker hastalığı ve süregen böbrek hastalığı gibi hastalıkları olanlarda görülür [3]. Ateşi olan bursitli hasta, aksi kanıtlanana dek septik bursit kabul edilir; ateşin olmaması ise enfeksiyonu dışlamaz [3]. Kuşku varsa keseden iğneyle sıvı alınıp laboratuvarda incelenir; bu inceleme gutu da gösterebilir [2][3]."
+     ]
+    },
+    {
+     "h": "Bursite ne iyi gelir, ne kadar sürer?",
+     "p": [
+      "Bursit genellikle evde tedavi edilebilir ve birkaç hafta içinde geçmesi beklenir [1]. Bursit kremi sık sorulur: bu yazının dayandığı kaynaklar tedaviler arasında krem, jel, merhem ya da bitkisel karışım saymaz [1][2][3].",
+      "Yinelemeyi önlemek için eklemlere basınç bindiren işlerde yastık kullanmak, düzenli ara vermek, egzersizden önce ısınmak ve eklem üzerindeki kesikleri temizlemek önerilir [1]. Evde yapılabilecekler:"
+     ],
+     "list": [
+      "Eklemi dinlendirmek, üzerine basınç bindiren işlerden kaçınmak [1]",
+      "Havluya sarılı buz torbasını yaklaşık 10 dakika uygulamak, gün içinde birkaç saatte bir yinelemek [1]",
+      "Ağrı kesici; hangisinin uygun olduğunu eczacınıza ya da hekiminize sorabilirsiniz [1]",
+      "Dirseklik ya da dizlik; uyurken eklemin çevresine fazladan yastık [1][2]",
+      "Şişen bölgeyi yükseltmek ve sargıyla desteklemek [3]"
+     ]
+    },
+    {
+     "h": "Sıvının boşaltılması ve kortizon iğnesi",
+     "p": [
+      "Hekim, yakınmaları hafifletmek için kesedeki sıvıyı iğneyle çekebilir [1]. Tekrarlayan basınca bağlı bursitte bir derleme, keseye enfeksiyon taşıma riski nedeniyle bunu genellikle önermez [3]; dirsek bursiti üzerine 1278 hastayı kapsayan bir sistematik derlemede ise boşaltma, enfeksiyonsuz bursitte kese enfeksiyonu riskini artırmamıştır [4].",
+      "Kortizon (steroid) iğnesi şişliği azaltmak için yapılabilir; bursit enfeksiyona bağlıysa yapılmaz [1]. Yararı tartışmalıdır: aynı derlemede iğne, enfeksiyonsuz dirsek bursitinde sonucu iyileştirmeksizin daha fazla komplikasyonla ve deride incelmeyle ilişkili bulunmuştur [4]. 2023 tarihli bir derlemede ise yakınma süresini kısaltmış, ancak kese enfeksiyonu ve deride incelme daha sık görülmüştür; yazarlar iğnenin diğer yöntemlere yanıt vermeyen olgulara saklanmasını önerir [5]."
+     ]
+    },
+    {
+     "h": "Antibiyotik ve ameliyat ne zaman gerekir?",
+     "p": [
+      "Enfeksiyona bağlı bursitte antibiyotik gerekir; genellikle en az 7 gün kullanılır [1]. Genel durumu iyi olan hastalar ağızdan antibiyotikle ayaktan tedavi edilebilir; genel enfeksiyon belirtileri olan ya da bağışıklığı baskılanmış hastalara hastanede damardan antibiyotik verilir [3].",
+      "Ameliyat nadiren gerekir [1]. Enfeksiyonlu bursit antibiyotiğe ve boşaltmaya rağmen düzelmediğinde, enfeksiyonsuz bursit ise ameliyatsız yöntemlere yanıt vermediğinde ya da yinelediğinde kesenin çıkarılması düşünülür [2][3]. Dirsek bursiti ameliyatından sonra kese genellikle birkaç ayda normal işleyen bir kese olarak yeniden oluşur; 3–4 hafta sonra dirseğin tam kullanımına izin verilebilir [2].",
+      "Aynı sistematik derlemede cerrahi tedavi, ameliyatsız tedaviye göre daha az düzelme ve daha fazla komplikasyonla ilişkili bulunmuştur; kanıt düzeyi düşüktür [4]."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Yakınmalar evdeki önlemlere rağmen 1–2 haftada düzelmiyor ya da kötüleşiyorsa, eklemi hareket ettiremiyorsanız ya da çok şiddetli, keskin ağrı varsa hekime başvurun [1]. Şu durumlar enfeksiyon belirtisi olabilir; beklemeden bir sağlık kuruluşuna başvurun [1][2][3]:"
+     ],
+     "list": [
+      "Ateş, üşüme ya da titreme [1][3]",
+      "Şişliğin üzerinde kızarıklık ve sıcaklık [2][3]",
+      "Şişlikten irin ya da akıntı gelmesi [2][3]",
+      "Kesik, sıyrık ya da böcek ısırığından sonra gelişen şişlik, kızarıklık ve ağrı [2]",
+      "Şeker hastalığı, böbrek hastalığı ya da bağışıklığı baskılayan bir durumu olanlarda ağrılı, sıcak şişlik [3]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Bursit nasıl geçer?",
+     "a": "Genellikle dinlenme, buz ve ağrı kesiciyle evde tedavi edilebilir ve birkaç hafta içinde geçmesi beklenir [1]. Yakınmalar 1–2 haftada düzelmezse ya da kötüleşirse hekime başvurun [1]."
+    },
+    {
+     "q": "Bursit kremi işe yarar mı?",
+     "a": "Bu yazının dayandığı kaynaklar bursit tedavisinde krem, jel ya da merhemi saymaz [1][2][3]. Önerdikleri önlemler dinlenme, buz, basıncı azaltan yastıklama ve gerektiğinde ağrı kesicidir [1][3]."
+    },
+    {
+     "q": "Dirsek bursitine ne iyi gelir?",
+     "a": "Dirseklik, dirseğe basınç yapan işlerden kaçınmak ve iltihap giderici ağrı kesiciler ilk önlemlerdir; 3–6 haftada düzelme olmazsa hekim sıvının boşaltılmasını ve kortizon iğnesini önerebilir [2]. Dirsek sıcak ve kızarıksa enfeksiyon olabilir; beklemeden başvurun [2]."
+    },
+    {
+     "q": "Dirsek bursiti ameliyatı ne zaman yapılır?",
+     "a": "Enfekte kese antibiyotiğe ya da boşaltmaya rağmen düzelmezse, enfeksiyonsuz bursitte ise ameliyatsız yöntemler sonuç vermezse kesenin çıkarılması önerilebilir [2]. Ağırlıklı olarak düşük düzeyli kanıta dayanan bir sistematik derlemede ameliyatsız tedavi, cerrahi tedaviden daha etkili ve daha güvenli bulunmuştur [4]."
+    },
+    {
+     "q": "Kalça bursiti egzersizleri nelerdir?",
+     "a": "Uyluğun dış yanındaki bandı germeye, kalçanın gücünü ve esnekliğini artırmaya yönelik egzersizlerdir; hekim ya da fizyoterapist gösterir [6]. Kalçanın dış yanında ağrısı olan kişilerde yapılan bir çalışmada eğitim ve egzersiz programı, 8. haftada tek kortizon iğnesinden daha iyi sonuç vermiştir [7]. Ayrıntılar kalça ağrısı yazısındadır."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "bursitis",
+   "title": "Bursitis: what is it, what causes it? Elbow bursitis, symptoms and treatment",
+   "description": "What is bursitis and what causes it? Symptoms of elbow, knee, shoulder and hip bursitis and what helps: ice, draining, injection, antibiotics and surgery.",
+   "summary": "Bursitis is when the fluid-filled sac (bursa) that cushions a joint becomes swollen and painful; it most often affects the shoulders, hips, elbows and knees [1]. It can usually be treated at home with rest, ice and painkillers and should go away in a few weeks [1]. If the bursa is hot and red or there is a fever, it may be infected (septic bursitis); this needs assessment without delay and antibiotics [1][2][3].",
+   "sections": [
+    {
+     "h": "What is bursitis?",
+     "p": [
+      "Bursae are small, fluid-containing sacs found around the shoulder, elbow, hip, knee and heel; they act as cushions between bones and soft tissues and reduce friction [6]. When a bursa is irritated, excess fluid collects in it and it swells and hurts; this is called bursitis [1][2].",
+      "Bursitis is often confused with tendinitis: in bursitis the structure affected is the sac, in tendinitis it is the tendon that attaches muscle to bone [3][6]. The two names are sometimes used for the same complaint: the tendon problem on the outer side of the hip is often also called \"trochanteric bursitis\" [7]. Tendinitis is covered in a separate article."
+     ]
+    },
+    {
+     "h": "What causes bursitis?",
+     "p": [
+      "In the bursae that lie close to the skin, the most common cause is repeated pressure and friction over the bursa [3]. It is more common in men, particularly those who do manual work such as mechanics, plumbers and gardeners [3]. The main causes:"
+     ],
+     "list": [
+      "Prolonged pressure: working on the knees, or leaning the elbow on a hard surface [2][3]",
+      "A blow: it can make the bursa produce excess fluid or bleed into it [2][3]",
+      "Infection: bacteria can get into the bursa through an injury that breaks the skin, such as an insect bite, a scrape or a puncture wound; it sometimes develops without an obvious wound [2]",
+      "Conditions such as gout and rheumatoid arthritis [2][3]"
+     ]
+    },
+    {
+     "h": "Where does bursitis occur?",
+     "p": [
+      "Bursitis most often affects the shoulders, hips, elbows and knees, but it can affect any joint [1]. Of the bursae close to the skin, those at the tip of the elbow and in front of the kneecap are affected most often [3].",
+      "In hip bursitis, avoiding the activities that worsen the pain, painkillers and physiotherapy can bring relief for many people; the exercises aim to stretch the band on the outer side of the thigh and to increase the strength and flexibility of the hip [6]. In a study of 204 people with pain on the outer side of the hip, an education and exercise programme gave better results at 8 weeks than a single cortisone injection or a wait-and-see approach [7]. The details are in the hip pain article. The main sites:"
+     ],
+     "list": [
+      "Tip of the elbow: described separately below",
+      "Front of the kneecap: mostly linked to kneeling [3]. A swelling behind the knee (Baker's cyst) is the subject of a separate article",
+      "Shoulder: covered in the shoulder pain and rotator cuff articles",
+      "Outer side of the hip: the pain usually spreads to the outside of the thigh and is worse at night when lying on that side [6]",
+      "Back of the heel: one of the main causes is footwear that does not fit properly [3]"
+     ]
+    },
+    {
+     "h": "What is elbow bursitis and how is it treated?",
+     "p": [
+      "Elbow bursitis (olecranon bursitis) is swelling of the thin sac at the bony tip of the elbow [2]. The first sign is often swelling; as the bursa stretches, pain begins, and it gets worse with pressure on the elbow or with bending it [2]. Causes include a blow to the tip of the elbow, leaning the elbow on hard surfaces for long periods, infection, gout and rheumatoid arthritis [2].",
+      "If there is no infection, treatment starts with an elbow pad, avoiding activities that put pressure on the elbow and anti-inflammatory painkillers; if the swelling and pain have not settled after 3 to 6 weeks, the doctor may recommend draining the fluid and injecting cortisone into the bursa [2].",
+      "When the bursa is infected, the skin becomes red and warm; if the infection is not treated right away it may spread to the arm or into the bloodstream [2]. A hot, red and painful swelling at the elbow, especially with a fever, should therefore be assessed without delay [2][3]."
+     ]
+    },
+    {
+     "h": "What are the symptoms and how is it diagnosed?",
+     "p": [
+      "The pain is usually dull and achy; the joint may be tender, swollen or warmer than the surrounding skin, and the pain gets worse on movement or when the area is pressed [1]. The skin may be red; this can be harder to see on brown or black skin [1].",
+      "The diagnosis is usually made from the history and examination [3]. An X-ray is requested if there has been an injury or to look for a foreign body or a bone spur [2][3]; ultrasound can help distinguish bursitis from infection of the tissue under the skin [3].",
+      "Infected (septic) bursitis is uncommon; up to half of cases occur in people with conditions such as diabetes and chronic kidney disease [3]. A person with bursitis and a fever is considered to have septic bursitis until proven otherwise, while the absence of fever does not rule out infection [3]. If infection is suspected, fluid is taken from the bursa with a needle and examined in the laboratory; this test can also show gout [2][3]."
+     ]
+    },
+    {
+     "h": "What helps bursitis and how long does it last?",
+     "p": [
+      "Bursitis can usually be treated at home and should go away in a few weeks [1]. Creams for bursitis are a common question: the sources this article is based on do not list creams, gels, ointments or herbal preparations among the treatments [1][2][3].",
+      "To help stop it coming back, it is recommended to use padding when putting joints under pressure, to take regular breaks, to warm up before exercise and to clean any cuts over the joints [1]. What can be done at home:"
+     ],
+     "list": [
+      "Resting the joint and avoiding activities that put pressure on it [1]",
+      "Holding an ice pack wrapped in a towel on the area for around 10 minutes and repeating this every few hours during the day [1]",
+      "Painkillers; a pharmacist or doctor can advise which is suitable [1]",
+      "An elbow pad or knee pad; extra cushions around the joint while sleeping [1][2]",
+      "Raising the swollen area and supporting it with a bandage [3]"
+     ]
+    },
+    {
+     "h": "Draining the fluid and cortisone injection",
+     "p": [
+      "A doctor may draw the fluid out of the bursa with a needle to ease symptoms [1]. For bursitis caused by repeated pressure, one review generally does not recommend this because of the risk of introducing infection into the bursa [3]; in a systematic review of elbow bursitis covering 1,278 patients, however, draining did not increase the risk of infection of the bursa in non-infected bursitis [4].",
+      "A cortisone (steroid) injection may be given to reduce the swelling; it is not done if the bursitis is caused by an infection [1]. Its benefit is debated: in the same review the injection was associated with more complications and with thinning of the skin, without improving the outcome of non-infected elbow bursitis [4]. In a 2023 review it shortened the duration of symptoms, but infection of the bursa and thinning of the skin were more frequent; the authors recommend reserving the injection for cases that do not respond to other measures [5]."
+     ]
+    },
+    {
+     "h": "When are antibiotics and surgery needed?",
+     "p": [
+      "Bursitis caused by infection needs antibiotics, usually taken for at least 7 days [1]. People whose general condition is good can be treated as outpatients with antibiotics by mouth; those with general signs of infection or a suppressed immune system are given antibiotics into a vein in hospital [3].",
+      "Surgery is rarely needed [1]. Removing the bursa is considered when infected bursitis does not improve despite antibiotics and draining, and when non-infected bursitis does not respond to non-surgical treatment or keeps coming back [2][3]. After surgery for elbow bursitis the bursa usually grows back over several months as a normally functioning bursa; after 3 to 4 weeks full use of the elbow may be allowed [2].",
+      "In the same systematic review, surgical treatment was associated with less resolution and more complications than non-surgical treatment; the level of evidence is low [4]."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "See a doctor if symptoms have not improved or are getting worse after 1 to 2 weeks despite home measures, if you cannot move the joint or if you have very severe, sharp pain [1]. The following may be signs of infection; seek medical care without waiting [1][2][3]:"
+     ],
+     "list": [
+      "Fever, feeling cold or shivering [1][3]",
+      "Redness and warmth over the swelling [2][3]",
+      "Pus or fluid draining from the swelling [2][3]",
+      "Swelling, redness and pain that develop after a cut, a scrape or an insect bite [2]",
+      "A painful, warm swelling in someone with diabetes, kidney disease or a condition that suppresses the immune system [3]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "How does bursitis go away?",
+     "a": "It can usually be treated at home with rest, ice and painkillers and should go away in a few weeks [1]. See a doctor if symptoms have not improved or are getting worse after 1 to 2 weeks [1]."
+    },
+    {
+     "q": "Does a cream work for bursitis?",
+     "a": "The sources this article is based on do not list creams, gels or ointments among the treatments for bursitis [1][2][3]. The measures they recommend are rest, ice, padding that reduces pressure and painkillers when needed [1][3]."
+    },
+    {
+     "q": "What helps elbow bursitis?",
+     "a": "An elbow pad, avoiding activities that put pressure on the elbow and anti-inflammatory painkillers are the first measures; if there is no improvement after 3 to 6 weeks, the doctor may recommend draining the fluid and a cortisone injection [2]. If the elbow is hot and red it may be infected; seek care without waiting [2]."
+    },
+    {
+     "q": "When is surgery done for elbow bursitis?",
+     "a": "Removing the bursa may be recommended if an infected bursa does not improve despite antibiotics or draining, or, in non-infected bursitis, if non-surgical treatment does not work [2]. In a systematic review based mainly on low-level evidence, non-surgical treatment was found to be more effective and safer than surgical treatment [4]."
+    },
+    {
+     "q": "What are the exercises for hip bursitis?",
+     "a": "They are exercises to stretch the band on the outer side of the thigh and to increase the strength and flexibility of the hip; a doctor or physiotherapist shows them [6]. In a study of people with pain on the outer side of the hip, an education and exercise programme gave better results at 8 weeks than a single cortisone injection [7]. The details are in the hip pain article."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "bursit-prichiny-simptomy-lechenie",
+   "title": "Бурсит: что это, почему возникает? Локтевой бурсит, симптомы и лечение",
+   "description": "Что такое бурсит, отчего он возникает и каковы симптомы? Бурсит локтя, колена, плеча и бедра: лёд, пункция, укол кортизона, антибиотики и операция.",
+   "summary": "Бурсит — это отёк и болезненность заполненной жидкостью сумки (бурсы), которая служит прокладкой возле сустава; чаще всего он бывает в области плеча, тазобедренного сустава, локтя и колена [1]. Обычно его можно лечить дома покоем, льдом и обезболивающими, и он должен пройти за несколько недель [1]. Если сумка горячая и покрасневшая или есть повышенная температура, возможна инфекция (септический бурсит); в этом случае нужны осмотр без промедления и антибиотики [1][2][3].",
+   "sections": [
+    {
+     "h": "Что такое бурсит?",
+     "p": [
+      "Бурсы (синовиальные сумки) — это небольшие мешочки с жидкостью, расположенные вокруг плеча, локтя, тазобедренного сустава, колена и пятки; они служат прокладкой между костями и мягкими тканями и уменьшают трение [6]. Когда сумка раздражена, в ней скапливается лишняя жидкость, она отекает и болит; это и называют бурситом [1][2].",
+      "Бурсит часто путают с тендинитом: при бурсите поражена сумка, а при тендините — сухожилие, которое прикрепляет мышцу к кости [3][6]. Иногда оба названия относят к одной и той же жалобе: проблему сухожилий на наружной стороне бедра часто называют также «вертельным бурситом» [7]. Тендиниту посвящена отдельная статья."
+     ]
+    },
+    {
+     "h": "Почему возникает бурсит?",
+     "p": [
+      "В сумках, лежащих близко к коже, самая частая причина — повторяющиеся давление и трение над сумкой [3]. Бурсит чаще встречается у мужчин, особенно у занятых ручным трудом, например у автомехаников, сантехников и садовников [3]. Основные причины:"
+     ],
+     "list": [
+      "Длительное давление: работа на коленях или привычка опираться локтем на твёрдую поверхность [2][3]",
+      "Удар: он может вызвать избыточную выработку жидкости в сумке или кровоизлияние в неё [2][3]",
+      "Инфекция: бактерии могут попасть в сумку через повреждение кожи — укус насекомого, ссадину или прокол; иногда она развивается и без заметной раны [2]",
+      "Такие заболевания, как подагра и ревматоидный артрит [2][3]"
+     ]
+    },
+    {
+     "h": "Где бывает бурсит?",
+     "p": [
+      "Чаще всего бурсит поражает плечо, тазобедренный сустав, локоть и колено, но может затронуть любой сустав [1]. Из сумок, лежащих близко к коже, чаще всего страдают сумка на кончике локтя и сумка перед надколенником [3].",
+      "При бурсите тазобедренного сустава многим могут помочь отказ от нагрузок, усиливающих боль, обезболивающие и физиотерапия; упражнения направлены на растяжение тяжа на наружной стороне бедра и на увеличение силы и гибкости в области тазобедренного сустава [6]. В исследовании с участием 204 человек с болью по наружной стороне бедра программа обучения и упражнений на 8-й неделе дала лучший результат, чем однократный укол кортизона и выжидательная тактика [7]. Подробности — в статье о боли в тазобедренном суставе. Основные места:"
+     ],
+     "list": [
+      "Кончик локтя: отдельно описан ниже",
+      "Передняя поверхность надколенника: чаще всего связан с работой на коленях [3]. Припухлость под коленом (киста Бейкера) — тема отдельной статьи",
+      "Плечо: рассматривается в статьях о боли в плече и о вращательной манжете плеча",
+      "Наружная сторона бедра: боль обычно распространяется по наружной поверхности бедра и усиливается ночью в положении лёжа на этом боку [6]",
+      "Задняя поверхность пятки: одна из основных причин — обувь, которая не подходит по ноге [3]"
+     ]
+    },
+    {
+     "h": "Что такое локтевой бурсит и как его лечат?",
+     "p": [
+      "Локтевой бурсит (бурсит локтевого отростка) — это отёк тонкой сумки на костном выступе локтя [2]. Первым признаком чаще всего бывает припухлость; по мере растяжения сумки появляется боль, которая усиливается при надавливании на локоть или при его сгибании [2]. Среди причин — удар по кончику локтя, привычка подолгу опираться локтем на твёрдые поверхности, инфекция, подагра и ревматоидный артрит [2].",
+      "Если инфекции нет, лечение начинают с налокотника, отказа от занятий, при которых на локоть приходится давление, и противовоспалительных обезболивающих; если отёк и боль не проходят за 3–6 недель, врач может рекомендовать удалить жидкость и ввести в сумку кортизон [2].",
+      "При инфицировании сумки кожа краснеет и становится тёплой; если инфекцию не начать лечить сразу, она может распространиться на руку или попасть в кровь [2]. Поэтому горячую, покрасневшую и болезненную припухлость на локте, особенно при повышенной температуре, нужно показать врачу без промедления [2][3]."
+     ]
+    },
+    {
+     "h": "Каковы симптомы и как ставят диагноз?",
+     "p": [
+      "Боль обычно тупая, ноющая; сустав может быть чувствительным при прикосновении, отёкшим или более тёплым, чем окружающая кожа, а боль усиливается при движении или надавливании [1]. Кожа может покраснеть; на тёмной коже это заметить труднее [1].",
+      "Диагноз обычно ставят на основании расспроса и осмотра [3]. Рентген назначают при травме либо для поиска инородного тела или костного выроста [2][3]; УЗИ может помочь отличить бурсит от инфекции подкожных тканей [3].",
+      "Инфицированный (септический) бурсит встречается нечасто; до половины случаев приходится на людей с такими заболеваниями, как сахарный диабет и хроническая болезнь почек [3]. Если у пациента с бурситом повышена температура, бурсит считают септическим, пока не доказано обратное; отсутствие же температуры инфекцию не исключает [3]. При подозрении из сумки иглой берут жидкость и исследуют её в лаборатории; это исследование может выявить и подагру [2][3]."
+     ]
+    },
+    {
+     "h": "Что помогает при бурсите и сколько он длится?",
+     "p": [
+      "Бурсит обычно можно лечить дома, и он должен пройти за несколько недель [1]. Часто спрашивают о мази от бурсита: источники, на которые опирается эта статья, не называют среди методов лечения кремы, гели, мази или травяные сборы [1][2][3].",
+      "Чтобы бурсит не повторялся, рекомендуют пользоваться мягкой прокладкой при работе, связанной с давлением на суставы, делать регулярные перерывы, разминаться перед тренировкой и обрабатывать порезы в области суставов [1]. Что можно сделать дома:"
+     ],
+     "list": [
+      "Дать суставу покой, избегать занятий, при которых на него приходится давление [1]",
+      "Прикладывать пакет со льдом, завёрнутый в полотенце, примерно на 10 минут и повторять это каждые несколько часов в течение дня [1]",
+      "Обезболивающее; какое именно подойдёт, подскажет фармацевт или врач [1]",
+      "Налокотник или наколенник; во время сна — дополнительные подушки вокруг сустава [1][2]",
+      "Придать отёкшей области возвышенное положение и поддержать её повязкой [3]"
+     ]
+    },
+    {
+     "h": "Удаление жидкости и укол кортизона",
+     "p": [
+      "Чтобы облегчить жалобы, врач может удалить жидкость из сумки иглой [1]. При бурсите, вызванном повторяющимся давлением, один обзор обычно не рекомендует этого из-за риска занести в сумку инфекцию [3]; однако в систематическом обзоре по локтевому бурситу, охватившем 1278 пациентов, удаление жидкости при неинфицированном бурсите не повышало риск инфицирования сумки [4].",
+      "Укол кортизона (стероида) могут сделать, чтобы уменьшить отёк; если бурсит вызван инфекцией, его не делают [1]. Польза его спорна: в том же обзоре при неинфицированном локтевом бурсите инъекция была связана с большим числом осложнений и с истончением кожи и при этом не улучшала исход [4]. В обзоре 2023 года она сокращала длительность жалоб, но инфицирование сумки и истончение кожи встречались чаще; авторы рекомендуют оставлять инъекцию для случаев, не отвечающих на другие методы [5]."
+     ]
+    },
+    {
+     "h": "Когда нужны антибиотики и операция?",
+     "p": [
+      "При бурсите, вызванном инфекцией, нужны антибиотики; обычно их принимают не менее 7 дней [1]. Пациентов в удовлетворительном общем состоянии можно лечить амбулаторно антибиотиками внутрь; пациентам с общими признаками инфекции или с подавленным иммунитетом антибиотики вводят внутривенно в больнице [3].",
+      "Операция требуется редко [1]. Удаление сумки рассматривают, когда инфицированный бурсит не проходит несмотря на антибиотики и удаление жидкости, а неинфицированный — когда он не отвечает на безоперационное лечение или повторяется [2][3]. После операции по поводу локтевого бурсита сумка обычно за несколько месяцев образуется заново и работает нормально; через 3–4 недели врач может разрешить полностью пользоваться локтем [2].",
+      "В том же систематическом обзоре хирургическое лечение по сравнению с безоперационным было связано с меньшей частотой выздоровления и большим числом осложнений; уровень доказательств низкий [4]."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Обратитесь к врачу, если несмотря на домашние меры жалобы за 1–2 недели не уменьшаются или усиливаются, если вы не можете двигать суставом или если боль очень сильная, острая [1]. Следующие признаки могут говорить об инфекции; обратитесь за медицинской помощью без промедления [1][2][3]:"
+     ],
+     "list": [
+      "Повышенная температура, озноб или дрожь [1][3]",
+      "Покраснение и тепло над припухлостью [2][3]",
+      "Выделение гноя или жидкости из припухлости [2][3]",
+      "Отёк, покраснение и боль, появившиеся после пореза, ссадины или укуса насекомого [2]",
+      "Болезненная тёплая припухлость у человека с сахарным диабетом, болезнью почек или состоянием, подавляющим иммунитет [3]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Как проходит бурсит?",
+     "a": "Обычно его можно лечить дома покоем, льдом и обезболивающими, и он должен пройти за несколько недель [1]. Если за 1–2 недели жалобы не уменьшаются или усиливаются, обратитесь к врачу [1]."
+    },
+    {
+     "q": "Помогает ли мазь от бурсита?",
+     "a": "Источники, на которые опирается эта статья, не называют кремы, гели или мази среди методов лечения бурсита [1][2][3]. Они рекомендуют покой, лёд, мягкую прокладку, уменьшающую давление, и при необходимости обезболивающее [1][3]."
+    },
+    {
+     "q": "Что помогает при локтевом бурсите?",
+     "a": "Первые меры — налокотник, отказ от занятий, при которых на локоть приходится давление, и противовоспалительные обезболивающие; если за 3–6 недель улучшения нет, врач может рекомендовать удалить жидкость и сделать укол кортизона [2]. Если локоть горячий и покрасневший, возможна инфекция; обратитесь за помощью без промедления [2]."
+    },
+    {
+     "q": "Когда делают операцию при локтевом бурсите?",
+     "a": "Удаление сумки могут рекомендовать, если инфицированная сумка не заживает несмотря на антибиотики или удаление жидкости, а при неинфицированном бурсите — если безоперационные методы не дают результата [2]. В систематическом обзоре, основанном преимущественно на доказательствах низкого уровня, безоперационное лечение оказалось эффективнее и безопаснее хирургического [4]."
+    },
+    {
+     "q": "Какие упражнения делают при бурсите тазобедренного сустава?",
+     "a": "Это упражнения на растяжение тяжа на наружной стороне бедра и на увеличение силы и гибкости в области тазобедренного сустава; их показывает врач или физиотерапевт [6]. В исследовании с участием людей с болью по наружной стороне бедра программа обучения и упражнений на 8-й неделе дала лучший результат, чем однократный укол кортизона [7]. Подробности — в статье о боли в тазобедренном суставе."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "bursit-ellat-alaem-darman",
+   "title": "بورسیت چیست و چرا ایجاد می‌شود؟ بورسیت آرنج، علائم و درمان",
+   "description": "بورسیت چیست، چرا ایجاد می‌شود و چه علائمی دارد؟ بورسیت آرنج، زانو، شانه و لگن چگونه خوب می‌شود: یخ، تخلیهٔ مایع، تزریق، آنتی‌بیوتیک و جراحی.",
+   "summary": "بورسیت یعنی کیسهٔ پر از مایعی (بورس) که در اطراف مفصل نقش بالشتک دارد متورم و دردناک شود؛ بیشتر در شانه، لگن، آرنج و زانو دیده می‌شود [1]. معمولاً با استراحت، یخ و مسکن در خانه قابل درمان است و انتظار می‌رود ظرف چند هفته برطرف شود [1]. اگر کیسه گرم و قرمز باشد یا تب وجود داشته باشد، ممکن است عفونت (بورسیت عفونی) در کار باشد؛ در این حالت ارزیابی بدون معطلی و آنتی‌بیوتیک لازم است [1][2][3].",
+   "sections": [
+    {
+     "h": "بورسیت چیست؟",
+     "p": [
+      "بورس‌ها کیسه‌های کوچکِ حاوی مایع‌اند که در اطراف شانه، آرنج، لگن، زانو و پاشنه قرار دارند؛ میان استخوان و بافت‌های نرم نقش بالشتک دارند و اصطکاک را کم می‌کنند [6]. وقتی کیسه تحریک شود، مایع اضافی در آن جمع می‌شود و کیسه متورم و دردناک می‌شود؛ به این حالت بورسیت می‌گویند [1][2].",
+      "بورسیت اغلب با تاندونیت اشتباه گرفته می‌شود: در بورسیت ساختار درگیر کیسه است و در تاندونیت، تاندونی که عضله را به استخوان وصل می‌کند [3][6]. گاهی هر دو نام برای یک شکایت به کار می‌رود: مشکل تاندون در سمت بیرونی لگن را اغلب «بورسیت تروکانتریک» نیز می‌نامند [7]. تاندونیت در نوشته‌ای جداگانه بررسی شده است."
+     ]
+    },
+    {
+     "h": "بورسیت چرا ایجاد می‌شود؟",
+     "p": [
+      "در کیسه‌های نزدیک به پوست، شایع‌ترین علت فشار و اصطکاک مکرر روی کیسه است [3]. در مردان، به‌ویژه کسانی که کار یدی می‌کنند مانند مکانیک‌ها، لوله‌کش‌ها و باغبان‌ها، شایع‌تر است [3]. علت‌های اصلی:"
+     ],
+     "list": [
+      "فشار طولانی‌مدت: کار کردن روی زانو یا تکیه دادن آرنج به سطح سخت [2][3]",
+      "ضربه: ممکن است باعث تولید مایع اضافی در کیسه یا خونریزی درون آن شود [2][3]",
+      "عفونت: باکتری‌ها ممکن است از راه آسیبی که پوست را باز می‌کند، مانند نیش حشره، خراش یا فرورفتن جسم نوک‌تیز، وارد کیسه شوند؛ گاهی بدون زخم آشکار هم پدید می‌آید [2]",
+      "بیماری‌هایی مانند نقرس و آرتریت روماتوئید [2][3]"
+     ]
+    },
+    {
+     "h": "بورسیت در کجاها ایجاد می‌شود؟",
+     "p": [
+      "بورسیت بیشتر در شانه، لگن، آرنج و زانو دیده می‌شود، اما ممکن است هر مفصلی را درگیر کند [1]. از میان کیسه‌های نزدیک به پوست، کیسهٔ نوک آرنج و کیسهٔ جلوی کشکک بیش از بقیه درگیر می‌شوند [3].",
+      "در بورسیت لگن، پرهیز از فعالیت‌هایی که درد را بیشتر می‌کنند، مسکن و فیزیوتراپی می‌تواند برای بسیاری از افراد آرامش‌بخش باشد؛ هدف ورزش‌ها کشش نوار سمت بیرونی ران و افزایش قدرت و انعطاف لگن است [6]. در پژوهشی روی ۲۰۴ نفر با درد سمت بیرونی لگن، برنامهٔ آموزش و ورزش در هفتهٔ هشتم نتیجهٔ بهتری از یک بار تزریق کورتون و از صبر و پیگیری داشت [7]. جزئیات در نوشتهٔ درد لگن آمده است. محل‌های اصلی:"
+     ],
+     "list": [
+      "نوک آرنج: در ادامه جداگانه توضیح داده شده است",
+      "جلوی کشکک زانو: بیشتر با زانو زدن ارتباط دارد [3]. تورم پشت زانو (کیست بیکر) موضوع نوشته‌ای جداگانه است",
+      "شانه: در نوشته‌های درد شانه و روتاتور کاف بررسی شده است",
+      "سمت بیرونی لگن: درد معمولاً به سطح بیرونی ران کشیده می‌شود و شب‌ها هنگام خوابیدن روی همان سمت بیشتر می‌شود [6]",
+      "پشت پاشنه: یکی از علت‌های اصلی، کفشی است که اندازهٔ پا نیست [3]"
+     ]
+    },
+    {
+     "h": "بورسیت آرنج چیست و چگونه درمان می‌شود؟",
+     "p": [
+      "بورسیت آرنج (بورسیت اوله‌کرانون) تورم کیسهٔ نازکی است که روی نوک استخوانی آرنج قرار دارد [2]. نخستین نشانه بیشتر وقت‌ها تورم است؛ با کشیده شدن کیسه درد آغاز می‌شود و با فشار روی آرنج یا خم کردن آن بیشتر می‌شود [2]. از علت‌های آن می‌توان به ضربه به نوک آرنج، تکیه دادن طولانیِ آرنج به سطوح سخت، عفونت، نقرس و آرتریت روماتوئید اشاره کرد [2].",
+      "اگر عفونتی در کار نباشد، درمان با آرنج‌بند، پرهیز از کارهایی که به آرنج فشار می‌آورند و مسکن‌های ضدالتهاب آغاز می‌شود؛ اگر تورم و درد ظرف ۳ تا ۶ هفته بهتر نشود، پزشک ممکن است تخلیهٔ مایع و تزریق کورتون به درون کیسه را توصیه کند [2].",
+      "وقتی کیسه عفونی شود، پوست قرمز و گرم می‌شود؛ اگر عفونت فوراً درمان نشود ممکن است به بازو یا خون گسترش یابد [2]. از این رو تورمِ گرم، قرمز و دردناک آرنج، به‌ویژه اگر با تب همراه باشد، باید بدون معطلی ارزیابی شود [2][3]."
+     ]
+    },
+    {
+     "h": "علائم آن چیست و چگونه تشخیص داده می‌شود؟",
+     "p": [
+      "درد معمولاً مبهم و مداوم است؛ مفصل ممکن است حساس، متورم یا گرم‌تر از پوست اطراف باشد و درد با حرکت یا فشار دادن روی آن بیشتر می‌شود [1]. پوست ممکن است قرمز شود؛ دیدن این قرمزی روی پوست تیره دشوارتر است [1].",
+      "تشخیص معمولاً با شرح حال و معاینه داده می‌شود [3]. عکس رادیولوژی در صورت آسیب‌دیدگی یا برای جست‌وجوی جسم خارجی و زائدهٔ استخوانی درخواست می‌شود [2][3]؛ سونوگرافی می‌تواند به افتراق بورسیت از عفونت بافت زیر پوست کمک کند [3].",
+      "بورسیت عفونی (سپتیک) شایع نیست؛ تا نیمی از موارد در افرادی دیده می‌شود که بیماری‌هایی مانند دیابت و بیماری مزمن کلیه دارند [3]. بیمارِ مبتلا به بورسیت که تب دارد، تا زمانی که خلاف آن ثابت نشود مبتلا به بورسیت عفونی در نظر گرفته می‌شود؛ نبودِ تب نیز عفونت را رد نمی‌کند [3]. در صورت شک، با سوزن از کیسه مایع گرفته و در آزمایشگاه بررسی می‌شود؛ این بررسی نقرس را هم می‌تواند نشان دهد [2][3]."
+     ]
+    },
+    {
+     "h": "چه چیزی برای بورسیت خوب است و چقدر طول می‌کشد؟",
+     "p": [
+      "بورسیت معمولاً در خانه قابل درمان است و انتظار می‌رود ظرف چند هفته برطرف شود [1]. دربارهٔ پماد بورسیت زیاد پرسیده می‌شود: منابعی که این نوشته بر آن‌ها تکیه دارد کرم، ژل، پماد یا ترکیب‌های گیاهی را در شمار درمان‌ها نمی‌آورند [1][2][3].",
+      "برای پیشگیری از عود، توصیه می‌شود در کارهایی که به مفاصل فشار می‌آورند از بالشتک استفاده شود، به‌طور منظم وقفهٔ استراحت داده شود، پیش از ورزش بدن گرم شود و بریدگی‌های روی مفاصل تمیز شوند [1]. کارهایی که در خانه می‌توان انجام داد:"
+     ],
+     "list": [
+      "استراحت دادن به مفصل و پرهیز از کارهایی که به آن فشار می‌آورند [1]",
+      "گذاشتن کیسهٔ یخِ پیچیده در حوله به مدت حدود ۱۰ دقیقه و تکرار آن هر چند ساعت یک بار در طول روز [1]",
+      "مسکن؛ داروساز یا پزشک می‌تواند بگوید کدام مناسب است [1]",
+      "آرنج‌بند یا زانوبند؛ هنگام خواب، بالش اضافی دور مفصل [1][2]",
+      "بالا نگه داشتن ناحیهٔ متورم و حمایت از آن با بانداژ [3]"
+     ]
+    },
+    {
+     "h": "تخلیهٔ مایع و تزریق کورتون",
+     "p": [
+      "پزشک ممکن است برای سبک‌تر شدن علائم، مایع کیسه را با سوزن بکشد [1]. در بورسیتِ ناشی از فشار مکرر، یک مقالهٔ مروری به سبب خطر وارد شدن عفونت به کیسه معمولاً این کار را توصیه نمی‌کند [3]؛ اما در یک مرور نظام‌مند دربارهٔ بورسیت آرنج که ۱۲۷۸ بیمار را در بر می‌گرفت، تخلیه در بورسیت غیرعفونی خطر عفونت کیسه را افزایش نداد [4].",
+      "تزریق کورتون (استروئید) ممکن است برای کاهش تورم انجام شود؛ اگر بورسیت ناشی از عفونت باشد انجام نمی‌شود [1]. فایدهٔ آن محل بحث است: در همان مرور، تزریق در بورسیت غیرعفونی آرنج بی‌آنکه نتیجه را بهتر کند، با عوارض بیشتر و نازک شدن پوست همراه بود [4]. در مروری از سال ۲۰۲۳، تزریق مدت علائم را کوتاه‌تر کرد، اما عفونت کیسه و نازک شدن پوست بیشتر دیده شد؛ نویسندگان توصیه می‌کنند تزریق برای مواردی نگه داشته شود که به روش‌های دیگر پاسخ نمی‌دهند [5]."
+     ]
+    },
+    {
+     "h": "آنتی‌بیوتیک و جراحی چه زمانی لازم است؟",
+     "p": [
+      "در بورسیتِ ناشی از عفونت آنتی‌بیوتیک لازم است؛ معمولاً دست‌کم ۷ روز مصرف می‌شود [1]. بیمارانی که حال عمومی خوبی دارند می‌توانند به‌صورت سرپایی با آنتی‌بیوتیک خوراکی درمان شوند؛ به بیمارانی که نشانه‌های عمومی عفونت دارند یا دستگاه ایمنی‌شان سرکوب شده است، در بیمارستان آنتی‌بیوتیک وریدی داده می‌شود [3].",
+      "جراحی به‌ندرت لازم می‌شود [1]. برداشتن کیسه زمانی مطرح می‌شود که بورسیت عفونی با وجود آنتی‌بیوتیک و تخلیه بهتر نشود، یا بورسیت غیرعفونی به روش‌های غیرجراحی پاسخ ندهد یا عود کند [2][3]. پس از جراحی بورسیت آرنج، کیسه معمولاً ظرف چند ماه دوباره به شکل کیسه‌ای با عملکرد طبیعی تشکیل می‌شود؛ پس از ۳ تا ۴ هفته ممکن است اجازهٔ استفادهٔ کامل از آرنج داده شود [2].",
+      "در همان مرور نظام‌مند، درمان جراحی در مقایسه با درمان غیرجراحی با بهبود کمتر و عوارض بیشتر همراه بود؛ سطح شواهد پایین است [4]."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "اگر با وجود اقدامات خانگی، علائم ظرف ۱ تا ۲ هفته بهتر نشد یا بدتر شد، اگر نمی‌توانید مفصل را حرکت دهید یا درد بسیار شدید و تیز دارید، به پزشک مراجعه کنید [1]. موارد زیر ممکن است نشانهٔ عفونت باشد؛ بدون معطلی به یک مرکز درمانی مراجعه کنید [1][2][3]:"
+     ],
+     "list": [
+      "تب، احساس سرما یا لرز [1][3]",
+      "قرمزی و گرمی روی تورم [2][3]",
+      "خارج شدن چرک یا ترشح از تورم [2][3]",
+      "تورم، قرمزی و دردی که پس از بریدگی، خراش یا نیش حشره پدید آمده باشد [2]",
+      "تورم دردناک و گرم در کسی که دیابت، بیماری کلیه یا وضعیتی دارد که دستگاه ایمنی را سرکوب می‌کند [3]"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "بورسیت چگونه خوب می‌شود؟",
+     "a": "معمولاً با استراحت، یخ و مسکن در خانه قابل درمان است و انتظار می‌رود ظرف چند هفته برطرف شود [1]. اگر علائم ظرف ۱ تا ۲ هفته بهتر نشد یا بدتر شد، به پزشک مراجعه کنید [1]."
+    },
+    {
+     "q": "آیا پماد برای بورسیت مؤثر است؟",
+     "a": "منابعی که این نوشته بر آن‌ها تکیه دارد کرم، ژل یا پماد را در شمار درمان‌های بورسیت نمی‌آورند [1][2][3]. اقداماتی که توصیه می‌کنند استراحت، یخ، بالشتکی که فشار را کم کند و در صورت نیاز مسکن است [1][3]."
+    },
+    {
+     "q": "چه چیزی برای بورسیت آرنج خوب است؟",
+     "a": "آرنج‌بند، پرهیز از کارهایی که به آرنج فشار می‌آورند و مسکن‌های ضدالتهاب نخستین اقدامات‌اند؛ اگر ظرف ۳ تا ۶ هفته بهبودی حاصل نشود، پزشک ممکن است تخلیهٔ مایع و تزریق کورتون را توصیه کند [2]. اگر آرنج گرم و قرمز باشد ممکن است عفونت در کار باشد؛ بدون معطلی مراجعه کنید [2]."
+    },
+    {
+     "q": "جراحی بورسیت آرنج چه زمانی انجام می‌شود؟",
+     "a": "اگر کیسهٔ عفونی با وجود آنتی‌بیوتیک یا تخلیه بهتر نشود، و در بورسیت غیرعفونی اگر روش‌های غیرجراحی نتیجه ندهند، ممکن است برداشتن کیسه توصیه شود [2]. در یک مرور نظام‌مند که بیشتر بر شواهد سطح پایین تکیه داشت، درمان غیرجراحی مؤثرتر و ایمن‌تر از درمان جراحی بود [4]."
+    },
+    {
+     "q": "ورزش‌های بورسیت لگن کدام‌اند؟",
+     "a": "ورزش‌هایی برای کشش نوار سمت بیرونی ران و افزایش قدرت و انعطاف لگن‌اند؛ پزشک یا فیزیوتراپیست آن‌ها را نشان می‌دهد [6]. در پژوهشی روی افراد دارای درد سمت بیرونی لگن، برنامهٔ آموزش و ورزش در هفتهٔ هشتم نتیجهٔ بهتری از یک بار تزریق کورتون داشت [7]. جزئیات در نوشتهٔ درد لگن آمده است."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

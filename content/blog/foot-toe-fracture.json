@@ -1,0 +1,521 @@
+{
+ "id": "foot-toe-fracture",
+ "area": "ayak-bilek",
+ "updated": "2026-10-04",
+ "reviewer": "gurhan",
+ "reviewed": false,
+ "sources": [
+  {
+   "title": "Broken toe",
+   "publisher": "NHS (nhs.uk)",
+   "url": "https://www.nhs.uk/conditions/broken-toe/",
+   "year": "2026"
+  },
+  {
+   "title": "Toe and Forefoot Fractures",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/toe-and-forefoot-fractures",
+   "year": "n.d."
+  },
+  {
+   "title": "Diagnosis and Management of Common Foot Fractures",
+   "publisher": "American Family Physician (Bica D, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26926612/",
+   "year": "2016"
+  },
+  {
+   "title": "Common Foot Fractures",
+   "publisher": "American Family Physician (Silver S, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38393796/",
+   "year": "2024"
+  },
+  {
+   "title": "Fifth Metatarsal Fracture–A Systematic Review of the Treatment of Fractures of the Base of the Fifth Metatarsal Bone",
+   "publisher": "Deutsches Ärzteblatt International (Herterich V, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34789369/",
+   "year": "2021"
+  },
+  {
+   "title": "Smoking and Musculoskeletal Health",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/staying-healthy/smoking-and-musculoskeletal-health/",
+   "year": "n.d."
+  },
+  {
+   "title": "Nonunions",
+   "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+   "url": "https://www.orthoinfo.org/diseases--conditions/nonunions",
+   "year": "n.d."
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "ayak-kirigi-ayak-parmagi-kirigi",
+   "title": "Ayak kırığı ve ayak parmağı kırığı: belirtileri, kaç günde iyileşir?",
+   "description": "Ayak kırığı ve ayak parmağı kırığı nasıl anlaşılır, kaç günde iyileşir? Parmak nasıl sarılır, alçı ya da bot ne kadar kalır, tarak kemiği kırığı ve ameliyat.",
+   "summary": "Ayak kırıkları en sık tarak kemiklerini (metatars) ve ayak parmaklarını tutar; ağrı, şişlik ve morarma yapar, tanı röntgenle doğrulanır [2][3]. Çoğu ameliyatsız iyileşir: küçük parmaklar yanındaki parmağa bantlanır ve sert tabanlı ayakkabı giyilir, tarak kemiği kırıklarında alçı ya da yürüme botu kullanılır [2][3]. Parmak kırıkları genellikle 4–6 haftada, tarak kemiği kırıkları 6–8 haftada yük verilebilecek kadar iyileşir; başparmak kırığı, açık ya da yerinden oynamış kırıklar ve Jones kırığı daha yakın izlem gerektirir [1][2][3].",
+   "sections": [
+    {
+     "h": "Ayak ve ayak parmağı kırığı nedir, nasıl olur?",
+     "p": [
+      "Ayağın ön bölümünde beş tarak kemiği (metatars) ve 14 parmak kemiği bulunur [2]. Ayağın en sık görülen kırıkları parmak kırıklarıdır [3].",
+      "Başlıca nedenler ayağı sert bir yere çarpmak, parmakların üzerine ağır bir cisim düşürmek, ayağın ezilmesi ya da dönmesi ve yüksekten düşmedir [2][3][4]. Tekrarlayan yüklenmeyle gelişen stres kırıkları ayrı bir yazının konusudur [2]."
+     ]
+    },
+    {
+     "h": "Ayak kırığı nasıl anlaşılır?",
+     "p": [
+      "En sık belirtiler ağrı ve şişliktir [2]. Ayağa ne kadar yük verilebildiği kırığın boyutuna ve kişinin ağrıya dayanıklılığına göre değişir [4]. Parmağın kırık mı yoksa ezik mi olduğundan emin olamayabilirsiniz; ikisinde de tedavi genellikle aynıdır [1].",
+      "Tedavi edilmeyen kırık süregen ayak ağrısına yol açabilir; kırık düşünüyorsanız en kısa sürede hekime başvurun [2]. Şu belirtiler kırığı düşündürür [1][2][4]:"
+     ],
+     "list": [
+      "Ayağın komşu bölgelerine yayılabilen morarma",
+      "Yürürken ve ayağa yük verirken ağrı",
+      "Kemiğin üzerinde tek bir noktada hassasiyet"
+     ]
+    },
+    {
+     "h": "Röntgen ne zaman gerekir?",
+     "p": [
+      "Tanı röntgenle doğrulanır; ayağın ya da parmağın üç yönlü filmi çekilir [3][4]. Burkulma sonrasında röntgen gerekip gerekmediğine Ottawa kuralları yardımcı olur [4]: ayağın orta bölümünde ağrıyla birlikte beşinci tarak kemiğinin tabanında ya da naviküler kemikte hassasiyet varsa veya yaralanmadan hemen sonra ve muayenede ayağa yük verilemiyorsa ayak röntgeni çekilir [3].",
+      "Başparmak dışındaki bir parmakta kemik dışarı çıkmamışsa, parmak eğri durmuyorsa ve yara yoksa hekimler tedaviye çoğunlukla evde başlanmasını önerir; ağrı ve şişlik beş günde azalmazsa hekim röntgen isteyebilir [1]. Ayağın orta bölümündeki eklem yaralanmaları (Lisfranc yaralanması) sıklıkla gözden kaçar; şüphe varsa röntgen ayağa yük verilerek çekilir [4]."
+     ]
+    },
+    {
+     "h": "Ayak parmağı kırığı: nasıl sarılır, alçı gerekir mi?",
+     "p": [
+      "Çoğu parmak kırığı ameliyatsız tedavi edilebilir [2][4]. Serçe parmak dahil küçük parmaklarda ilk tedavi, parmağı yanındaki parmağa bantlamak, sert tabanlı ayakkabı ve ağrının elverdiği ölçüde yürümektir; alçı ya da bot daha çok başparmak kırıklarında kullanılır [3].",
+      "Sarmak için ağrıyan parmakla yanındaki parmağın arasına küçük bir parça pamuk ya da gazlı bez koyun ve iki parmağı birbirine bantlayın; bant 2–3 hafta kalır [1]. Parmak eğri duruyorsa ya da yaralanan başparmaksa bantlamayın [1].",
+      "Sert tabanlı ayakkabı kaynağa göre 2–6 ya da 4–6 hafta kullanılır [3][4]. Ağrı kesici için eczacıya ya da hekime danışılabilir [1]. Evde şunlar önerilir [1]:"
+     ],
+     "list": [
+      "Ayağı dinlendirmek ve şişlik sürdükçe yüksekte tutmak",
+      "İlk günlerde havluya sarılı buzu birkaç saatte bir, 20 dakikaya kadar uygulamak",
+      "Geniş, düz ve sert tabanlı ayakkabı giymek; dar ve sivri burunlu ayakkabılardan kaçınmak",
+      "İlk günlerde uzun süre yürümemek; futbol gibi sporlara 6 hafta ya da ağrı geçene kadar ara vermek"
+     ]
+    },
+    {
+     "h": "Ayak başparmağı kırığı, yerinden oynamış ve açık kırıklar",
+     "p": [
+      "Başparmak, yük taşımadaki rolü nedeniyle daha yakından izlenir [4]. Kırığı genellikle kısa bacak yürüme alçısı ya da yürüme botuyla 2–3 hafta tedavi edilir; ardından belirgin yakınma yoksa bantlama ve sert tabanlı ayakkabıyla 3–4 hafta devam edilir [3]. İyileşme tipik olarak 4–6 hafta sürer; işe ve spora dönüş 6–8 haftayı bulabilir [3].",
+      "Kemik uçları birbirinden ayrılmışsa (yerinden oynamış kırık) ve parmak eğri görünüyorsa hekimin kırığı lokal anesteziyle yerine oturtması gerekebilir [2]. Kırıkla birlikte çıkık, eklem yüzeyini tutan yerinden oynamış kırıklar ve çocuklarda büyüme kıkırdağı kırıkları ortopedi uzmanınca değerlendirilir [3].",
+      "Deri açılmışsa (açık kırık) bakteriler yaraya girip kemikte enfeksiyona yol açabilir; hemen tedavi gerekir [2]."
+     ]
+    },
+    {
+     "h": "Ayak tarak kemiği kırığı: bot, alçı ya da ameliyat",
+     "p": [
+      "Tarak kemiği kırıklarının çoğunda başlangıçta ayak yüksekte tutulur ve yük sınırlanır, ardından alçı ya da yürüme botu içinde kademeli yük verilir [2]. Gövde kırıklarında önce atel ve koltuk değneği kullanılır; kontrol röntgeninde kırık stabilse yürüme alçısına ya da bota geçilir [3]. Alçı, bot ya da sert tabanlı ayakkabıyla geçen süre kaynağa göre 3–6 ya da 4–6 haftadır [3][4].",
+      "Ameliyat genellikle gerekmez; birkaç tarak kemiği birlikte kırıldıysa ve ayağın şekli bozulmuş ya da ayak dengesizse gerekebilir [2]."
+     ]
+    },
+    {
+     "h": "Beşinci tarak kemiği: kopma kırığı ve Jones kırığı",
+     "p": [
+      "Tarak kemiği kırıklarının yaklaşık yüzde 30'u, serçe parmağa uzanan beşinci tarak kemiğinin tabanındadır [5]. Bu kırık çoğunlukla ayak ve ayak bileğinin aşağı ve içe dönmesiyle olur [2].",
+      "Kopma (avülsiyon) kırığında, kemiğin tabanına yapışan bağ küçük bir kemik parçasını koparır [2]. Kaymamış olanlar genellikle baskılı sargıyla ve tolere edildikçe yük verilerek, 3 mm'den az kaymış olanlar genellikle iki hafta yürüme botuyla tedavi edilir; iyileşme 4–8 hafta sürer [3]. Bir sistematik derlemedeki randomize çalışmada, bu kırıklarda hareketsiz bırakmak yerine erken fonksiyonel tedavi alanlar işe daha erken dönmüş (11 güne karşı 28 gün), diğer sonuçlar benzer bulunmuştur [5].",
+      "Jones kırığı, aynı kemiğin tabanında, gövdeye daha yakın bölgedeki enine kırıktır; bu bölgenin kanlanması zayıf olduğundan kaynama gecikebilir ve kaynamama oranı yüksektir [2][3]. Ameliyatsız tedavide önce atel, ardından 6–8 hafta ayağa basmadan kullanılan kısa bacak alçısı uygulanır; tespit tipik olarak 6–10 hafta, iyileşme 12 haftaya kadar sürer [3]. Kaynamanın gecikeceği kaygısı varsa ya da kişi çok aktifse (örneğin yarışmacı sporcu) ilk tedavi olarak ameliyat önerilebilir [2]. Aynı derlemedeki bir randomize çalışmada, tabanın gövdeye en yakın bölümündeki kırıklarda ameliyat hareketsiz bırakmaya göre daha iyi sonuç vermiştir [5]."
+     ]
+    },
+    {
+     "h": "Kaç günde iyileşir, ne iyi gelir?",
+     "p": [
+      "Parmak kırıkları genellikle 4–6 haftada iyileşir, bazen birkaç ay sürebilir [1]. Normal ayakkabıyla rahat yürümek 6–8 hafta alabilir; parmağın 3–6 ay ağrılı ve şiş kalması olağandır [2]. Tarak kemiği kırıkları genellikle 6–8 haftada yük verilebilecek kadar kaynar, ancak bu daha uzun sürebilir [2].",
+      "Kırık bir kemiğin kaynaması için yeterli beslenme gerekir: protein, kalsiyum, C ve D vitamini içeren sağlıklı ve dengeli beslenme bunun en iyi yoludur; günlük gereksinimi aşan besin takviyeleri etkili değildir [7]. Kırıklar sigara içenlerde daha geç iyileşir [6]; tütün ya da nikotinin her biçimi kemik iyileşmesini baskılar ve kaynamama olasılığını artırır [7].",
+      "Ağrı ve şişlik beş günde azalmadıysa ya da altı hafta sonra yürümek hâlâ ağrılıysa hekime başvurun [1]. Kırık iyileşmesi ve alçı bakımı ayrı bir yazıda anlatılmaktadır."
+     ]
+    },
+    {
+     "h": "Beklemeden başvurmanız gerekenler",
+     "p": [
+      "Kırıklar hastanenin acil servisi üzerinden değerlendirilir; randevu gerekmez. Şu durumlarda beklemeden başvurun; ilk beş durumda doğrudan acil servise gidin [1][2]:"
+     ],
+     "list": [
+      "Ayak başparmağınızın kırıldığını düşünüyorsanız",
+      "Parmak garip bir açıyla duruyorsa ya da ayağın şekli bozulduysa",
+      "Kemik deriden dışarı çıktıysa",
+      "Parmakta ya da ayakta karıncalanma veya uyuşma varsa",
+      "Yaralanan bir çocuksa; çocuğun parmak yaralanmasını kendiniz tedavi etmeyin",
+      "Kötü bir kesik ya da yara varsa veya ağrı şiddetliyse",
+      "Şeker hastalığınız (diyabet) varsa ve ayak parmağınızı incittiyseniz"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ayak parmağı kırığı alçıya alınır mı?",
+     "a": "Küçük parmak kırıklarında tedavi genellikle parmağı yanındaki parmağa bantlamak ve sert tabanlı ayakkabıdır [3]. Başparmak kırığında ise 2–3 hafta kısa bacak yürüme alçısı ya da yürüme botu kullanılabilir [3]."
+    },
+    {
+     "q": "Kırık ayak parmağı evde nasıl sarılır?",
+     "a": "İki parmağın arasına küçük bir parça pamuk ya da gazlı bez konur ve kırık parmak yanındaki parmağa bantlanır; bant 2–3 hafta kalır [1]. Parmak eğri duruyorsa ya da yaralanan başparmaksa bantlamayın, acil servise başvurun [1]."
+    },
+    {
+     "q": "Ayak kırığı ne kadar alçıda ya da botta kalır?",
+     "a": "Kırılan kemiğe göre değişir: tarak kemiği gövde kırıklarında 3–6 hafta [3][4], beşinci tarak kemiğinin kopma kırığında genellikle iki hafta bot, Jones kırığında ise 6–10 hafta alçı gerekir [3]."
+    },
+    {
+     "q": "Ayak kırığı ve ayak parmağı kırığı kaç haftada kaynar?",
+     "a": "Parmak kırıkları genellikle 4–6 haftada iyileşir, bazen birkaç ay sürebilir [1]. Tarak kemiği kırıkları genellikle 6–8 haftada yük verilebilecek kadar kaynar [2]; Jones kırığında iyileşme 12 haftayı bulabilir [3]."
+    },
+    {
+     "q": "Ayak kırığına ne iyi gelir, hangi besinler kaynamaya yardımcı olur?",
+     "a": "Protein, kalsiyum, C ve D vitamini içeren sağlıklı ve dengeli beslenme önerilir; günlük gereksinimi aşan takviyeler etkili değildir [7]. Kırıklar sigara içenlerde daha geç iyileşir [6]. Ayağı dinlendirmek, şişlik sürdükçe yüksekte tutmak ve ilk günlerde buz uygulamak da önerilir [1]."
+    }
+   ],
+   "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
+  },
+  "en": {
+   "slug": "broken-foot-broken-toe",
+   "title": "Broken foot and broken toe: symptoms and how long healing takes",
+   "description": "How do you recognise a broken foot or broken toe, and how long does it take to heal? Strapping a toe, time in a cast or boot, metatarsal fractures and surgery.",
+   "summary": "Foot fractures most often involve the metatarsals (the long bones of the forefoot) and the toes; they cause pain, swelling and bruising, and the diagnosis is confirmed with an X-ray [2][3]. Most heal without surgery: the smaller toes are taped to the toe next to them and a stiff-soled shoe is worn, and for metatarsal fractures a cast or walking boot is used [2][3]. Toe fractures usually heal in 4 to 6 weeks, and metatarsal fractures heal enough for weightbearing in 6 to 8 weeks; a broken big toe, open or displaced fractures and the Jones fracture need closer follow-up [1][2][3].",
+   "sections": [
+    {
+     "h": "What is a broken foot or broken toe, and how does it happen?",
+     "p": [
+      "The front part of the foot contains five metatarsal bones and 14 toe bones [2]. Toe fractures are the most common fractures of the foot [3].",
+      "The main causes are hitting the foot against something hard, dropping a heavy object on the toes, a crush or twisting injury of the foot and a fall from height [2][3][4]. Stress fractures, which develop with repeated loading, are the subject of a separate article [2]."
+     ]
+    },
+    {
+     "h": "How can you tell if the foot is broken?",
+     "p": [
+      "The most common symptoms are pain and swelling [2]. How much weight can be put on the foot varies with the extent of the fracture and the person's pain tolerance [4]. You may not be sure whether a toe is broken or just bruised; treatment is usually the same for both [1].",
+      "A fracture that is not treated can lead to chronic foot pain; if you think you have a fracture, see a doctor as soon as possible [2]. The following signs suggest a fracture [1][2][4]:"
+     ],
+     "list": [
+      "Bruising that may extend to nearby parts of the foot",
+      "Pain with walking and weightbearing",
+      "Tenderness at a single point over the bone"
+     ]
+    },
+    {
+     "h": "When is an X-ray needed?",
+     "p": [
+      "The diagnosis is confirmed with an X-ray; three views of the foot or toe are taken [3][4]. After a sprain-type injury, the Ottawa rules help decide whether an X-ray is needed [4]: a foot X-ray is taken if there is pain in the midfoot together with tenderness at the base of the fifth metatarsal or at the navicular bone, or if no weight can be put on the foot immediately after the injury and at the examination [3].",
+      "If the injured toe is not the big toe, the bone is not sticking out, the toe is not pointing at an odd angle and there is no wound, doctors usually suggest starting treatment at home; if the pain and swelling have not eased after five days, a doctor may request an X-ray [1]. Joint injuries of the midfoot (Lisfranc injuries) are often overlooked; when one is suspected, the X-ray is taken with weight on the foot [4]."
+     ]
+    },
+    {
+     "h": "A broken toe: how is it strapped, and is a cast needed?",
+     "p": [
+      "Most toe fractures can be treated without surgery [2][4]. For the smaller toes, including the little toe, the initial treatment is to tape the toe to the one next to it, wear a stiff-soled shoe and walk as far as pain allows; a cast or boot is used mainly for fractures of the big toe [3].",
+      "To strap the toe, put a small piece of cotton wool or gauze between the sore toe and the toe next to it and tape the two together; the strapping stays on for 2 to 3 weeks [1]. Do not strap the toe if it is pointing at an odd angle or if the injured toe is the big toe [1].",
+      "Depending on the source, the stiff-soled shoe is used for 2 to 6 or for 4 to 6 weeks [3][4]. A pharmacist or doctor can advise on a painkiller [1]. The following are recommended at home [1]:"
+     ],
+     "list": [
+      "Resting the foot and keeping it raised while it is swollen",
+      "In the first few days, holding ice wrapped in a towel on the toe for up to 20 minutes every few hours",
+      "Wearing wide, flat shoes with stiff soles; avoiding tight, pointed shoes",
+      "Not walking for long periods in the first few days; taking a break from sports such as football for 6 weeks or until the pain eases"
+     ]
+    },
+    {
+     "h": "A broken big toe, displaced fractures and open fractures",
+     "p": [
+      "The big toe is watched more closely because of its role in weightbearing [4]. A big toe fracture is generally treated for 2 to 3 weeks in a short leg walking cast or a walking boot; after that, if there are no significant symptoms, treatment continues with taping and a stiff-soled shoe for 3 to 4 weeks [3]. Healing typically takes 4 to 6 weeks; return to work and sport can take 6 to 8 weeks [3].",
+      "If the bone ends have separated (a displaced fracture) and the toe looks crooked, the doctor may need to put the fracture back into position under local anaesthetic [2]. A fracture with a dislocation, displaced fractures that involve the joint surface and, in children, growth plate fractures are assessed by an orthopaedic specialist [3].",
+      "If the skin is broken (an open fracture), bacteria can enter the wound and cause infection in the bone; immediate treatment is required [2]."
+     ]
+    },
+    {
+     "h": "A broken metatarsal: boot, cast or surgery",
+     "p": [
+      "In most metatarsal fractures the foot is first kept raised and weightbearing is limited, followed by gradual weightbearing in a cast or walking boot [2]. For fractures of the shaft, a splint and crutches are used first; if the follow-up X-ray shows that the fracture is stable, the next step is a walking cast or a boot [3]. Depending on the source, the time in a cast, boot or stiff-soled shoe is 3 to 6 or 4 to 6 weeks [3][4].",
+      "Surgery is not usually required; it may be needed if several metatarsals are broken together and the foot is deformed or unstable [2]."
+     ]
+    },
+    {
+     "h": "The fifth metatarsal: avulsion fracture and Jones fracture",
+     "p": [
+      "About 30% of metatarsal fractures are at the base of the fifth metatarsal, the bone that leads to the little toe [5]. This fracture usually happens when the foot and ankle are twisted downward and inward [2].",
+      "In an avulsion fracture, the ligament attached to the base of the bone pulls a small fragment of bone away [2]. Nondisplaced ones are generally treated with a compressive dressing and weightbearing as tolerated, and those displaced by less than 3 mm with a walking boot, generally for two weeks; healing takes 4 to 8 weeks [3]. In a randomised trial included in a systematic review, patients with these fractures who were given early functional treatment instead of immobilisation returned to work sooner (11 versus 28 days), with otherwise similar outcomes [5].",
+      "A Jones fracture is a transverse fracture at the base of the same bone, in the area closer to the shaft; because the blood supply of this area is poor, healing may be delayed and the rate of nonunion is high [2][3]. Non-surgical treatment is a splint first, followed by 6 to 8 weeks in a non-weightbearing short leg cast; immobilisation typically lasts 6 to 10 weeks and healing takes up to 12 weeks [3]. If there are concerns about delayed healing or the person is highly active (for example a competitive athlete), surgery may be recommended as the initial treatment [2]. In another randomised trial in the same review, surgery gave better results than immobilisation for fractures in the part of the base closest to the shaft [5]."
+     ]
+    },
+    {
+     "h": "How long does healing take, and what helps?",
+     "p": [
+      "Toe fractures usually heal within 4 to 6 weeks, but it can sometimes take several months [1]. It may take 6 to 8 weeks to walk comfortably in normal shoes; it is normal for the toe to remain achy and swollen for 3 to 6 months [2]. Metatarsal fractures usually heal enough for weightbearing in 6 to 8 weeks, but this may take longer [2].",
+      "A broken bone needs adequate nutrition to heal: a healthy, well-balanced diet that includes protein, calcium, vitamin C and vitamin D is the best way to ensure this; dietary supplements that go beyond the daily requirements are not effective [7]. Fractures take longer to heal in smokers [6]; tobacco or nicotine in any form inhibits bone healing and increases the chance of nonunion [7].",
+      "See a doctor if the pain and swelling have not eased after five days or if it still hurts to walk six weeks later [1]. Fracture healing and cast care are described in a separate article."
+     ]
+    },
+    {
+     "h": "When not to wait",
+     "p": [
+      "Fractures are seen through the hospital's emergency department; no appointment is needed. Seek care without waiting in the following situations; in the first five, go straight to the emergency department [1][2]:"
+     ],
+     "list": [
+      "You think you have broken your big toe",
+      "The toe is pointing at an odd angle or the foot has changed shape",
+      "The bone is sticking out through the skin",
+      "There is tingling or numbness in the toe or foot",
+      "The injured person is a child; do not treat a child's toe injury yourself",
+      "There is a bad cut or wound, or the pain is severe",
+      "You have diabetes and have injured a toe"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does a broken toe need a cast?",
+     "a": "For the smaller toes, treatment is generally taping the toe to the one next to it and a stiff-soled shoe [3]. For a broken big toe, a short leg walking cast or a walking boot may be used for 2 to 3 weeks [3]."
+    },
+    {
+     "q": "How do you strap a broken toe at home?",
+     "a": "A small piece of cotton wool or gauze is placed between the two toes and the broken toe is taped to the toe next to it; the strapping stays on for 2 to 3 weeks [1]. If the toe is pointing at an odd angle or the injured toe is the big toe, do not strap it; go to the emergency department [1]."
+    },
+    {
+     "q": "How long does a broken foot stay in a cast or boot?",
+     "a": "It depends on which bone is broken: 3 to 6 weeks for metatarsal shaft fractures [3][4], generally two weeks in a boot for an avulsion fracture of the fifth metatarsal, and 6 to 10 weeks in a cast for a Jones fracture [3]."
+    },
+    {
+     "q": "How many weeks do a broken foot and a broken toe take to knit?",
+     "a": "Toe fractures usually heal within 4 to 6 weeks, but it can sometimes take several months [1]. Metatarsal fractures usually heal enough for weightbearing in 6 to 8 weeks [2]; with a Jones fracture, healing can take up to 12 weeks [3]."
+    },
+    {
+     "q": "What helps a broken foot, and which foods help the bone heal?",
+     "a": "A healthy, well-balanced diet that includes protein, calcium, vitamin C and vitamin D is recommended; supplements that go beyond the daily requirements are not effective [7]. Fractures take longer to heal in smokers [6]. Resting the foot, keeping it raised while it is swollen and applying ice in the first few days are also recommended [1]."
+    }
+   ],
+   "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
+  },
+  "ru": {
+   "slug": "perelom-stopy-i-paltsa-nogi",
+   "title": "Перелом стопы и пальца ноги: симптомы и за сколько дней заживает?",
+   "description": "Как понять, что сломана стопа или палец ноги, и за сколько дней заживает перелом? Фиксация пальца, сроки гипса или ортеза, плюсневые кости, операция.",
+   "summary": "Переломы стопы чаще всего затрагивают плюсневые кости (длинные кости переднего отдела стопы) и пальцы; они вызывают боль, отёк и кровоподтёк, а диагноз подтверждают рентгеном [2][3]. Большинство заживает без операции: малые пальцы фиксируют пластырем к соседнему пальцу и носят обувь с жёсткой подошвой, при переломах плюсневых костей применяют гипс или ортез-сапожок [2][3]. Переломы пальцев обычно заживают за 4–6 недель, переломы плюсневых костей за 6–8 недель срастаются настолько, что на ногу можно опираться; перелом большого пальца, открытые переломы и переломы со смещением, а также перелом Джонса требуют более тщательного наблюдения [1][2][3].",
+   "sections": [
+    {
+     "h": "Что такое перелом стопы и пальца ноги и как он возникает?",
+     "p": [
+      "В переднем отделе стопы находятся пять плюсневых костей и 14 костей пальцев [2]. Самые частые переломы стопы — переломы пальцев [3].",
+      "Основные причины — удар стопой о твёрдый предмет, падение тяжёлого предмета на пальцы, сдавление или подворачивание стопы и падение с высоты [2][3][4]. Стрессовым (усталостным) переломам, которые развиваются при повторяющейся нагрузке, посвящена отдельная статья [2]."
+     ]
+    },
+    {
+     "h": "Как понять, что стопа сломана?",
+     "p": [
+      "Самые частые симптомы — боль и отёк [2]. То, насколько можно опираться на стопу, зависит от тяжести перелома и от того, как человек переносит боль [4]. Вы можете сомневаться, сломан палец или только ушиблен; лечение в обоих случаях обычно одинаковое [1].",
+      "Перелом, оставленный без лечения, может привести к хронической боли в стопе; если вы подозреваете перелом, как можно скорее обратитесь к врачу [2]. На перелом указывают следующие признаки [1][2][4]:"
+     ],
+     "list": [
+      "Кровоподтёк, который может распространяться на соседние участки стопы",
+      "Боль при ходьбе и опоре на ногу",
+      "Болезненность в одной точке над костью"
+     ]
+    },
+    {
+     "h": "Когда нужен рентген?",
+     "p": [
+      "Диагноз подтверждают рентгеном; стопу или палец снимают в трёх проекциях [3][4]. После подворачивания стопы решить, нужен ли рентген, помогают Оттавские правила [4]: снимок стопы делают, если боль в среднем отделе стопы сочетается с болезненностью у основания пятой плюсневой кости или в области ладьевидной кости либо если на ногу невозможно опереться сразу после травмы и во время осмотра [3].",
+      "Если травмирован не большой палец, кость не выступает наружу, палец не стоит под неестественным углом и нет раны, врачи обычно советуют начать лечение дома; если боль и отёк не уменьшились за пять дней, врач может назначить рентген [1]. Повреждения суставов среднего отдела стопы (повреждение Лисфранка) часто остаются незамеченными; при подозрении на них рентген делают с нагрузкой на стопу [4]."
+     ]
+    },
+    {
+     "h": "Перелом пальца ноги: как фиксировать и нужен ли гипс?",
+     "p": [
+      "Большинство переломов пальцев можно лечить без операции [2][4]. При переломе малых пальцев, включая мизинец, вначале палец фиксируют пластырем к соседнему, носят обувь с жёсткой подошвой и ходят настолько, насколько позволяет боль; гипс или ортез применяют главным образом при переломах большого пальца [3].",
+      "Чтобы зафиксировать палец, положите небольшой кусочек ваты или марли между больным и соседним пальцем и скрепите оба пальца пластырем; повязку носят 2–3 недели [1]. Не фиксируйте палец, если он стоит под неестественным углом или если травмирован большой палец [1].",
+      "Обувь с жёсткой подошвой, по данным разных источников, носят 2–6 или 4–6 недель [3][4]. О выборе обезболивающего можно посоветоваться с фармацевтом или врачом [1]. Дома рекомендуют следующее [1]:"
+     ],
+     "list": [
+      "Давать стопе покой и держать её в приподнятом положении, пока сохраняется отёк",
+      "В первые дни прикладывать лёд, завёрнутый в полотенце, каждые несколько часов на время до 20 минут",
+      "Носить широкую обувь на плоской жёсткой подошве; избегать тесной обуви с узким носком",
+      "В первые дни не ходить подолгу; отказаться от таких видов спорта, как футбол, на 6 недель или до тех пор, пока не пройдёт боль"
+     ]
+    },
+    {
+     "h": "Перелом большого пальца ноги, переломы со смещением и открытые переломы",
+     "p": [
+      "За большим пальцем наблюдают внимательнее из-за его роли в опоре на стопу [4]. Его перелом обычно лечат 2–3 недели в короткой гипсовой повязке для ходьбы или в ортезе-сапожке; затем, если выраженных жалоб нет, ещё 3–4 недели продолжают фиксацию пластырем и ношение обуви с жёсткой подошвой [3]. Заживление обычно занимает 4–6 недель; возвращение к работе и спорту может занять 6–8 недель [3].",
+      "Если концы кости разошлись (перелом со смещением) и палец выглядит искривлённым, врачу может понадобиться вправить отломки под местной анестезией [2]. Перелом в сочетании с вывихом, переломы со смещением, затрагивающие суставную поверхность, а у детей — переломы в зоне роста оценивает ортопед [3].",
+      "Если повреждена кожа (открытый перелом), бактерии могут попасть в рану и вызвать инфекцию в кости; лечение требуется немедленно [2]."
+     ]
+    },
+    {
+     "h": "Перелом плюсневой кости: ортез, гипс или операция",
+     "p": [
+      "При большинстве переломов плюсневых костей вначале стопу держат в приподнятом положении и ограничивают нагрузку, затем постепенно увеличивают нагрузку в гипсе или ортезе-сапожке [2]. При переломах тела кости сначала применяют лонгету и костыли; если на контрольном рентгене перелом стабилен, переходят на гипсовую повязку для ходьбы или ортез-сапожок [3]. Срок ношения гипса, ортеза или обуви с жёсткой подошвой в разных источниках составляет 3–6 или 4–6 недель [3][4].",
+      "Операция обычно не требуется; она может понадобиться, если сломано сразу несколько плюсневых костей и стопа деформирована или нестабильна [2]."
+     ]
+    },
+    {
+     "h": "Пятая плюсневая кость: отрывной перелом и перелом Джонса",
+     "p": [
+      "Около 30% переломов плюсневых костей приходится на основание пятой плюсневой кости — той, что ведёт к мизинцу [5]. Чаще всего такой перелом возникает, когда стопа и голеностоп подворачиваются вниз и внутрь [2].",
+      "При отрывном переломе связка, прикреплённая к основанию кости, отрывает небольшой костный фрагмент [2]. Переломы без смещения обычно лечат давящей повязкой с нагрузкой на ногу в пределах переносимости, а переломы со смещением менее 3 мм — в ортезе-сапожке, обычно в течение двух недель; заживление занимает 4–8 недель [3]. В рандомизированном исследовании, вошедшем в систематический обзор, пациенты с такими переломами, которым вместо обездвиживания проводили раннее функциональное лечение, вернулись к работе раньше (11 дней против 28), а остальные результаты были сходными [5].",
+      "Перелом Джонса — поперечный перелом у основания той же кости, в области, расположенной ближе к её телу; из-за слабого кровоснабжения этой области сращение может задерживаться, а частота несращения высока [2][3]. При лечении без операции сначала накладывают лонгету, затем на 6–8 недель — короткую гипсовую повязку, в которой на ногу не опираются; фиксация обычно длится 6–10 недель, заживление — до 12 недель [3]. Если есть опасение, что сращение задержится, или человек очень активен (например, спортсмен, выступающий на соревнованиях), в качестве первого лечения может быть рекомендована операция [2]. В одном рандомизированном исследовании из того же обзора при переломах в ближайшей к телу кости части основания операция дала лучшие результаты, чем обездвиживание [5]."
+     ]
+    },
+    {
+     "h": "За сколько дней заживает и что помогает?",
+     "p": [
+      "Переломы пальцев обычно заживают за 4–6 недель, иногда на это уходит несколько месяцев [1]. До того как можно будет удобно ходить в обычной обуви, может пройти 6–8 недель; то, что палец остаётся болезненным и отёчным 3–6 месяцев, считается нормальным [2]. Переломы плюсневых костей обычно за 6–8 недель срастаются настолько, что на ногу можно опираться, однако это может занять больше времени [2].",
+      "Чтобы сломанная кость срослась, нужно полноценное питание: лучший способ его обеспечить — здоровый сбалансированный рацион, включающий белок, кальций, витамины C и D; пищевые добавки сверх суточной потребности неэффективны [7]. У курящих переломы заживают дольше [6]; табак или никотин в любой форме подавляет заживление кости и повышает вероятность несращения [7].",
+      "Обратитесь к врачу, если боль и отёк не уменьшились за пять дней или если через шесть недель ходить всё ещё больно [1]. Заживление переломов и уход за гипсом описаны в отдельной статье."
+     ]
+    },
+    {
+     "h": "Когда обращаться без промедления",
+     "p": [
+      "Пациентов с переломами принимают через отделение неотложной помощи больницы; запись не требуется. В следующих случаях обращайтесь без промедления; в первых пяти сразу отправляйтесь в отделение неотложной помощи [1][2]:"
+     ],
+     "list": [
+      "Вы думаете, что сломали большой палец ноги",
+      "Палец стоит под неестественным углом или изменилась форма стопы",
+      "Кость вышла наружу через кожу",
+      "В пальце или стопе есть покалывание или онемение",
+      "Травму получил ребёнок; не лечите травму пальца у ребёнка самостоятельно",
+      "Есть серьёзный порез или рана либо сильная боль",
+      "У вас сахарный диабет и вы повредили палец ноги"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Накладывают ли гипс при переломе пальца ноги?",
+     "a": "При переломе малых пальцев лечение обычно состоит в фиксации пальца пластырем к соседнему и ношении обуви с жёсткой подошвой [3]. При переломе большого пальца на 2–3 недели могут назначить короткую гипсовую повязку для ходьбы или ортез-сапожок [3]."
+    },
+    {
+     "q": "Как зафиксировать сломанный палец ноги дома?",
+     "a": "Между двумя пальцами кладут небольшой кусочек ваты или марли и скрепляют сломанный палец с соседним пластырем; повязку носят 2–3 недели [1]. Если палец стоит под неестественным углом или травмирован большой палец, не фиксируйте его, а обратитесь в отделение неотложной помощи [1]."
+    },
+    {
+     "q": "Сколько носят гипс или ортез при переломе стопы?",
+     "a": "Это зависит от того, какая кость сломана: при переломах тела плюсневой кости — 3–6 недель [3][4], при отрывном переломе пятой плюсневой кости — обычно две недели в ортезе, а при переломе Джонса нужен гипс на 6–10 недель [3]."
+    },
+    {
+     "q": "За сколько недель срастается перелом стопы и пальца ноги?",
+     "a": "Переломы пальцев обычно заживают за 4–6 недель, иногда на это уходит несколько месяцев [1]. Переломы плюсневых костей обычно за 6–8 недель срастаются настолько, что на ногу можно опираться [2]; при переломе Джонса заживление может занять до 12 недель [3]."
+    },
+    {
+     "q": "Что помогает при переломе стопы и какие продукты способствуют сращению?",
+     "a": "Рекомендуется здоровый сбалансированный рацион, включающий белок, кальций, витамины C и D; добавки сверх суточной потребности неэффективны [7]. У курящих переломы заживают дольше [6]. Рекомендуют также давать стопе покой, держать её приподнятой, пока сохраняется отёк, и в первые дни прикладывать лёд [1]."
+    }
+   ],
+   "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
+  },
+  "fa": {
+   "slug": "shekastegi-pa-va-angosht-pa",
+   "title": "شکستگی پا و انگشت پا: علائم آن چیست و چند روزه خوب می‌شود؟",
+   "description": "شکستگی پا و انگشت پا چگونه تشخیص داده می‌شود و چند روزه خوب می‌شود؟ بستن انگشت شکسته، مدت گچ یا بوت، شکستگی استخوان‌های کف پا و جراحی.",
+   "summary": "شکستگی‌های پا بیشتر استخوان‌های کف پا (متاتارس‌ها) و انگشتان پا را درگیر می‌کنند؛ درد، تورم و کبودی ایجاد می‌کنند و تشخیص با عکس رادیولوژی تأیید می‌شود [2][3]. بیشتر آن‌ها بدون جراحی خوب می‌شوند: انگشتان کوچک با چسب به انگشت کناری بسته می‌شوند و کفش با زیرهٔ سفت پوشیده می‌شود و در شکستگی استخوان‌های کف پا از گچ یا بوت طبی استفاده می‌شود [2][3]. شکستگی انگشتان معمولاً ظرف ۴ تا ۶ هفته خوب می‌شود و شکستگی استخوان‌های کف پا ظرف ۶ تا ۸ هفته به اندازه‌ای جوش می‌خورد که بتوان روی پا وزن گذاشت؛ شکستگی شست پا، شکستگی‌های باز یا جابه‌جاشده و شکستگی جونز به پیگیری دقیق‌تری نیاز دارند [1][2][3].",
+   "sections": [
+    {
+     "h": "شکستگی پا و انگشت پا چیست و چگونه رخ می‌دهد؟",
+     "p": [
+      "در بخش جلویی پا پنج استخوان کف پا (متاتارس) و ۱۴ استخوان انگشت قرار دارد [2]. شایع‌ترین شکستگی پا شکستگی انگشتان است [3].",
+      "علت‌های اصلی عبارت‌اند از برخورد پا با جسمی سخت، افتادن جسمی سنگین روی انگشتان، له‌شدگی یا پیچ خوردن پا و سقوط از ارتفاع [2][3][4]. شکستگی‌های استرسی که با فشار تکراری ایجاد می‌شوند موضوع نوشته‌ای جداگانه است [2]."
+     ]
+    },
+    {
+     "h": "شکستگی پا چگونه تشخیص داده می‌شود؟",
+     "p": [
+      "شایع‌ترین علائم درد و تورم است [2]. اینکه چقدر می‌توان روی پا وزن گذاشت به شدت شکستگی و میزان تحمل درد فرد بستگی دارد [4]. ممکن است مطمئن نباشید که انگشت شکسته یا فقط کوفته شده است؛ درمان در هر دو حالت معمولاً یکسان است [1].",
+      "شکستگی درمان‌نشده ممکن است به درد مزمن پا بینجامد؛ اگر فکر می‌کنید شکستگی دارید، هرچه زودتر به پزشک مراجعه کنید [2]. نشانه‌های زیر شکستگی را مطرح می‌کند [1][2][4]:"
+     ],
+     "list": [
+      "کبودی‌ای که ممکن است به بخش‌های مجاور پا گسترش یابد",
+      "درد هنگام راه رفتن و وزن گذاشتن روی پا",
+      "حساسیت به لمس در یک نقطه روی استخوان"
+     ]
+    },
+    {
+     "h": "چه زمانی عکس رادیولوژی لازم است؟",
+     "p": [
+      "تشخیص با عکس رادیولوژی تأیید می‌شود؛ از پا یا انگشت از سه نما عکس گرفته می‌شود [3][4]. پس از پیچ‌خوردگی، قوانین اتاوا به تصمیم‌گیری دربارهٔ لزوم عکس کمک می‌کند [4]: اگر درد بخش میانی پا با حساسیت در قاعدهٔ استخوان پنجم کف پا یا روی استخوان ناوی همراه باشد، یا بلافاصله پس از آسیب و هنگام معاینه نتوان روی پا وزن گذاشت، از پا عکس گرفته می‌شود [3].",
+      "اگر انگشت آسیب‌دیده شست نباشد، استخوان بیرون نزده باشد، انگشت کج نشده باشد و زخمی وجود نداشته باشد، پزشکان معمولاً توصیه می‌کنند درمان در خانه شروع شود؛ اگر درد و تورم پس از پنج روز کم نشود، پزشک ممکن است عکس رادیولوژی درخواست کند [1]. آسیب‌های مفصلی بخش میانی پا (آسیب لیسفرانک) اغلب نادیده می‌مانند؛ در صورت شک، عکس در حالتی گرفته می‌شود که وزن روی پا است [4]."
+     ]
+    },
+    {
+     "h": "شکستگی انگشت پا: چگونه بسته می‌شود و آیا گچ لازم است؟",
+     "p": [
+      "بیشتر شکستگی‌های انگشت را می‌توان بدون جراحی درمان کرد [2][4]. در انگشتان کوچک، از جمله انگشت کوچک پا، درمان اولیه بستن انگشت به انگشت کناری با چسب، پوشیدن کفش با زیرهٔ سفت و راه رفتن در حدی است که درد اجازه می‌دهد؛ گچ یا بوت بیشتر در شکستگی شست پا به کار می‌رود [3].",
+      "برای بستن، تکهٔ کوچکی پنبه یا گاز میان انگشت دردناک و انگشت کناری بگذارید و دو انگشت را با چسب به هم ببندید؛ این بانداژ ۲ تا ۳ هفته می‌ماند [1]. اگر انگشت کج شده یا انگشت آسیب‌دیده شست است، آن را نبندید [1].",
+      "کفش با زیرهٔ سفت بسته به منبع ۲ تا ۶ یا ۴ تا ۶ هفته استفاده می‌شود [3][4]. دربارهٔ مسکّن می‌توان با داروساز یا پزشک مشورت کرد [1]. این کارها در خانه توصیه می‌شود [1]:"
+     ],
+     "list": [
+      "استراحت دادن به پا و بالا نگه داشتن آن تا زمانی که متورم است",
+      "در روزهای نخست، گذاشتن یخِ پیچیده در حوله هر چند ساعت یک بار و تا ۲۰ دقیقه",
+      "پوشیدن کفش پهن، تخت و با زیرهٔ سفت؛ پرهیز از کفش تنگ و نوک‌تیز",
+      "پرهیز از راه رفتن طولانی در روزهای نخست؛ کنار گذاشتن ورزش‌هایی مانند فوتبال به مدت ۶ هفته یا تا زمانی که درد برطرف شود"
+     ]
+    },
+    {
+     "h": "شکستگی شست پا، شکستگی‌های جابه‌جاشده و شکستگی باز",
+     "p": [
+      "شست پا به دلیل نقشی که در تحمل وزن دارد با دقت بیشتری پیگیری می‌شود [4]. شکستگی آن معمولاً ۲ تا ۳ هفته با گچ کوتاهی که می‌توان با آن راه رفت یا با بوت طبی درمان می‌شود؛ پس از آن، اگر شکایت چشمگیری نباشد، درمان با بستن انگشت و کفش با زیرهٔ سفت ۳ تا ۴ هفته ادامه می‌یابد [3]. بهبودی معمولاً ۴ تا ۶ هفته طول می‌کشد؛ بازگشت به کار و ورزش ممکن است ۶ تا ۸ هفته زمان ببرد [3].",
+      "اگر دو سر استخوان از هم جدا شده (شکستگی جابه‌جاشده) و انگشت کج به نظر می‌رسد، ممکن است لازم باشد پزشک شکستگی را با بی‌حسی موضعی جا بیندازد [2]. شکستگی همراه با دررفتگی، شکستگی‌های جابه‌جاشده‌ای که سطح مفصل را درگیر کرده‌اند و در کودکان شکستگی‌های صفحهٔ رشد را متخصص ارتوپدی ارزیابی می‌کند [3].",
+      "اگر پوست باز شده باشد (شکستگی باز)، باکتری‌ها ممکن است وارد زخم شوند و در استخوان عفونت ایجاد کنند؛ درمان فوری لازم است [2]."
+     ]
+    },
+    {
+     "h": "شکستگی استخوان کف پا (متاتارس): بوت، گچ یا جراحی",
+     "p": [
+      "در بیشتر شکستگی‌های استخوان‌های کف پا، در آغاز پا بالا نگه داشته و وزن‌گذاری محدود می‌شود و سپس در گچ یا بوت طبی وزن‌گذاری به‌تدریج افزایش می‌یابد [2]. در شکستگی‌های تنهٔ استخوان ابتدا از آتل و عصای زیربغل استفاده می‌شود؛ اگر شکستگی در عکس رادیولوژی پیگیری پایدار باشد، گچی که می‌توان با آن راه رفت یا بوت جایگزین می‌شود [3]. مدت استفاده از گچ، بوت یا کفش با زیرهٔ سفت بسته به منبع ۳ تا ۶ یا ۴ تا ۶ هفته است [3][4].",
+      "جراحی معمولاً لازم نیست؛ اگر چند استخوان کف پا با هم شکسته باشند و پا تغییر شکل داده یا ناپایدار باشد، ممکن است لازم شود [2]."
+     ]
+    },
+    {
+     "h": "استخوان پنجم کف پا: شکستگی کنده‌شدگی و شکستگی جونز",
+     "p": [
+      "حدود ۳۰ درصد شکستگی‌های استخوان‌های کف پا در قاعدهٔ استخوان پنجم است؛ یعنی استخوانی که به انگشت کوچک می‌رسد [5]. این شکستگی بیشتر زمانی رخ می‌دهد که پا و مچ پا به سمت پایین و داخل می‌چرخند [2].",
+      "در شکستگی کنده‌شدگی (اَوالژن)، رباطی که به قاعدهٔ استخوان می‌چسبد قطعهٔ کوچکی از استخوان را جدا می‌کند [2]. موارد بدون جابه‌جایی معمولاً با بانداژ فشاری و وزن‌گذاری در حد تحمل و موارد با جابه‌جایی کمتر از ۳ میلی‌متر معمولاً با دو هفته بوت طبی درمان می‌شوند؛ بهبودی ۴ تا ۸ هفته طول می‌کشد [3]. در یک کارآزمایی تصادفی‌شده در یک مرور نظام‌مند، بیمارانِ دچار این شکستگی‌ها که به جای بی‌حرکت‌سازی درمان عملکردیِ زودهنگام گرفتند زودتر به کار بازگشتند (۱۱ روز در برابر ۲۸ روز) و دیگر نتایج مشابه بود [5].",
+      "شکستگی جونز شکستگی عرضی در قاعدهٔ همان استخوان و در ناحیه‌ای نزدیک‌تر به تنهٔ آن است؛ چون خون‌رسانی این ناحیه ضعیف است، جوش خوردن ممکن است به تأخیر بیفتد و میزان جوش نخوردن بالا است [2][3]. در درمان بدون جراحی ابتدا آتل و سپس ۶ تا ۸ هفته گچ کوتاه پا بدون وزن‌گذاری به کار می‌رود؛ بی‌حرکت‌سازی معمولاً ۶ تا ۱۰ هفته و بهبودی تا ۱۲ هفته طول می‌کشد [3]. اگر نگرانی از تأخیر در جوش خوردن وجود داشته باشد یا فرد بسیار فعال باشد (برای نمونه ورزشکار رقابتی)، ممکن است جراحی به‌عنوان درمان اولیه توصیه شود [2]. در یک کارآزمایی تصادفی‌شده در همان مرور، در شکستگی‌های بخشی از قاعده که به تنهٔ استخوان نزدیک‌تر است، جراحی نتیجهٔ بهتری از بی‌حرکت‌سازی داشت [5]."
+     ]
+    },
+    {
+     "h": "چند روزه خوب می‌شود و چه چیزی کمک می‌کند؟",
+     "p": [
+      "شکستگی انگشتان معمولاً ظرف ۴ تا ۶ هفته خوب می‌شود، اما گاهی چند ماه طول می‌کشد [1]. ممکن است ۶ تا ۸ هفته طول بکشد تا بتوان با کفش معمولی راحت راه رفت؛ دردناک و متورم ماندن انگشت به مدت ۳ تا ۶ ماه طبیعی است [2]. شکستگی استخوان‌های کف پا معمولاً ظرف ۶ تا ۸ هفته به اندازه‌ای جوش می‌خورد که بتوان روی پا وزن گذاشت، اما ممکن است بیشتر طول بکشد [2].",
+      "استخوان شکسته برای جوش خوردن به تغذیهٔ کافی نیاز دارد: بهترین راه تأمین آن، رژیم غذایی سالم و متعادلی است که پروتئین، کلسیم و ویتامین‌های C و D داشته باشد؛ مکمل‌های غذایی بیش از نیاز روزانه مؤثر نیستند [7]. شکستگی در افراد سیگاری دیرتر خوب می‌شود [6]؛ تنباکو یا نیکوتین به هر شکل ترمیم استخوان را مهار می‌کند و احتمال جوش نخوردن را بالا می‌برد [7].",
+      "اگر درد و تورم پس از پنج روز کم نشده یا پس از شش هفته راه رفتن هنوز دردناک است، به پزشک مراجعه کنید [1]. ترمیم شکستگی و مراقبت از گچ در نوشته‌ای جداگانه توضیح داده شده است."
+     ]
+    },
+    {
+     "h": "چه زمانی نباید منتظر ماند",
+     "p": [
+      "شکستگی‌ها از طریق اورژانس بیمارستان ارزیابی می‌شوند؛ نیازی به نوبت نیست. در موارد زیر بدون تأخیر مراجعه کنید؛ در پنج مورد نخست مستقیم به اورژانس بروید [1][2]:"
+     ],
+     "list": [
+      "اگر فکر می‌کنید شست پایتان شکسته است",
+      "اگر انگشت در زاویه‌ای غیرعادی قرار گرفته یا شکل پا تغییر کرده است",
+      "اگر استخوان از پوست بیرون زده است",
+      "اگر در انگشت یا پا گزگز یا بی‌حسی دارید",
+      "اگر آسیب‌دیده کودک است؛ آسیب انگشت کودک را خودتان درمان نکنید",
+      "اگر بریدگی یا زخم بدی وجود دارد یا درد شدید است",
+      "اگر دیابت دارید و انگشت پایتان آسیب دیده است"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "آیا شکستگی انگشت پا گچ گرفته می‌شود؟",
+     "a": "در شکستگی انگشتان کوچک، درمان معمولاً بستن انگشت به انگشت کناری با چسب و پوشیدن کفش با زیرهٔ سفت است [3]. در شکستگی شست پا ممکن است ۲ تا ۳ هفته از گچ کوتاهی که می‌توان با آن راه رفت یا از بوت طبی استفاده شود [3]."
+    },
+    {
+     "q": "انگشت شکستهٔ پا را در خانه چگونه ببندیم؟",
+     "a": "تکهٔ کوچکی پنبه یا گاز میان دو انگشت گذاشته می‌شود و انگشت شکسته با چسب به انگشت کناری بسته می‌شود؛ این بانداژ ۲ تا ۳ هفته می‌ماند [1]. اگر انگشت کج شده یا انگشت آسیب‌دیده شست است، آن را نبندید و به اورژانس مراجعه کنید [1]."
+    },
+    {
+     "q": "پای شکسته چه مدت در گچ یا بوت می‌ماند؟",
+     "a": "به استخوان شکسته بستگی دارد: در شکستگی تنهٔ استخوان‌های کف پا ۳ تا ۶ هفته [3][4]، در شکستگی کنده‌شدگی استخوان پنجم کف پا معمولاً دو هفته بوت، و در شکستگی جونز ۶ تا ۱۰ هفته گچ لازم است [3]."
+    },
+    {
+     "q": "شکستگی پا و انگشت پا در چند هفته جوش می‌خورد؟",
+     "a": "شکستگی انگشتان معمولاً ظرف ۴ تا ۶ هفته خوب می‌شود، اما گاهی چند ماه طول می‌کشد [1]. شکستگی استخوان‌های کف پا معمولاً ظرف ۶ تا ۸ هفته به اندازه‌ای جوش می‌خورد که بتوان روی پا وزن گذاشت [2]؛ در شکستگی جونز بهبودی ممکن است تا ۱۲ هفته طول بکشد [3]."
+    },
+    {
+     "q": "برای شکستگی پا چه چیزی خوب است و کدام غذاها به جوش خوردن کمک می‌کنند؟",
+     "a": "رژیم غذایی سالم و متعادلی که پروتئین، کلسیم و ویتامین‌های C و D داشته باشد توصیه می‌شود؛ مکمل‌های بیش از نیاز روزانه مؤثر نیستند [7]. شکستگی در افراد سیگاری دیرتر خوب می‌شود [6]. استراحت دادن به پا، بالا نگه داشتن آن تا زمانی که متورم است و گذاشتن یخ در روزهای نخست نیز توصیه می‌شود [1]."
+    }
+   ],
+   "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
+  }
+ }
+}

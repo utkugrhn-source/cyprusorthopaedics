@@ -8,6 +8,8 @@ The purpose of this batch: these topics are what people in Türkiye search for m
 
 One new file: `/home/claude/cyprusorthopaedics/content/blog/<id>.json`. Do not edit any other file, do not run a build, do not run any git command that changes anything.
 
+Other writers are working at the same time and share the scratchpad directory. Keep every script and working file of yours in a subfolder of the scratchpad named after your article id, and never run a script you did not write.
+
 Read these first:
 - `content/blog/plantar-fasciitis.json` and `content/blog/shoulder-calcific.json`: recent articles; copy their structure, tone, length and the way statements carry citations.
 - `docs/TRANSLATION.md`: the Russian and Persian conventions. Follow it exactly.
