@@ -29,7 +29,7 @@ export default function Home({ params }: { params: { lang: string } }) {
   // the doctors' listed publications, taken in turn from each and without repeats, so the block shows a mix
   const seen = new Set<string>();
   const papers = Array.from({ length: Math.max(...doctors.map((d) => d.pubs.length)) }, (_, n) => [...doctors].reverse().map((d) => d.pubs[n]))
-    .flat().filter((x) => x && !seen.has(x.doi) && seen.add(x.doi)).map((x) => ({ text: `${x.a} ${x.t} ${x.j}`, doi: x.doi }));
+    .flat().filter((x) => x && !seen.has(x.doi) && seen.add(x.doi)).map((x) => ({ text: `${x.a} ${x.t} ${x.j}`, doi: x.doi, journal: x.j.split(/\.\s*\d{4}/)[0], year: x.j.match(/\d{4}/)?.[0] ?? "" }));
   // the way in, filmed on a phone: campus, emergency, reception, theatre
   const route = (["kampus", "hastane", "acil", "ambulans", "karsilama", "koridor", "ekip", "mikroskop"] as const)
     .map((id, i) => ({ id, label: t.route.items[i] }));
