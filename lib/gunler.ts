@@ -6,6 +6,7 @@
  * - National and commemoration days marked with a state ceremony: Millî Günleri Kutlama ve Anma Günü Törenleri
  *   (Değişiklik) Tüzüğü, I'inci Cetvel — Resmî Gazete 25 Aralık 2023, sayı 265, Ek III, A.E. 1019.
  *   The 30 local ceremonies of the II'nci Cetvel are left out.
+ *   Left out by the site owner's decision (6 Oct 2026): 24 Mart (Osman Örek) and 3 Nisan (Mustafa Çağatay).
  * - Religious holidays move every year and are entered by hand; eves are not shown.
  */
 export type Gun = { ad: string; mesaj: string };
@@ -16,8 +17,6 @@ const SABIT: Record<string, Gun> = {
   "01-13": { ad: "Rauf Raif Denktaş’ı Anma Günü", mesaj: "Kurucu Cumhurbaşkanı Rauf Raif Denktaş’ı saygıyla anıyoruz." },
   "01-15": { ad: "Dr. Fazıl Küçük’ü Anma Günü", mesaj: "Dr. Fazıl Küçük’ü saygıyla anıyoruz." },
   "03-18": { ad: "Şehitleri Anma Günü", mesaj: "Çanakkale şehitlerini ve tüm şehitlerimizi saygıyla anıyoruz." },
-  "03-24": { ad: "Osman Örek’i Anma Günü", mesaj: "Osman Örek’i saygıyla anıyoruz." },
-  "04-03": { ad: "Mustafa Çağatay’ı Anma Günü", mesaj: "Mustafa Çağatay’ı saygıyla anıyoruz." },
   "04-23": { ad: "Ulusal Egemenlik ve Çocuk Bayramı", mesaj: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kutlu olsun." },
   "05-01": { ad: "İşçi ve Bahar Bayramı", mesaj: "1 Mayıs İşçi ve Bahar Bayramı kutlu olsun." },
   "05-19": { ad: "Atatürk’ü Anma, Gençlik ve Spor Bayramı", mesaj: "19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı kutlu olsun." },
