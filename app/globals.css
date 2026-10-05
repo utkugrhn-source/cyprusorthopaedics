@@ -186,3 +186,14 @@ body { @apply bg-white text-deep font-sans antialiased; font-weight: 300; overfl
 [dir="rtl"] .small { line-height: 1.85; }
 [dir="rtl"] [dir="ltr"] { text-align: left; }
 [dir="rtl"] a[dir="ltr"], [dir="rtl"] bdi[dir="ltr"] { text-align: inherit; }
+
+/* National-day strip (components/GunSeridi.tsx). Fixed to the lower start corner; on phones it sits above the WhatsApp button. Covers no content, moves nothing. */
+.gun { position: fixed; z-index: 39; inset-inline: 1rem; inset-block-end: calc(max(1rem, env(safe-area-inset-bottom)) + 3.25rem + .75rem); display: flex; align-items: center; gap: .75rem; padding: .7rem .6rem .7rem 1rem; border-radius: .6rem; border-inline-start: 4px solid #00ADB5; background: #06363B; color: #fff; font-family: Geologica, system-ui, sans-serif; font-size: .95rem; font-weight: 500; letter-spacing: 0; box-shadow: 0 10px 30px rgba(0,0,0,.25); animation: gunIn .4s cubic-bezier(.2,.7,.2,1) both; }
+.gun-metin { margin: 0; flex: 1; min-width: 0; color: inherit; font: inherit; line-height: 1.4 !important; }
+.gun-x { flex: none; width: 2rem; height: 2rem; border: 0; border-radius: 50%; background: rgba(255,255,255,.12); color: inherit; font-size: 1.25rem; line-height: 1; cursor: pointer; }
+.gun-x:hover { background: rgba(255,255,255,.24); }
+.gun-x:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+@keyframes gunIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@media (min-width: 768px) { .gun { inset-inline: 1.5rem auto; inset-block-end: 1.5rem; max-width: min(40rem, calc(100vw - 15rem)); } }
+@media (prefers-reduced-motion: reduce) { .gun { animation: none; } }
+@media print { .gun { display: none; } }

@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Motion from "@/components/Motion";
 import { LANGS, SITE, PREVIEW, GOOGLE_VERIFY, BING_VERIFY, WHATSAPP, WHATSAPP_UI, ui, dir, type Lang } from "@/lib/site";
 import WhatsApp from "@/components/WhatsApp";
+import GunSeridi from "@/components/GunSeridi";
 import { share } from "@/lib/seo";
 
 export function generateStaticParams() { return LANGS.map((lang) => ({ lang })); }
@@ -28,6 +29,7 @@ export default function LangLayout({ children, params }: { children: React.React
       <body>
         <Motion />
         {children}
+        {params.lang === "tr" && <GunSeridi />}
         <WhatsApp number={WHATSAPP} t={WHATSAPP_UI[params.lang as Lang]} source="cyprusorthopaedics.com" />
       </body>
     </html>
