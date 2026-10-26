@@ -263,11 +263,12 @@ export const doctors: Doctor[] = [
         "از سال ۲۰۲۱ در بیمارستان دانشگاهی دکتر سوات گونسل، گیرنه مشغول به کار است و از سال ۲۰۲۳ به‌عنوان عضو هیئت علمی در گروه ارتوپدی و تروماتولوژی دانشکدهٔ پزشکی دانشگاه گیرنه تدریس می‌کند.",
       ],
     },
+    // stated by Dr. Gürhan on 26 Oct 2026 ("bütün bölümleri ekle"): his own focus first, then the department's full range
     focus: {
-      tr: ["El cerrahisi ve mikrocerrahi", "Replantasyon, sinir ve tendon onarımı", "Flep ile rekonstrüksiyon", "Ortopedik travma"],
-      en: ["Hand surgery and microsurgery", "Replantation, nerve and tendon repair", "Flap reconstruction", "Orthopaedic trauma"],
-      ru: ["Хирургия кисти и микрохирургия", "Реплантация, восстановление нервов и сухожилий", "Реконструкция лоскутами", "Ортопедическая травматология"],
-      fa: ["جراحی دست و میکروجراحی", "پیوند مجدد، ترمیم عصب و تاندون", "بازسازی با فلپ", "ترومای ارتوپدی"],
+      tr: ["El cerrahisi ve mikrocerrahi", "Replantasyon, sinir ve tendon onarımı", "Flep ile rekonstrüksiyon", "Ortopedik travma", "Kalça ve diz protezi", "Artroskopik cerrahi", "Omuz ve dirsek", "Ayak ve ayak bileği", "Çocuk ortopedisi", "Kemik ve yumuşak doku tümörleri"],
+      en: ["Hand surgery and microsurgery", "Replantation, nerve and tendon repair", "Flap reconstruction", "Orthopaedic trauma", "Hip and knee replacement", "Arthroscopic surgery", "Shoulder and elbow", "Foot and ankle", "Children’s orthopaedics", "Bone and soft tissue tumours"],
+      ru: ["Хирургия кисти и микрохирургия", "Реплантация, восстановление нервов и сухожилий", "Реконструкция лоскутами", "Ортопедическая травматология", "Эндопротезирование тазобедренного и коленного суставов", "Артроскопическая хирургия", "Плечевой и локтевой суставы", "Стопа и голеностопный сустав", "Детская ортопедия", "Опухоли костей и мягких тканей"],
+      fa: ["جراحی دست و میکروجراحی", "پیوند مجدد، ترمیم عصب و تاندون", "بازسازی با فلپ", "ترومای ارتوپدی", "تعویض مفصل لگن و زانو", "جراحی آرتروسکوپی", "شانه و آرنج", "پا و مچ پا", "ارتوپدی کودکان", "تومورهای استخوان و بافت نرم"],
     },
     path: [
       { y: "2013", t: { tr: "Tıp Doktoru", en: "Doctor of Medicine", ru: "Врач", fa: "دکترای پزشکی" }, s: { tr: "Ankara Üniversitesi Tıp Fakültesi", en: "Ankara University Faculty of Medicine", ru: "Медицинский факультет Анкарского университета", fa: "دانشکدهٔ پزشکی دانشگاه آنکارا" } },
