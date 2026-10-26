@@ -1,7 +1,7 @@
 {
  "id": "muscle-strain",
  "area": "kirik-travma",
- "updated": "2026-10-04",
+ "updated": "2026-10-26",
  "reviewer": "gurhan",
  "reviewed": true,
  "sources": [
@@ -51,7 +51,7 @@
  "i18n": {
   "tr": {
    "slug": "kas-yirtilmasi-lif-kopmasi",
-   "title": "Kas yırtılması ve lif kopması: nasıl anlaşılır, ne kadar sürede geçer?",
+   "title": "Kas zorlanması, kas yırtılması ve lif kopması: nasıl anlaşılır, kaç günde geçer?",
    "description": "Kas yırtılması ve lif kopması nedir, belirtileri nelerdir? Ne iyi gelir, hangi krem kullanılır, ne kadar sürede iyileşir, ameliyat ne zaman gerekir?",
    "summary": "Kas yırtılması, kasın sınırının ötesinde gerilmesiyle liflerinin yırtılmasıdır; liflerin bir bölümünün yırtıldığı kısmi yırtığa halk arasında lif kopması denir [2][4]. Tedavi çoğunlukla ameliyatsızdır: ilk günlerde koruma, soğuk uygulama, bandaj ve yükseltme, ardından kademeli hareket ve güçlendirme uygulanır [1][2][3]. Spora dönüş hafif yırtıklarda 10 gün ile 3 hafta, ağır yırtıklarda 6 aya kadar sürebilir [2].",
    "sections": [
@@ -395,6 +395,10 @@
     }
    ],
    "faq": [
+    {
+     "q": "Как отличить разрыв мышцы от растяжения?",
+     "a": "По силе боли и потере функции. При лёгком растяжении (первая степень) заметного разрыва и потери силы нет. При надрыве (вторая степень) возникает острая колющая боль, часто со щелчком, и сила мышцы снижается. При полном разрыве человек часто падает, в мышце прощупывается провал, появляется обширный кровоподтёк [2][3][4]. Степень уточняют при осмотре, при необходимости с помощью УЗИ или МРТ [4]."
+    },
     {
      "q": "За сколько дней проходит растяжение мышцы?",
      "a": "После лёгкого повреждения возвращение к спорту может занять от 10 дней до 3 недель; при большинстве растяжений мышц через две недели становится легче [1][2]. При тяжёлых разрывах восстановление может затянуться до 6 месяцев [2]."

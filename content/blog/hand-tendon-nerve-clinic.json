@@ -1,7 +1,7 @@
 {
  "id": "hand-tendon-nerve-clinic",
  "area": "el-bilek",
- "updated": "2026-10-03",
+ "updated": "2026-10-26",
  "reviewer": "gurhan",
  "reviewed": true,
  "sources": [
@@ -128,6 +128,10 @@
     }
    ],
    "faq": [
+    {
+     "q": "Derin parmak kesiği kaç günde iyileşir?",
+     "a": "Süreyi kesiğin hangi yapılara ulaştığı belirler. Derin bir kesikte tendon ya da sinir de kesilmiş olabilir; parmağı bükmekte güçlük ya da uyuşma varsa aynı gün değerlendirilmesi gerekir. Tendon onarıldıysa atel birkaç hafta kullanılır ve tendon yaklaşık üç ayda tam güce ulaşır; sinir günde yaklaşık bir milimetre büyür ve sonuç iki yılı bulabilir [1][2][3][4]."
+    },
     {
      "q": "Kesikten sonra parmağım bükülmüyor, ne yapmalıyım?",
      "a": "Kesikten sonra bükülmeyen bir parmak fleksör tendonun kesildiğini düşündürür. Yarayı musluk suyuyla yıkayın, kapatın, eli yukarıda tutun ve aynı gün bir el cerrahı ya da acil serviste değerlendirilin [1][2][5]."

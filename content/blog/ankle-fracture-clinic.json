@@ -1,7 +1,7 @@
 {
  "id": "ankle-fracture-clinic",
  "area": "kirik-travma",
- "updated": "2026-10-03",
+ "updated": "2026-10-26",
  "reviewer": "gurhan",
  "reviewed": true,
  "sources": [
@@ -145,6 +145,10 @@
     {
      "q": "Kırık bilek kaç haftada kaynar?",
      "a": "Kemik genellikle 6-12 haftada kaynar. Bileğin gücünü tam geri kazanmak birkaç ay sürebilir [1][2]."
+    },
+    {
+     "q": "Ayak bileği kırığında alçı ne zaman çıkar?",
+     "a": "Süreyi kırığın tipine ve tedaviye göre hekiminiz belirler. Erken iyileşme en az 6 hafta sürer; hafif kırıklar sıklıkla 6–8 haftada iyileşir, kemiğin tam kaynaması 10–12 haftayı bulur [1][2]. Alçıyı ya da botu kendiniz çıkarmayın."
     }
    ],
    "note": "Kliniğimizde kararı kırığın kaç kemiği tuttuğuna, bileğin dengeli olup olmadığına, cildin durumuna ve sizin diğer hastalıklarınıza bakarak sizinle konuşarak veririz."

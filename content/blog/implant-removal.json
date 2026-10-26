@@ -1,7 +1,7 @@
 {
  "id": "implant-removal",
  "area": "kirik-travma",
- "updated": "2026-10-04",
+ "updated": "2026-10-26",
  "reviewer": "gurhan",
  "reviewed": true,
  "sources": [
@@ -51,8 +51,8 @@
  "i18n": {
   "tr": {
    "slug": "platin-ameliyati-platin-cikarma",
-   "title": "Platin ameliyatı ve platin çıkarma: şart mı, riskleri nelerdir?",
-   "description": "Platin ameliyatı nedir, platin çıkarılmalı mı, ne zaman çıkarılır? Plak ve vida çıkarma ameliyatı ne kadar sürer, riskleri ve sonrası iyileşme süreci.",
+   "title": "Platin çıkarma ameliyatı: zor mu, ne zaman çıkarılır, kaç saat sürer?",
+   "description": "Platin çıkarılmalı mı, ne zaman çıkarılır? Platin çıkarma ameliyatı zor mu, kaç saat sürer, riskleri neler ve sonrasında iyileşme süreci nasıl?",
    "summary": "Kırık ameliyatında takılan ve gündelik dilde \"platin\" denen plak, vida ve çiviler çoğunlukla paslanmaz çelik ya da titanyumdan yapılır; kırık kaynadıktan sonra yerinde bırakılabilir ya da seçilmiş durumlarda çıkarılabilir [1]. Bugünkü genel öneri, implantın yalnızca yakınmaya yol açtığında ve riskler anlatıldıktan sonra çıkarılmasıdır [2]. Çıkarma ameliyatının da yeniden kırık, sinir yaralanması ve enfeksiyon gibi riskleri vardır [3][4].",
    "sections": [
     {
@@ -177,6 +177,18 @@
     {
      "q": "Platin çıkarma ameliyatı sonrası iyileşme süreci nasıldır?",
      "a": "Hastaların çoğu aynı gün evine döner [5][6]. Kol ameliyatlarından sonra çoğu kişi 1–2 hafta içinde işe döner ve temas sporlarından 6 hafta kaçınır [5]; ayak ve ayak bileğinde tam iyileşme birkaç ay sürebilir [6]."
+    },
+    {
+     "q": "El bileğine ya da ayak bileğine takılan platin ne zaman çıkarılır?",
+     "a": "Bölgeye göre belirlenmiş sabit bir süre yoktur. Platin her hastada çıkarılmaz; çıkarılacaksa kırık kaynadıktan sonra ve çoğunlukla ağrı, çıkıntı ya da tahriş gibi bir yakınma varsa çıkarılır [1][2]. Ayak ve ayak bileğinden çıkarma ameliyatı için bir hastane broşürü yarım saat ile bir buçuk saat arası bir süre verir [6]."
+    },
+    {
+     "q": "Plak ile platin arasında fark var mı?",
+     "a": "\"Platin\", kırık ameliyatında takılan plak, vida, çivi ve tellerin hepsi için kullanılan gündelik addır; plak bunlardan biridir. Bu implantlar platinden değil, çoğunlukla paslanmaz çelik ya da titanyumdan yapılır [1]."
+    },
+    {
+     "q": "Platin kırılır mı?",
+     "a": "Olabilir: kırık gerektiği gibi kaynamazsa plak ya da çivi kırılabilir [1]. Yerinden oynayan ya da kırılan implant çıkarma nedenlerinden biridir [2][3]; ameliyat bölgesinde yeniden ağrı başlarsa hekiminize görünün."
     }
    ],
    "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
