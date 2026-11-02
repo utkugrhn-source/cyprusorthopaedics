@@ -132,10 +132,10 @@ export const doctors: Doctor[] = [
     },
     // stated by Dr. Gürhan for the department on 4 Oct 2026 ("all of them"): the clinic's full range, in the site's own terms
     focus: {
-      tr: ["Kırık ve travma", "Kalça ve diz protezi", "Artroskopik cerrahi", "Omuz ve dirsek", "El ve el bileği", "Ayak ve ayak bileği", "Çocuk ortopedisi", "Kemik ve yumuşak doku tümörleri"],
-      en: ["Fractures and trauma", "Hip and knee replacement", "Arthroscopic surgery", "Shoulder and elbow", "Hand and wrist", "Foot and ankle", "Children’s orthopaedics", "Bone and soft tissue tumours"],
-      ru: ["Переломы и травмы", "Эндопротезирование тазобедренного и коленного суставов", "Артроскопическая хирургия", "Плечевой и локтевой суставы", "Кисть и запястье", "Стопа и голеностопный сустав", "Детская ортопедия", "Опухоли костей и мягких тканей"],
-      fa: ["شکستگی و تروما", "تعویض مفصل لگن و زانو", "جراحی آرتروسکوپی", "شانه و آرنج", "دست و مچ دست", "پا و مچ پا", "ارتوپدی کودکان", "تومورهای استخوان و بافت نرم"],
+      tr: ["Kırık ve travma", "Kalça ve diz protezi", "Artroskopik cerrahi", "Ultrason eşliğinde enjeksiyon", "Omuz ve dirsek", "El ve el bileği", "Ayak ve ayak bileği", "Çocuk ortopedisi", "Kemik ve yumuşak doku tümörleri"],
+      en: ["Fractures and trauma", "Hip and knee replacement", "Arthroscopic surgery", "Ultrasound-guided injections", "Shoulder and elbow", "Hand and wrist", "Foot and ankle", "Children’s orthopaedics", "Bone and soft tissue tumours"],
+      ru: ["Переломы и травмы", "Эндопротезирование тазобедренного и коленного суставов", "Артроскопическая хирургия", "Инъекции под контролем УЗИ", "Плечевой и локтевой суставы", "Кисть и запястье", "Стопа и голеностопный сустав", "Детская ортопедия", "Опухоли костей и мягких тканей"],
+      fa: ["شکستگی و تروما", "تعویض مفصل لگن و زانو", "جراحی آرتروسکوپی", "تزریق با راهنمای سونوگرافی", "شانه و آرنج", "دست و مچ دست", "پا و مچ پا", "ارتوپدی کودکان", "تومورهای استخوان و بافت نرم"],
     },
     links: [{ label: "PubMed", href: "https://pubmed.ncbi.nlm.nih.gov/?term=Umur+FL%5BAuthor%5D+OR+Umur+LF%5BAuthor%5D" }],
     sameAs: ["https://hospital.kyrenia.edu.tr/doktor/fazli-levent-umur/", "https://orcid.org/0000-0003-4961-4508"],
@@ -226,10 +226,10 @@ export const doctors: Doctor[] = [
     },
     // stated by Dr. Gürhan for the department on 4 Oct 2026 ("all of them"): the clinic's full range, in the site's own terms
     focus: {
-      tr: ["Kırık ve travma", "Kalça ve diz protezi", "Artroskopik cerrahi", "Omuz ve dirsek", "El ve el bileği", "Ayak ve ayak bileği", "Çocuk ortopedisi", "Kemik ve yumuşak doku tümörleri"],
-      en: ["Fractures and trauma", "Hip and knee replacement", "Arthroscopic surgery", "Shoulder and elbow", "Hand and wrist", "Foot and ankle", "Children’s orthopaedics", "Bone and soft tissue tumours"],
-      ru: ["Переломы и травмы", "Эндопротезирование тазобедренного и коленного суставов", "Артроскопическая хирургия", "Плечевой и локтевой суставы", "Кисть и запястье", "Стопа и голеностопный сустав", "Детская ортопедия", "Опухоли костей и мягких тканей"],
-      fa: ["شکستگی و تروما", "تعویض مفصل لگن و زانو", "جراحی آرتروسکوپی", "شانه و آرنج", "دست و مچ دست", "پا و مچ پا", "ارتوپدی کودکان", "تومورهای استخوان و بافت نرم"],
+      tr: ["Kırık ve travma", "Kalça ve diz protezi", "Artroskopik cerrahi", "Ultrason eşliğinde enjeksiyon", "Omuz ve dirsek", "El ve el bileği", "Ayak ve ayak bileği", "Çocuk ortopedisi", "Kemik ve yumuşak doku tümörleri"],
+      en: ["Fractures and trauma", "Hip and knee replacement", "Arthroscopic surgery", "Ultrasound-guided injections", "Shoulder and elbow", "Hand and wrist", "Foot and ankle", "Children’s orthopaedics", "Bone and soft tissue tumours"],
+      ru: ["Переломы и травмы", "Эндопротезирование тазобедренного и коленного суставов", "Артроскопическая хирургия", "Инъекции под контролем УЗИ", "Плечевой и локтевой суставы", "Кисть и запястье", "Стопа и голеностопный сустав", "Детская ортопедия", "Опухоли костей и мягких тканей"],
+      fa: ["شکستگی و تروما", "تعویض مفصل لگن و زانو", "جراحی آرتروسکوپی", "تزریق با راهنمای سونوگرافی", "شانه و آرنج", "دست و مچ دست", "پا و مچ پا", "ارتوپدی کودکان", "تومورهای استخوان و بافت نرم"],
     },
     links: [{ label: "PubMed", href: "https://pubmed.ncbi.nlm.nih.gov/?term=Sari+Enes%5BAuthor%5D" }],
     sameAs: ["https://orcid.org/0000-0003-2385-1732"],
@@ -263,12 +263,12 @@ export const doctors: Doctor[] = [
         "از سال ۲۰۲۱ در بیمارستان دانشگاهی دکتر سوات گونسل، گیرنه مشغول به کار است و از سال ۲۰۲۳ به‌عنوان عضو هیئت علمی در گروه ارتوپدی و تروماتولوژی دانشکدهٔ پزشکی دانشگاه گیرنه تدریس می‌کند.",
       ],
     },
-    // stated by Dr. Gürhan on 26 Oct 2026 ("bütün bölümleri ekle"): his own focus first, then the department's full range
+    // stated by Dr. Gürhan on 26 Oct 2026 ("bütün bölümleri ekle"): his own focus first, then the department's full range; ultrasound-guided injections added 2 Nov 2026
     focus: {
-      tr: ["El cerrahisi ve mikrocerrahi", "Replantasyon, sinir ve tendon onarımı", "Flep ile rekonstrüksiyon", "Ortopedik travma", "Kalça ve diz protezi", "Artroskopik cerrahi", "Omuz ve dirsek", "Ayak ve ayak bileği", "Çocuk ortopedisi", "Kemik ve yumuşak doku tümörleri"],
-      en: ["Hand surgery and microsurgery", "Replantation, nerve and tendon repair", "Flap reconstruction", "Orthopaedic trauma", "Hip and knee replacement", "Arthroscopic surgery", "Shoulder and elbow", "Foot and ankle", "Children’s orthopaedics", "Bone and soft tissue tumours"],
-      ru: ["Хирургия кисти и микрохирургия", "Реплантация, восстановление нервов и сухожилий", "Реконструкция лоскутами", "Ортопедическая травматология", "Эндопротезирование тазобедренного и коленного суставов", "Артроскопическая хирургия", "Плечевой и локтевой суставы", "Стопа и голеностопный сустав", "Детская ортопедия", "Опухоли костей и мягких тканей"],
-      fa: ["جراحی دست و میکروجراحی", "پیوند مجدد، ترمیم عصب و تاندون", "بازسازی با فلپ", "ترومای ارتوپدی", "تعویض مفصل لگن و زانو", "جراحی آرتروسکوپی", "شانه و آرنج", "پا و مچ پا", "ارتوپدی کودکان", "تومورهای استخوان و بافت نرم"],
+      tr: ["El cerrahisi ve mikrocerrahi", "Replantasyon, sinir ve tendon onarımı", "Flep ile rekonstrüksiyon", "Ortopedik travma", "Kalça ve diz protezi", "Artroskopik cerrahi", "Ultrason eşliğinde enjeksiyon", "Omuz ve dirsek", "Ayak ve ayak bileği", "Çocuk ortopedisi", "Kemik ve yumuşak doku tümörleri"],
+      en: ["Hand surgery and microsurgery", "Replantation, nerve and tendon repair", "Flap reconstruction", "Orthopaedic trauma", "Hip and knee replacement", "Arthroscopic surgery", "Ultrasound-guided injections", "Shoulder and elbow", "Foot and ankle", "Children’s orthopaedics", "Bone and soft tissue tumours"],
+      ru: ["Хирургия кисти и микрохирургия", "Реплантация, восстановление нервов и сухожилий", "Реконструкция лоскутами", "Ортопедическая травматология", "Эндопротезирование тазобедренного и коленного суставов", "Артроскопическая хирургия", "Инъекции под контролем УЗИ", "Плечевой и локтевой суставы", "Стопа и голеностопный сустав", "Детская ортопедия", "Опухоли костей и мягких тканей"],
+      fa: ["جراحی دست و میکروجراحی", "پیوند مجدد، ترمیم عصب و تاندون", "بازسازی با فلپ", "ترومای ارتوپدی", "تعویض مفصل لگن و زانو", "جراحی آرتروسکوپی", "تزریق با راهنمای سونوگرافی", "شانه و آرنج", "پا و مچ پا", "ارتوپدی کودکان", "تومورهای استخوان و بافت نرم"],
     },
     path: [
       { y: "2013", t: { tr: "Tıp Doktoru", en: "Doctor of Medicine", ru: "Врач", fa: "دکترای پزشکی" }, s: { tr: "Ankara Üniversitesi Tıp Fakültesi", en: "Ankara University Faculty of Medicine", ru: "Медицинский факультет Анкарского университета", fa: "دانشکدهٔ پزشکی دانشگاه آنکارا" } },

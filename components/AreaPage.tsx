@@ -64,6 +64,11 @@ export default function AreaPage({ lang, a }: { lang: Lang; a: Area }) {
                   <h3 className="h3">{c.n}</h3>
                   <div>
                     <p className="body" style={{ fontWeight: 400 }}>{c.d}</p>
+                    {c.area && areas.find((x) => x.id === c.area) && (
+                      <p className="mt-4 text-[1rem]" style={{ fontWeight: 500 }}>
+                        <Link className="link" href={areaUrl(lang, areas.find((x) => x.id === c.area)!)}>{areas.find((x) => x.id === c.area)!.title[lang]}</Link>
+                      </p>
+                    )}
                     {c.guide && findById(c.guide) && (
                       <p className="mt-4 text-[1rem]" style={{ fontWeight: 500 }}>
                         <Link className="link" href={blogUrl(lang, findById(c.guide)!)}>{u.more}: {findById(c.guide)!.i18n[lang].title}</Link>

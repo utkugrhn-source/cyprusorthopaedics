@@ -1,7 +1,7 @@
 {
  "id": "joint-injections",
  "area": "diz",
- "updated": "2026-10-04",
+ "updated": "2026-11-02",
  "reviewer": "gurhan",
  "reviewed": true,
  "sources": [
@@ -181,6 +181,10 @@
     {
      "q": "Kök hücre tedavisi dizlere iyi gelir mi?",
      "a": "Düşük güvenilirlikteki kanıtlara göre plasebo iğnesine kıyasla ağrıyı ve işlevi biraz iyileştirebilir; kıkırdağı yenileyip yenilemediği ve güvenliği bilinmemektedir [6]. ACR kılavuzu diz ve kalça kireçlenmesinde kök hücre iğnesini önermez [7]."
+    },
+    {
+     "q": "Kalça ve diz iğnesi ultrason eşliğinde mi yapılmalı?",
+     "a": "Ultrason, iğnenin ucunu ve eklemi ekranda gösterir. ACR kılavuzu kalça iğnesinde ultrason eşliğini güçlü biçimde önerir [7]. Kliniğimizde (Cyprus Orthopaedics, Girne) diz, kalça ve omuz eklem içi iğneleri ultrason eşliğinde yapılıyor."
     }
    ],
    "note": "Bu yazı genel bir özettir; tanı ve tedavi kararı, sizi muayene eden hekimin değerlendirmesiyle verilir."
@@ -299,6 +303,10 @@
     {
      "q": "Does stem cell treatment help the knees?",
      "a": "According to low-certainty evidence it may slightly improve pain and function compared with a placebo injection; whether it regrows cartilage, and how safe it is, are not known [6]. The ACR guideline does not recommend stem cell injections for knee and hip osteoarthritis [7]."
+    },
+    {
+     "q": "Should knee and hip injections be given under ultrasound?",
+     "a": "Ultrasound shows the needle tip and the joint on screen. The ACR guideline strongly recommends ultrasound guidance for hip injections [7]. At our clinic (Cyprus Orthopaedics, Kyrenia) knee, hip and shoulder joint injections are given under ultrasound guidance."
     }
    ],
    "note": "This article is a general summary; diagnosis and treatment decisions are made by the doctor who examines you."
@@ -417,6 +425,10 @@
     {
      "q": "Помогает ли коленям лечение стволовыми клетками?",
      "a": "По доказательствам низкой достоверности, оно может немного уменьшить боль и улучшить функцию по сравнению с инъекцией плацебо; восстанавливает ли оно хрящ и насколько оно безопасно, неизвестно [6]. Руководство ACR не рекомендует инъекции стволовых клеток при артрозе коленного и тазобедренного суставов [7]."
+    },
+    {
+     "q": "Нужно ли делать инъекции в колено и тазобедренный сустав под контролем УЗИ?",
+     "a": "УЗИ показывает на экране кончик иглы и сустав. Руководство ACR настоятельно рекомендует выполнять инъекции в тазобедренный сустав под контролем УЗИ [7]. В нашей клинике (Cyprus Orthopaedics, Гирне) инъекции в коленный, тазобедренный и плечевой суставы выполняются под контролем УЗИ."
     }
    ],
    "note": "Этот текст — общий обзор; решение о диагнозе и лечении принимается на основании оценки врача, который вас осматривает."
@@ -535,6 +547,10 @@
     {
      "q": "آیا درمان با سلول بنیادی برای زانو مفید است؟",
      "a": "بر پایهٔ شواهدی با اطمینان پایین، ممکن است در مقایسه با تزریق دارونما درد و عملکرد را اندکی بهتر کند؛ روشن نیست که غضروف را بازسازی می‌کند یا نه و ایمنی آن نیز شناخته نشده است [6]. راهنمای ACR در آرتروز زانو و لگن تزریق سلول بنیادی را توصیه نمی‌کند [7]."
+    },
+    {
+     "q": "آیا تزریق زانو و لگن باید با راهنمای سونوگرافی انجام شود؟",
+     "a": "سونوگرافی نوک سوزن و مفصل را روی صفحه نشان می‌دهد. راهنمای ACR تزریق لگن با راهنمای سونوگرافی را قویاً توصیه می‌کند [7]. در کلینیک ما (Cyprus Orthopaedics، گیرنه) تزریق داخل مفصل زانو، لگن و شانه با راهنمای سونوگرافی انجام می‌شود."
     }
    ],
    "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."

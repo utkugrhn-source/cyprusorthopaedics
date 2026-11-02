@@ -2,7 +2,8 @@ import type { Lang } from "./site";
 
 type L = Record<Lang, string>;
 /** `guide` is the id of one of the clinic's own patient-guide articles, linked beside the entry. */
-export type Condition = { n: string; d: string; guide?: string };
+/** `area` is the id of another treatment page, linked beside the entry. */
+export type Condition = { n: string; d: string; guide?: string; area?: string };
 export type Area = {
   id: string;
   slug: L;
@@ -18,7 +19,7 @@ export type Area = {
 };
 
 export const AREAS_SEGMENT: Record<Lang, string> = { tr: "tedavi", en: "treatments", ru: "lechenie", fa: "darman" };
-export const AREAS_UPDATED = "2026-10-04";
+export const AREAS_UPDATED = "2026-11-02";
 
 /** Detailed patient articles live on Dr. Gürhan's personal site; region pages link to them rather than repeat them. */
 
@@ -45,6 +46,7 @@ export const areas: Area[] = [
         { n: "Omuzda kireçlenme (kalsifik tendinit)", d: "Kalsifik tendinit, omzu hareket ettiren rotator manşet tendonlarının içinde kalsiyum birikmesidir; halk arasında 'omuzda kireçlenme' denir ve omuz ekleminin aşınmasından (osteoartrit) farklı bir durumdur.", guide: "shoulder-calcific" },
         { n: "Tendinit (tendon iltihabı)", d: "Tendinit (tendon iltihabı), kası kemiğe bağlayan tendonun ya da kılıfının çoğunlukla tekrarlayan zorlanmayla tahriş olmasıdır; hareketle artan ağrı yapar.", guide: "tendinitis" },
         { n: "Bursit nedir, neden olur", d: "Bursit, eklem çevresinde yastık görevi yapan, içi sıvı dolu kesenin (bursa) şişip ağrılı hâle gelmesidir; en sık omuz, kalça, dirsek ve dizde görülür.", guide: "bursitis" },
+        { n: "Ultrason eşliğinde enjeksiyon", d: "Omuz eklemine, subakromiyal bursaya ve tenisçi dirseğinde tendon çevresine yapılan iğneler ultrason eşliğinde yapılıyor; omuz tendonundaki kireç birikintisi ultrason eşliğinde iğneyle yıkanabiliyor (barbotaj).", area: "usg-enjeksiyon" },
       ],
       en: [
         { n: "Rotator cuff problems and shoulder impingement", d: "Pain on lifting the arm sideways and overhead, and when lying on that side at night. Treatment usually starts with exercise and physiotherapy; arthroscopic repair is considered depending on the size of the tear and the symptoms.", guide: "rotator-cuff-clinic" },
@@ -55,6 +57,7 @@ export const areas: Area[] = [
         { n: "Calcific tendinitis of the shoulder", d: "Calcific tendinitis is a build-up of calcium inside the rotator cuff tendons that move the shoulder; it is popularly called 'calcification of the shoulder' and is a different condition from wear of the shoulder joint (osteoarthritis).", guide: "shoulder-calcific" },
         { n: "Tendinitis (tendon inflammation)", d: "Tendinitis (tendon inflammation) is irritation of a tendon, the tissue that attaches muscle to bone, or of its sheath, most often from repeated strain; it causes pain that gets worse with movement.", guide: "tendinitis" },
         { n: "Bursitis", d: "Bursitis is when the fluid-filled sac (bursa) that cushions a joint becomes swollen and painful; it most often affects the shoulders, hips, elbows and knees.", guide: "bursitis" },
+        { n: "Ultrasound-guided injections", d: "Injections into the shoulder joint, the subacromial bursa and around the tendon in tennis elbow are given under ultrasound guidance; a calcium deposit in a shoulder tendon can be rinsed out with a needle under ultrasound (barbotage).", area: "usg-enjeksiyon" },
       ],
       ru: [
         { n: "Проблемы вращательной манжеты плеча и импинджмент-синдром", d: "Вызывают боль при подъёме руки в сторону и вверх, а также ночью в положении на боку. Лечение чаще всего начинают с упражнений и физиотерапии; в зависимости от размера разрыва и жалоб рассматривают артроскопическое восстановление.", guide: "rotator-cuff-clinic" },
@@ -65,6 +68,7 @@ export const areas: Area[] = [
         { n: "Отложение кальция в плече (кальцифицирующий тендинит)", d: "Кальцифицирующий тендинит — это отложение кальция внутри сухожилий вращательной манжеты, которые приводят плечо в движение; в быту его называют «отложением солей» в плече, и это состояние отличается от износа самого плечевого сустава (остеоартрит).", guide: "shoulder-calcific" },
         { n: "Тендинит (воспаление сухожилия)", d: "Тендинит (воспаление сухожилия) — это раздражение сухожилия, которое прикрепляет мышцу к кости, или его оболочки, чаще всего из-за повторяющейся перегрузки; он вызывает боль, усиливающуюся при движении.", guide: "tendinitis" },
         { n: "Бурсит", d: "Бурсит — это отёк и болезненность заполненной жидкостью сумки (бурсы), которая служит прокладкой возле сустава; чаще всего он бывает в области плеча, тазобедренного сустава, локтя и колена.", guide: "bursitis" },
+        { n: "Инъекции под контролем УЗИ", d: "Инъекции в плечевой сустав, субакромиальную сумку и в область сухожилия при «локте теннисиста» выполняются под контролем УЗИ; отложение кальция в сухожилии плеча можно промыть иглой под контролем УЗИ (барботаж).", area: "usg-enjeksiyon" },
       ],
       fa: [
         { n: "مشکلات روتاتور کاف و گیرافتادگی شانه", d: "هنگام بالا بردن دست به پهلو و به بالا و شب‌ها هنگام خوابیدن به پهلو درد ایجاد می‌کند. درمان بیشتر با ورزش و فیزیوتراپی آغاز می‌شود؛ بسته به اندازهٔ پارگی و شکایت بیمار، ترمیم به روش آرتروسکوپی مطرح می‌شود.", guide: "rotator-cuff-clinic" },
@@ -75,6 +79,7 @@ export const areas: Area[] = [
         { n: "رسوب کلسیم در شانه (تاندونیت کلسیفیه)", d: "تاندونیت کلسیفیه یعنی رسوب کلسیم درون تاندون‌های روتاتور کاف که شانه را حرکت می‌دهند؛ در گفتار روزمره به آن «آهکی شدن شانه» گفته می‌شود و با ساییدگی خودِ مفصل شانه (استئوآرتریت) تفاوت دارد.", guide: "shoulder-calcific" },
         { n: "تاندونیت (التهاب تاندون)", d: "تاندونیت (التهاب تاندون) تحریک شدن تاندون، یعنی بافتی که عضله را به استخوان وصل می‌کند، یا غلاف آن است که بیشتر بر اثر فشار تکراری رخ می‌دهد؛ دردی ایجاد می‌کند که با حرکت بیشتر می‌شود.", guide: "tendinitis" },
         { n: "بورسیت چیست و چرا ایجاد می‌شود", d: "بورسیت یعنی کیسهٔ پر از مایعی (بورس) که در اطراف مفصل نقش بالشتک دارد متورم و دردناک شود؛ بیشتر در شانه، لگن، آرنج و زانو دیده می‌شود.", guide: "bursitis" },
+        { n: "تزریق با راهنمای سونوگرافی", d: "تزریق در مفصل شانه، بورس زیر آخرمی و اطراف تاندون در آرنج تنیس‌بازان با راهنمای سونوگرافی انجام می‌شود؛ رسوب کلسیم در تاندون شانه را می‌توان با سوزن و راهنمای سونوگرافی شست‌وشو داد (باربوتاژ).", area: "usg-enjeksiyon" },
       ],
     },
     urgent: {
@@ -105,6 +110,7 @@ export const areas: Area[] = [
         { n: "Replantasyon (kopan parmağın ya da elin yerine dikilmesi)", d: "Kopan parmak ya da el; kemik, tendon, damar ve sinirleri mikroskop altında tek tek onarılarak yerine dikilir. Zamana karşı yapılan bir ameliyattır; uygun olup olmadığı yaralanmanın tipine, kopan parçanın durumuna ve geçen süreye göre değerlendirilir." },
         { n: "Parmak ucu yaralanmaları", d: "Ezilme ve kopmalarda tırnak yatağı onarımı, doku nakli ya da uygun olgularda kopan parçanın yerine dikilmesi değerlendirilir." },
         { n: "Tırnak problemleri", d: "Tırnak yatağı yaralanmaları, tırnak çevresi iltihabı (dolama), tırnak batması ve yaralanma sonrası tırnak şekil bozukluklarını kapsar. Tedavi, sorunun türüne göre pansuman ve ilaçtan küçük bir cerrahi girişime kadar değişir." },
+        { n: "Ultrason eşliğinde enjeksiyon", d: "Tetik parmak, de Quervain tenosinoviti ve karpal tünel enjeksiyonları ile ganglion kisti aspirasyonu ultrason eşliğinde yapılıyor.", area: "usg-enjeksiyon" },
       ],
       en: [
         { n: "Carpal tunnel syndrome", d: "Compression of the median nerve at the wrist, causing numbness in the thumb, index and middle fingers and tingling that wakes you at night. Mild cases are treated with a night splint and injection; advanced cases with release of the nerve.", guide: "carpal-tunnel" },
@@ -116,6 +122,7 @@ export const areas: Area[] = [
         { n: "Replantation (reattaching a severed finger or hand)", d: "A severed finger or hand is reattached by repairing the bone, tendons, vessels and nerves one by one under the microscope. It is surgery against the clock; whether it is suitable depends on the type of injury, the condition of the severed part and the time elapsed." },
         { n: "Fingertip injuries", d: "In crush injuries and amputations, the options are nail-bed repair, tissue cover or, in suitable cases, reattachment of the severed part." },
         { n: "Nail problems", d: "These include nail-bed injuries, infection around the nail (paronychia), ingrown nails and nail deformity after injury. Depending on the problem, treatment ranges from dressings and medication to a minor procedure." },
+        { n: "Ultrasound-guided injections", d: "Injections for trigger finger, de Quervain tenosynovitis and carpal tunnel syndrome, and ganglion cyst aspiration, are done under ultrasound guidance.", area: "usg-enjeksiyon" },
       ],
       ru: [
         { n: "Синдром запястного (карпального) канала", d: "Сдавление срединного нерва в области запястья; вызывает онемение большого, указательного и среднего пальцев и покалывание, от которого просыпаются по ночам. В лёгких случаях применяют ночную шину и инъекцию, в далеко зашедших — операцию по освобождению нерва.", guide: "carpal-tunnel" },
@@ -127,6 +134,7 @@ export const areas: Area[] = [
         { n: "Реплантация (пришивание оторванного пальца или кисти)", d: "Оторванный палец или кисть пришивают на место, по отдельности восстанавливая под микроскопом кость, сухожилия, сосуды и нервы. Это операция, при которой счёт идёт на время; возможна ли она, оценивают по типу травмы, состоянию оторванной части и прошедшему времени." },
         { n: "Травмы кончиков пальцев", d: "При размозжении и отрыве рассматривают восстановление ногтевого ложа, пересадку тканей или, в подходящих случаях, пришивание оторванной части на место." },
         { n: "Проблемы с ногтями", d: "К ним относятся травмы ногтевого ложа, воспаление вокруг ногтя (паронихия), вросший ноготь и деформации ногтя после травмы. Лечение в зависимости от характера проблемы варьируется от перевязок и лекарств до небольшого хирургического вмешательства." },
+        { n: "Инъекции под контролем УЗИ", d: "Инъекции при щёлкающем пальце, тендовагините де Кервена и синдроме запястного канала, а также пункция гигромы выполняются под контролем УЗИ.", area: "usg-enjeksiyon" },
       ],
       fa: [
         { n: "سندرم تونل کارپ", d: "فشرده شدن عصب مدیان در مچ دست است؛ باعث بی‌حسی در انگشت شست، اشاره و میانی و گزگزی می‌شود که شب‌ها فرد را از خواب بیدار می‌کند. در موارد خفیف از آتل شبانه و تزریق و در موارد پیشرفته از آزادسازی عصب استفاده می‌شود.", guide: "carpal-tunnel" },
@@ -138,6 +146,7 @@ export const areas: Area[] = [
         { n: "پیوند مجدد (پیوند زدن انگشت یا دست قطع‌شده)", d: "انگشت یا دست قطع‌شده با ترمیم تک‌تک استخوان، تاندون‌ها، رگ‌ها و اعصاب زیر میکروسکوپ در جای خود پیوند زده می‌شود. این جراحی در رقابت با زمان انجام می‌شود؛ مناسب بودن آن بر اساس نوع آسیب، وضعیت قطعهٔ جداشده و زمان سپری‌شده ارزیابی می‌شود." },
         { n: "آسیب‌های نوک انگشت", d: "در له‌شدگی و قطع‌شدگی، ترمیم بستر ناخن، پیوند بافت یا در موارد مناسب پیوند زدن قطعهٔ جداشده در جای خود بررسی می‌شود." },
         { n: "مشکلات ناخن", d: "آسیب‌های بستر ناخن، عفونت اطراف ناخن (عقربک)، فرورفتن ناخن در گوشت و تغییر شکل ناخن پس از آسیب را در بر می‌گیرد. درمان بسته به نوع مشکل از پانسمان و دارو تا یک عمل جراحی کوچک متفاوت است." },
+        { n: "تزریق با راهنمای سونوگرافی", d: "تزریق در انگشت ماشه‌ای، تنوسینوویت دکروون و سندرم تونل کارپ و نیز تخلیهٔ کیست گانگلیون با راهنمای سونوگرافی انجام می‌شود.", area: "usg-enjeksiyon" },
       ],
     },
     urgent: {
@@ -162,21 +171,25 @@ export const areas: Area[] = [
         { n: "Kalça kireçlenmesi (osteoartrit)", d: "Eklem kıkırdağının aşınmasıdır; kasıkta ve uylukta ağrı, sabah tutukluğu ve topallama yapar. Kilo kontrolü, egzersiz ve ağrı tedavisiyle başlanır.", guide: "hip-oa" },
         { n: "Kalça protezi", d: "Ameliyatsız tedaviye rağmen ağrı günlük yaşamı kısıtlıyorsa, aşınmış eklem yüzeyleri yapay eklemle değiştirilir.", guide: "hip-replacement" },
         { n: "Yaşlılarda kalça kırığı", d: "Çoğunlukla ev içinde basit bir düşmeyle olur ve hemen her zaman ameliyat gerektirir. Amaç hastayı en kısa sürede yeniden ayağa kaldırmaktır.", guide: "hip-fracture-clinic" },
+        { n: "Ultrason eşliğinde enjeksiyon", d: "Kalça eklemi derinde olduğu için eklem içi iğne ultrason eşliğinde yapılıyor; kalça yanındaki bursit (trokanterik bursit) iğnesi de aynı şekilde yapılıyor.", area: "usg-enjeksiyon" },
       ],
       en: [
         { n: "Hip arthritis (osteoarthritis)", d: "Wear of the joint cartilage, causing pain in the groin and thigh, morning stiffness and a limp. Treatment starts with weight control, exercise and pain relief.", guide: "hip-oa" },
         { n: "Hip replacement", d: "When pain still restricts daily life despite non-surgical treatment, the worn joint surfaces are replaced with an artificial joint.", guide: "hip-replacement" },
         { n: "Hip fracture in older adults", d: "Usually follows a simple fall at home and almost always needs an operation. The aim is to get the patient back on their feet as soon as possible.", guide: "hip-fracture-clinic" },
+        { n: "Ultrasound-guided injections", d: "Because the hip joint lies deep, injections into it are given under ultrasound guidance, as are injections for bursitis at the side of the hip (trochanteric bursitis).", area: "usg-enjeksiyon" },
       ],
       ru: [
         { n: "Артроз тазобедренного сустава (остеоартрит)", d: "Изнашивание суставного хряща; вызывает боль в паху и бедре, утреннюю скованность и хромоту. Лечение начинают с контроля веса, упражнений и обезболивания.", guide: "hip-oa" },
         { n: "Эндопротезирование тазобедренного сустава", d: "Если, несмотря на лечение без операции, боль ограничивает повседневную жизнь, изношенные суставные поверхности заменяют искусственным суставом.", guide: "hip-replacement" },
         { n: "Перелом проксимального отдела бедра (шейки бедра) у пожилых", d: "Чаще всего происходит при обычном падении дома и почти всегда требует операции. Цель — как можно скорее снова поставить пациента на ноги.", guide: "hip-fracture-clinic" },
+        { n: "Инъекции под контролем УЗИ", d: "Тазобедренный сустав расположен глубоко, поэтому внутрисуставные инъекции в него выполняются под контролем УЗИ; так же выполняются инъекции при вертельном бурсите на боковой поверхности бедра.", area: "usg-enjeksiyon" },
       ],
       fa: [
         { n: "آرتروز لگن (استئوآرتریت)", d: "ساییدگی غضروف مفصل است؛ باعث درد در کشالهٔ ران و ران، خشکی صبحگاهی و لنگیدن می‌شود. درمان با کنترل وزن، ورزش و درمان درد آغاز می‌شود.", guide: "hip-oa" },
         { n: "تعویض مفصل لگن", d: "اگر با وجود درمان غیرجراحی، درد زندگی روزمره را محدود کند، سطوح ساییده‌شدهٔ مفصل با مفصل مصنوعی جایگزین می‌شود.", guide: "hip-replacement" },
         { n: "شکستگی لگن در سالمندان", d: "بیشتر با یک زمین خوردن ساده در خانه رخ می‌دهد و تقریباً همیشه به جراحی نیاز دارد. هدف این است که بیمار در کوتاه‌ترین زمان دوباره سر پا شود.", guide: "hip-fracture-clinic" },
+        { n: "تزریق با راهنمای سونوگرافی", d: "چون مفصل لگن در عمق قرار دارد، تزریق داخل آن با راهنمای سونوگرافی انجام می‌شود؛ تزریق در بورسیت کنار لگن (بورسیت تروکانتر) نیز به همین شکل انجام می‌شود.", area: "usg-enjeksiyon" },
       ],
     },
     urgent: {
@@ -206,6 +219,7 @@ export const areas: Area[] = [
         { n: "Diz kapağı ağrısı ve kondromalazi patella", d: "Diz kapağı ağrısı (patellofemoral ağrı), dizin önünde, diz kapağının çevresinde ya da arkasında hissedilen ve merdiven, çömelme ve dizler bükülü uzun süre oturmayla artan ağrıdır.", guide: "patellofemoral-pain" },
         { n: "Kıkırdak hasarı", d: "Dizde kıkırdak hasarı, kemik uçlarını örten eklem kıkırdağının yaralanma, osteokondritis adlı hastalık ya da yıpranmayla zedelenmesidir.", guide: "cartilage-damage" },
         { n: "Baker kisti", d: "Baker kisti (popliteal kist), diz arkasında içi sıvı dolu bir şişliktir.", guide: "baker-cyst" },
+        { n: "Ultrason eşliğinde enjeksiyon", d: "Diz eklemine kortizon, hyalüronik asit ya da PRP iğnesi ve Baker kisti aspirasyonu ultrason eşliğinde yapılıyor.", area: "usg-enjeksiyon" },
       ],
       en: [
         { n: "Meniscal tear", d: "Pain, swelling, catching and locking after a twisting movement of the knee. Depending on the type of tear and the patient’s age, treatment is exercise, arthroscopic repair or removal of the torn fragment.", guide: "meniscus-clinic" },
@@ -216,6 +230,7 @@ export const areas: Area[] = [
         { n: "Kneecap pain and chondromalacia patella", d: "Kneecap pain (patellofemoral pain) is pain felt at the front of the knee, around or behind the kneecap, that gets worse with stairs, squatting and sitting for a long time with the knees bent.", guide: "patellofemoral-pain" },
         { n: "Cartilage damage in the knee", d: "Cartilage damage in the knee is injury to the articular cartilage that covers the ends of the bones, caused by trauma, by a condition called osteochondritis or by wear.", guide: "cartilage-damage" },
         { n: "Baker's cyst", d: "A Baker's cyst (popliteal cyst) is a fluid-filled swelling at the back of the knee.", guide: "baker-cyst" },
+        { n: "Ultrasound-guided injections", d: "Cortisone, hyaluronic acid or PRP injections into the knee and Baker’s cyst aspiration are done under ultrasound guidance.", area: "usg-enjeksiyon" },
       ],
       ru: [
         { n: "Разрыв мениска", d: "После скручивающего движения в колене вызывает боль, отёк, заедание и блокировку сустава. В зависимости от типа разрыва и возраста выбирают упражнения, артроскопическое восстановление или удаление оторванного фрагмента.", guide: "meniscus-clinic" },
@@ -226,6 +241,7 @@ export const areas: Area[] = [
         { n: "Боль в коленной чашечке и хондромаляция надколенника", d: "Боль в коленной чашечке (пателлофеморальная боль) — это боль в передней части колена, вокруг надколенника или за ним, которая усиливается при ходьбе по лестнице, приседании и долгом сидении с согнутыми коленями.", guide: "patellofemoral-pain" },
         { n: "Повреждение хряща колена", d: "Повреждение хряща в колене — это повреждение суставного хряща, покрывающего концы костей, вследствие травмы, заболевания под названием остеохондрит или износа.", guide: "cartilage-damage" },
         { n: "Киста Бейкера", d: "Киста Бейкера (подколенная киста) — это заполненная жидкостью припухлость в подколенной области.", guide: "baker-cyst" },
+        { n: "Инъекции под контролем УЗИ", d: "Инъекции кортикостероида, гиалуроновой кислоты или PRP в коленный сустав и пункция кисты Бейкера выполняются под контролем УЗИ.", area: "usg-enjeksiyon" },
       ],
       fa: [
         { n: "پارگی منیسک", d: "پس از حرکت چرخشی زانو باعث درد، تورم، گیر کردن و قفل شدن می‌شود. بسته به نوع پارگی و سن، ورزش، ترمیم به روش آرتروسکوپی یا برداشتن قطعهٔ پاره انتخاب می‌شود.", guide: "meniscus-clinic" },
@@ -236,6 +252,7 @@ export const areas: Area[] = [
         { n: "درد کشکک زانو و کندرومالاسی کشکک", d: "درد کشکک زانو (درد پاتلوفمورال) دردی است که در جلوی زانو، اطراف کشکک یا پشت آن حس می‌شود و با بالا و پایین رفتن از پله، چمباتمه زدن و نشستن طولانی با زانوهای خم بیشتر می‌شود.", guide: "patellofemoral-pain" },
         { n: "آسیب غضروف زانو", d: "آسیب غضروف زانو یعنی صدمه دیدن غضروف مفصلی که سر استخوان‌ها را می‌پوشاند، بر اثر آسیب‌دیدگی، بیماری‌ای به نام استئوکندریت یا ساییدگی.", guide: "cartilage-damage" },
         { n: "کیست بیکر", d: "کیست بیکر (کیست پوپلیتئال) تورمی پر از مایع در پشت زانو است.", guide: "baker-cyst" },
+        { n: "تزریق با راهنمای سونوگرافی", d: "تزریق کورتون، اسید هیالورونیک یا PRP در مفصل زانو و تخلیهٔ کیست بیکر با راهنمای سونوگرافی انجام می‌شود.", area: "usg-enjeksiyon" },
       ],
     },
     urgent: {
@@ -363,6 +380,64 @@ export const areas: Area[] = [
       en: ["Increasing pain, swelling, redness, discharge from the wound or fever after the operation", "Pain, swelling and tightness in the calf", "A knee that locks and will not straighten fully after a fall or twist", "A shoulder you suspect has dislocated"],
       ru: ["Нарастающая боль, отёк, покраснение, выделения из раны или повышение температуры после операции", "Боль, отёк и напряжение в икре", "Блокировка колена и невозможность полностью его разогнуть после падения или подворачивания ноги", "Подозрение, что плечо вывихнулось"],
       fa: ["درد رو به افزایش، تورم، قرمزی، ترشح از محل زخم یا تب پس از جراحی", "درد، تورم و سفتی در پشت ساق پا", "قفل شدن زانو و باز نشدن کامل آن پس از زمین خوردن یا پیچ‌خوردگی", "شک به اینکه شانه از جا دررفته است"],
+    },
+  },
+  {
+    // stated by Dr. Gürhan on 2 Nov 2026: all three doctors give these injections under ultrasound guidance
+    id: "usg-enjeksiyon",
+    kind: "procedure",
+    slug: { tr: "ultrason-esliginde-enjeksiyon", en: "ultrasound-guided-injections", ru: "inyekcii-pod-kontrolem-uzi", fa: "tazrigh-ba-rahnamaye-sonografi" },
+    title: { tr: "Ultrason eşliğinde enjeksiyon", en: "Ultrasound-guided injections", ru: "Инъекции под контролем УЗИ", fa: "تزریق با راهنمای سونوگرافی" },
+    lead: {
+      tr: "Ultrason eşliğinde enjeksiyonda hekim, iğnenin ucunu ve ilacın verileceği yeri (eklem, tendon kılıfı, bursa, sinir çevresi ya da kist) ekranda görerek iğneyi yapar. Işın içermez. Diz, kalça ve omuz başta olmak üzere eklem içine, tendon kılıfı ve bursalara, karpal tünele ve kistlere uyguluyoruz; işlemleri kliniğimizin üç hekimi de yapıyor.",
+      en: "In an ultrasound-guided injection the doctor watches the needle tip and the target (a joint, a tendon sheath, a bursa, the area around a nerve or a cyst) on screen while giving the injection. It involves no radiation. We use it for injections into joints, above all the knee, hip and shoulder, into tendon sheaths and bursae, into the carpal tunnel and into cysts; all three of our doctors perform these injections.",
+      ru: "При инъекции под контролем УЗИ врач видит на экране кончик иглы и место введения препарата (сустав, сухожильное влагалище, синовиальную сумку, область вокруг нерва или кисту). Метод не связан с облучением. Мы выполняем под контролем УЗИ инъекции в суставы, прежде всего коленный, тазобедренный и плечевой, в сухожильные влагалища и синовиальные сумки, в запястный канал и в кисты; эти процедуры проводят все три врача клиники.",
+      fa: "در تزریق با راهنمای سونوگرافی، پزشک نوک سوزن و محل تزریق دارو (مفصل، غلاف تاندون، بورس، اطراف عصب یا کیست) را روی صفحه می‌بیند و همزمان تزریق را انجام می‌دهد. این روش پرتو ندارد. ما آن را برای تزریق داخل مفصل، به‌ویژه زانو، لگن و شانه، تزریق در غلاف تاندون و بورس، تونل کارپ و کیست‌ها به کار می‌بریم؛ هر سه پزشک کلینیک این تزریق‌ها را انجام می‌دهند.",
+    },
+    listTitle: { tr: "Ultrason eşliğinde yaptığımız enjeksiyonlar", en: "Injections we give under ultrasound guidance", ru: "Инъекции, которые мы выполняем под контролем УЗИ", fa: "تزریق‌هایی که با راهنمای سونوگرافی انجام می‌دهیم" },
+    conditions: {
+      tr: [
+        { n: "Eklem içi enjeksiyon: diz, kalça, omuz", d: "Kireçlenmede ve eklem içi iltihapta kortizon; seçilmiş hastalarda hyalüronik asit ya da PRP eklemin içine verilir. Kalça eklemi derinde olduğu için görüntüleme eşliği burada özellikle önemlidir; Amerikan Romatoloji Koleji (ACR) kalça iğnesinde ultrason eşliğini güçlü biçimde önerir. Hangi ilacın uygun olduğu muayenede ve kılavuzlara göre belirlenir.", guide: "joint-injections" },
+        { n: "Tendon kılıfı ve bursa enjeksiyonu", d: "Tetik parmak, de Quervain tenosinoviti, omuzda subakromiyal bursit, kalça yanındaki trokanterik bursit ve tenisçi dirseği gibi durumlarda ilaç, ultrasonda görülen tendon kılıfına ya da bursaya verilir.", guide: "trigger-finger-clinic" },
+        { n: "Karpal tünel enjeksiyonu", d: "Karpal tünel sendromunda ilaç, ultrasonda medyan sinir görülerek sinire değmeden tünelin içine verilir. Etkisi birçok hastada geçicidir; sinir hasarı bulguları varsa ameliyat konuşulur.", guide: "carpal-tunnel" },
+        { n: "Kist aspirasyonu: Baker ve ganglion kisti", d: "Kistin içi ultrasonda görülerek sıvı iğneyle çekilir. Kisti oluşturan neden sürdükçe kistin yeniden dolması sık görülür.", guide: "baker-cyst" },
+        { n: "Kalsifik tendinitte barbotaj (iğneyle yıkama)", d: "Omuz tendonundaki kireç birikintisine ultrason eşliğinde iğneyle girilir; birikinti serum fizyolojikle yıkanarak dağıtılır ve geri çekilir.", guide: "shoulder-calcific" },
+        { n: "Ultrason neden kullanılır?", d: "Ultrason, iğnenin ucunu ve hedefi aynı anda gösterir; ilacın istenen yere verilmesine ve sinir, damar gibi yapılardan uzak durulmasına yardım eder. Her iğne için şart değildir; yüzeyde kalan bazı noktalara muayeneyle de iğne yapılabilir." },
+        { n: "İşlem nasıl geçer?", d: "Cilt temizlenir, gerekirse bölge uyuşturulur ve iğne ultrason probunun gösterdiği yoldan ilerletilir. İşlem genellikle birkaç dakika sürer ve aynı gün eve dönülür. Kortizon iğnesinden sonraki ilk gün ağrı geçici olarak artabilir; şeker hastalarında kan şekeri birkaç gün yükselebilir." },
+      ],
+      en: [
+        { n: "Joint injections: knee, hip, shoulder", d: "Cortisone is given into the joint for osteoarthritis and inflammation inside the joint; in selected patients hyaluronic acid or PRP. Because the hip joint lies deep, image guidance matters most there; the American College of Rheumatology (ACR) strongly recommends ultrasound guidance for hip injections. Which medicine is suitable is decided at examination and in line with guidelines.", guide: "joint-injections" },
+        { n: "Tendon sheath and bursa injections", d: "For conditions such as trigger finger, de Quervain tenosynovitis, subacromial bursitis in the shoulder, trochanteric bursitis at the side of the hip and tennis elbow, the medicine is placed into the tendon sheath or bursa seen on ultrasound.", guide: "trigger-finger-clinic" },
+        { n: "Carpal tunnel injection", d: "In carpal tunnel syndrome the medicine is placed inside the tunnel with the median nerve in view on ultrasound, so the needle does not touch the nerve. In many patients the effect is temporary; if there are signs of nerve damage, surgery is discussed.", guide: "carpal-tunnel" },
+        { n: "Cyst aspiration: Baker’s and ganglion cysts", d: "The fluid is drawn out with a needle while the inside of the cyst is watched on ultrasound. As long as the cause of the cyst persists, it often fills again.", guide: "baker-cyst" },
+        { n: "Barbotage (needle lavage) for calcific tendinitis", d: "A needle is guided by ultrasound into the calcium deposit in a shoulder tendon; the deposit is broken up by rinsing with saline and drawn back out.", guide: "shoulder-calcific" },
+        { n: "Why ultrasound?", d: "Ultrasound shows the needle tip and the target at the same time, which helps place the medicine where it is meant to go and keep clear of nerves and blood vessels. It is not needed for every injection; some points close to the surface can be injected by examination alone." },
+        { n: "What happens during the injection", d: "The skin is cleaned, the area is numbed if needed and the needle is advanced along the path the ultrasound probe shows. It usually takes a few minutes and you go home the same day. After a cortisone injection the pain can briefly increase on the first day; in people with diabetes blood sugar can rise for a few days." },
+      ],
+      ru: [
+        { n: "Внутрисуставные инъекции: колено, тазобедренный сустав, плечо", d: "При артрозе и воспалении в суставе в его полость вводят кортикостероид, а у части пациентов — гиалуроновую кислоту или PRP. Тазобедренный сустав расположен глубоко, поэтому визуальный контроль здесь особенно важен: Американская коллегия ревматологии (ACR) настоятельно рекомендует выполнять инъекции в тазобедренный сустав под контролем УЗИ. Какой препарат подходит, решают на осмотре в соответствии с клиническими рекомендациями.", guide: "joint-injections" },
+        { n: "Инъекции в сухожильные влагалища и синовиальные сумки", d: "При щёлкающем пальце, тендовагините де Кервена, субакромиальном бурсите плеча, вертельном бурсите на боковой поверхности бедра, «локте теннисиста» и сходных состояниях препарат вводят в сухожильное влагалище или синовиальную сумку, которые видны на УЗИ.", guide: "trigger-finger-clinic" },
+        { n: "Инъекция в запястный канал", d: "При синдроме запястного канала препарат вводят в канал, видя на УЗИ срединный нерв, чтобы игла его не задела. У многих пациентов эффект временный; при признаках повреждения нерва обсуждают операцию.", guide: "carpal-tunnel" },
+        { n: "Пункция кисты: киста Бейкера и гигрома", d: "Жидкость из кисты отсасывают иглой, наблюдая полость кисты на УЗИ. Пока сохраняется причина, вызвавшая кисту, она нередко наполняется снова.", guide: "baker-cyst" },
+        { n: "Барботаж (промывание иглой) при кальцифицирующем тендините", d: "Иглу под контролем УЗИ вводят в отложение кальция в сухожилии плеча; отложение разбивают, промывая физиологическим раствором, и отсасывают.", guide: "shoulder-calcific" },
+        { n: "Зачем нужно УЗИ?", d: "УЗИ одновременно показывает кончик иглы и цель, помогает ввести препарат точно в нужное место и избежать нервов и сосудов. Оно нужно не для каждой инъекции: в некоторые поверхностные точки можно сделать укол по данным осмотра." },
+        { n: "Как проходит процедура", d: "Кожу обрабатывают, при необходимости проводят местное обезболивание и продвигают иглу по пути, который показывает датчик УЗИ. Процедура обычно занимает несколько минут, домой можно уйти в тот же день. После инъекции кортикостероида боль в первый день может временно усилиться; у людей с сахарным диабетом уровень сахара в крови может несколько дней быть повышенным." },
+      ],
+      fa: [
+        { n: "تزریق داخل مفصل: زانو، لگن، شانه", d: "در آرتروز و التهاب داخل مفصل، کورتون و در بیماران منتخب اسید هیالورونیک یا PRP داخل مفصل تزریق می‌شود. چون مفصل لگن در عمق قرار دارد، راهنمایی تصویری در آن اهمیت بیشتری دارد؛ کالج روماتولوژی آمریکا (ACR) تزریق لگن با راهنمای سونوگرافی را قویاً توصیه می‌کند. اینکه کدام دارو مناسب است، در معاینه و بر پایهٔ راهنماهای بالینی تعیین می‌شود.", guide: "joint-injections" },
+        { n: "تزریق در غلاف تاندون و بورس", d: "در مشکلاتی مانند انگشت ماشه‌ای، تنوسینوویت دکروون، بورسیت زیر آخرمی شانه، بورسیت تروکانتر در کنار لگن و آرنج تنیس‌بازان، دارو در غلاف تاندون یا بورسی که در سونوگرافی دیده می‌شود تزریق می‌شود.", guide: "trigger-finger-clinic" },
+        { n: "تزریق تونل کارپ", d: "در سندرم تونل کارپ، دارو در حالی که عصب مدیان در سونوگرافی دیده می‌شود داخل تونل تزریق می‌شود تا سوزن به عصب برخورد نکند. اثر آن در بسیاری از بیماران موقت است؛ اگر نشانه‌های آسیب عصب وجود داشته باشد، جراحی بررسی می‌شود.", guide: "carpal-tunnel" },
+        { n: "تخلیهٔ کیست: کیست بیکر و گانگلیون", d: "مایع کیست در حالی که درون آن در سونوگرافی دیده می‌شود با سوزن کشیده می‌شود. تا زمانی که علت ایجاد کیست باقی است، پر شدن دوبارهٔ آن شایع است.", guide: "baker-cyst" },
+        { n: "باربوتاژ (شست‌وشو با سوزن) در تاندونیت کلسیفیه", d: "سوزن با راهنمای سونوگرافی وارد رسوب کلسیم در تاندون شانه می‌شود؛ رسوب با شست‌وشو با سرم نمکی شکسته و بیرون کشیده می‌شود.", guide: "shoulder-calcific" },
+        { n: "چرا سونوگرافی؟", d: "سونوگرافی نوک سوزن و محل هدف را همزمان نشان می‌دهد و کمک می‌کند دارو به جای درست برسد و سوزن از عصب‌ها و رگ‌ها دور بماند. برای هر تزریقی لازم نیست؛ برخی نقاط نزدیک به سطح پوست را می‌توان تنها با معاینه تزریق کرد." },
+        { n: "تزریق چگونه انجام می‌شود؟", d: "پوست ضدعفونی می‌شود، در صورت نیاز ناحیه بی‌حس می‌شود و سوزن از مسیری که پروب سونوگرافی نشان می‌دهد پیش برده می‌شود. معمولاً چند دقیقه طول می‌کشد و همان روز به خانه برمی‌گردید. پس از تزریق کورتون ممکن است درد در روز اول موقتاً بیشتر شود؛ در افراد دیابتی قند خون ممکن است چند روز بالا برود." },
+      ],
+    },
+    urgent: {
+      tr: ["İğne yapılan bölgede ya da eklemde giderek artan ağrı, kızarıklık, sıcaklık ve şişlik ya da ateş", "İğneden sonra yüzde, dudaklarda şişlik, yaygın kaşıntı ya da nefes darlığı"],
+      en: ["Increasing pain, redness, warmth and swelling at the injection site or in the joint, or a fever", "Swelling of the face or lips, widespread itching or shortness of breath after the injection"],
+      ru: ["Нарастающая боль, покраснение, повышение местной температуры и отёк в месте инъекции или в суставе либо повышение температуры тела", "Отёк лица или губ, распространённый зуд или затруднённое дыхание после инъекции"],
+      fa: ["درد رو به افزایش، قرمزی، گرمی و تورم در محل تزریق یا در مفصل، یا تب", "تورم صورت یا لب‌ها، خارش گسترده یا تنگی نفس پس از تزریق"],
     },
   },
   {
@@ -550,6 +625,10 @@ export const areaSeo: Record<string, { title: L; desc: L }> = {
   artroskopi: {
     title: { tr: "Artroskopik cerrahi (kapalı eklem ameliyatı)", en: "Arthroscopic surgery (keyhole joint surgery)", ru: "Артроскопия (операции через проколы)", fa: "جراحی آرتروسکوپی (جراحی بستهٔ مفصل)" },
     desc: { tr: "Girne’de artroskopik cerrahi (kapalı ameliyat): diz, omuz, dirsek, el bileği ve ayak bileği. Menisküs, ön çapraz bağ, rotator manşet ve omuz çıkığı ameliyatları.", en: "Arthroscopic (keyhole) surgery in Kyrenia: knee, shoulder, elbow, wrist and ankle. Meniscus surgery, ACL reconstruction, rotator cuff repair, shoulder stabilisation.", ru: "Артроскопия (операции через проколы) в Гирне: колено, плечо, локоть, запястье, голеностоп. Операции на мениске, ПКС, вращательной манжете, при вывихе плеча.", fa: "جراحی آرتروسکوپی (جراحی بسته) در گیرنه: زانو، شانه، آرنج، مچ دست و مچ پا. جراحی منیسک، رباط صلیبی قدامی، روتاتور کاف و دررفتگی شانه." },
+  },
+  "usg-enjeksiyon": {
+    title: { tr: "Ultrason eşliğinde enjeksiyon: diz, kalça, omuz iğnesi", en: "Ultrasound-guided joint and soft tissue injections", ru: "Инъекции под контролем УЗИ: колено, бедро, плечо", fa: "تزریق با راهنمای سونوگرافی: زانو، لگن، شانه" },
+    desc: { tr: "Girne’de ultrason eşliğinde enjeksiyon: diz, kalça ve omuz eklem içi iğne, tetik parmak, bursit, karpal tünel enjeksiyonu, Baker kisti aspirasyonu ve barbotaj.", en: "Ultrasound-guided injections in Kyrenia (Girne): knee, hip and shoulder joint injections, trigger finger, bursitis, carpal tunnel, Baker’s cyst aspiration, barbotage.", ru: "Инъекции под контролем УЗИ в Гирне: коленный, тазобедренный и плечевой суставы, щёлкающий палец, бурсит, запястный канал, пункция кисты Бейкера, барботаж.", fa: "تزریق با راهنمای سونوگرافی در گیرنه: تزریق مفصل زانو، لگن و شانه، انگشت ماشه‌ای، بورسیت، تونل کارپ، تخلیهٔ کیست بیکر و باربوتاژ." },
   },
   "kirik-travma": {
     title: { tr: "Kırık ve travma tedavisi", en: "Fracture and trauma care", ru: "Лечение переломов и травм", fa: "درمان شکستگی و تروما" },
