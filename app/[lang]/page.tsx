@@ -47,11 +47,14 @@ export default function Home({ params }: { params: { lang: string } }) {
         <section data-hero className="relative bg-turq pt-[9.5rem] md:pt-[11.5rem]">
           <div className="wrap grid items-center gap-10 pb-40 md:grid-cols-[1.35fr_0.65fr] md:pb-56">
             <div>
-              <h1 className="display">
-                <span className="rise block" style={{ animationDelay: ".15s" }}>{t.hero.h1a}</span>
-                <span className="rise block" style={{ animationDelay: ".3s" }}>{t.hero.h1b}</span>
+              {/* the place line is part of the heading, so the page's h1 names the specialty and the town; it looks as it did */}
+              <h1>
+                <span className="display block">
+                  <span className="rise block" style={{ animationDelay: ".15s" }}>{t.hero.h1a}</span>
+                  <span className="rise block" style={{ animationDelay: ".3s" }}>{t.hero.h1b}</span>
+                </span>
+                <span className="rise mt-6 block text-[1.15rem] md:text-[1.35rem]" style={{ animationDelay: ".5s", fontWeight: 500, letterSpacing: "-0.01em", lineHeight: lang === "fa" ? 1.95 : 1.5 }}>{t.hero.place}</span>
               </h1>
-              <p className="rise mt-6 text-[1.15rem] md:text-[1.35rem]" style={{ animationDelay: ".5s", fontWeight: 500, letterSpacing: "-0.01em" }}>{t.hero.place}</p>
               <p className="rise lead mt-6" style={{ animationDelay: ".65s", fontWeight: 400 }}>{t.hero.lead}</p>
               <div className="rise mt-9 flex flex-wrap gap-3" style={{ animationDelay: ".8s" }}>
                 <Link href={`/${lang}#iletisim`} className="btn-deep">{t.hero.cta1}</Link>
