@@ -17,7 +17,7 @@ for i in sys.argv[1:]:
         if len(t.get("sections", [])) != len(tr["sections"]): errs.append("section count differs")
         else:
             for a, b in zip(tr["sections"], t["sections"]):
-                if len(a["p"]) != len(b["p"]) or len(a.get("list", [])) != len(b.get("list", [])): errs.append(f"shape differs in section '{a['h'][:30]}'")
+                if len(a["p"]) != len(b["p"]) or len(a.get("list", [])) != len(b.get("list", [])) or len(a.get("after", [])) != len(b.get("after", [])): errs.append(f"shape differs in section '{a['h'][:30]}'")
                 if cites(a) != cites(b): errs.append(f"citations differ in section '{a['h'][:30]}': {cites(a)} vs {cites(b)}")
         if len(t.get("faq", [])) != len(tr["faq"]): errs.append("faq count differs")
         elif [cites(x) for x in tr["faq"]] != [cites(x) for x in t["faq"]]: errs.append("faq citations differ")

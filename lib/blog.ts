@@ -3,10 +3,19 @@ import path from "path";
 import type { Lang } from "@/lib/site";
 
 export type Source = { title: string; publisher: string; url: string; year?: string };
-export type Section = { h: string; p: string[]; list?: string[] };
+/** after: optional paragraphs shown below the list (when the text continues after it). */
+export type Section = { h: string; p: string[]; list?: string[]; after?: string[] };
 export type Faq = { q: string; a: string };
 export type ArticleLang = { slug: string; title: string; description: string; summary: string; sections: Section[]; faq: Faq[]; note?: string };
-export type Article = { id: string; area: string; updated: string; reviewer: string; reviewed?: boolean; sources: Source[]; i18n: Record<Lang, ArticleLang> };
+/**
+ * A short video placed in an article, per language and optional (a video usually exists in one language only).
+ * It lives beside i18n, not inside it, so scripts/check_articles.py (which requires the same keys in every language) does not see it.
+ * youtube: the video id. duration: ISO 8601 (PT52S). uploadDate: as YouTube gives it. poster: a file under public/, never YouTube's thumbnail.
+ * at: index of the section it follows (0-based); left out, it follows the summary. transcript: the spoken text, one paragraph per item.
+ * source: where the video's numbers come from, when the article's own source list does not hold it.
+ */
+export type ArticleVideo = { youtube: string; title: string; description: string; duration: string; uploadDate: string; poster: string; at?: number; transcript: string[]; source?: Source };
+export type Article = { id: string; area: string; updated: string; reviewer: string; reviewed?: boolean; sources: Source[]; i18n: Record<Lang, ArticleLang>; video?: Partial<Record<Lang, ArticleVideo>> };
 
 const DIR = path.join(process.cwd(), "content", "blog");
 let cache: Article[] | null = null;

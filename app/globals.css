@@ -165,6 +165,16 @@ body { @apply bg-white text-deep font-sans antialiased; font-weight: 300; overfl
 @media (prefers-reduced-motion: reduce) { .wa-panel { animation: none; } }
 @media print { .wa-panel { display: none; } }
 
+/* article video: a vertical (9:16) YouTube frame that loads on click; narrow on phones, a set width on desktop */
+.vid { position: relative; width: min(100%, 20rem); aspect-ratio: 9 / 16; overflow: hidden; border-radius: 1rem; background: #06363B; }
+@media (min-width: 768px) { .vid { width: 22rem; } }
+.vid-play { position: absolute; inset: 0; display: block; width: 100%; padding: 0; border: 0; cursor: pointer; }
+.vid-play:focus-visible { outline: 3px solid #00ADB5; outline-offset: -3px; }
+.vid-bar { position: absolute; inset-inline: 0; inset-block-end: 0; display: flex; align-items: center; gap: .6rem; padding: 1.6rem .9rem .9rem; background: linear-gradient(to top, rgba(6,54,59,.92), rgba(6,54,59,0)); color: #fff; font-size: .95rem; font-weight: 500; text-align: start; }
+.vid-glyph { display: grid; place-items: center; width: 2.6rem; height: 2.6rem; border-radius: 50%; background: #00ADB5; color: #06363B; transition: background-color .2s ease, color .2s ease; }
+.vid-play:hover .vid-glyph { background: #fff; }
+@media (prefers-reduced-motion: reduce) { .vid-glyph { transition: none; } }
+
 /* common questions */
 .faq summary { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding-block: 1.5rem; cursor: pointer; list-style: none; }
 .faq summary::-webkit-details-marker { display: none; }

@@ -4,12 +4,44 @@ import Footer from "@/components/Footer";
 import { ui, type Lang, SITE, PHONE, PHONE_HREF, DOCTORS_SEGMENT, alts, fmtDate as fmt } from "@/lib/site";
 import { doctors, docFull } from "@/lib/doctors";
 import { areas, areaUrl } from "@/lib/areas";
-import { type Article, blogUi, blogUrl, articlesOfArea } from "@/lib/blog";
+import { type Article, type ArticleVideo, blogUi, blogUrl, articlesOfArea } from "@/lib/blog";
+import VideoEmbed from "@/components/VideoEmbed";
 
 
 function Cited({ text }: { text: string }) {
   const parts = text.split(/(\[\d+\])/g);
   return <>{parts.map((s, i) => { const m = s.match(/^\[(\d+)\]$/); return m ? <sup key={i}><a href={`#src-${m[1]}`} className="link" style={{ fontWeight: 500 }}>[{m[1]}]</a></sup> : <span key={i}>{s}</span>; })}</>;
+}
+
+// Labels for the video block. Only languages that carry a video need them; others fall back to English.
+const videoUi: Partial<Record<Lang, { play: string; transcript: string; source: string; open: string; privacy: string }>> = {
+  tr: { play: "Videoyu oynat", transcript: "Videonun metni", source: "Videodaki verinin kaynağı", open: "YouTube'da aç", privacy: "Oynat düğmesine basınca video YouTube'dan (youtube-nocookie.com) yüklenir." },
+  en: { play: "Play the video", transcript: "Video transcript", source: "Source of the figures in the video", open: "Open on YouTube", privacy: "The video loads from YouTube (youtube-nocookie.com) when you press play." },
+};
+const clock = (iso: string) => { const m = iso.match(/^PT(?:(\d+)M)?(?:(\d+)S)?$/); return m ? `${+(m[1] ?? 0)}:${String(+(m[2] ?? 0)).padStart(2, "0")}` : ""; };
+
+function VideoBlock({ lang, v }: { lang: Lang; v: ArticleVideo }) {
+  const u = videoUi[lang] ?? videoUi.en!;
+  return (
+    <div className="mt-12" id="video">
+      <figure>
+        <VideoEmbed id={v.youtube} title={v.title} poster={v.poster} play={u.play} length={clock(v.duration)} />
+        <figcaption className="mt-4 max-w-[40em]">
+          <span className="block" style={{ fontWeight: 500 }}>{v.title}</span>
+          <span className="small mt-1 block text-slate" style={{ fontWeight: 400 }}>{u.privacy} <a className="link" href={`https://www.youtube.com/shorts/${v.youtube}`} rel="noopener">{u.open}</a></span>
+        </figcaption>
+      </figure>
+      {v.transcript.length > 0 && (
+        <details className="faq mt-6 border-y border-line">
+          <summary><span style={{ fontWeight: 500 }}>{u.transcript}</span><span aria-hidden className="faq-mark" /></summary>
+          <div className="pb-6">
+            {v.transcript.map((p) => <p key={p.slice(0, 30)} className="body mt-3 first:mt-0" style={{ fontWeight: 400 }}>{p}</p>)}
+            {v.source && <p className="small mt-5 text-slate" style={{ fontWeight: 400 }}>{u.source}: {v.source.title}. {v.source.publisher}{v.source.year ? `, ${v.source.year}` : ""}. <a className="link" dir="ltr" href={v.source.url} rel="noopener nofollow">{v.source.url.replace(/^https?:\/\//, "")}</a></p>}
+          </div>
+        </details>
+      )}
+    </div>
+  );
 }
 
 export default function ArticlePage({ lang, a }: { lang: Lang; a: Article }) {
@@ -18,6 +50,7 @@ export default function ArticlePage({ lang, a }: { lang: Lang; a: Article }) {
   const doc = doctors.find((d) => d.id === a.reviewer)!;
   const related = articlesOfArea(a.area).filter((z) => z.id !== a.id);
   const url = SITE + blogUrl(lang, a);
+  const v = a.video?.[lang];
   const ld = [
     {
       "@context": "https://schema.org", "@type": "MedicalWebPage", "@id": url, url, name: x.title, description: x.description, inLanguage: lang,
@@ -26,7 +59,14 @@ export default function ArticlePage({ lang, a }: { lang: Lang; a: Article }) {
       ...(a.reviewed ? { reviewedBy: { "@id": `${SITE}/#${doc.id}` } } : {}), publisher: { "@id": `${SITE}/#clinic` },
       citation: a.sources.map((s) => ({ "@type": "CreativeWork", name: s.title, publisher: s.publisher, url: s.url })),
       isPartOf: { "@type": "WebSite", name: "Cyprus Orthopaedics", url: SITE },
+      ...(v ? { video: { "@id": `${url}#video` } } : {}),
     },
+    ...(v ? [{
+      "@context": "https://schema.org", "@type": "VideoObject", "@id": `${url}#video`, name: v.title, description: v.description, inLanguage: lang,
+      thumbnailUrl: [SITE + v.poster], uploadDate: v.uploadDate, duration: v.duration,
+      embedUrl: `https://www.youtube-nocookie.com/embed/${v.youtube}`, url: `https://www.youtube.com/shorts/${v.youtube}`,
+      ...(v.transcript.length ? { transcript: v.transcript.join(" ") } : {}),
+    }] : []),
     { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: x.faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a.replace(/\s*\[\d+\]/g, "") } })) },
     { "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [
       { "@type": "ListItem", position: 1, name: "Cyprus Orthopaedics", item: `${SITE}/${lang}` },
@@ -52,11 +92,14 @@ export default function ArticlePage({ lang, a }: { lang: Lang; a: Article }) {
         <article className="wrap pb-24 md:pb-32">
           <div className="mx-auto max-w-3xl">
             <p className="lead mt-12"><Cited text={x.summary} /></p>
-            {x.sections.map((s) => (
+            {v && v.at === undefined && <VideoBlock lang={lang} v={v} />}
+            {x.sections.map((s, si) => (
               <section key={s.h} className="mt-12">
                 <h2 className="h3">{s.h}</h2>
                 {s.p.filter(Boolean).map((p) => <p key={p.slice(0, 30)} className="body mt-4" style={{ fontWeight: 400 }}><Cited text={p} /></p>)}
                 {s.list && <ul className="mt-4 list-disc space-y-2 ps-6" style={{ fontWeight: 400 }}>{s.list.map((l) => <li key={l}><Cited text={l} /></li>)}</ul>}
+                {s.after?.map((p) => <p key={p.slice(0, 30)} className="body mt-4" style={{ fontWeight: 400 }}><Cited text={p} /></p>)}
+                {v && v.at === si && <VideoBlock lang={lang} v={v} />}
               </section>
             ))}
             <section className="mt-16 border-t border-line pt-10">

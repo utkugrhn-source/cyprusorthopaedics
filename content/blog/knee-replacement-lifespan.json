@@ -1,0 +1,498 @@
+{
+ "id": "knee-replacement-lifespan",
+ "area": "diz",
+ "updated": "2026-11-27",
+ "reviewer": "gurhan",
+ "reviewed": true,
+ "sources": [
+  {
+   "title": "Hip, Knee and Shoulder Arthroplasty: 2026 Annual Report",
+   "publisher": "Australian Orthopaedic Association National Joint Replacement Registry (AOANJRR) (Smith PN, Gill DR, McAuliffe MJ, et al.)",
+   "url": "https://doi.org/10.25310/KXRZ4829",
+   "year": "2026"
+  },
+  {
+   "title": "Lay Summary Supplementary Report 2026",
+   "publisher": "AOANJRR",
+   "url": "https://registry.aoa.org.au/documents/da96471d-c6a0-40da-b856-07c5756c4aa4/2026%20Lay%20Summary%20Supplementary%20Report%20AOANJRR-1.pdf",
+   "year": "2026"
+  },
+  {
+   "title": "How long does a knee replacement last? A systematic review and meta-analysis of case series and national registry reports with more than 15 years of follow-up",
+   "publisher": "The Lancet (Evans JT, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30782341/",
+   "year": "2019"
+  },
+  {
+   "title": "The effect of patient age at intervention on risk of implant revision after total replacement of the hip or knee: a population-based cohort study",
+   "publisher": "The Lancet (Bayliss LE, et al.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28209371/",
+   "year": "2017"
+  }
+ ],
+ "i18n": {
+  "tr": {
+   "slug": "diz-protezi-kac-yil-dayanir",
+   "title": "Diz protezi kaç yıl dayanır? Kayıt verisi ve takıldığı yaşın etkisi",
+   "description": "Diz protezi kaç yıl dayanır? Avustralya kaydında total diz protezlerinin 100'de 92'si 20 yılda değiştirilmemiş; hayat boyu risk takıldığı yaşa bağlı.",
+   "summary": "Avustralya ulusal eklem protezi kaydında, kireçlenme nedeniyle takılan ve bugün hâlâ kullanılan modellerden olan total diz protezlerinin 100'de 92'si 20 yıl sonra ilk takıldığı haliyle yerinde, yani değiştirilmemiş [1]. Protezin hayat boyu değiştirilme olasılığı ise takıldığı yaşa bağlı: kaydın model tahminine göre 46–50 yaşında takılanlarda yaklaşık 100'de 31, 76–80 yaşında takılanlarda yaklaşık 100'de 7 [1]. Bunlar grup tahminleridir ve \"ağrısız\" ya da \"sorunsuz\" anlamına gelmez [1][2].",
+   "sections": [
+    {
+     "h": "Protezin \"dayanması\" tam olarak ne demek?",
+     "p": [
+      "Protez kayıtları dizin ne kadar iyi olduğunu değil, protezin yeniden ameliyatla değiştirilip değiştirilmediğini sayar. Avustralya kaydının tanımıyla revizyon, bir ya da daha fazla protez parçasının değiştirildiği, çıkarıldığı ya da eklendiği yeniden ameliyattır [1]. \"Dayandı\" dediğimiz protez, bu tanıma göre revizyon görmemiş protezdir.",
+      "Bu tanımın iki sonucu vardır. Birincisi, ağrısı süren ya da sonuçtan memnun olmayan ama yeniden ameliyat olmamış bir hasta bu sayılarda \"yerinde\" görünür; kayıt ağrıyı ve memnuniyeti bu sayıya katmaz [1]. İkincisi, protez parçalarına dokunulmadan yapılan başka bir girişim revizyon sayılmaz [1]. Bu yüzden bu yazıdaki sayılar \"protez değiştirilmedi\" diye okunmalıdır, \"diz sorunsuz\" diye değil."
+     ]
+    },
+    {
+     "h": "20 yıl sonra kaçı yerinde?",
+     "p": [
+      "Avustralya kaydının (AOANJRR) 2026 yıllık raporu, 26 yıla uzanan kayıt verisini kullanıyor [1]. Kireçlenme (osteoartrit) nedeniyle takılan total diz protezlerinde revizyon görmeden yerinde kalanların payı şöyle [1]:"
+     ],
+     "list": [
+      "20 yıl sonra: 100'de 92 (revizyon %8,0; %95 güven aralığı 7,8–8,2)"
+     ],
+     "after": [
+      "Bu tablo yalnız 2025'te hâlâ piyasada olan ve kullanılan protez modellerini içeriyor; artık kullanılmayan modeller, kötü sonuç nedeniyle piyasadan çekilenler de dahil, dışarıda [1]. Yani bu sayılar \"bugünkü protezler\" için bir fikir verir, \"şimdiye kadar takılmış bütün protezler\" için değil. Sayılar ayarlanmamış Kaplan-Meier tahminidir: izlem süresi farklı olan hastalardan hesaplanır [1]."
+     ]
+    },
+    {
+     "h": "25 yıl ve sonrası için ne biliniyor?",
+     "p": [
+      "Bu yazıda Avustralya kaydından aldığımız en uzun süre 20 yıl [1]. Daha uzun süre için başvurulan kaynak, 2019'da The Lancet'te yayımlanan, yayımlanmış vaka serilerini ve ulusal kayıt raporlarını ayrı ayrı birleştiren bir analizdir: kayıt verisine göre total diz protezlerinin yaklaşık %82'si 25 yıl sonra değiştirilmemişti [3]. Bu sayıyı okurken iki sınır akılda tutulmalı: 25. yıl verisinin tamamı tek bir ülkenin (Finlandiya) kaydından geliyor [3] ve 25 yıl izlenebilmiş protezler, doğal olarak bugünkülerden önceki kuşağa ait."
+     ]
+    },
+    {
+     "h": "Takıldığı yaş neden bu kadar önemli?",
+     "p": [
+      "\"Kaç yıl dayanır?\" sorusu hastanın yaşı hesaba katılmadan tam cevaplanamaz. Avustralya kaydının 2026 raporu, özel bir bölümde protezin takıldığı yaştan itibaren hayatın geri kalanında değiştirilme olasılığını hesapladı [1]. Hesap, kireçlenme nedeniyle total diz protezi takılmış 771.004 hastanın verisine dayanıyor (ortalama yaş 68,7) ve ölüm kayıtlarıyla bağlantılı bir modelle ameliyat yaşından 86 yaşın üstüne kadar uzanıyor [1]. Kayıt verisi en çok 26 yılı kapsadığı için bu sürenin ötesindeki yıllar tahmindir ve rapor bu yılların daha az kesin olduğunu belirtiyor [1].",
+      "Protezin takıldığı yaşa göre hayat boyu değiştirilme olasılığı (model tahmini) [1]:"
+     ],
+     "list": [
+      "46–50 yaş: %30,6 (yaklaşık 100'de 31)",
+      "51–55 yaş: %24,9",
+      "56–60 yaş: %20,2",
+      "61–65 yaş: %16,0",
+      "66–70 yaş: %12,5",
+      "71–75 yaş: %9,4",
+      "76–80 yaş: %6,7 (yaklaşık 100'de 7)",
+      "81–85 yaş: %4,2",
+      "86 yaş ve üstü: %2,0"
+     ],
+     "after": [
+      "Tablo 46–50 yaş grubuyla başlıyor; raporda 46 yaşın altı için ayrı bir tahmin yok [1]. En yüksek olasılığın olduğu grupta bile tahmine göre 100 protezden yaklaşık 69'u hayat boyu değiştirilmiyor [1]."
+     ]
+    },
+    {
+     "h": "Gençte olasılık neden daha yüksek?",
+     "p": [
+      "Kaydın kendi açıklaması şudur: genç yaşta protez takılan kişi, protezle daha uzun yıllar yaşar; protezin önünde daha çok yıl vardır [1][2]. 86 yaşın üstünde takılan protezde olasılığın %2'ye düşmesinin nedeni de budur [1].",
+      "Tek neden bu değil. Aynı süre içinde de fark görülüyor: 20 yıl sonra revizyon görmeden yerinde kalan protezlerin payı 46–50 yaşında takılanlarda %82,2, 76–80 yaşında takılanlarda %95,9 [1]. Bu iki sayı (20 yıl ve hayat boyu) birbiriyle çelişmez: hayat boyu tahmin, 20. yıldan sonraki yılları da hesaba katar. Kaynaklar bu yaş farkını genç hastanın daha hareketli olmasıyla açıklamıyor.",
+      "Erkeklerde olasılık kadınlardan biraz daha yüksek: 46–50 yaş grubunda erkeklerde %32,9, kadınlarda %28,8; 76–80 yaş grubunda erkeklerde %7,6, kadınlarda %6,1 [1]."
+     ]
+    },
+    {
+     "h": "Protez neden değiştirilir?",
+     "p": [
+      "Protezin değiştirilme nedenleri arasında gevşeme, enfeksiyon, süren ağrı ve dengesizlik var [3]. Ameliyatın riskleri, enfeksiyon belirtileri ve ameliyattan sonra ne zaman hekime başvurulacağı \"Diz protezi ameliyatı: kimlere yapılır, iyileşme nasıl geçer?\" yazımızda ayrıca anlatılıyor."
+     ]
+    },
+    {
+     "h": "Bu sayılar benim dizim için ne anlama geliyor?",
+     "p": [
+      "Bu sayılar binlerce hastanın ortalamasıdır; tek bir kişi için öngörü değildir [2]. Kaydın hasta için hazırladığı özet de aynı şeyi söyler: tahminler bireysel değildir, kendi durumunuzu cerrahınızla konuşmanız gerekir [2].",
+      "Ayrıca bu veri Avustralya'ya aittir. Hangi durumda revizyon yapılacağı ülkeden ülkeye ve hekimden hekime değişebilir [3]; bu yüzden sayılar başka bir ülkenin hastalarına birebir taşınmaz."
+     ]
+    },
+    {
+     "h": "Gencim; protezi ertelemeli miyim?",
+     "p": [
+      "Bu sorunun herkese uyan tek bir cevabı yok. İngiltere'den nüfus temelli bir çalışmanın yazarları, genç hastalarda giderek artan protez ameliyatı eğilimini sorgular ve bu olasılık bilgisinin karar verilirken hastayla paylaşılmasını önerir [4]. Karar yalnız bu olasılığa göre değil, ağrının, dizin işlevinin ve bu riskin birlikte konuşulmasıyla verilir. Protezin kimlere önerildiği ve ameliyatsız seçenekler için \"Diz protezi ameliyatı: kimlere yapılır, iyileşme nasıl geçer?\" yazımıza bakabilirsiniz.",
+      "Hekiminizle konuşurken şu soruları sorabilirsiniz:"
+     ],
+     "list": [
+      "Benim yaşımda bu sayılar ne anlama geliyor?",
+      "Ağrım ve kısıtlılığım şu an hangi düzeyde, ameliyatsız seçeneklerde neredeyim?",
+      "İleride protezin değiştirilmesi gerekirse bu nasıl bir ameliyat olur?",
+      "Hangi belirtilerde beklemeden başvurmalıyım?"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Diz protezi ömür boyu dayanır mı?",
+     "a": "Kayıt verisine göre total diz protezlerinin çoğu hayat boyu değiştirilmiyor. Avustralya kaydının model tahmininde en yüksek olasılığın görüldüğü 46–50 yaş grubunda bile protezlerin yaklaşık 100'de 69'u hayat boyu değiştirilmiyor [1]. Bu bir grup tahminidir, kişisel bir öngörü değildir [2]."
+    },
+    {
+     "q": "Genç yaşta takılan protez mutlaka değiştirilir mi?",
+     "a": "Hayır. Kaydın tahminine göre 46–50 yaşında takılan total diz protezlerinde hayat boyu değiştirilme olasılığı yaklaşık 100'de 31; yani çoğu değiştirilmiyor [1]. Olasılık, takıldığı yaş büyüdükçe azalıyor; 76–80 yaşında yaklaşık 100'de 7 [1]."
+    },
+    {
+     "q": "Protezim değiştirilmediyse dizim sorunsuz demek mi?",
+     "a": "Hayır. Kayıtlar yalnız protez parçalarının değiştirildiği, çıkarıldığı ya da eklendiği yeniden ameliyatı sayar; ağrı ve memnuniyet bu sayıya girmez [1]. Yeni başlayan ya da artan ağrıyı hekiminize gösterin."
+    },
+    {
+     "q": "Kadınlarla erkekler arasında fark var mı?",
+     "a": "Var, ama küçük. Kaydın tahmininde her iki yaş grubunda da erkeklerde olasılık biraz daha yüksek: 46–50 yaşta erkeklerde %32,9, kadınlarda %28,8 [1]."
+    },
+    {
+     "q": "Bu sayılar Kıbrıs'taki hastalar için de geçerli mi?",
+     "a": "Sayılar Avustralya ulusal kaydına ait; revizyon kararı ülkeye ve hekime göre değişebildiği için başka ülkelere birebir taşınmaz [3]. Yine de kayıtlar aynı yönü gösteriyor: protezin değiştirilme olasılığı, takıldığı yaşla birlikte düşünülmeli [1][4]."
+    }
+   ]
+  },
+  "en": {
+   "slug": "how-long-does-a-knee-replacement-last",
+   "title": "How long does a knee replacement last? Registry data and age at surgery",
+   "description": "How long does a knee replacement last? Australian registry: 92 in 100 total knee replacements not replaced in 20 years; lifetime risk depends on age at surgery.",
+   "summary": "In the Australian national joint replacement registry, 92 in 100 total knee replacements fitted for osteoarthritis, of models still in use today, are still in place as first fitted 20 years later, that is, they have not been replaced [1]. The chance that the implant is replaced over the rest of a person's life depends on the age at which it was fitted: according to the registry's model estimate, it is about 31 in 100 for those who had it at 46–50 and about 7 in 100 for those who had it at 76–80 [1]. These are group estimates and do not mean \"pain-free\" or \"trouble-free\" [1][2].",
+   "sections": [
+    {
+     "h": "What exactly does it mean for an implant to \"last\"?",
+     "p": [
+      "Joint registries do not count how well the knee is doing; they count whether the implant has been replaced in a further operation. In the Australian registry's definition, a revision is a further operation in which one or more parts of the implant are replaced, removed or added [1]. An implant we say has \"lasted\" is, by this definition, one that has not had a revision.",
+      "This definition has two consequences. First, a patient whose pain continues or who is not satisfied with the result, but who has not had another operation, appears in these figures as \"still in place\"; the registry does not count pain or satisfaction in this figure [1]. Second, another procedure that does not touch the parts of the implant is not counted as a revision [1]. So the figures in this article should be read as \"the implant was not replaced\", not as \"the knee is trouble-free\"."
+     ]
+    },
+    {
+     "h": "How many are still in place after 20 years?",
+     "p": [
+      "The Australian registry's (AOANJRR) 2026 annual report uses registry data reaching back 26 years [1]. For total knee replacements fitted for osteoarthritis, the share still in place without a revision is as follows [1]:"
+     ],
+     "list": [
+      "After 20 years: 92 in 100 (revision 8.0%; 95% confidence interval 7.8–8.2)"
+     ],
+     "after": [
+      "This table includes only implant models that were still on the market and in use in 2025; models no longer in use, including those withdrawn from the market because of poor results, are left out [1]. So these figures give an idea of \"today's implants\", not of \"every implant ever fitted\". The figures are unadjusted Kaplan-Meier estimates: they are calculated from patients with different lengths of follow-up [1]."
+     ]
+    },
+    {
+     "h": "What is known about 25 years and beyond?",
+     "p": [
+      "The longest period we take from the Australian registry in this article is 20 years [1]. The source used for longer periods is an analysis published in The Lancet in 2019 that pooled published case series and national registry reports separately: according to the registry data, about 82% of total knee replacements had not been replaced after 25 years [3]. Two limits should be kept in mind when reading this figure: all of the 25-year data come from a single country's registry (Finland) [3], and implants that could be followed for 25 years naturally belong to a generation before today's."
+     ]
+    },
+    {
+     "h": "Why does the age at which it is fitted matter so much?",
+     "p": [
+      "The question \"how many years does it last?\" cannot be fully answered without taking the patient's age into account. In a dedicated section, the Australian registry's 2026 report calculated the chance of the implant being replaced over the rest of a person's life, from the age at which it was fitted [1]. The calculation is based on data from 771,004 patients who had a total knee replacement for osteoarthritis (mean age 68.7) and, using a model linked to death records, extends from the age at surgery to beyond 86 [1]. Because the registry data cover at most 26 years, the years beyond that are estimates, and the report states that these years are less certain [1].",
+      "Lifetime chance of the implant being replaced, by age at which it was fitted (model estimate) [1]:"
+     ],
+     "list": [
+      "Age 46–50: 30.6% (about 31 in 100)",
+      "Age 51–55: 24.9%",
+      "Age 56–60: 20.2%",
+      "Age 61–65: 16.0%",
+      "Age 66–70: 12.5%",
+      "Age 71–75: 9.4%",
+      "Age 76–80: 6.7% (about 7 in 100)",
+      "Age 81–85: 4.2%",
+      "Age 86 and over: 2.0%"
+     ],
+     "after": [
+      "The table starts with the 46–50 age group; the report gives no separate estimate for people under 46 [1]. Even in the group with the highest chance, by the estimate about 69 in every 100 implants are not replaced during the person's lifetime [1]."
+     ]
+    },
+    {
+     "h": "Why is the chance higher in younger people?",
+     "p": [
+      "The registry's own explanation is this: a person who has an implant fitted at a younger age lives with it for more years; there are more years ahead of the implant [1][2]. This is also why the chance falls to 2% for an implant fitted over the age of 86 [1].",
+      "This is not the only reason. A difference is seen within the same period too: the share of implants still in place without a revision after 20 years is 82.2% for those fitted at 46–50 and 95.9% for those fitted at 76–80 [1]. These two figures (20 years and lifetime) do not contradict each other: the lifetime estimate also takes the years after the 20th into account. The sources do not explain this age difference by younger patients being more active.",
+      "The chance is slightly higher in men than in women: in the 46–50 age group 32.9% in men and 28.8% in women; in the 76–80 age group 7.6% in men and 6.1% in women [1]."
+     ]
+    },
+    {
+     "h": "Why is an implant replaced?",
+     "p": [
+      "Reasons for replacing the implant include loosening, infection, persistent pain and instability [3]. The risks of the operation, the signs of infection and when to see a doctor after surgery are covered separately in our article \"Knee replacement surgery: who is it for and what is recovery like?\"."
+     ]
+    },
+    {
+     "h": "What do these figures mean for my knee?",
+     "p": [
+      "These figures are averages across thousands of patients; they are not a prediction for any one person [2]. The summary the registry has prepared for patients says the same: the estimates are not individual, and you need to discuss your own situation with your surgeon [2].",
+      "Also, these data come from Australia. When a revision is performed can vary from country to country and from surgeon to surgeon [3]; so the figures do not carry over directly to patients in another country."
+     ]
+    },
+    {
+     "h": "I'm young; should I put off a knee replacement?",
+     "p": [
+      "There is no single answer to this question that fits everyone. The authors of a population-based study from England question the growing trend towards joint replacement surgery in younger patients and recommend that this information about the probability be shared with the patient when the decision is made [4]. The decision is not made on this probability alone, but by discussing the pain, how well the knee works and this risk together. To read about who a knee replacement is recommended for, and about the non-surgical options, see our article \"Knee replacement surgery: who is it for and what is recovery like?\".",
+      "When you talk to your doctor, you can ask these questions:"
+     ],
+     "list": [
+      "What do these figures mean at my age?",
+      "How severe are my pain and limitation now, and where am I with the non-surgical options?",
+      "If the implant needs to be replaced in the future, what kind of operation would that be?",
+      "Which symptoms mean I should seek help without waiting?"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Does a knee replacement last a lifetime?",
+     "a": "According to registry data, most total knee replacements are not replaced during the person's lifetime. In the Australian registry's model estimate, even in the 46–50 age group, where the chance is highest, about 69 in 100 implants are not replaced during the person's lifetime [1]. This is a group estimate, not a personal prediction [2]."
+    },
+    {
+     "q": "Will an implant fitted at a young age definitely need to be replaced?",
+     "a": "No. By the registry's estimate, the lifetime chance of replacement for total knee replacements fitted at 46–50 is about 31 in 100; that is, most are not replaced [1]. The chance falls as the age at fitting rises; at 76–80 it is about 7 in 100 [1]."
+    },
+    {
+     "q": "If my implant has not been replaced, does that mean my knee is trouble-free?",
+     "a": "No. Registries count only further operations in which parts of the implant are replaced, removed or added; pain and satisfaction are not part of this figure [1]. Show your doctor any pain that is new or getting worse."
+    },
+    {
+     "q": "Is there a difference between women and men?",
+     "a": "Yes, but it is small. In the registry's estimate the chance is slightly higher in men in both age groups: at 46–50, 32.9% in men and 28.8% in women [1]."
+    },
+    {
+     "q": "Do these figures apply to patients in Cyprus too?",
+     "a": "The figures come from the Australian national registry; because the decision to revise can vary by country and by surgeon, they do not carry over directly to other countries [3]. Even so, the registries point the same way: the chance of the implant being replaced should be considered together with the age at which it is fitted [1][4]."
+    }
+   ]
+  },
+  "ru": {
+   "slug": "skolko-let-sluzhit-endoprotez-kolena",
+   "title": "Сколько лет служит эндопротез колена? Данные регистра и возраст при операции",
+   "description": "Сколько лет служит эндопротез колена? В австралийском регистре 92 из 100 тотальных эндопротезов не заменяли 20 лет; пожизненный риск зависит от возраста.",
+   "summary": "В австралийском национальном регистре эндопротезирования суставов 92 из 100 тотальных эндопротезов коленного сустава, установленных по поводу артроза и относящихся к моделям, которые используются и сегодня, через 20 лет остаются на месте в том виде, в каком их установили, то есть их не заменяли [1]. Вероятность того, что эндопротез заменят в течение всей оставшейся жизни, зависит от возраста, в котором его установили: по модельной оценке регистра, она составляет около 31 из 100 у тех, кому его установили в 46–50 лет, и около 7 из 100 у тех, кому его установили в 76–80 лет [1]. Это оценки для групп, и они не означают «без боли» или «без проблем» [1][2].",
+   "sections": [
+    {
+     "h": "Что именно значит, что эндопротез «служит»?",
+     "p": [
+      "Регистры эндопротезирования учитывают не то, насколько хорошо работает колено, а то, заменяли ли эндопротез при повторной операции. По определению австралийского регистра, ревизия — это повторная операция, при которой одну или несколько деталей эндопротеза заменяют, удаляют или добавляют [1]. Эндопротез, о котором мы говорим, что он «прослужил», — это, согласно этому определению, эндопротез, которому не проводили ревизию.",
+      "У этого определения два следствия. Во-первых, пациент, у которого сохраняется боль или который недоволен результатом, но которому не делали повторной операции, в этих цифрах выглядит как «эндопротез на месте»; регистр не включает боль и удовлетворённость в эту цифру [1]. Во-вторых, другое вмешательство, при котором детали эндопротеза не затрагивают, ревизией не считается [1]. Поэтому цифры в этой статье следует читать как «эндопротез не меняли», а не как «с коленом всё в порядке»."
+     ]
+    },
+    {
+     "h": "Сколько эндопротезов остаются на месте через 20 лет?",
+     "p": [
+      "Годовой отчёт австралийского регистра (AOANJRR) за 2026 год использует данные регистра за 26 лет [1]. Для тотальных эндопротезов коленного сустава, установленных по поводу артроза (остеоартрита), доля оставшихся на месте без ревизии такова [1]:"
+     ],
+     "list": [
+      "Через 20 лет: 92 из 100 (ревизия 8,0%; 95%-ный доверительный интервал 7,8–8,2)"
+     ],
+     "after": [
+      "В эту таблицу входят только модели эндопротезов, которые в 2025 году всё ещё были на рынке и использовались; модели, которые больше не применяются, в том числе снятые с рынка из-за плохих результатов, в неё не включены [1]. То есть эти цифры дают представление о «сегодняшних эндопротезах», а не обо «всех когда-либо установленных эндопротезах». Это нескорректированные оценки по методу Каплана — Мейера: они рассчитаны по пациентам с разной продолжительностью наблюдения [1]."
+     ]
+    },
+    {
+     "h": "Что известно о 25 годах и более?",
+     "p": [
+      "Самый долгий срок, который мы берём в этой статье из австралийского регистра, — 20 лет [1]. Источник, к которому обращаются для более долгих сроков, — анализ, опубликованный в 2019 году в журнале The Lancet, в котором опубликованные серии случаев и отчёты национальных регистров объединены по отдельности: по данным регистров, около 82% тотальных эндопротезов коленного сустава через 25 лет не были заменены [3]. Читая эту цифру, нужно помнить о двух ограничениях: все данные за 25-й год получены из регистра одной страны (Финляндии) [3], а эндопротезы, за которыми удалось наблюдать 25 лет, естественно, относятся к поколению, предшествовавшему нынешнему."
+     ]
+    },
+    {
+     "h": "Почему так важен возраст, в котором установлен эндопротез?",
+     "p": [
+      "На вопрос «сколько лет он прослужит?» нельзя полностью ответить, не учитывая возраст пациента. В отчёте австралийского регистра за 2026 год в отдельном разделе рассчитана вероятность замены эндопротеза в течение всей оставшейся жизни, начиная с возраста, в котором его установили [1]. Расчёт основан на данных 771 004 пациентов, которым установили тотальный эндопротез коленного сустава по поводу артроза (средний возраст 68,7 года), и с помощью модели, опирающейся на данные о регистрации смертей, охватывает период от возраста операции до возраста старше 86 лет [1]. Поскольку данные регистра охватывают не более 26 лет, годы за пределами этого срока — это оценка, и в отчёте указано, что для этих лет она менее точна [1].",
+      "Пожизненная вероятность замены эндопротеза в зависимости от возраста, в котором его установили (модельная оценка) [1]:"
+     ],
+     "list": [
+      "46–50 лет: 30,6% (около 31 из 100)",
+      "51–55 лет: 24,9%",
+      "56–60 лет: 20,2%",
+      "61–65 лет: 16,0%",
+      "66–70 лет: 12,5%",
+      "71–75 лет: 9,4%",
+      "76–80 лет: 6,7% (около 7 из 100)",
+      "81–85 лет: 4,2%",
+      "86 лет и старше: 2,0%"
+     ],
+     "after": [
+      "Таблица начинается с группы 46–50 лет; отдельной оценки для возраста до 46 лет в отчёте нет [1]. Даже в группе с самой высокой вероятностью, по оценке, около 69 из 100 эндопротезов за всю жизнь не заменяют [1]."
+     ]
+    },
+    {
+     "h": "Почему у молодых вероятность выше?",
+     "p": [
+      "Собственное объяснение регистра таково: человек, которому эндопротез установили в молодом возрасте, живёт с ним больше лет; у эндопротеза впереди больше лет [1][2]. По этой же причине у эндопротеза, установленного в возрасте старше 86 лет, вероятность снижается до 2% [1].",
+      "Это не единственная причина. Разница видна и за один и тот же срок: доля эндопротезов, оставшихся на месте без ревизии через 20 лет, составляет 82,2% у тех, кому их установили в 46–50 лет, и 95,9% у тех, кому их установили в 76–80 лет [1]. Эти две цифры (за 20 лет и за всю жизнь) друг другу не противоречат: пожизненная оценка учитывает и годы после 20-го. Источники не объясняют эту возрастную разницу тем, что молодые пациенты более подвижны.",
+      "У мужчин вероятность немного выше, чем у женщин: в группе 46–50 лет — 32,9% у мужчин и 28,8% у женщин; в группе 76–80 лет — 7,6% у мужчин и 6,1% у женщин [1]."
+     ]
+    },
+    {
+     "h": "Почему эндопротез заменяют?",
+     "p": [
+      "Среди причин замены эндопротеза — расшатывание, инфекция, сохраняющаяся боль и нестабильность [3]. Риски операции, признаки инфекции и то, когда после операции обращаться к врачу, отдельно описаны в нашей статье «Эндопротезирование коленного сустава: кому его делают и как проходит восстановление?»."
+     ]
+    },
+    {
+     "h": "Что эти цифры значат для моего колена?",
+     "p": [
+      "Эти цифры — средние значения по тысячам пациентов; это не прогноз для отдельного человека [2]. В кратком изложении, которое регистр подготовил для пациентов, говорится то же самое: оценки не индивидуальны, и свою ситуацию нужно обсудить со своим хирургом [2].",
+      "Кроме того, эти данные относятся к Австралии. То, в каких случаях проводят ревизию, может различаться от страны к стране и от врача к врачу [3]; поэтому цифры нельзя напрямую переносить на пациентов другой страны."
+     ]
+    },
+    {
+     "h": "В молодом возрасте: стоит ли откладывать эндопротезирование?",
+     "p": [
+      "Единого ответа на этот вопрос, подходящего всем, нет. Авторы популяционного исследования из Англии ставят под сомнение растущую тенденцию к эндопротезированию у молодых пациентов и рекомендуют делиться с пациентом этими сведениями о вероятности при принятии решения [4]. Решение принимают не только по этой вероятности, а обсуждая вместе боль, функцию колена и этот риск. О том, кому рекомендуют эндопротезирование, и о безоперационных вариантах читайте в нашей статье «Эндопротезирование коленного сустава: кому его делают и как проходит восстановление?».",
+      "Разговаривая с врачом, вы можете задать такие вопросы:"
+     ],
+     "list": [
+      "Что эти цифры означают в моём возрасте?",
+      "Насколько выражены сейчас моя боль и ограничения и на каком я этапе безоперационного лечения?",
+      "Если в будущем эндопротез придётся заменить, что это будет за операция?",
+      "При каких симптомах нужно обращаться к врачу не откладывая?"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "Служит ли эндопротез коленного сустава всю жизнь?",
+     "a": "По данным регистров, большинство тотальных эндопротезов коленного сустава за всю жизнь не заменяют. По модельной оценке австралийского регистра, даже в группе 46–50 лет, где вероятность самая высокая, около 69 из 100 эндопротезов за всю жизнь не заменяют [1]. Это оценка для группы, а не индивидуальный прогноз [2]."
+    },
+    {
+     "q": "Обязательно ли придётся заменить эндопротез, установленный в молодом возрасте?",
+     "a": "Нет. По оценке регистра, пожизненная вероятность замены тотального эндопротеза коленного сустава, установленного в 46–50 лет, составляет около 31 из 100; то есть большинство из них не заменяют [1]. С увеличением возраста на момент установки вероятность снижается; в 76–80 лет — около 7 из 100 [1]."
+    },
+    {
+     "q": "Если мой эндопротез не меняли, значит ли это, что с коленом всё в порядке?",
+     "a": "Нет. Регистры учитывают только повторные операции, при которых детали эндопротеза заменяют, удаляют или добавляют; боль и удовлетворённость в эту цифру не входят [1]. Если появилась новая боль или боль усиливается, покажитесь врачу."
+    },
+    {
+     "q": "Есть ли разница между женщинами и мужчинами?",
+     "a": "Есть, но небольшая. По оценке регистра, в обеих возрастных группах вероятность у мужчин немного выше: в 46–50 лет — 32,9% у мужчин и 28,8% у женщин [1]."
+    },
+    {
+     "q": "Применимы ли эти цифры к пациентам на Кипре?",
+     "a": "Цифры получены в австралийском национальном регистре; поскольку решение о ревизии может зависеть от страны и от врача, их нельзя напрямую переносить на другие страны [3]. И всё же регистры указывают в одном направлении: вероятность замены эндопротеза нужно рассматривать вместе с возрастом, в котором его устанавливают [1][4]."
+    }
+   ]
+  },
+  "fa": {
+   "slug": "omr-protez-zanoo",
+   "title": "پروتز زانو چند سال دوام می‌آورد؟ داده‌های نظام ثبت و اثر سن در زمان جراحی",
+   "description": "پروتز زانو چند سال دوام می‌آورد؟ در نظام ثبت استرالیا ۹۲ از ۱۰۰ پروتز کامل زانو در ۲۰ سال تعویض نشده‌اند؛ خطر در طول عمر به سن زمان جراحی بستگی دارد.",
+   "summary": "در نظام ملی ثبت تعویض مفصل استرالیا، از پروتزهای کامل زانو که به دلیل آرتروز گذاشته شده‌اند و از مدل‌هایی هستند که امروز هم به کار می‌روند، ۹۲ مورد از هر ۱۰۰ مورد پس از ۲۰ سال همچنان به همان شکلی که نخستین بار گذاشته شده‌اند سر جای خود هستند، یعنی تعویض نشده‌اند [1]. اما احتمال اینکه پروتز در باقی عمر تعویض شود به سنی بستگی دارد که در آن گذاشته شده است: بر اساس برآورد مدل نظام ثبت، این احتمال برای کسانی که در ۴۶–۵۰ سالگی پروتز گذاشته‌اند حدود ۳۱ از ۱۰۰ و برای کسانی که در ۷۶–۸۰ سالگی گذاشته‌اند حدود ۷ از ۱۰۰ است [1]. این‌ها برآوردهای گروهی‌اند و به معنای «بدون درد» یا «بی‌مشکل» نیستند [1][2].",
+   "sections": [
+    {
+     "h": "«دوام آوردن» پروتز دقیقاً به چه معناست؟",
+     "p": [
+      "نظام‌های ثبت پروتز نمی‌شمارند که زانو چقدر خوب کار می‌کند، بلکه می‌شمارند که آیا پروتز با جراحی دوباره تعویض شده است یا نه. طبق تعریف نظام ثبت استرالیا، جراحی بازبینی (رویژن) جراحی دوباره‌ای است که در آن یک یا چند قطعهٔ پروتز تعویض، خارج یا اضافه می‌شود [1]. پروتزی که می‌گوییم «دوام آورده»، طبق این تعریف پروتزی است که جراحی بازبینی نداشته است.",
+      "این تعریف دو پیامد دارد. نخست، بیماری که دردش ادامه دارد یا از نتیجه راضی نیست اما دوباره جراحی نشده است، در این آمار «سر جای خود» دیده می‌شود؛ نظام ثبت درد و رضایت را در این عدد به حساب نمی‌آورد [1]. دوم، اقدام دیگری که بدون دست زدن به قطعات پروتز انجام شود، جراحی بازبینی به شمار نمی‌آید [1]. به همین دلیل عددهای این نوشته را باید «پروتز تعویض نشد» خواند، نه «زانو بی‌مشکل است»."
+     ]
+    },
+    {
+     "h": "پس از ۲۰ سال چند پروتز سر جای خود است؟",
+     "p": [
+      "گزارش سالانهٔ ۲۰۲۶ نظام ثبت استرالیا (AOANJRR) از داده‌های ثبتی‌ای استفاده می‌کند که ۲۶ سال را در بر می‌گیرد [1]. در پروتزهای کامل زانو که به دلیل آرتروز (استئوآرتریت) گذاشته شده‌اند، سهم پروتزهایی که بدون جراحی بازبینی سر جای خود مانده‌اند چنین است [1]:"
+     ],
+     "list": [
+      "پس از ۲۰ سال: ۹۲ از ۱۰۰ (بازبینی ۸٫۰ درصد؛ فاصلهٔ اطمینان ۹۵ درصد: ۷٫۸–۸٫۲)"
+     ],
+     "after": [
+      "این جدول فقط مدل‌هایی از پروتز را در بر می‌گیرد که در سال ۲۰۲۵ هنوز در بازار بودند و به کار می‌رفتند؛ مدل‌هایی که دیگر به کار نمی‌روند، از جمله آن‌هایی که به دلیل نتایج بد از بازار جمع‌آوری شده‌اند، در آن نیستند [1]. یعنی این عددها دربارهٔ «پروتزهای امروزی» تصوری به دست می‌دهند، نه دربارهٔ «همهٔ پروتزهایی که تا کنون گذاشته شده‌اند». این عددها برآوردهای تعدیل‌نشدهٔ کاپلان-مایر هستند: از بیمارانی محاسبه می‌شوند که مدت پیگیری‌شان متفاوت است [1]."
+     ]
+    },
+    {
+     "h": "دربارهٔ ۲۵ سال و بیشتر چه می‌دانیم؟",
+     "p": [
+      "طولانی‌ترین مدتی که در این نوشته از نظام ثبت استرالیا آورده‌ایم ۲۰ سال است [1]. منبعی که برای مدت‌های طولانی‌تر به آن رجوع می‌شود، تحلیلی است که در سال ۲۰۱۹ در The Lancet منتشر شد و مطالعات سری موارد منتشرشده و گزارش‌های نظام‌های ملی ثبت را جداگانه ترکیب کرد: بر اساس داده‌های نظام‌های ثبت، حدود ۸۲ درصد از پروتزهای کامل زانو پس از ۲۵ سال تعویض نشده بودند [3]. هنگام خواندن این عدد باید دو محدودیت را در نظر داشت: همهٔ داده‌های سال بیست‌وپنجم از نظام ثبت یک کشور (فنلاند) می‌آید [3] و پروتزهایی که توانسته‌اند ۲۵ سال پیگیری شوند، طبیعتاً به نسلی پیش از پروتزهای امروزی تعلق دارند."
+     ]
+    },
+    {
+     "h": "چرا سن در زمان گذاشتن پروتز این‌قدر مهم است؟",
+     "p": [
+      "به پرسش «چند سال دوام می‌آورد؟» بدون در نظر گرفتن سن بیمار نمی‌توان پاسخ کامل داد. گزارش ۲۰۲۶ نظام ثبت استرالیا در بخشی ویژه، احتمال تعویض پروتز را در باقی عمر، از سنی که پروتز در آن گذاشته شده است، محاسبه کرد [1]. این محاسبه بر داده‌های ۷۷۱٬۰۰۴ بیمار استوار است که به دلیل آرتروز برایشان پروتز کامل زانو گذاشته شده است (میانگین سن ۶۸٫۷ سال) و با مدلی که به داده‌های ثبت مرگ پیوند خورده است، از سن جراحی تا بالای ۸۶ سالگی امتداد می‌یابد [1]. چون داده‌های نظام ثبت حداکثر ۲۶ سال را در بر می‌گیرد، سال‌های فراتر از این مدت برآورد هستند و گزارش بیان می‌کند که این سال‌ها کمتر قطعی‌اند [1].",
+      "احتمال تعویض پروتز در طول عمر بر حسب سن زمان گذاشتن آن (برآورد مدل) [1]:"
+     ],
+     "list": [
+      "۴۶–۵۰ سال: ۳۰٫۶ درصد (حدود ۳۱ از ۱۰۰)",
+      "۵۱–۵۵ سال: ۲۴٫۹ درصد",
+      "۵۶–۶۰ سال: ۲۰٫۲ درصد",
+      "۶۱–۶۵ سال: ۱۶٫۰ درصد",
+      "۶۶–۷۰ سال: ۱۲٫۵ درصد",
+      "۷۱–۷۵ سال: ۹٫۴ درصد",
+      "۷۶–۸۰ سال: ۶٫۷ درصد (حدود ۷ از ۱۰۰)",
+      "۸۱–۸۵ سال: ۴٫۲ درصد",
+      "۸۶ سال و بالاتر: ۲٫۰ درصد"
+     ],
+     "after": [
+      "جدول با گروه سنی ۴۶–۵۰ سال آغاز می‌شود؛ در گزارش برای زیر ۴۶ سال برآورد جداگانه‌ای وجود ندارد [1]. حتی در گروهی که بیشترین احتمال را دارد، طبق برآورد از هر ۱۰۰ پروتز حدود ۶۹ مورد در تمام طول عمر تعویض نمی‌شود [1]."
+     ]
+    },
+    {
+     "h": "چرا احتمال در افراد جوان بیشتر است؟",
+     "p": [
+      "توضیح خود نظام ثبت این است: کسی که در سن جوانی برایش پروتز گذاشته می‌شود، سال‌های بیشتری با پروتز زندگی می‌کند؛ پیش روی پروتز سال‌های بیشتری هست [1][2]. دلیل اینکه احتمال در پروتزی که بالای ۸۶ سالگی گذاشته می‌شود به ۲ درصد کاهش می‌یابد نیز همین است [1].",
+      "این تنها دلیل نیست. در یک مدت یکسان هم تفاوت دیده می‌شود: سهم پروتزهایی که پس از ۲۰ سال بدون جراحی بازبینی سر جای خود مانده‌اند، در کسانی که در ۴۶–۵۰ سالگی پروتز گذاشته‌اند ۸۲٫۲ درصد و در کسانی که در ۷۶–۸۰ سالگی گذاشته‌اند ۹۵٫۹ درصد است [1]. این دو عدد (۲۰ سال و تمام عمر) با هم تناقض ندارند: برآورد مربوط به تمام عمر، سال‌های پس از سال بیستم را هم به حساب می‌آورد. منابع این تفاوت سنی را با پرتحرک‌تر بودن بیماران جوان توضیح نمی‌دهند.",
+      "احتمال در مردان کمی بیشتر از زنان است: در گروه سنی ۴۶–۵۰ سال، ۳۲٫۹ درصد در مردان و ۲۸٫۸ درصد در زنان؛ در گروه سنی ۷۶–۸۰ سال، ۷٫۶ درصد در مردان و ۶٫۱ درصد در زنان [1]."
+     ]
+    },
+    {
+     "h": "چرا پروتز تعویض می‌شود؟",
+     "p": [
+      "از جمله دلایل تعویض پروتز، شل شدن، عفونت، درد ماندگار و ناپایداری است [3]. خطرهای جراحی، نشانه‌های عفونت و اینکه پس از جراحی چه زمانی باید به پزشک مراجعه کرد، جداگانه در نوشتهٔ ما «جراحی تعویض مفصل زانو: برای چه کسانی انجام می‌شود و بهبودی چگونه می‌گذرد؟» آمده است."
+     ]
+    },
+    {
+     "h": "این عددها برای زانوی من چه معنایی دارند؟",
+     "p": [
+      "این عددها میانگین هزاران بیمار است؛ پیش‌بینی برای یک فرد مشخص نیست [2]. خلاصه‌ای که نظام ثبت برای بیماران آماده کرده نیز همین را می‌گوید: برآوردها فردی نیستند و باید وضعیت خودتان را با جراحتان در میان بگذارید [2].",
+      "افزون بر این، این داده‌ها مربوط به استرالیاست. اینکه در چه شرایطی جراحی بازبینی انجام شود، ممکن است از کشوری به کشور دیگر و از پزشکی به پزشک دیگر فرق کند [3]؛ به همین دلیل این عددها را نمی‌توان مستقیماً به بیماران کشوری دیگر تعمیم داد."
+     ]
+    },
+    {
+     "h": "جوان هستم؛ آیا باید پروتز را عقب بیندازم؟",
+     "p": [
+      "این پرسش پاسخ واحدی ندارد که برای همه مناسب باشد. نویسندگان یک مطالعهٔ مبتنی بر جمعیت از انگلستان، روند رو به افزایش جراحی پروتز در بیماران جوان را زیر سؤال می‌برند و توصیه می‌کنند که این اطلاعات دربارهٔ احتمال، هنگام تصمیم‌گیری با بیمار در میان گذاشته شود [4]. تصمیم فقط بر پایهٔ این احتمال گرفته نمی‌شود، بلکه با گفت‌وگو دربارهٔ درد، عملکرد زانو و این خطر در کنار هم گرفته می‌شود. برای اینکه پروتز به چه کسانی پیشنهاد می‌شود و گزینه‌های غیرجراحی چیست، به نوشتهٔ ما «جراحی تعویض مفصل زانو: برای چه کسانی انجام می‌شود و بهبودی چگونه می‌گذرد؟» مراجعه کنید.",
+      "هنگام گفت‌وگو با پزشکتان می‌توانید این پرسش‌ها را مطرح کنید:"
+     ],
+     "list": [
+      "این عددها در سن من چه معنایی دارند؟",
+      "درد و محدودیت من اکنون در چه سطحی است و در گزینه‌های غیرجراحی کجا هستم؟",
+      "اگر در آینده تعویض پروتز لازم شود، چه نوع جراحی‌ای خواهد بود؟",
+      "با چه نشانه‌هایی باید بدون معطلی مراجعه کنم؟"
+     ]
+    }
+   ],
+   "faq": [
+    {
+     "q": "آیا پروتز زانو تا پایان عمر دوام می‌آورد؟",
+     "a": "بر اساس داده‌های نظام‌های ثبت، بیشتر پروتزهای کامل زانو در تمام طول عمر تعویض نمی‌شوند. در برآورد مدل نظام ثبت استرالیا، حتی در گروه سنی ۴۶–۵۰ سال که بیشترین احتمال در آن دیده می‌شود، حدود ۶۹ از هر ۱۰۰ پروتز در تمام طول عمر تعویض نمی‌شوند [1]. این یک برآورد گروهی است، نه پیش‌بینی شخصی [2]."
+    },
+    {
+     "q": "آیا پروتزی که در سن جوانی گذاشته می‌شود حتماً تعویض خواهد شد؟",
+     "a": "نه. بر اساس برآورد نظام ثبت، احتمال تعویض در طول عمر برای پروتزهای کامل زانو که در ۴۶–۵۰ سالگی گذاشته شده‌اند حدود ۳۱ از ۱۰۰ است؛ یعنی بیشترشان تعویض نمی‌شوند [1]. این احتمال با بالاتر رفتن سن زمان گذاشتن پروتز کمتر می‌شود؛ در ۷۶–۸۰ سالگی حدود ۷ از ۱۰۰ است [1]."
+    },
+    {
+     "q": "اگر پروتزم تعویض نشده، یعنی زانویم بی‌مشکل است؟",
+     "a": "نه. نظام‌های ثبت فقط جراحی دوباره‌ای را می‌شمارند که در آن قطعات پروتز تعویض، خارج یا اضافه می‌شود؛ درد و رضایت در این عدد وارد نمی‌شوند [1]. دردی را که تازه شروع شده یا بیشتر شده است به پزشکتان نشان دهید."
+    },
+    {
+     "q": "آیا میان زنان و مردان تفاوتی هست؟",
+     "a": "هست، اما کوچک. در برآورد نظام ثبت، در هر دو گروه سنی احتمال در مردان کمی بیشتر است: در ۴۶–۵۰ سالگی، ۳۲٫۹ درصد در مردان و ۲۸٫۸ درصد در زنان [1]."
+    },
+    {
+     "q": "آیا این عددها برای بیماران در قبرس هم صدق می‌کند؟",
+     "a": "این عددها مربوط به نظام ملی ثبت استرالیاست؛ چون تصمیم به جراحی بازبینی ممکن است بسته به کشور و پزشک فرق کند، نمی‌توان آن‌ها را مستقیماً به کشورهای دیگر تعمیم داد [3]. با این حال، نظام‌های ثبت جهت یکسانی را نشان می‌دهند: احتمال تعویض پروتز باید همراه با سنی که پروتز در آن گذاشته می‌شود در نظر گرفته شود [1][4]."
+    }
+   ]
+  }
+ },
+ "video": {
+  "tr": {
+   "youtube": "PWrbd7QadL8",
+   "title": "Total diz protezi kaç yıllık? Kayıt verisi ne diyor?",
+   "description": "Hocam, bu protezler kaç yıllık? Kayıtlara göre total diz protezlerinin çoğu, ömür boyu değiştirilmiyor. Hayat boyu protezin değiştirilme olasılığı takıldığı yaşa bağlı.",
+   "duration": "PT52S",
+   "uploadDate": "2026-11-26T14:00:30-08:00",
+   "poster": "/video/kapak/04-protez-omru.jpg",
+   "at": 1,
+   "transcript": [
+    "Kliniğin en sık sorularından biri: Hocam, bu protezler kaç yıllık? Kayıtlara göre çoğu, ömür boyu değiştirilmiyor. Avustralya ulusal protez kaydında, total diz protezlerinin 100'de 92'si 20 yıl sonra hâlâ ilk takıldığı haliyle yerinde. Bu, ağrısız ya da sorunsuz demek değil.",
+    "Ama hayat boyu protezin değiştirilme olasılığı, takıldığı yaşa bağlı. Hesaplanan olasılık, 46–50 yaşında takılanlarda yaklaşık 100'de 31; 76–80 yaşında yaklaşık 100'de 7. Bir nedeni: genç takılan protezin önünde daha çok yıl var.",
+    "Bu bir grup tahmini; karar ağrı ve işlevle birlikte verilir. Hekiminize sorun: benim yaşımda bu ne demek?",
+    "Eklem ve hareket üzerine daha fazlası için takipte kalın."
+   ],
+   "source": {
+    "title": "Hip, Knee and Shoulder Arthroplasty: 2026 Annual Report",
+    "publisher": "Australian Orthopaedic Association National Joint Replacement Registry (AOANJRR)",
+    "url": "https://doi.org/10.25310/KXRZ4829",
+    "year": "2026"
+   }
+  }
+ }
+}

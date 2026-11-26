@@ -521,5 +521,28 @@
    ],
    "note": "این نوشته خلاصه‌ای کلی است؛ محدودیت‌ها و زمان‌بندی را دستورهای جراحی که عمل را انجام داده است تعیین می‌کند."
   }
+ },
+ "video": {
+  "tr": {
+   "youtube": "PWrbd7QadL8",
+   "title": "Total diz protezi kaç yıllık? Kayıt verisi ne diyor?",
+   "description": "Hocam, bu protezler kaç yıllık? Kayıtlara göre total diz protezlerinin çoğu, ömür boyu değiştirilmiyor. Hayat boyu protezin değiştirilme olasılığı takıldığı yaşa bağlı.",
+   "duration": "PT52S",
+   "uploadDate": "2026-11-26T14:00:30-08:00",
+   "poster": "/video/kapak/04-protez-omru.jpg",
+   "at": 6,
+   "transcript": [
+    "Kliniğin en sık sorularından biri: Hocam, bu protezler kaç yıllık? Kayıtlara göre çoğu, ömür boyu değiştirilmiyor. Avustralya ulusal protez kaydında, total diz protezlerinin 100'de 92'si 20 yıl sonra hâlâ ilk takıldığı haliyle yerinde. Bu, ağrısız ya da sorunsuz demek değil.",
+    "Ama hayat boyu protezin değiştirilme olasılığı, takıldığı yaşa bağlı. Hesaplanan olasılık, 46–50 yaşında takılanlarda yaklaşık 100'de 31; 76–80 yaşında yaklaşık 100'de 7. Bir nedeni: genç takılan protezin önünde daha çok yıl var.",
+    "Bu bir grup tahmini; karar ağrı ve işlevle birlikte verilir. Hekiminize sorun: benim yaşımda bu ne demek?",
+    "Eklem ve hareket üzerine daha fazlası için takipte kalın."
+   ],
+   "source": {
+    "title": "Hip, Knee and Shoulder Arthroplasty: 2026 Annual Report",
+    "publisher": "Australian Orthopaedic Association National Joint Replacement Registry (AOANJRR)",
+    "url": "https://doi.org/10.25310/KXRZ4829",
+    "year": "2026"
+   }
+  }
  }
 }
