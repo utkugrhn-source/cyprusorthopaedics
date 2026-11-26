@@ -146,6 +146,10 @@
     {
      "q": "Önce egzersizle başlarsam ameliyat şansını kaybeder miyim?",
      "a": "Önce rehabilitasyonla başlayıp gerekirse sonra ameliyat olmak bir seçenektir ve diz fonksiyon skorları erken ameliyatla benzer çıkabilir; kanıtın kesinliği düşüktür. Dizi boşalmaya devam edenlerin önemli bir kısmı sonradan ameliyatı seçmiştir [4][5]."
+    },
+    {
+     "q": "Kısmi ya da tam yırtıkta ameliyat gerekir mi?",
+     "a": "Kısmi yırtığı olup dizi boşalmayanlarda ameliyatsız izlem uygun olabilir; tam yırtıkta da günlük yaşamda yakınması olmayanlar için ameliyatsız yol uygun olabilir [2]. Her iki durumda da dönme ve ani yön değiştirme gerektiren sporlara dönme isteği, günlük yaşamda dizin boşalması ve eşlik eden menisküs, kıkırdak ya da başka bir bağ yaralanması ameliyatı öne çıkarır [2]."
     }
    ],
    "note": "Kliniğimizde önce muayene ve gerekirse MR ile eşlik eden hasarı belirler, ardından spor hedefinizi, günlük yaşamınızı ve dizinizin davranışını birlikte konuşarak egzersiz ya da ameliyat yolunu seçeriz."
@@ -348,6 +352,10 @@
     {
      "q": "Если я начну с упражнений, не упущу ли я возможность операции?",
      "a": "Начать с реабилитации, а операцию при необходимости сделать позже — один из вариантов, и показатели функции колена могут оказаться сходными с результатами ранней операции; достоверность данных низкая. Значительная часть тех, у кого колено продолжало подкашиваться, впоследствии выбрала операцию [4][5]."
+    },
+    {
+     "q": "Нужна ли операция при частичном и при полном разрыве ПКС?",
+     "a": "При частичном разрыве, если колено не подкашивается, может подойти безоперационное наблюдение; при полном разрыве безоперационный путь может подойти тем, у кого нет жалоб в повседневной жизни [2]. И при частичном, и при полном разрыве операция выходит на первый план, если человек хочет вернуться к видам спорта с поворотами и резкой сменой направления, если колено подкашивается в повседневной жизни или есть сопутствующее повреждение мениска, хряща или другой связки [2]."
     }
    ],
    "note": "В нашей клинике мы сначала с помощью осмотра и, при необходимости, МРТ выявляем сопутствующие повреждения, а затем, обсудив вместе с вами ваши спортивные цели, повседневную жизнь и поведение вашего колена, выбираем путь упражнений или операции."

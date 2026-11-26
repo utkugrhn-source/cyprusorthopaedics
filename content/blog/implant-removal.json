@@ -180,7 +180,7 @@
     },
     {
      "q": "El bileğine ya da ayak bileğine takılan platin ne zaman çıkarılır?",
-     "a": "Bölgeye göre belirlenmiş sabit bir süre yoktur. Platin her hastada çıkarılmaz; çıkarılacaksa kırık kaynadıktan sonra ve çoğunlukla ağrı, çıkıntı ya da tahriş gibi bir yakınma varsa çıkarılır [1][2]. Ayak ve ayak bileğinden çıkarma ameliyatı için bir hastane broşürü yarım saat ile bir buçuk saat arası bir süre verir [6]."
+     "a": "Bölgeye göre belirlenmiş sabit bir süre yoktur. Platin her hastada çıkarılmaz; çıkarılacaksa kırık kaynadıktan sonra ve çoğunlukla ağrı, çıkıntı ya da tahriş gibi bir yakınma varsa çıkarılır [1][2]. Ayak ve ayak bileğinden çıkarma ameliyatı için bir hastane broşürü yarım saat ile bir buçuk saat arası bir süre verir [6]. Kola, bacağa ya da köprücük kemiğine takılan platin için de durum aynıdır: kemiğe göre belirlenmiş sabit bir süre yoktur, çıkarılacaksa kırık kaynadıktan sonra ve çoğunlukla bir yakınma varsa çıkarılır [1][2]."
     },
     {
      "q": "Plak ile platin arasında fark var mı?",
@@ -585,6 +585,10 @@
     {
      "q": "دورهٔ بهبودی پس از خارج کردن پلاتین چگونه است؟",
      "a": "بیشتر بیماران همان روز به خانه می‌روند [5][6]. پس از جراحی‌های بازو و دست، بیشتر افراد ظرف ۱ تا ۲ هفته به کار بازمی‌گردند و ۶ هفته از ورزش‌های برخوردی پرهیز می‌کنند [5]؛ در پا و مچ پا بهبودی کامل ممکن است چند ماه طول بکشد [6]."
+    },
+    {
+     "q": "پلاتین دست، پا یا ترقوه چه زمانی خارج می‌شود و آیا باید خارج شود؟",
+     "a": "برای پلاتین دست، پا یا ترقوه هم زمان ثابتی بر اساس محل تعیین نشده است. پلاتین در همهٔ بیماران خارج نمی‌شود؛ اگر قرار باشد خارج شود، پس از جوش خوردن شکستگی و بیشتر وقتی خارج می‌شود که شکایتی مانند درد، برجستگی یا تحریک ایجاد کرده باشد [1][2]. توصیهٔ کلی امروز این است که ایمپلنت فقط پس از توضیح خطرها خارج شود [2]."
     }
    ],
    "note": "این نوشته یک خلاصهٔ کلی است؛ تصمیم دربارهٔ تشخیص و درمان با ارزیابی پزشکی که شما را معاینه می‌کند گرفته می‌شود."
