@@ -158,7 +158,7 @@
     },
     {
      "q": "Diz protezi kaç yıl dayanır?",
-     "a": "Ulusal kayıt verilerini birleştiren bir analize göre total diz protezlerinin yaklaşık %82'si 25 yıl dayanır [7]."
+     "a": "Ulusal kayıt verilerini birleştiren bir analize göre total diz protezlerinin yaklaşık %82'si 25 yıl dayanır [7]. Protezin takıldığı yaşa göre değiştirilme olasılığı için \"Diz protezi kaç yıl dayanır?\" yazımıza bakabilirsiniz."
     },
     {
      "q": "Protezli dizin üzerine çökebilir miyim?",
@@ -276,7 +276,7 @@
     },
     {
      "q": "How many years does a knee replacement last?",
-     "a": "According to an analysis that pooled national registry data, about 82% of total knee replacements last 25 years [7]."
+     "a": "According to an analysis that pooled national registry data, about 82% of total knee replacements last 25 years [7]. For the chance of replacement by age at surgery, see our article \"How long does a knee replacement last?\"."
     },
     {
      "q": "Can I kneel on a replaced knee?",
@@ -394,7 +394,7 @@
     },
     {
      "q": "Сколько лет служит эндопротез коленного сустава?",
-     "a": "Согласно анализу, объединившему данные национальных регистров, около 82% тотальных эндопротезов коленного сустава служат 25 лет [7]."
+     "a": "Согласно анализу, объединившему данные национальных регистров, около 82% тотальных эндопротезов коленного сустава служат 25 лет [7]. О вероятности замены в зависимости от возраста на момент операции читайте в нашей статье «Сколько лет служит эндопротез колена?»."
     },
     {
      "q": "Можно ли вставать на колено с эндопротезом?",
@@ -512,7 +512,7 @@
     },
     {
      "q": "پروتز زانو چند سال دوام می‌آورد؟",
-     "a": "بر اساس تحلیلی که داده‌های نظام‌های ملی ثبت را یکجا بررسی کرده است، حدود ۸۲ درصد از پروتزهای کامل زانو ۲۵ سال دوام می‌آورند [7]."
+     "a": "بر اساس تحلیلی که داده‌های نظام‌های ملی ثبت را یکجا بررسی کرده است، حدود ۸۲ درصد از پروتزهای کامل زانو ۲۵ سال دوام می‌آورند [7]. برای احتمال تعویض بر حسب سن در زمان جراحی، به نوشتهٔ ما «پروتز زانو چند سال دوام می‌آورد؟» مراجعه کنید."
     },
     {
      "q": "آیا می‌توانم روی زانوی دارای پروتز زانو بزنم؟",
